@@ -1,0 +1,20 @@
+名师解析：2011四六级考试常考语法之定语从句
+　　四六级冲刺备考
+　　考生们已进入2011年6月四六级考试复习阶段。考生该如何提高应试能力、在四六级考场上稳定发挥呢？名师探讨四六级应试技巧，希望大家能从中找到适合自己的方法。
+　　1、Mary is a beautiful girl。
+　　名词的扩展靠限定，最基本的就是在名词的前面增加一个形容词这样的定语，上面的句子就是表语girl的前面加了一个形容词。显然，如果只是Mary is a girl这样的句子会让人觉得非常枯燥，没有什么意义，所传递的信息量极其有限。所以，名词前面加定语，可以使被限定的名词更加生动，更加形象而富有生命。如果要对名词给出更多限定，挖掘更多内部信息，我们可以在名词前面加多个定语来限定，如Mary is a beautiful Chinese girl。
+　　放在名词前面起到限定作用的定语有很多种形式，形容词，名词，动词现在分词，动词过去分词等。虽然形式多样，但是这类定语还是比较好理解，只要顺着句子的顺序，就基本可以明白是怎么回事。
+　　2、The computer that I bought yesterday works well。
+　　有时候，我们需要对名词给出很多的说明，用大量的信息来限定名词。这时，如果还是把长长的限定成分放在名词前面，就会头重脚轻，所以英语中会用跟在名词后面的定语从句来限定前面的名词。根据定语的功能还可以分为限制性定语从句和非限制性定语从句。两者的区别在于前者与被限定名词之间没有逗号，而后者则有逗号隔开；前者起到限定作用，不可或缺，后者起到补充作用，舍去后对剩余部分影响不大。
+　　本句子通过“that I bought yesterday”这个that引导的定语从句，使得主语the computer得到限定而明确，是我昨天买的计算机而不是别的。如果明白了这个名词可以通过后面加定语从句来扩展，我们的句子马上可以变得复杂起来，请看下例：
+　　Another popular spectator sport, which is known as the sport of kings, is horse-racing, which is controlled by the Jockey Club。
+　　译文：另一种以特大型运动著称的流行观赏运动是赛马，这种比赛由赛马总会控制。
+　　本句话中，两个which引导的定语从句分别对前面的名词“spectator sport”和“horse-racing”，如果去掉这两个定语从句，句子就比较简单“Another popular spectator sport is horse-racing。”
+　　请再看下例：
+　　Each course which a student attends gives him a credit which he may count towards a degree。
+　　译文：学生所上的每门课都将给他一个学分，当学生把所得学分累加到一定数量就可以获得一个学位。
+　　本句子的表象也是有点复杂，但是如果我们明白定语从句可以限定名词，就可以把定语从句的部分先括起来跳过不看，抓住主干。第一个从句which a student attends到这里已经完整，所以括起来，同理第二个从句which he may count towards a degree，剩下的即为主干Each course gives him a credit。在翻译时，要注意汉语句子的结构平衡，所以一般把短的定语从句放在被限定名词前面翻译，而把相对较长的定语从句放在被限定的名词后面翻译。
+　　有时候，定语从句的引导词如果在从句中作宾语，那么引导词可以省略，如下例：
+　　Pollution and waste is a problem everyone can help to solve by cutting out unnecessary buying, excess consumption and careless disposal of the products we use in our daily lives。
+　　本句话的主干就是开头部分Pollution and waste is a problem。在problem后面紧跟着everyone can help to solve这个定语从句，省略了引导词that，by后面引导的是限定动词solve的状语by cutting out unnecessary buying, excess consumption and careless disposal of the products。在状语部分，最后是名词products，后面又有一个省略that的定语从句(that) we use in our daily lives。显然，省略引导词后，定语从句判断的难度会加大，但是我们可以根据句子的含义来判断句子和前面名词的限定关系。
+

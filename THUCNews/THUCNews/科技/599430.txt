@@ -1,0 +1,6 @@
+首款WiMAX技术 HTC触屏智能机T8290曝光
+文/Ian　　　HTC近来可是大出风头，继推出世界上首款采用Android平台的手机T-mobile G1后，又将推出全球第一款支持WiMAX网络的手机 HTC T8290。这款手机最大的特色就是支持WiMAX网络，取代了HTC Diamond的HSDPA网络。 
+　　这款型号为HTC T8290的手机, 外形与HTC Diamond相似，有着WVGA (800 x 480) 分辨率的3.8寸触摸屏幕, 这个与HTC Touch HD 一样。HTC T829采用Windows Mobile 6.1 操作系统，有一个500万像素摄像头，支持WiMax网络，GSM, 802.11b/g 的Wi-Fi, 蓝牙2.0。据悉，这款手机首先在俄罗斯由网络商Yota推出。 
+　　WiMAX技术全称为Worldwide Interoperability for Microwave Access,即全球微波互联接入，通用标准为802.16。WiMAX是一种无线宽带接入技术，能够提供高速的数据接入技术，支持OFDM/OFDMA、AAS、MIMO等先进技术。而且特别的是WiMAX技术在数据通信领域具备高覆盖范围(可以覆盖25～30英里的范围)。简单而言, WiMax网络比HSDPA更快, 但流动性有所不及。以下的图, 可以更容易解释： 
+
+

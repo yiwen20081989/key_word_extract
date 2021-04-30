@@ -1,0 +1,80 @@
+考研最后总攻：2010年英语阅读冲刺秘笈
+　　当下，距离2010年1月9日还有不到三个月的时间，考研英语，作为各类科目中耗费时间最长、难度最高的一项，已经到了最后总攻的时候了。研究生英语入学考试是一种选拔性的考试，既然是择优录取，就要有相当的难度。考研历史上没有哪一年的复试分数线是超过60分的，很多考生也因英语单科受限而含泪折戟。俗话说：“得阅读者得天下。”自从2005年改革后，阅读理解50分，在一张试卷上独占半壁江山，任何考生都不敢等闲视之。阅读理解是对考生综合能力的考查。那么在最后这冲刺阶段，我们应该如何提高效率，在短时间内使阅读分数更上一层楼呢？
+　　一、关于阅读词汇的最后冲刺
+　　首先我们对考研英语试卷历年的词汇做一个数据分析，大家知道，考研每套试卷平均会有3300个词(包含重复使用的)，大概使用1200个不同单词，大纲词1000词左右，大纲词的派生词和超纲词200词左右，根据2009年考研大纲规定的5491个大纲词汇计算，相当于每次考试只考察大纲词汇的20%。更重要的是，大纲常考词汇2900个左右，而真正有难度(含义多变、用法灵活)的只有1500个左右。我们不难发现，在词汇积累了几年后，每年新增加的真题词汇逐年减少，最近2年稳定在250个左右，这也证明了有些词汇是反复考察的。在最近几年的试卷中，旧词的重复使用率大概稳定到80%。也就是说，同学们如果对词汇书复习结果不满意，那么应该抓紧最后的复习关头将阅读中近15年内出现的所有不认识的单词加强记忆，至少在2010年的试卷中，有80%的单词是熟悉的，如此，词汇也就起到作用了。
+　　在背单词的时候，要注意三点：1：一词多义现象。简单的单词不能仅限于单词的第一层含义，尤其是在考研英语中的基本含义，因为很多考研词汇的汉语意思是考生以前不曾遇到的。例如：2000年passage5第一段中的distinction一词，很多同学知道它表示“区分、区别”，但在文章当中，该词应当被解释为“名声、威望”。此外，短语的多义现象也不例外：2003年passage3第四段 It’s a theory to which many economist subscribe当中，subscribe to这个短语第一次考到“同意”的意思，而并非其基本意“订购、订阅”。所以，考生在复习词汇的过程中，一定不要只顾记忆难词，还要重视简单词的横向意义。2：多词一义想象。在同样的一篇文章中，在特殊的语境作用下，同样的一个概念可以由很多单词来表述。例如：2001年passage 4文中，主要讲了美国经济的并购业发展。在这篇文章中，同时用了四个单词来表述并购的意思，分别是merger, acquisition, concentration, combination，但是这四个单词在词汇书中只有第一个表示合并，其他三个都没有合并的意思。所以，考生背单词要灵活。3：要能够把握单词在句子中给我们的信息暗示。例如 A is a response (reaction) to B，该句型中response (reaction)本意是“反映”，但这个词在句子中给我们的信息暗示则为B是A的原因。2001年第一篇文章第四题The direct reason for specialization is _______. 该题答案对应原文：Specialization can be seen as a response to the problem of an increasing accumulation of scientific knowledge. 同年第五篇文章最后一题 According to the passage, downshifting emerged in the US as a result of__________. 该题答案对应原文While in America the trend started as a reaction to the economic decline. 如果考生知道 be response to 这个考点的话，这类题就会迎刃而解。因此，考研学生一定要对词汇复习加大重视度，如果连大纲要求的词汇都没有认识完全，那么“顺利通过考试”就成了“无米之炊”了。
+　　很多考生误认为考研不考语法。考研英语取消了词汇和结构部分后，语法的考查力度确实下降了一些，但在阅读理解中对语法的考查还是随处可见。很多同学单词都认识，但整句话不理解，其症结在于相关语法知识的缺乏。考生应该系统整理基本语法知识，归纳熟悉特殊语法现象。考研英语的基本语法其实在高中阶段就已大体学完，本科阶段补充了一些。考研距离高中为时已久，而大学阶段许多同学对语法的学习不够重视，因此，语法薄弱的考生可以寻找一本权威的高中语法指导材料，用两周的时间系统精读从句概念、虚拟语气、非谓语动词等阅读中的重点语法概念。不要放过例句，要把语法现象和例句充分结合在一起加以体会。阅读、完形、翻译中都会出现较多的长难句，需要考生分析解剖，因此在大量接触真题前有必要对语法知识进行透彻的复习。
+　　二、关于出题规则和解题技巧的最后冲刺
+　　最能反映出题者思路的复习材料只有真题。无论是出题难度还是出题思路，历年真题的质量都非常高。许多考生在没有把真题彻底吃透的情况下花了大量的时间和精力去做许多模拟试卷。这种复习方法不仅耗时耗力、事倍功半，而且甚至会因为模拟题的仿真程度不好，导致自己的做题思路发生偏差。因此，如果你时间紧急，那么你一定要认真研究真题，争取在最后关头将近十年的真题反复做三遍以上，在时间剩余的情况下，适当采用一部分模拟题，但是量不要大，而且一定要将做模拟题中心放到研读文章上来，而不要放到找解题技巧，更不要用模拟题的成绩好坏去衡量你的当前阅读能力。
+　　反复做真题的目的其实很简单，就是熟悉，但是何为熟悉？很多同学在做真题的时候唯一的目的就是求解，对为什么这么解和如何去解完全不顾及，所以这样的学员阅读复习速度相当快，而且自我感觉良好，其实不知道这样复习几乎没有意义。我认为反复做真题到达熟悉的地步，要从三个标准进行衡量。第一标准：基于文章层面的巩固，包含文章的所有单词、短语、长难句、语法、文化、篇章结构、文章体裁、文章题材、段与段之间的联系、段内句与句之间的关联，必须做到准确无误，完全熟知；第二标准：基于题干层面，包含做题流程、题干分析、题干词汇特征、题型归类、如何进行定位、如何在原文寻求重要信息、如何返回选项、选项正误精准分析、题目本身理论性反思等；第三标准：同类题型解题技巧巩固、适应范围、技巧一旦不能应用的例外题处理、历年来同类题目的考查次数等。大家知道，成败不仅与实力相关，也与技巧密不可分。英语知识的学习没什么技巧，但考试却有，考研也不例外。以什么样的思路去应付考题，这个是做题的关键。从阅读材料后面的题目来看，问题可以分为以下几大类：主旨题、推理题、细节题、例证题、态度题、原因题、举例题和猜词题。每个大题型又可以继续细分。考生应该对这些题型的正解特征加以归纳总结。
+　　例如：考研英语中多次涉及的主要原因题，其题目形式是：
+　　The passage (author)………….mainly because____？
+　　Which of the following is chiefly responsible for…….？
+　　is largely due to________？
+　　What is the main reason for ________？
+　　由上述真题题目我们可以看出，题目特征相当明显，都出现了表示“主要的”标识词。那么题目特征会引发我们怎样的思考呢？既然是主要原因，就表明在原文中原因的阐述是不唯一的，至少有两个以上的原因才具备出主要原因题的前提。在四个选项中，可能同时会有若干个选项都是正确的原因，但正确答案是最主要的原因。那么，什么样的原因才是主要原因呢？我们可以从原文对应句中找到规律：主要原因题正确选项在原文中的对应句往往含有如下标识词：比较级、最高级、转折词、above all等。我们一起看一下以往的例题：
+　　例1. 原文：Yet the BBC will have to change, because the broadcasting world round it is changing. The commercial TV channels—ITV and Channel 4—were required by the Thatcher Government’s Broadcasting Act to become more commercial, competing with each other for advertisers, and cutting costs and jobs. But it is the arrival of new satellite channels—funded partly by advertising and partly by viewers’ subscriptions—which will bring about the biggest changes in the long term。
+　　题目：The foremost reason why the BBC has to readjust itself is no other than ______________。
+　　(1996年passage2第4题)
+　　A. the emergence of commercial TV channel
+　　B. the enforcement of Broadcasting Act by the government
+　　C. the urgent necessity to reduce costs and jobs
+　　D. the challenge of new satellite channels
+　　例2. 原文：Among the many shaping factors, I would single out the country’s excellent elementary schools; a labor force that welcomed the new technology; the practice of giving premiums to inventors: and above all the American genius for nonverbal, “spatial” thinking about things technological。
+　　题目：According to the author, the great outburst of major inventions in early America was in a large due to _______.         (1996年passage4第1题)
+　　A. elementary schools B. enthusiastic workers
+　　C. the attractive premium system D. a special way of thinking
+　　例3：原文：But that may have more to do with Japanese lifestyle。
+　　题目：According to the author, what may chiefly be responsible for the moral decline of Japanese society? (2000年passage4第2题)
+　　A. Women’s participation in social activities is limited。
+　　B. More workers are dissatisfied with their jobs。
+　　C. Excessive emphasis has been placed on the basics。
+　　D. The lifestyle has been influenced by western values
+　　例4：原文：Many captive shippers also worry they will soon be hit with a round of huge rate increases. The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic. Yet railroads continue to borrow billons to acquire one another, with Wall Street cheering them on。
+　　题目：According to the text, the cost increase in the rail industry is mainly caused by _______. (2003年passage3第5题)
+　　A. The continuing acquisition。
+　　B. The growing traffic。
+　　C. The cheering Wall Street。
+　　D. The shrinking market。
+　　例5. 原文：The researchers studied the behavior of female brown capuchin monkeys. They look cute. They are good natured, co-operative creatures, and they share food readily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of “goods and services” than males。
+　　题目：Female capuchin moneys were chosen for the research most probably because they are _____。(2005年passage1第3题
+　　A. more inclined to weigh what they get
+　　B. attentive to researchers’ instructions
+　　C. nice in both appearance and temperament
+　　D. more generous than their male companions
+　　上述例题均很好地印证了这类题的做题规律，而且十年中这一规律都没有发生任何变化。考生在阅读复习过程中要注意题目的横向联系，不仅要按篇章来阅读，还要把历年的同一类型考题放到一起进行总结，从而发现做题技巧和规律，这样才能更好地保证复习的效率。
+　　三、考研阅读独有的一些陷阱和规律
+　　考研英语阅读难点之一就是正确选项其实不难选出，难就难在错误选项很难排除。在考研的选项中，很多选项都是陷阱，貌似很正确，其实有漏洞。对于这部分选项，考生应该了解一些出题者常用的陷阱设置，以便在今后做题过程中避免此类错误。
+　　1、正话反说
+　　考研英语阅读题中很多出题思路是“在是当中说非，在非当中说是”。我们以2000年第四篇文章第四题为例：From the last paragraph the conclusion can be drawn that ambition should be maintained _____
+　　A. secretly and vigorously
+　　B. openly and enthusiastically
+　　C. easily and momentarily
+　　D. verbally and spiritually
+　　根据原文最后一个段落的描述，是一个美国现存的普遍现象：美国人都含有一定雄心，但是从不表现出来，而是暗藏心中，也就是在暗中秘密追求自己的雄心。很多同学就首先排除了选项A。但是，A恰恰是本题的正确答案，作者的观点恰恰有别于一般美国人，在是当中说非，在非当中说是。
+　　2、“正确≠答案”——大多数考生的误区
+　　我们以2003 年的一道考研真题为例： The author begins his article with Edmund Burk’s words to __________。
+　　A. call on scientists to take some actions
+　　B. criticize the misguide cause of animal rights
+　　C. warn of the doom of biomedical research
+　　D. show the triumph of the animal rights movement
+　　从文章来看，四个选项似乎都有道理，可以说前三个选项都是对的。但是正确绝不是最优，而面对这种局面大多数考生往往不知所措，难以从中选出正确的选项。上述的例子还只是比较简单的，偏重于对文章主旨的考查，而现在考研的难度日益加大，这种出题思路会越来越多，分辨将会越来越难，所以在看懂全文的基础上还是时不时要在心里提个醒，别一不小心掉进了陷阱。
+　　3、首段大意≠全文主旨
+　　很多同学做全文主旨题往往以首段的段落大意作为根据，其实这是个陷阱。我们用1994年第二篇文章的一道题做例证： What is this passage mainly about?
+　　A. Approaches to the commercial use of computers。
+　　B. Conveniences brought about by computers in business。
+　　C. Significance of automation in commercial enterprise。
+　　D.Advantages of credit cards in business。
+　　这道题可以说是经典的主旨陷阱题了。如果仅从全文第一段来看，D选项是绝对正确的。但是文章从第二段进行扩展，由信用卡扩展到了计算机在商业社会中的应用，故此，B才是最佳答案。我们提醒各位考生，主旨题需要通过首段和各段首句共同判断，千万不能以偏概全。
+　　4、转折之后不一定对照正确答案
+　　很多同学长期做题形成思维定势，认为转折词之后一般会有题目，答案一定在转折后去寻求。其实不然，考研阅读中这个定势的反例很多。
+　　例如：By "Ellen Spero isn't biting her nails just yet", the author means ______。(2004.Passage 3)
+　　[A] Spero can hardly maintain her business
+　　[B] Spero is too much engaged in her work
+　　[C] Spero has grown out of her bad habit
+　　[D] Spero is not in a desperate situation
+　　原文：When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet. But the 47-year-old manicurist isn't cutting, filling or polishing as many nails as she'd like to, either。
+　　根据原文，此题的定位在转折词之前。很多同学不太清楚转折前的句子意思，就不假思索的去看转折词之后的句子，从而误将答案选择了A。但是忽略了，转折前后两句话的意思其实恰恰相反，此题的答案应当选择A。
+　　总而言之，要攻克考研阅读，就要在备战考研的过程中不断努力深入地研究，循序渐进地实践、演练，才能在考场上成功施展才华！考研的意义绝不仅仅是考试，而是挑战自我、磨练意志的过程。相信各位考生定能在这条充满荆棘的道路中坚定信念、调整心态，摸索出成功之道。
+　                                      　新东方考研英语阅读名师 曹炜
+

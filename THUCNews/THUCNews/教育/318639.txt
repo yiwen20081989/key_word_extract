@@ -1,0 +1,45 @@
+备考真经：GRE数学难点及解决方法
+　　就中学数学学得比较踏实的中国学生来说，GRE 数学的难点在于如下几个方面：
+　　1、 数学专业单词不认识。
+　　2、 虽然单词认识但还是读不懂题目。
+　　3、 时间来不及。 　　
+　　下面就这个几个问题做一个大体的讨论，并给出相关的总结和方法指导。 　　
+　　问题一及其解决对策
+　　对于单词不认识的问题，基本上没有太好的对策，就是把所有的生词总结出来，一并记忆。如果说没有办法或者没有时间把所有的单词都从题目里面挖出来，那么有一个比较好的方法来认识数学生词，就是通过中文来找出英文相对应的翻译。
+　　比如说画一个直角三角形，其中一个是30度的锐角，另外一个是60度的锐角。那么中文都能想明白，就开始想它们的英文对应：直角三角形怎么讲？锐角、直角、钝角分别怎么说？两个角互余怎么讲？如果是互补又该怎么说？直角边和斜边的名字分别是什么？凡是遇到想不出来的就查字典找一找，字典上都有；凡是能想出来的就写一写，记一记，加深记忆，那么坚持了两个“凡是”，数学生词应该不在话下。
+　　在文章最后，笔者会给出一些比较难的，由过去的真题中所总结出来的GRE数学会涉及到的数学单词，希望考生能回去记忆并加以运用。
+　　其实相比第二第三个问题，这个问题是相对比较简单的。 　　
+　　附(部分数学词汇)： 　　
+　　复利 compound interest
+　　单利 simple interest
+　　折旧 depreciation
+　　折扣 discount
+　　锐角 acute angle
+　　补角 supplementray angle
+　　内错角 alternate angle
+　　平行四边形 parallelogram
+　　梯形 trapezoid
+　　角平分线 angle bisector
+　　弦 chord
+　　顺时针 clockwise
+　　多边形 polygon
+　　等边的 equilateral
+　　概率probability
+　　组合combination
+　　排列permutation
+　　直角坐标系 rectangular coordinate
+　　横坐标 abscissa
+　　纵坐标 ordinate
+　　基数 cardinal
+　　座标 coordinate
+　　方程 equation
+　　代数 algebra
+　　代数式 algebraic expression
+　　分式 algebraic fraction
+　　分子 numerator
+　　绝对值absolute value
+　　常数 constant
+　　近似 approximate
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

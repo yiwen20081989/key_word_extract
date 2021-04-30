@@ -1,0 +1,5 @@
+Mochi Media推Adobe Flash游戏手机站
+　　新浪科技讯 美国东部时间月20日12:00(北京时间5月21日0:00)消息，Mochi Media今天宣布推出用于Android手机平台的Adobe Flash游戏优化后手机站点，该站点将利用Adobe Flash Player 10.1来允许用户在Android手机平台上玩Flash游戏。
+　　这个名为“m.mochigames.com”的站点可支持25款以上游戏，将在谷歌发布下一版本的Android手机时向用户开放。这些游戏中包括手机优化版的智力游戏Biomass、卡牌游戏Magic Towers Solitaire和策略游戏Wheekling，以及其他智力、策略和射击类游戏。
+　　据市场研究公司Strategy Analytics预计，到2012年底将有超过50%的智能手机(约2.5亿部)支持Flash Player。
+

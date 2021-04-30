@@ -1,0 +1,6 @@
+Twitter iPhone应用添加即时提醒功能
+　　新浪科技讯 北京时间11月17日早间消息，Twitter今天在官方博客中宣布，为最新iPhone版Twitter应用添加@mentions即时提醒。
+　　Twitter在博客中称，“无论什么时候，只要你关注的人提到了你，你就能立刻收到提醒。你将立刻知道谁在跟你说话，或在谈论你，并能跟对方实时交流。@即时提醒最初将以短信提醒和iPhone应用提醒两种形式出现。
+　　除了@提醒，我们还将“私信”推送提醒功能添加到iPhone版Twitter应用中，并将很快推广到Android和Windows Phone版Twitter应用中。”
+　　用户只需要到twitter.com/devices页面，就可开启实时提醒功能。(张和)
+

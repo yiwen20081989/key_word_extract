@@ -1,0 +1,25 @@
+聪明学生的挑战：GMAT逻辑两怪题
+　　如果说这句话多少有些道理的话，主要是指学GRE必背红宝书，非勤奋不足以克之；而GMATer必然面对逻辑，不耍小聪明不足以析之；而LSAT需两者俱备，方能拙巧兼用而破之。
+　　今备逻辑怪题两道，权做各位消遣、killing time之用，尤其适合大脑休闲日久，急需转动之人；岂不闻“用进废退”之说，the more 你用，the more你进；但请注意，对于美国这类考试，只需“小聪明”，且勿“大智慧”，otherwise心生魔翅，魂入鬼道，超越了出题者的IQ，最后落个“机关算尽太聪明，反误了卿卿的姓名”
+　　闲话少说，两道大菜，热气腾腾，趁热下箸：
+　　In Patton City, days are categorized as having heavy rainfall (more than two inches),moderate rainfall (more than one inch, but no more than two inches), light rainfall (at least a trace, but no more than one inch), or no rainfall. In 1990, there were fewer days with light rainfall than in 1910 and fewer with moderate rainfall, yet total rainfall for the year was 20 percent higher in 1990 than in 1910.If the statements above are true, then it is also possible that in Patton City
+　　A. the number of days with heavy rainfall was lower in 1990 than in 1910
+　　B. the number of days with some rainfall, but no more than two inches, was the same in 1990 as in 1910
+　　C. the number of days with some rainfall, but no more than two inches, was higher in 1990 than in 1910
+　　D. the total number of inches of rain that fell on days with moderate rainfall in 1990 was more than twice what it had been in 1910
+　　E. the average amount of rainfall per month was lower in 1990 than in 1910
+　　此题貌似极易，本可预估而出，没成想五项皆出预料之外，那选什么呢？此时的窗外，阳光SUNNY，百草初绿，盎盎然，大脑必有所思，求之不得，寤寐思服, right?
+　　In the United States， vacationers account for more than half of all visitors to what are technically called “pure aquariums” but for fewer than one quarter of all visitors to zoos， which usually include a “zoo aquarium” of relatively modest scope.
+　　Which of the following， if true， most helps to account for the difference described above between visitors to zoos and visitors to pure aquariums？
+　　（A） In cities that have both a zoo and a pure aquarium， local residents are twice as likely to visit the aquarium as they are to visit the zoo.
+　　（B） Virtually all large metropolitan areas have zoos，whereas only a few large metropolitan areas have pure aquariums.
+　　（C） Over the last ten years，newly constructed pure aquariums have outnumbered newly established zoos by a factor of two to one.
+　　（D） People who visit a zoo in a given year are two times more likely to visit a pure aquarium that year than are people who do not visit a zoo.
+　　（E） The zoo aquariums of zoos that are in the same city as a pure aquarium tent to be smaller than the aquariums of zoos that have no pure aquarium nearby.
+　　此题读来，令人困惑，动中有水，水中有动。本欲放弃，又念笛卡尔“我思故我在”，再理头绪，重觅clue.
+　　希望大家积极参与，选出心仪的答案；若能给出理由，那就can be worse,再好不过了
+　　两三天后，再将给出我的分析
+　　胡文宁
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

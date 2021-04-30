@@ -1,0 +1,15 @@
+PS3 3.70版系统更新 强化线上存档功能
+　　索尼电脑娱乐(SCE)今日在PlayStation官方博客公布PS3 3.70版系统软件更新资讯，将新增自动线上游戏存档与奖杯同步功能，以及强化线上影片下载服务与Blu-ray 3D蓝光光碟影片播放功能。
+　　本次更新最主要的变更点为强化PlayStation Plus付费会员专属的“自动下载(Automatic Download)”服务，加入“自动线上游戏存档(Automatic Online Game Saves)”与“自动奖杯同步(Automatic Trophies Sync)”2项新功能。
+　　在本次更新后，“自动下载”服务的名称将变更为“自动更新(Automatic Update)”。
+　　“自动线上游戏存档”是将原有的“线上储存空间(Online Storage)”加以自动化的新功能，玩家只要在XMB系统界面下选择想要启动自动线上游戏存档功能的游戏，按下△钮叫出功能选单开启功能，系统就会在游戏进行存档的时候，自动把存档资料上传到线上储存空间存放。
+　　“自动奖杯同步”则是会在自动下载时顺便进行奖杯资料的线上同步。
+　　PlayStation Store新增“推荐(Recommendation)”功能，玩家可以向PlayStation Network线上好友推荐自己觉得不错的下载内容，系统会自动发送包含下载内容连结的短讯给推荐对象。
+　　另外，为了强化PS3的影片应用服务的利用率，XMB系统界面将新增“电视/影片服务(TV/Video Services)”分类项目，集中收录包括Netflix、Hulu PLUS与VUDU等影片应用服务，并在“我的频道(My Channels)”资料夹集中收录所有通过影片应用服务下载的影片。
+　　强化Blu-ray 3D蓝光光碟影片播放功能与3D相片阅览功能，新增以下支持功能：
+　　● 在存取BD影片的Java特殊功能时已可支持3D输出
+　　● 在播放Blu-ray 3D影片时已可支持DTS-HD MA/DTS-HD HR格式音讯的解码与位元流输出
+　　● MPO格式3D相片已可在XMB系统界面与Photo Gallery应用程序下观看。
+　　PS3 3.70版系统软体更新预定于近日内推出，详情请参考PS3系统软件更新说明网页。
+　　另外，SCE也预告将于近日内推出小幅改版的PSP 6.60版系统软件。
+

@@ -1,0 +1,17 @@
+WiMAX运营先驱Clearwire考虑部署LTE
+　　新浪科技讯 北京时间12月6日消息，据国外媒体报道，美国WiMAX运营商Clearwire近日表示，如果LTE将来成为全球4G标准，那么Clearwire会考虑部署该项技术。
+　　Clearwire CEO本·沃尔夫(Ben Wolff)近日在电话会议上称：“如果需要，Clearwire在未来几年内会考虑利用LTE提供宽带服务。”
+　　美国第三大移动运营商Sprint Nextel和Clearwire本月已经宣布完成价值145亿美元的交易，成立WiMAX合资公司，新成立公司名称将为Clearwire。
+　　Clearwire是WiMAX产业链最重要的运营商，其WiMAX网络商用曾是WiMAX产业发展的标志性事件。如果Clearwire的态度也发生改变，WiMAX产业链可能面临重要调整。目前，LTE已经是公认的主流后3G技术，大多数运营商都选择部署LTE。
+　　在今年第二财季，Clearwire营收从去年同期的3550万美元增长至5860万美元；不过本季度亏损也扩大至1.991亿美元，去年同期亏损1.181亿美元。Clearwire的WiMAX用户数增至46.1万人，去年年底这一数字为39.4万人。
+　　Clearwire现已经部署2450个WiMAX基站，网络覆盖1600万人口。另外约3200个基站经并购、漫游、升级安装移动WiMAX设备等，未来也会上线。
+　　沃尔夫说：“目前，全球多家运营商都在考虑部署LTE，我们也不能忽视。”
+　　沃尔夫还称，与当前的3G网络相比，WiMAX和LTE这两种OFDM(正交频分复用技术)技术拥有更多的共同之处。
+　　他说：“将来，我们的设备可以同时支持WiMAX和LTE。如果LTE将来像WiMAX一样成为全球标准，我们将部署LTE技术。”
+　　沃尔夫还表示，计划部署LTE的运营商需要拥有大量频谱资源，还要对所有IP网络进行升级。当前，LTE标准规范尚未完成，但有望于年底前正式出台。(李明 长乐)
+    相关新闻：
+    Sprint和Clearwire完成WiMAX合资公司交易
+    WiMAX运营先驱Clearwire用户数达40万
+    Sprint等7巨头145亿美元成立WiMAX合资公司
+
+

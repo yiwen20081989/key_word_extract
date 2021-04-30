@@ -1,0 +1,17 @@
+浅议：雅思阅读多选题之同题异做
+　　雅思阅读考试中的多项选择题通常不大会像是非无判断题或Summary 题型那样夺人眼球，赚足口水，引发雅思考生的大肆讨论，因为在各种考试中，多项选择题都是会经常出现的题型之一，这对考生来说早已司空见惯。这也导致教师在授课过程中较难令学生充分关注这种题型，既然这种题型对学生来讲早已烂熟于心，没有挑战。此时教师可引导学生注意到一个事实：答题的正确率低。依笔者之见，如果考生能在题型特点上多些思考，根据具体多选题的不同特点调整解题步骤，同题异做，便可望在解题速度及正确率方面大有改观，本文中，朗阁海外考试研究中心将对如何快速高效地应对多选题浅议一二。
+　　雅思阅读中的多选题包括多选一(通常为4选1)和多选多(多为5或6项中选出2或3项符合原文内容的)，题目均由2部分构成：题干和选项。在4选1的题型中，题干通常可分为2类：general / specific.  前者题干的内容所指一般较宽泛，笼统，典型的如：What is the writer’s main point … ? / In the first paragraph the writer makes the point that blind people…。如果考生按照传统做法依此意到原文中寻找，往往耗时耗力，结果却未免正确，明智的做法是先将下面的4个选项一一读过，并留意它们的核心意义，和彼此之间的区别，以利于接下来的甄别和判断，然后再到文章中对应；另外一种比较specific的题干恰恰相反，是指题干的内容所指相对较具体，这时则无需读下面的选项了，因为要到原文中去寻找的内容已然清楚了，多读选项内容就显得意义不大了，反而会耗去一些时间。两种答题步骤迥异完全因题干不同而来，目的则都是为了更快更准确地答题。
+　　下面试举例说明：
+　　在剑桥真题系列IV中，Question 27 / Test 1:
+　　Choose the correct letter, A,B,C or D。
+　　初看下来，题干中的blind people 似是详细信息，但考生应很快意识到，全文的题目即是Visual Symbols and the Blind ，既如此，blind people 就算不得能够帮助定位的详细信息，这样，题干就成为对第一段的主旨大意的考核 (makes the point)，这时考生应该了解其难度，避开阅读首段，转而浏览A，B，C，D四选项，并短时记忆4个关键词或词组。按照常理，大体可排除A 和D，若最终的判断只是在B和D两项之见进行，就简单得多了。
+　　来到原文首段，首句就揭示了答案：
+　　再看下例：剑桥真题系列V, Question 33 / Test 1.
+　　Choose the correct letter, A,B,C or D. 
+　　此时，题干应被判断为是general 类的，依照前文所述，先读A,B,C,D四个选项。从A与D的内容雷同来看，可以排除这2者的正确性，因为正确答案是唯一的；在B与C之间，它们的差异是非常明显的。这时只需谨记financial 和area，带着问题去读指定段落，任务就显得轻松多了，由段落中的第二句和末句可知答案是C。
+　　对于多项选当中的选标题类的题目来说，运用此种方法能够极大程度地减低难度。下面谨举一例说明：
+　　Question 14 / Test 1 / Cambridge IV:
+　　Choose the correct letter A,B,C or D。
+　　Which of the following is the most suitable title for Reading Passage 1?
+　　A 选项是要被排除掉的，因为整个statement 竟然没有涉及全篇的核心话题rainforests, 错误显而易见。D 选项因为同样错误也被排除。E 选项中的importance 和 reasons 只是文中提及的5个问题之2， 而这5个问题应该是并列的关系，从逻辑上讲，错误是很明显的。这样就余下B和C作为最后抉择的选项，注意二者的不同之处，implications 和 misled. 这时回原文中寻找，在第三段出现了：The aim of the present study is to start to provide such information, to help teachers design their educational strategies to …  而C选项始终无从谈起，在文中没有有力的支持。正确答案是 B。
+

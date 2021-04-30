@@ -1,0 +1,9 @@
+亚马逊发布免费PC端Kindle电子阅读软件
+Kindle for PC截图
+　　新浪科技讯 北京时间11月11日早间消息，据国外媒体报道，亚马逊今天发布了Kindle for PC软件，支持Kindle电子阅读器部分功能。Kindle用户可以在平板电脑、上网本、笔记本和台式机上阅读购买的电子图书。
+　　用户可以从亚马逊网站免费下载Kindle for PC。Kindle for PC安装过程会提醒用户使用亚马逊账户注册或创建新账户。登录后，用户可以下载已经购买的Kindle电子图书或购买新图书。微软曾在上个月的Windows 7发布活动上展示Kindle for PC。
+　　Kindle for PC提供Kindle的许多功能。例如，用户可以放大或缩小字体、改变页面宽度和每行字数，点击“Next Page”(下一页)或“Previous Page”(上一页)箭头，或者利用鼠标滚动轮翻页，翻到指定页——例如封面、目录或最后一页。用户还可以阅读在Kindle上所作的注释，但不能“写”注释。
+　　亚马逊利用其Whispersync技术实现多种设备间的自动同步，因此用户可以在Kindle和Kindle for PC间自由切换，无需担心找不到正在阅读的页码。亚马逊Kindle业务部门副总裁伊恩·弗里德(Ian Freed)在一份声明中说，“Kindle for PC是Kindle或Kindle DX用户的‘理想伴侣’，还是非Kindle用户读书的好工具。”
+　　亚马逊将为新版Kindle for PC增添部分功能，其中包括“写”注释、词汇和短语搜索、放大或旋转图像。
+　　Kindle for PC支持Windows 7、Vista和XP，亚马逊称将很快发布Mac版本。(志翔)
+

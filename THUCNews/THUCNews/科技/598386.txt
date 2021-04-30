@@ -1,0 +1,6 @@
+苹果推出Find My Friends好友追踪iOS应用
+　　新浪科技讯 北京时间10月13日早间消息，据美国科技资讯网站CNET报道，在正式推出iOS 5之前，苹果率先推出了Find My Friends和Airport Utility应用，该应用可以分别用于追踪用户iOS设备好友和管理无线网络设备。
+　　苹果在上周举行的iPhone 4S发布会上就已经宣布了Find My Friends应用，通过该应用，用户可以在地图中查找多款iOS设备的位置。不过要想完成这一应用，用户需要分享MobileMe或iCloud账户。
+　　对于Airport Utility应用，iOS用户可以得到Mac OS X中Airport Utility应用同样的功能，可以建立并对AirPort Express、AirPort Extreme以及TimeCapsule无线网络硬件进行调整，这其中包括对密码和SSID(服务集标识)名称的更改等。
+　　目前这两项应用已经出现在了苹果应用商店中，该应用只能兼容iOS 5系统，后者已经于今天在全球范围内推出，用户可登陆苹果官网免费进行下载。(晓明)
+

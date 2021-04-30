@@ -1,0 +1,6 @@
+爱尔兰黑客成功将Siri移植到iPhone 4
+　　新浪科技讯 北京时间10月30日下午消息，爱尔兰黑客史蒂芬·特劳顿-史密斯(Steven Troughton Smith)宣布，已将iPhone 4S内置的个人语音助理Siri完整移植到了iPhone 4和iPod Touch上。
+　　史密斯称，移植Siri大约需要20个步骤，此前史密斯已经将Siri的部分基础代码移植到了iPhone 4上。当时虽然证明了iPhone 4运行Siri没有技术问题，但却未能实现通过Siri与苹果服务器对话。现在史密斯终于将Siri的完整功能移到了iPhone 4和iPod Touch上。
+　　苹果于10月5日在iPhone 4S发布会上推出了Siri语音助理功能，通过Siri，可以实现多种人机对话，包括管理日程安排、寻找餐馆以及查询天气等。这也被认为是iPhone 4S的最大亮点。(子轩)
+ 
+

@@ -1,0 +1,9 @@
+微软发布Exchange 2010
+　　CNET科技资讯网11月11日国际报道 微软周一果如预期发布Exchange 2010，但同时出人意料之外宣布一项收购案。
+　　微软在柏林举行的TechEd发布最新版Exchange电子邮件与日历服务器软件。上个月微软即完成Exchange 2010的程序代码，并预告将在TechEd正式推出。
+　　同时，微软宣布向SourceGear收购Teamprise技术。有了Teamprise软件，使用Eclipse和非Windows操作系统的开发者，也能用微软Visual Studio建构应用程序。
+　　微软资深副总裁兼开发者部门主管S. Somasegar说：我们明白，顾客天天都面临在异质(heterogeneous)环境中从事管理、协作和开发的挑战。业界必须采取行动，让互通性(interoperability)成为更强的商业资产。
+　　他接着说：收购Teamprise资产，我们正朝这个方向迈进一步，提供顾客一种可行的跨平台开发解决方案，有助于加速产生商业成果。
+　　微软未宣布这桩交易的财务细节，只表示Teamprise的技术将纳入Visual Studio 2010。
+　　在TechEd Europe会场，微软还提到企业纷纷采用Windows 7以及Windows Server 2008 R2，显示这两项产品初步在企业界引起相当热烈的回响。
+

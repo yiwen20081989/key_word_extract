@@ -1,0 +1,20 @@
+WP7 Mango系统发布 新增功能盘点
+　　北京时间24日晚间，微软正式发布了Windows Phone 7 Mango系统，Windows Phone 7 Mango的三大要素是“通信、网络与应用”。微软移动通信业务总裁安迪·李斯(Andy Lees)在发布会上介绍说，新版Windows Phone 7 Mango将使智能手机更加智能与便捷。
+　　在 发布会上，微软并没有表示Windows Phone 7 Mango系统将被叫作Windows Phone 7.1还是Windows Phone 7.5，只是介绍了一些新增的主要功能，Windows Phone 7 Mango系统整合了Facebook、Exchange、Twitter以及LinkedIn，以强化Windows Phone系统的社交功能；加入了称为Groups的新功能，可以将相关联系人加入一个网络并显示联系人在各个社交网络里的头像。新版信息系统将各类消息 在一起而不再是过去的分开显示，邮件变是对话形式，并且可以加注标记。
+　　在应用方面，安迪·李斯表示，新WP系统拥有超过1.8万款应用。在Windows Phone 7 Mango系统中，没有Android或iPhone那样密密麻麻的应用排列，从一个应用转到另一个应用将相当平滑，“感觉就好像在家从厨房散步到起居室一样”。
+　　另外，IE9登陆Mango，Bing搜索与新系统无缝整合，它为新版系统带来位置搜索与视频搜索功能。
+　　目前Windows Phone 7 Mango的SDK已经放出，新手机和新操作系统都将在今年秋天上市，生产厂商包括诺基亚、三星、LG、HTC、宏基、富士通、中兴。Windows Phone 7 Mango系统已经包括简体中文，将在未来几个月内引入中国。
+　　Windows Phone 7 Mango系统新增功能盘点：
+　　1.加入简体中文
+　　2.整合了Facebook、Exchange、Twitter以及LinkedIn，能显示联系人在各个社交网络里的头像，加入了联系人的群功能。
+　　3.加入Groups新功能，可以将相关联系人加入一个网络。
+　　4.更为智能的手机输入法，具备联想输入能力，输入同时可以预测下一个单词，例如输入“生日”就可以显示“快乐”。
+　　5.新增TTS语音朗读和语音输入功能。
+　　6.日程表里面整合了Facebook事件。信息系统汇总了各类消息，如FaceBook私信。另外邮件系统是对话形式，并且可以加注标记，如标记为“不能转发”。
+　　7.图标成有条理的HUB显示，切换起来更容易。
+　　8.游戏将具备真正的社交体验，就像Xbox 360一样。
+　　9.IE9将整合进来。
+　　10.Bing也将无缝整合进手机。
+　　11.新功能Local Scout，可以看到位置周边的餐馆等信息
+　　等等，Windows Phone 7 Mango新增的500多项新功能发布会上并没有一一介绍，微软最后也没有点出Windows Phone 7 Mango系统的代号是Windows Phone 7.1还是Windows Phone 7.5。
+

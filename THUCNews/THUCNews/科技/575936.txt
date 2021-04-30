@@ -1,0 +1,26 @@
+分析称LinkedIn估值模式与Salesforce相近
+　　导语：国外媒体今日发表文章称，即将进行IPO的美国首家主要社交网站LinkedIn的估值模式应该与Salesforce.com等商业软件提供商类似，而不是Facebook。
+　　以下为文章内容摘要：
+　　由于投资者对LinkedIn股票的需求十分强劲，致使LinkedIn本周早些时候调高了IPO发行价格区间，使得公司估值达到了42.5亿美元，为年营收预期的11.3倍。而Facebook的该比例为13.8倍，Salesforce.com为8.3倍。
+　　通常人们将LinkedIn与社交网站Facebook和Twitter相提并论，后两者主要依靠广告获取营收。而LinkedIn则不然，70%营收来自商业用户订阅服务，类似于Salesforce.com、SuccessFactors 和NetSuite等商业软件服务商。
+　　风险投资公司Emergence Capital Partners合伙人布莱恩·雅各布(Brian Jacobs)称，这种双重吸引力和较快的发展速度意味着LinkedIn拥有比商业软件提供商更高的估值。雅各布说：“LinkedIn既拥有商业软件模式，又拥有社交网络特性。当一款产品被数百万用户喜欢时，其股价自然看涨。”
+　　LinkedIn本周四将在纽约证券交易所挂牌交易，交易代码为“ LNKD”。昨日LinkedIn将IPO发行价区间从每股32美元至35美元上调至每股42美元至45美元。LinkedIn将发行784万股股票，最多融资4.06亿美元。
+　　软件订阅
+　　一些投资者可能因为LinkedIn是以Facebook为首的社交网站的代表而购买其股票，而Facebook已经推迟了IPO进程。
+　　但LinkedIn在招股书中称，公司很大一部分营收来自“软件即服务”(SaaS)模式，即通过互联网提供软件服务。Gartner预计，SaaS市场规模今年将达到107亿美元，同比增长16%。
+　　美国风险投资机构Tugboat Ventures创始人戴夫·沃顿(Dave Whorton)称：“LinkedIn股票的长期持有者是那些将LinkedIn视为企业SaaS服务提供商的股东，他们对LinkedIn的现在和未来了如指掌。”
+　　Salesforce、etSuite和SuccessFactors等SaaS服务提供商通过互联网向用户销售订阅服务，而不是像传统的商业软件公司销售长期授权。Salesforce是美国最大的消费管理软件提供商，SuccessFactors主要提供Web人力资源软件，而 NetSuite是在线财务软件提供商。
+　　社交网站估值
+　　由于潜在营收来自广告，Facebook和Twitter等社交网站在私人股权交易市场拥有更高的估值。目前，Facebook在私人股权二级交易市场SharesPost的估值为550亿美元，而Twitter的估值也达到了62亿美元。
+　　LinkedIn本周四将在纽约证券交易所挂牌交易，交易代码为“ LNKD”，承销商包括摩根士丹利，美国银行和摩根大通。
+　　靠免费创建个人资料起家
+　　用户可以在LinkedIn网站上找工作、招聘员工，挖掘业内专家等。用户可以在LinkedIn上免费创建个人资料，但LinkedIn于2005年推出了付费订阅服务，让招聘企业有机会接触到更多的求职者，并为商业人士提供多种沟通方式。
+　　今年第一季度，LinkedIn的营收为9390万美元，其中近50%来自招聘解决方案业务，30%来自广告业务。LinkedIn第一季度净利润为208万美元，同比增长14%。
+　　加州社交网络公司Ning Inc CEO杰森·罗森塔尔(Jason Rosenthal)称：“在近期进行IPO的企业中，LinkedIn是最令人兴奋的一家，他们建立起年营收高达2.5亿美元的主营业务，并保持着高速增长态势，理应受到市场的追捧。”
+　　分析师仍存顾虑
+　　但也有一些分析师持怀疑态度。资产研究公司Wedge Partners分析师莱恩·亨特(Ryan Hunter)称，即使最初预期的30亿美元的估值也有些过高。
+　　亨特认为，LinkedIn的付费订阅业务和广告业务之间存在冲突。为了满足订阅用户的需求，LinkedIn将放弃或减少对这部分用户的广告宣传，这无疑会降低其广告营收。与此同时，激烈的市场竞争可能迫使LinkedIn放弃付费服务以便吸引用户。
+　　亨特称：“Facebook用户的粘性要高于LinkedIn用户，如果Facebook能提供类似于LinkedIn的服务，那么LinkedIn对用户的吸引力就会显著降低。”
+　　LinkedIn表示，IPO将发行784万股股票，其中LinkedIn贡献482.7804万股A股普通股，售股股东贡献301.2196 万股A股普通股。创始人兼董事长雷德·霍夫曼(Reid Hoffman)是LinkedIn最大股东，持股21.4%。红杉资本和 Bessemer Venture Partners分别是第二大和第三大股东。
+　　IPO所获资金将主要用于企业一般性开支，如运营资金、销售及营销资金，一般及行政开支等。此外，这笔资金还可能拥有并购或投资新技术。(李明)
+

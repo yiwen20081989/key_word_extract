@@ -1,0 +1,37 @@
+名师解析：雅思阅读总结摘要题
+　　纵观2010年四个季度的雅思阅读考试，我们不难发现：以总结摘要题(Summary)为代表的填空类题型几乎在每次考试中都占据了相当的分量。因此，我们推测：在2011年的雅思阅读考试中，这一题型的考查趋势很有可能会一直延续。也就是说，对于准备在2011年度参加雅思考试的考生来说，以总结摘要题为代表的填空类题型应当成为复习雅思阅读部分的重中之重。在本文，笔者就以总结摘要题为例为读者讲解其题型特点、解题思路、答题技巧以及注意事项。
+　　题型介绍
+　　总结摘要题的出题形式为：给出一篇完整的阅读文章，再给出一篇关于此阅读文章的摘要，该摘要有时是对阅读文章全文的总结，有时是对阅读文章中某一部分的总结，摘要中留有多处空格。题目要求考生以所给阅读文章为做题依据，将摘要中的空格填充完整。
+　　题型特点
+　　1.考查范围分部分考查与全文考查。总结摘要题有可能是对文章局部内容的考查，比如说某一段或某几段，也有可能是对整篇文章的考查。
+　　2.遵循"顺序原则"。也就是说，出题的顺序与每道题目对应的答案信息在原文中出现的顺序保持一致。
+　　3.答案多为名词性原词重现。所谓名词性是指名词性质的词，包括名词与动名词；而原词重现是说答案均为原文的文字，不需要对词形或词性等做变更或更改。
+　　解题思路
+　　1.明确做题时需要阅读的原文范围和答案的字数限制。在做题之初要仔细阅读题目要求，看题目要求中是否有相关语句提示考生读哪些段落来做题，确定摘要是对原文全文的总结还是对文章中某一部分的总结，并确定答案的字数限制，绝对不要超字。
+　　2.如果题目要求中没有给出提示，则可通过题目的首末句从宏观上确定需要阅读的原文范围。如果摘要的首尾句是完整的一句话而没有留空，考生就可以通过这两句话中的定位词，将这两句话在原文中出现的位置分别找出来，那么这两句话之间的原文范围就是考生完成整个总结摘要题所需要阅读的文字范围。如果摘要中只有首句或只有尾句没有留空，考生还是可以通过这两句话中任何一句的定位词，确定做题时需要阅读的原文范围的起点或终点。但是，如果摘要的首句和尾句都是带着空格出现的话，考生就没有必要再"强行"利用这两句话来划定原文的阅读范围。因此，解题思路中的这一步其实相当于一个可选项，在实战中究竟是用或不用，取决于摘要的呈现方式。
+　　3.从微观上划出每个空格所在的句子中的定位词，并判断空格处的词性。考生若想找出空格处应填单词在原文中出现的位置，就要依靠空格所在句子中的定位词。同时，对于空格处答案词性的预判可以帮助考生缩小考虑答案的范围。
+　　4.用摘要中的题干定位词回原文逐一找寻相应的内容出处。
+　　5.通过句意确定最终答案。
+　　实战演练
+　　下面我们通过雅思真题来实战演练一下上文讲到的解题思路，真题选自《剑桥雅思考试全真试题集5》Test 2 阅读部分的Passage 3。
+　　文章标题：The Birth of Scientific English
+　　文章大意：讲述科技英语的诞生。
+　　题目：Complete the summary。
+　　Choose NO MORE THAN TWO WORDS from the passage for each answer。
+　　解题步骤
+　　1.阅读题目要求。考生会发现该题的题目要求中并未出现任何提示原文阅读范围的语句，但明确限制了答案的字数"最多不超过两个单词"，也就是说，空格处应填的内容可能是一个单词，也可能是两个单词。
+　　2.观察摘要首末句。在这段摘要中，只有首句是完整的，没有出题，所以考生可将其中的Europe作为定位词，来引领整个题目在原文中阅读范围的起始点。由于European是Europe的同源异形词，所以引领起始点的句子应该是原文第一段的最后一句话。
+　　3.寻找各题目定位词，预测空格处应填词的词性。第28题的定位词是scientific language；当remain作谓语动词时，答案应是名词，作宾语；当remain作系动词时，答案应是形容词，作表语。第29题的定位词是mathematician，答案与mathematician构成并列关系，应为表示"人"的名词。第30题和第31题的定位词是Britain、scientists和English；答案都为名词或名词词组，都作为"没有"(had neither … nor …)的宾语。第32题的定位词为after 1660、scientists和English，答案为名词或名词词组。第33题和第34题的定位词分别是English和19th century，前者的答案为名词、名词词组(表"动作的发出者")或动名词(表"方式、方法")，后者的答案为名词或名词词组。
+　　4.根据定位词回原文寻找答案信息。第28题所对应的原文内容为："Given the prominence of scientific English today, it may seem surprising that no one really knew how to write science in English before the 17th century. Before that, Latin was regarded as the lingua franca for European intellectuals."答案为Latin。第29题所对应的原文内容为："Doctors clung the most keenly to Latin as an 'insider language'."答案为doctors。第30题和第31题所对应的原文内容为："English was not well equipped to deal with scientific argument. First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources required to represent the world in an objective and impersonal way …"答案分别为technical vocabulary和grammatical resources。第32题所对应的原文内容为："Fortunately, several members of the Royal Society possessed an interest in language and became engaged in various linguistic projects."答案为Royal Society。第33题所对应的原文内容为："In the following century much of this momentum was lost as German established itself as the leading European language of science."答案为German。第34题所对应的原文内容为："However, in the 19th century scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for technical vocabulary …"答案为industrial revolution。
+　　答题技巧及注意事项
+　　答题技巧总结
+　　1.瞻前顾后，注意代词指代。考生在判断第28题空格处所填词词性的时候，如果能够敏锐地发现后面一句话的主语(it)其实指代的就是空格处所填的单词，那么就可以直接判断此处应填名词，而且该名词肯定指"一种语言"。这样的话，做题效率将大大提高。
+　　2.根据并列关系，迅速预判词性。第29题的形式本身就在暗示考生：题目的答案是名词的复数形式，而且表示"人"。所以在做题时，考生可以直接以mathematicians为定位词，回原文寻找表示"人"的复数形式的名词，但要注意这两个名词是并列关系。原文相关信息中有一个表示"人"的名词scientists，但是该词的范围过大，它包括了mathematicians，而不是与之并列，所以不能作为答案。接下来，当考生把答案区域扩大至"Doctors clung the most keenly to Latin as an 'insider language'."这句话上时，显而易见，doctors符合我们预判的标准，为正确答案。
+　　3.根据逻辑关系词，迅速定位答案。第34题从逻辑上讲是第33题的"原因"，所以考生在做完第33题后可直接回到其后的原文中找常见的原因引导词，很快便可以找到答案。常见原因引导词有：because、because of、as、due to、since等。
+　　注意事项
+　　1.通过分析总结摘要题，我们可以发现：在名词性原词重现中，名词或名词词组的原词重现占绝大多数，而动名词的原词重现出现概率很小。
+　　2.尽管笔者在"题型特点"中的第三点提到答案为"原词重现"，但考生在填答案时，应根据题目的上下文语境确认所填单词的具体形式，尤其是首字母大小写的确定。比如，在第29题的答案中就出现了将Doctors (原文中)改为doctors (题目中)的情况。
+　　3.对于在真题中频繁出现的题目形式，如并列关系(第29题)，考生们一定要注意积累，以备在将来遇到后知道如何解答。
+　　4.尽管定位词和词性判断等解题技巧从一定程度上能够帮助考生们解决部分题目，但当碰到单纯考查阅读能力的题目时，考生自身的语言理解能力还是最重要的。这要求考生在平时练习中要加强基本功练习。
+　　以上便是笔者为各位考生带来的有关总结摘要题的讲解。希望这篇文章能给准备参加2011年雅思考试的各位考生一些指导和启发。祝愿各位考生考试顺利！
+

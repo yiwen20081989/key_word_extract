@@ -1,0 +1,6 @@
+ModBook将采用投射电容式触控屏幕
+　　现在的触摸平板电脑的屏幕一般采用的是技术有两种，一种是使用触控笔的电阻式，一种是用手指都可以操作的电容式。近日Axiotron推出新款的ModBooks平板电脑则采用的是全新的投射电容式（projective capacitive）触控屏幕技术，借助该技术用户可以使用任何非导电物体都可以在屏幕上操作。
+ModBook将采用投射电容式触控屏幕
+　　据悉，ModBooks平板电脑是Axiotron与Touch International 公司合作推出的产品，自下月起，凡购买ModBook（改自 MacBook）的用户都可以选购Synergy Touch投射电容式触控屏幕，而15.4寸的ModBook Pro（改自 MacBook Pro）则是出厂标配了Synergy Touch屏幕。　　编辑观点：这样看来Synergy Touch投射电容式触控屏幕是集成了电阻式和电容式技术的优势于一体的一种技术了，方便了用户操作。这一技术在今后能否广泛应用在平板电脑上呢，期待。
+
+

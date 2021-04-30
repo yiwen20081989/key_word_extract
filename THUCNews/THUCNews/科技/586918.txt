@@ -1,0 +1,8 @@
+希捷推出2TB容量Constellation品牌硬盘
+　　新浪科技讯 北京时间2月3日晚间消息，据国外媒体报道，希捷已经推出了容量为2TB的Constellation品牌硬盘。
+　　3.5英寸的Constellation ES硬盘取代了Barracuda ES，有500GB、1TB、2TB三种容量，采用500GB磁盘片，支持SATA和SAS接口，转速为每分钟7200转。用户可以将这款硬盘设置为4种不同的节能等级。
+　　西部数据数天前公布了其容量为2TB的Caviar Green SATA硬盘，转速最高为每分钟5400转。希捷新款硬盘支持自加密硬盘(以下简称“SED”)技术。
+　　2.5英寸的Constellation硬盘有160GB和500GB两种容量，支持数据传输速率分别为3Gbit/s、6Gbit/s的SATA和SAS 2接口，支持SED和节能功能。
+　　希捷对Constellation硬盘的定位是数据中心的存储阵列硬盘，采用2.5英寸Constellation的存储阵列产品将于第二季度上市销售，采用3.5英寸Constellation的产品则将于第三或第四季度上市销售。(志翔)
+
+

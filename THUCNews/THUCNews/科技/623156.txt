@@ -1,0 +1,14 @@
+短期内Ultrabook仍是MacBook Air的模仿者
+　　今年的Computex台北国际电脑展上，Intel推出了Ultrabook这一概念，并携手华硕展出了华硕UX21 Ultrabook，显然我们可以从华硕UX21的外形上看到苹果MacBook Air的身影。
+　　再来看看前一段时间传出的宏?首款Ultrabook——代号蜂鸟的Aspire 3951，与华硕UX21不同的顶盖设计看清来更与苹果MacBook Air更为相似。 
+　　当然，要想将笔记本做得更轻更薄，Ultrabook的OEM厂商难免会走上与苹果MacBook Air这个已经成为轻薄笔记本市场的霸主相近的设计路线，这无可厚非。但何以见得Ultrabook短期内仍将是苹果MacBook Air的模仿者呢？
+　　依照Intel的概念，Ultrabook将具备以下几大特征：
+　　设计轻薄： 超轻超薄，厚度不超过20mm；
+　　快速开机：和平板电脑一样，可以从待机模式立即开机；
+　　快闪储存：高速固态硬盘或是含快闪存储的混合式硬盘；
+　　高速芯片：第一阶段采用Sandy Bridge，之后采用Ivy Bridge，第三阶段采用Haswell；
+　　新传输界面： Thunderbolt或USB3.0；
+　　超长待机：提供长效续航；
+　　价格：1000美金以内。
+　　如今，没有任何Ultrabook产品正式发售、而苹果MacBook Air却早已开始发售第三代产品，Ultrabook的绝大部分特征MacBook Air都拥有：999美元的售价、ThunderBolt接口、超轻超薄、Sandy Bridge平台处理器、固态硬盘、快速启动等。Ultrabook在外观和功能两方面均与苹果MacBook Air相差无几，价格上也很难获得巨大的优势，短期内想撼动苹果的市场地位显然过于乐观。如果OEM厂商不适当削弱苹果Macbook Air对设计Ultrabook的影响，那么Ultrabook将永远只能算得上苹果的模仿者。
+

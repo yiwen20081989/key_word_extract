@@ -1,0 +1,35 @@
+指导：浅谈雅思阅读中的关系词
+　　在雅思阅读的授课当中，常会听到学生焦急而又无奈地说：“老师，我已读懂了题目，可为何还是难以准确定位题目在文中的具体位置呢。”当然，多数学生已掌握通过题目所给出的关键词如：人名、地点、时间、数字、生词以及大写字母等到文中寻找答案。然而却忽略了在作者布局谋篇，展开论述的过程中最倚重的“联络官”——关系词(也称信号词)，通过它可以有效地定位主旨并且搜寻到细节信息从而迅速锁定答案， 同时，它也适用于雅思阅读的任意一个题型当中。
+　　常见于阅读中的关系词包括：表示“因果”的关系词、“转折”关系词、“比较”关系词以及“并列”关系词等。
+　　1. “因果”的关系词 (as a result, result in, result from, lead to, because of, due to,     contribute to, owning to, hence, since, accordingly, consequently, therefore, in that, etc。)
+　　2.  “转折”关系词 (despite, in spite of, but, although, though, while, yet, otherwise, on the other hand, however, nevertheless, nonetheless, etc。)
+　　3. “比较”关系词 ( more, than, less, the least, the most, prefer, equally, likewise,                    similarly, in comparison, as…as, etc。)
+　　4.“并列”关系词 ( first, second…finally, and, or, as well as, one… the other,  not…nor…, etc。)
+　　A)      用于判断题型中，例：
+　　a)      T: Most forms of environmental pollution are associated with industrialization。
+　　Q: Industrialization has led to pollution problems。
+　　此题中题目与原文都含有因果关系，且因果相同，仅是同义词组替换罢了。
+　　b)        T: Los Angeles has some of the world’s cleanest cars—far better than those of           Europe—but the total number of miles those cars drive continues to grow。
+　　Q: Residents of Los Angeles are now tending to reduce the yearly distances they travel by car。
+　　此题原文转折词but所连接后面的内容continues to grow与问题中的考点tending to reduce形成语义矛盾。
+　　C) T: The traditional images of the “male breadwinner” and “female housewife and mother” may be breaking down among females but this process is occurring more slowly among males。
+　　Q: Men accept changing perceptions of traditional gender roles more slowly than women do。
+　　此题是一道明显的有关双方比较的题(more than 结构)此外，该句还存在明显同义词及词组的替换如：perceptions对应images, traditional gender roles 对应“male breadwinner” and “female housewife and mother”，man对应male, woman对应female。题干中的比较点及比较结果与原文判断一致。
+　　B)      用于标题对应题型中，例：
+　　List of headings
+　　I.         Rivers and seas cause damage
+　　II.      Water, the provider of food
+　　III.   The scarcity of water
+　　IV.   What is water?
+　　V.      How to solve flooding
+　　VI.   Humans’ relationship with water
+　　And the future? If we are to believe the forecasts, it is predicted that two thirds of the world population will be without fresh water by 2025. But for a growing number of regions of the world the future if already with us. While some areas are devastated by flooding, scarcity of water in many other places is causing conflict. The state of Texas in the United States of America is suffering a shortage of water with the Rio Grande falling to reach the Gulf of Mexico for the first time in 50 years in the spring of 2000, pitting region against region as they vie for water sources. With many parts of the globe running dry through drought and increased water consumption, there is now talk of water being the new oil. 
+　　分析：此段开头先提出了“根据预测到2025年世界上将有三分之二的人口喝不到淡水”接着分别用转折词but，while进一步提出某些地区由于洪水泛滥带来的破坏，在其它许多地方水的缺失已变得日趋严峻。接着从“The state of Texas…water sources”通过一个细节举例 (德克萨斯州的人们正在饱受缺水之苦)来作进一步说明。
+　　C)用于摘要题型中，例：
+　　How does the concept of homeopathy differ from that of conventional medicine? Very simply, homeopathy attempts to stimulate the body to recover itself. Instead of looking upon the symptoms as something wrong which must be set right, the homeopath sees them as signs of the way the body is attempting to help itself. Another basic difference between conventional medical therapy and homeopathy is in the role of medication. In much of conventional therapy the illness is controlled through regular use of medical substances. If the medication is withdrawn, the person returns to illness。
+　　Summary
+　　Homeopathy differs from conventional medicine in a number of ways. Conventional medicine views symptoms as an indication of something wrong in the body, whereas homeopathy sees them as signs that the body is attempting to heal itself. The uses of medication differ also. Many types of conventional medication control symptoms. but if the medicine is taken away, the illness returns……
+　　List of words / phrases
+　　C  cure.  getting better.  heal itself.  Illness.  control symptoms.  healthy
+　　分析：通过题干中的转折词whereas可以在文中迅速定位到考点句型very simply…instead of…。题2中由重要信号词but if 可定位原文中if 引导的条件状语从句，同时原文中is withdrawn对应题目中的is taken away。
+

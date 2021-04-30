@@ -1,0 +1,8 @@
+微软推出网页版Windows Phone应用商店(图)
+　　新浪科技讯 北京时间5月26日早间消息，微软Windows Phone Marketplace高级主管托德·布利克斯(Todd Brix)周三在官方博客中撰文，介绍了微软推出新版Windows Phone“芒果”系统之后，增加的网页版Windows Phone Marketplace功能。
+　　布利克斯表示，网页版Windows Phone Marketplace将于今年晚些时候与新版Windows Phone一同推出。该服务向用户提供了一个新的发现应用和游戏的工具。而Windows Phone平台的开发者将可以有一个新的推广应用的渠道。
+　　与手机版Windows Phone Marketplace一样，用户可以浏览所有应用，查看截图，了解应用详情和评价。通过网页版Windows Phone Marketplace，微软将有更多的空间推广并销售应用。
+　　用户通过网页版Windows Phone Marketplace购买应用会更加方便，该服务还支持用户与好友分享自己的应用。用户将可以通过电子邮件中链接，以及Facebook或Twitter推荐的方式与好友分享喜爱的应用。
+　　通过网页版Windows Phone Marketplace购买应用，用户将可以使用关联至Windows Live帐号的信用卡进行付费，也可以为此指定一个新的信用卡。在购买之后，应用将被无线下载至用户的Windows Phone手机中。通过网页版服务，用户还可以管理以往的下载记录，以便重新安装应用。该服务还支持家长控制功能。根据应用的评级，家长可以阻止儿童查看某些应用，或是阻止他们下载付费应用。
+　　布利克斯表示，微软正在继续向Windows Phone Marketplace投资，使该服务更易使用、更具互动性。此外，微软也将向开发者提供公平而透明的政策，改进开发者的体验。(邱越)
+

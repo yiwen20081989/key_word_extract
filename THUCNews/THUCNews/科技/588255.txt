@@ -1,0 +1,8 @@
+原台积电高管加入GlobalFoundries
+　　新浪科技讯 6月3日消息，据台湾媒体报道，GlobalFoundries公司已向员工发出通知，原台积电高管Subramani Kengeri将加入GlobalFoundries，担任公司负责设计解决方案的副总裁。
+　　据悉，Subramani Kengeri的工作将直接向GlobalFoundries公司设计实施高级副总裁Curtis “Mojy” Chian汇报。而后者也是上周才加盟GlobalFoundries，之前来自Altera公司。 Subramani Kengeri的上一份工作是台积电的设计和技术平台高级总监，领导着台积电的美国圣荷赛设计中心。据知情人士透露，在Intel和台积电合作推广基于 Atom的SoC片上系统专案中，Subramani Kengeri是促成此次合作的关键人物。
+　　相关链接
+　　GlobalFoundries由AMD拆分而来，是与阿联酋阿布扎比先进技术投资公司(ATIC)和穆巴达拉发展公司(Mubadala)联合投资成立的半导体制造企业，曾以“The Foundry Company”为公司暂用名称，之后正式定名为“GLOBALFOUNDRIES”。AMD同时也是其第一个也是最大的客户。
+　　GLOBALFOUNDRIES公司总部和AMD一样都设在美国加州硅谷桑尼维尔，旗下拥有德国德累斯顿、美国奥斯汀和纽约州(建设中)等多座工厂，员工总数约3000人，领导团队包括首席执行官Doug Grose(前AMD制造业务高级副总裁)、董事会主席Hector Ruiz(前AMD董事会主席兼执行董事)、首席财务官Bruce McDougall、高级副总裁兼Fab 1工厂总经理Jim Doran、副总裁兼首席律师Alexie Lee。(舟舟)
+
+

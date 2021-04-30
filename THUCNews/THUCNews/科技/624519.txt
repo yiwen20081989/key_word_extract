@@ -1,0 +1,8 @@
+Google无处不在 IO大会新推服务初解析
+         作者/马千里　　北京时间5月11日凌晨0点Google在美国旧金山Moscone  West中心召开2011年I/O全球开发者大会，这是Google召开的第四届I/O大会，除了保持着和36家OEM厂商紧密的合作关系 外，Google在全球范围内还拥有215家运营商以及45万名开发者的支持。此次大会上，Google展出了升级的Honeycomb操作系统，也就是 Android 3.1，同时也正式公布了研发代号为Ice Cream Sandwich的新版Android系统，同时还展示了Google  Movies，Music Beta，Android @ Home等应用。
+　　Google Movies是一项基于云端服务器的视频资源平台，用户可以在线观看，租阅，或者下载，在Android Market中会加入Movies的入口，用户可以点击进入。
+　　Music  Beta是Google新推出的一项基于云端存储的功能和服务，通过它可以将你的音乐备份至Google服务器，在音乐库界面当中，我们发现用户也可以像 操作手机一样建立播放列表，对音乐评级等操作，用户希望导入歌曲时无需通过USB数据线，只要有互联网即可。目前用户最多可以上传20000首歌曲，在 Android Market里面就可以下载到这一款软件。
+　　大会上，Google还展出了基于Arduino软硬件开发平台的ADK标准，这一平台的使用不会受到任何限制，从图片中我们可以看到，通过连接USB，平板电脑可以操控物理迷宫等。
+　　接下来要为大家介绍的就是Android @  Home，Google希望你手中的Android设备能够和家中所有的电器关联，从洗碗机到空调，Google最终希望实现的目标是，家里面只要有可能 连接的物体，就和Android移动设备关连，关连后用户就可以使用Android平板操控家中的台灯，电视，甚至是院子里面的喷灌设备。除此之 外，Google希望通过LightingScience为家中的灯泡装入Android系统，同时通过Porgect Tungsten实现音乐互动。
+　　此次Google I/O大会，Google将重心放在了新技术应用的研发当中，试想一下，如果有一天你的家中所有的电子产品都和Google有关，会是什么样的一种情景？
+

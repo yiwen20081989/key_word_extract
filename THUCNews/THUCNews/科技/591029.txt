@@ -1,0 +1,9 @@
+微软今日将发布Windows Mobile初级版
+　　【赛迪网讯】2月15日消息，据国外媒体报道，知情人士透露，微软周一将发布一款新的智能手机平台Windows Mobile Starter Edition(初级版)。
+　　本周一，“移动世界大会”将在巴塞罗那召开，而微软CEO史蒂夫·鲍尔默(Steve Ballmer)预计将发布下一代智能手机平台Windows Mobile 7。
+　　知情人士称，与此同时，微软还将推出一款新的智能手机平台Windows Mobile 初级版。该版本主要面向OEM厂商，基于该系统的手机将针对新兴市场用户。
+　　Windows Mobile初级版将基于Windows Mobile 6，而并非Mobile 7。Windows Mobile初级版也分为两个版本，一个包括Office Mobile，另一版不包括。
+　　此外，Windows Mobile初级版支持2G (GSM)、2.5G (EDGE， GPRS)、CDMA (Rev A， EV-DO Revision A)和TD-SCDMA。是否支持3G，目前尚无定论。
+　　(责任编辑：跋陀罗尊者)
+　　作者：友亚
+

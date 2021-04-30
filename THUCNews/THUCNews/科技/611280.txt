@@ -1,0 +1,9 @@
+戴尔二代Atom本曝光 近期亮相新品本汇总
+作者：answer 
+戴尔二代Atom小本曝光！采用12寸屏
+　　最近戴尔的官方网站上流出了第二款采用Intel Atom处理器为核心的笔记本，尺寸为12寸，型号为“Inspiron Mini 12”。与其他一些Netbook不同的是，它采用的不是Atom N270（Diamondville），而是Silverhorne。下面为Inspiron Mini 12的一些配置情况：
+处理器：Intel Atom Z520 / Z530 （Siverhorne）芯片：SCH US15W （Poulsbo）尺寸：12.1寸，分辨率1280*800内存：1GB DDR3显卡：Intel GMA 500，支持HD影片加速无限：WiFi、蓝牙，其他选项包括3.5G与WiMax的选项操作系统：Windows XP Home 或 Ubuntu重量：1.2公斤
+　　按照戴尔的风格恐怕不久以后就能听到官方的消息了。
+　　今日观点：这样的配置在Netbook里面显然比起上代的要好很多，不过价格估计也不会便宜，4000+还是要的。戴尔的营销策略就是这样，上次Inspiron Mini 9(参数 图片 文章 热评 系列) 就是这样在网上不小心流露出来。
+
+

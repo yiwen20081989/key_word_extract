@@ -1,0 +1,9 @@
+招聘启事显示Zynga可能进军Android游戏平台
+　　新浪科技讯 北京时间9月26日下午消息，据国外媒体报道，Facebook平台上大热的游戏“FarmVille”开发商Zynga近期的招聘启事显示，该社交游戏厂商可能将进入Android游戏市场。
+　　Zynga并未正式宣布此消息，但其官方网站的招聘启事中有“Android软件工程师”这一职位。职位描述写到：
+　　“职位要求应聘者具备iPhone或Android平台应用开发经验，具备Facebook平台和大项目经验者优先。”
+　　“该职位将帮助解决Zynga热门游戏的问题。应聘者必须能够编写连贯、组织良好的代码，并能够处理复杂、处理高度抽象的代码库。”
+　　据猜测，此举说明Zynga更加重视移动平台。在此之前，谷歌向Zynga投资了1亿多美元。
+　　Zynga创始人兼CEO马克·品科斯(Mark Pincus)曾在去年的苹果WWDC开发者大会登台演示iPhone版FarmVille，现在该游戏是App Store中免费游戏排行榜第44名。由于Android如今的大热，Zynga进军Android游戏市场完全是有可能的。
+　　Zynga并非第一家进军Android平台的游戏厂商。在其之前，开发多款iPhone游戏的Ngmoco工作室和游戏巨头EA都宣布了Android平台的重大计划。(张和)
+

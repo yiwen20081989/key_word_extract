@@ -1,0 +1,6 @@
+拒绝杯具 HTC HD2运行Android 2.1系统
+文/孟滨
+　　尽管微软官方明确表示，现有的Windows Mobile手机都不能被升级至Windows Phone 7操作系统，但是一些WM系统的高端手机仍然受到了很多玩家的青睐。此前已经有黑客让这款手机运行非官方版的Windows Phone 7系统，而现在，Android 2.1和Ubuntu系统也被移植到这款手机身上。
+　　据国外媒体报道，一个自称为“HTC Linux group”的黑客小组正在努力让HTC HD2运行Linux内核的操作系统。现在，它们已经成功让HTC HD2运行了Android 2.1和Ubuntu操作系统。不过，目前尚不清楚运行新系统之后，是否所有的功能都能正常实现。
+　　作为目前WM操作系统的绝对旗舰，HTC HD2具有极高的配置，这是它能运行很多其他操作系统的原因。从硬件而言，采用1GHz处理器、WVGA屏幕的HD2并不逊色于目前Android系统的高端手机。
+

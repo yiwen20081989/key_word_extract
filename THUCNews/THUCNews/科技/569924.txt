@@ -1,0 +1,8 @@
+传谷歌6月发布Android 2.4 代号Ice Cream
+　　新浪科技讯 北京时间1月12日上午消息，据美国科技博客网站Pocket-lint报道，多方消息人士透露，谷歌将在今年夏天发布下一版本手机操作系统Android 2.4。
+　　消息人士称Android 2.4代号为“冰激凌”(Ice Cream)，计划在5月或6月举行的Google IO创新大会上发布。
+　　此前曾有报道称，索尼爱立信在CES上展出的Xperia Arc智能手机已经采用了这款尚未宣布的系统，但随后索尼爱立信官方作出澄清，称Xperia Arc运行系统仍为Android 2.3。
+　　按照传统，谷歌为每个版本的Android命名均为一种水果的名称，且按照该水果英文单词首字母进行排序。Android自发布以来的系统不同版本代号依次为Donut (D)、Eclair (E)、Froyo (F)、Gingerbread (G)和Honeycomb (H) ，而下一版本Android代号为Ice Cream (I)。
+　　谷歌此前曾表示，将放缓Android系统更新的步伐，每年集中进行两次重大升级。考虑到Android 2.3发布于去年12月，Android 3.0发布于1月，6月发布下一版本Android也在情理之中。
+　　业内人士普遍认为，谷歌在CES上展出的代号为Honeycomb的Android 3.0操作系统是平板电脑专用系统，因而不会出现在手机上。(张和)
+

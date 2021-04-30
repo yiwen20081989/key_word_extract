@@ -1,0 +1,5 @@
+提供Bootloader解锁 HTC开发者门户上线
+　　HTC近两年可谓发展迅猛，通过推出多款经典的Android和Windows Phone手机赢得了广泛好评，产品销量也是节节攀升，更难能可贵的是HTC特别注重开发者和用户的意见，近日，据国外媒体报道，HTC面向开发者推出的 一站式服务社区网站HTCdev.com已经正式上线。
+　　根据报道，HTCdev将提供OpenSense SDK、Kernel Source Code和Unlock Bootloader服务，前两种服务可以让开发者针对HTC的软件和硬件设备开发更好的应用产品，而Unlock Bootloader服务则是众多玩家和用户最为关心的了，通过解锁Bootloader用户可以定制和使用第三方固件，大大提升了手机的可玩性和升级空间。
+　　不过，目前由于HTCdev刚刚上线，里面的服务还没有正式启动，相信HTC会在近期完善该网站的内容。
+

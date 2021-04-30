@@ -1,0 +1,5 @@
+戴尔推出Precision M6500移动工作站
+作者：李辉
+　　戴尔今天展示了一个基于Core i7处理器的Precision M6500移动工作站，它拥有17英寸WXGA+显示器，最低配型号1.6GHz Core i7 720QM处理器，2GB DDR3内存，1GB ATI FirePro M7740显卡，160GB的5400转硬盘，8X DVD刻录，9芯电池，预装Windows 7 Professional。并且配置可以升级到2GHz Core i7 920XM，16GB内存，1GB Nvidia Quadro FX 3800M和双硬盘阵列，届时售价将超越9000美元。
+　　M6500重达8.5磅，包含蓝牙2.1，USB2.0，火线，VGA，DisplayPort，以太网和eSATA接口，并提供三年质保，出货时间12月22日。
+

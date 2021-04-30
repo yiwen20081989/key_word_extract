@@ -1,0 +1,10 @@
+Hulu开始对HTML内容加密
+　　新浪科技讯 北京时间4月2日上午消息，据国外媒体报道，TunerFreeMCE开发者马丁·迈尔默(Martin Millmore)表示，Hulu开始从源头对HTML内容加密，然后让用户用Javascript进行解密。Hulu此举旨在禁止传统浏览器或者类似于Boxee的软件访问其内容。
+　　这就意味着不能再用一些插件连接Hulu的内容。
+　　Boxee用户表示，苹果Mac alpha系统现在具有基于XUL观看Hulu内容的功能，该功能工作方式与浏览器一样。 Windows和Linux系统也将很快推出该功能。Hulu对此将做出何种反映还要拭目以待。(宁弦)
+
+　　新浪科技讯 北京时间4月2日上午消息，据国外媒体报道，TunerFreeMCE开发者马丁·迈尔默(Martin Millmore)表示，Hulu开始从源头对HTML内容加密，然后让用户用Javascript进行解密。Hulu此举旨在禁止传统浏览器或者类似于Boxee的软件访问其内容。
+　　这就意味着不能再用一些插件连接Hulu的内容。
+　　Boxee用户表示，苹果Mac alpha系统现在具有基于XUL观看Hulu内容的功能，该功能工作方式与浏览器一样。 Windows和Linux系统也将很快推出该功能。Hulu对此将做出何种反映还要拭目以待。(宁弦)
+
+

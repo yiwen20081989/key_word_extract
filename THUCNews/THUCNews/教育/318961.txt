@@ -1,0 +1,99 @@
+2010职称英语常考从句解析之定语从句
+　　在职称英语复习中，各种从句的用法一直是历年考试必考的知识点，也是最让职称考生头痛、很容易丢分的环节。新东方在线网络课堂职称英语辅导团队整理了历年考试中重点涉及的几种从句的用法，今天先向大家介绍定语从句的特点、考点等，以帮忙职称英语考生来重新熟悉并达到熟练运用。
+　　一、考点聚焦
+　　1、功能：相当于形容词，修饰名词或代词，在句中作定语
+　　2、位置：定语从句置于被修饰词之后
+　　Those who are willing to attend the party, sign here please。
+　　3、先行词：被定语从句修饰的词称为先行词
+　　(1)先行词一般是名词和不定代词，如：some-, any-, every-和no与-boy, -thing的合成词；或all、none、any、some、that、those等代词。数词也可以作先行词，人称代词也同样可作先行词。
+　　(2)先行词与关系词是等量关系。必须注意两点：
+　　①先行词在从句中作主语时，从句谓语动词的数由先行词而定。
+　　This is the place which is worth visiting。
+　　②关系词在从句句子中充当了成分，其意思就是先行词的意义，所以在从句中不能重复其意。
+　　There are many places we can visit(them)in China。
+　　4、关系词：引导定语从句的都称关系词
+　　关系代词：who, whom, which, that, whose, as。
+　　关系副词：when, where, why。that偶尔也作关系副词。
+　　5、确定关系词的步骤
+　　(1)先找关系词，看先行词指的是什么。
+　　(2)看关系词在从句中所充当的成分。
+　　6、在定语从句中，当先行词指物时，下列情况的关系词宜用that而不用which
+　　(1)先行词被①形容词最高级 ②序数词 ③数词几种词修饰或被 ④only、any、few、little、  no、all、one of等修饰时。
+　　(2)先行词为all、much、little、none、few、one、something、anything等不定代词时。
+　　(3)先行词中既有人又有物时。
+　　He was looking pleasantly at te children and parcels that filled his bus。
+　　(4)先行词在主句中作表语关系词在从句中作表语时。
+　　The village is no longer the one that was 5 years ago。
+　　(5)当主句中含有疑问词which时。
+　　Which are the books that you bought for me ?
+　　7、宜用which而不用that的情况
+　　(1)在非限制性定语从句中
+　　(2)在关系词前有介词时
+　　(3)当先行词本身是that时
+　　(4)当关系词离先行词较远时
+　　8、关系词who与that指人时，也有不同情况分别用不同的关系词
+　　(1)当主句是there be句型时，关系词用who。
+　　(2)先行词是为anyone、those、someone、everyone、one等词时，关系词用who。
+　　(3)当主句是who作疑问词时，关系词用that。
+　　Who is that girl that is standing by the window?
+　　(4)whom在从句中只作宾语，可被who取代。
+　　9、whose作关系词既指人又指物，在从句中作定语。如：
+　　Do you know Mr.Smith whose story is very moving ?
+　　There is a room, whose window faces the river。
+　　There is a room, the window of which faces the river。
+　　10、关系代词as,在从句中作主语、宾语和表语。
+　　(1)先行词被such和the same修饰，或句型as many(much)中，从句都用as 引导。
+　　Such books as you bought are useful。
+　　The school is just the same as it was 10 years age。
+　　注意：区别①such … that … 引导的结果状语从句。They are such
+　　lovely children that we love them much.②the same … that … 引导定语从句。I want to use the same tool that you used just now。
+　　(2)无先行词的定语从句用as和which引导。
+　　区别：①意义上：as 含有“这点正如……一样”。②位置上：as 从句可置句首，也可在另处。
+　　He didn’t pass the exam, as we had expected。
+　　There is lots of air in loose snow, which can keep the cold out。
+　　As is known, the earth is round, not flat。
+　　11、关系副词when与where、why、that
+　　when 指时间 = in / at / on / during which
+　　where指地点 = in / at / from / which
+　　why指原因 = for which
+　　当先行词为way、day、reason、time时，可用that作关系副词。(非正式场合)
+　　I don’t like the way that / in which / he talks。
+　　当time作先行词时，关系词可以省掉。
+　　This is the first time I have given you a lesson in French。
+　　12、必须注意的问题
+　　(1)关系词作主语时，从句中谓语的数。
+　　(2)注意区别定语从句与强调句。
+　　①定语从句中关系词作从句成分，复合句。
+　　②强调it无意义，that / who不是引导词。
+　　③强调it is / was和that / who后如果句子意思讲得通则是强调句，讲不通则不是。
+　　It is the museum that / which we visited last year。(定语从句)
+　　It was in the hotel that we stayed last night。(强调句)
+　　(3)定语从句与同位语从句的区别。
+　　①定语从句引导词被称为关系词，that充当主语、宾语、表语。有时可省略。
+　　②同位语从句引导词被叫做连词，that不能充当任何成分，不可省。
+　　Word came that their army was defeated。(同位语)
+　　We expressed to them our wish that was the same as their。(定语)
+　　(4)关系词在从句中省略的情况。
+　　①关系词作宾语，前无介词时。
+　　②关系词作表语。
+　　(5)限制性定语从句与非限制性定语从句的翻译。
+　　(6)关系词前有介词或复杂介词，关系词只能是which和whom。
+　　(7)几个特殊的定语从句句型：
+　　①He is the only one of the students who has got very good marks in the match。(句中one为先行词)
+　　He is one of the students who have got good marks in the match。(句中students为先行词)
+　　②Is this place the one (that) we visited yesterday?
+　　Is this the place(that / which)we visited yesterday ?
+　　③He stood at the window, from where he could see what was happening。
+　　④It may rain, in which case the match will be put off。
+　　二、精典名题导解
+　　选择填空：
+　　1. The film brought the hours back to me _________ I was taken good care of in that faraway village。
+　　A.until          B.that          C.when           D.where
+　　解析：答案为C。本题考查分隔定语从句的关系词的选择。作好本题的关键是要能辨认出该定语从句的先行词the hours和关系词被介词短语to me所分隔。定语从句的先行词是表时间的名词hours, 并且关系词在从句中用作状语，故应选择表示时间的关系副词when。
+　　2. ___________ is known to everybody, the noon travels around the earth once every month。
+　　A.It            B.As            C.That           D.What
+　　解析：答案为B。本题考查as引导的非限制定语从句。as作“正如……”解释，引导的非限制性定语从句来修饰整个句子。当as在从句中作主语时，常用于下列短语：as is known、as is said、as is reported、as is announced等。要注意掌握作关系代词引导定语从句的用法。
+　　3. After living in Pairs for fifty years he returned to the small town ___________ he grew up as a child。
+　　A.which         B.where         C.that            D.when
+　　解析：答案为B。本题考查限制性定语从句中关系词的选择。定语从句的先行词是表示地点的名词短语the small town, 且关系词不作定语从句中的主语和宾语而作地点状语，因此定语从句必须用关系副词where引导。要注意分清先行词在从句中充当的成分，然后选择适当的关系词。
+

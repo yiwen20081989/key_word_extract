@@ -1,0 +1,14 @@
+世界首款交火和SLI显卡悍本问世(组图)
+　　作者：徐文广
+    世界首款交火和SLI悍本问世
+　　根据国外媒体的报道，来自北美的知名高端电脑厂商Eurocom近日发布了新款笔记本产品。采用的是GTX 480M SLI或HD 5870 CrossFireX交火显卡，游戏和娱乐性能上做到了极致，号称是世界上首款支持SLI和CrossFireX交火的笔记本。
+　　推出的这款名为Panther 2.0的笔记本将搭配NVIDIA SLI GeForce GTX 480M Fermi架构显卡，也可选择ATi CrossFireX Radeon Mobility HD5870显卡。另外还有NVIDIA Quadro FX 3800M和Quadro FX 5000M显卡选择。
+　　提供6核心Intel i7 980X Extreme和Xeon处理器选择。采用了3TB硬盘。
+　　EUROCOM Panther 2.0笔记本专门为游戏玩家打造，也可当作工作站使用，甚至可以看成是小型的服务器。专业用户可用来进行高负荷的数字内容创建、计算机辅助工程、辅助设计、视觉渲染等操作。
+　　EUROCOM Panther 2.0笔记本最高可配置3TB硬盘，并提供3.33 GHz主频XEON X5680 和3.33 GHz主频Intel Core i7-980X处理器。带有HDMI输入输出、eSATA、DVi等接口。17.3英寸LED屏幕的分辨率为1920x1080，采用全尺寸键盘。最高配24GB DDR3-1600内存。采用300万像素摄像头。
+　　芯片组为Intel X58 + ICH10R，可选择DVD刻录或蓝光光驱。带有802.11a/b/g/n无线网卡。2个USB 3.0 + 3个USB 2.0接口。外形大小为419x286x56.5-60.7mm，重量为5.3kg。 
+　　提供Microsoft Windows 7或Server 2008版本系统选择，也可采用Red Hat、VMware或Solaris系统。
+　　处理器具体配置方面，可选择2.80GHz主频酷睿i7-930、3.20 GHz主频酷睿i7-970、3.33GHz主频酷睿i7-980X、2.66GHz主频Intel Xeon X5650、2.80GHz主频Intel Xeon X5660、2.93GHz主频Intel Xeon X5670、3.33GHz主频Intel Xeon X5680或3.33GHz主频Intel Xeon Processor W3680等型号。
+　　售价方面，基本配置版为2999美元。最高配置版超过1.5万美元，合计超过10万人民币。
+    世界首款交火和SLI本多图
+

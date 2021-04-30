@@ -1,0 +1,3 @@
+Android下一代代号为冰淇淋三明治 
+　　作者/冬天减肥    我们知道Google Android系统的命名与食品关系密切，1.5版Cupcake(纸杯蛋糕)、1.6版Donut(甜甜圈)、2.0/2.1版Eclair(法式奶油夹心甜点)、2.2版Froyo(冻酸奶)、2.3版Gingerbread(姜饼)、3.0版Honeycomb(蜂窝，平板机专用)，Android之父安迪鲁宾最近接受TechCrunch网站的访问中已经确认下一个版本号仍为食品，而且延续了字母顺序，下一代代号为Ice Cream Sandwich(冰淇淋三明治)，但是代码依旧没有透露，还要等待今年谷歌的I/O的来临。
+

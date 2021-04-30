@@ -1,0 +1,6 @@
+印度设备商获BSNL 9300万美元WiMax合同
+　　新浪科技讯 北京时间12月23日晚间消息，据国外媒体报道，印度电信设备商Gemini及其子公司PointRed Telecom已获得来自印度国有运营商BSNL价值9300万美元的WiMax合同。
+　　根据合同，Gemini和PointRed将为BSNL部署7000个WiMAx基站。其中PointRed将负责其中的40%，而剩余部分将采用来自中兴、Harris Stratex和Alvarion的设备。
+　　BSNL的WiMax网络将用于提供电子政务服务和商用宽带服务。今年早些时候，华为和Gemini/RedPoint共同获得了BSNL第一阶段WiMax网络建设5800万美元的合同。
+　　今年7月，印度电信设备商Sterlite Technologies获得来自BSNL价值7700万美元的合同，采用GPON技术为BSNL部署光纤到户网络。(维金)
+

@@ -1,0 +1,18 @@
+WM6.5迷你版HD2 轻巧智能HD Mini评测
+作者/柏原刚　　最近，Android手机如井喷式的发展，也许让网友们带来一定的审美疲劳了。今天为大家介绍别的，它就是Windows Mobile。在智能手机领域里面，HTC有着绝对的地位，而Windows Mobile系统更是智能操作系统里面不可或缺的一部分(虽然现在的市场格局有所改变)。承载它的真是2010 MWC上发布的HD Mini(参数 论坛)，一款具有小巧机身、不俗性能的智能手机。
+一、背景介绍
+　　1、HTC HD Mini的定位
+　　HTC HD Mini的推出主要是为了丰富产品线，让消费者在相似的设计上更能选择适合自己的尺寸，像诺基亚N97(参数 报价 图片 论坛)mini、索尼爱立信X10(参数 报价 图片 论坛) mini等。HTC HD Mini依然采用Windows Mobile智能系统，在Windows Phone 7机型还没有出来之前，只能继续使用6.5.3版(目前最新的)，相对于新兴的Android来说，显然还是比较陈旧。
+　　2、 HTC HD2与HD Mini的关系
+　　HTC HD Mini是HTC旗舰机型HTC HD2的缩减型号，而并非与HTC Touch HD有关系。缩减的方面主要表现在CPU频率以及RAM上，HTC HD2配备的是1G的处理器以及576MB的RAM，而HD Mini则使用600MHz处理器 384MB RAM。另外，HD Mini的屏幕也由HD2的4.3英寸缩小成3.2英寸，分辨率也降到了HVGA级别。其他硬件方面则没有多大的区别。
+　　3、 WM6.5的现状
+　　Windows Mobile 6.5是微软最新的智能手机操作系统，相对于Windows Mobile 6.1优化了触摸界面，图标的编排也得到改善。Windows Mobile 6.5一般支持电阻式触摸屏，但是也有少数最新的手机是采用电容屏，例如HTC HD Mini。Windows Mobile 6.5.3更是在Windows Mobile 6.5的基础上修改了更适合电容屏的操作。
+　　一直以来，Windows Mobile与塞班的较量当中，只是以多媒体性能著称，但是仍没有超越它的态势，当Android横空而生之后，Windows Mobile相比之下有点黯然失色。微软在较早之前已经推出了Windows Phone 7系统，但是到现在仍没有量产的手机上市，所以Windows Mobile 6.5实际上是一个较老的、期待升级的系统。至于在HTC HD Mini上的表现如何，请看下文的评测。
+　　二、HTC HD Mini评测前瞻
+　　1、 HTC Sense on WM介面
+　　HTC Sense最初是用在Hero(参数 报价 图片 论坛)上，是HTC专为Android手机设计的，随后也应用到了Windows Mobile手机上，它具有华丽的外观，多页式设计，融入了天气、人物管理、社交推送等互联网功能。
+　　2、路由分享功能
+　　HTC HD Mini具有Wi-Fi路由功能，可以分享手机的3.5G无线网络，让周围具有Wi-Fi功能的设备可以共用网络。
+　　3、 外黑内黄的机身
+　　HTC HD Mini外观设计较为沉实，但是当揭开机身后盖之后，会发现一片的黄色，给人眼前一亮的感觉。后盖更有四颗硕大的螺丝镶嵌，不会显得沉闷。
+

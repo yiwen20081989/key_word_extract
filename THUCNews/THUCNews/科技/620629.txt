@@ -1,0 +1,7 @@
+IdeaPad上网本搭载新AtomAPU
+　　今天早些时候的ThinkPad Edge和X120e后，联想还在继续他们的CES新机发布。这次轮到了IdeaPad上网本系列，同样是不偏不倚的兼用Intel/AMD新品处理器，包括Atom N570和AMD E-350 APU。
+　　新机IdeaPad S100搭载Atom N570处理器，目前Intel还未公布这颗新品Atom的详细规格，但估计应为Atom N550的升级版本，双核心，频率在1.6GHz或1.7GHz。
+　　其他配置包括98%全尺寸AccuType键盘，10.1寸LED背光液晶屏，最大2GB内存，320GB硬盘，GMA 3150集成显卡，200万像素摄像头，2合1读卡器，802.11 b/g/n WiFi，蓝牙2.1，预装Windows 7 Home Basic操作系统。
+　　S205为11.6寸1366x768屏幕AMD平台机型，搭载代号Bazos的Fusion APU平台，处理器为1.6GHz双核E-350，集成Radeon HD 6310图形核心。其他配置包括最大8GB内存，最大750GB硬盘，内置30万/130万像素摄像头、6合1读卡器、WiFi、蓝牙，可选3G。
+　　两款IdeaPad S系列新机都将在3月份上市，售价330美元起。
+

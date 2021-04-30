@@ -1,0 +1,6 @@
+微软展示Windows 8服务器版 发售时间未定
+　　新浪科技讯 北京时间9月15日凌晨消息，在昨天展示了桌面版的Windows 8之后，微软于今天展示了服务器版的Windows 8。
+　　开发人员们还获得了针对服务器版Windows 8的预览版代码。微软称服务器版Windows 8深受运营云操作系统Windows Azure的经验影响。
+　　微软公司副总裁兼Windows服务器与云计算部门负责人比尔·莱恩(Bill Laing)在一篇博文中写道：“我们将运营Windows Azure中获得的许多洞见运用在Windows Server 8中……Windows Server 8是一次飞跃，特别是在帮助企业搭建私有云服务上。”
+　　微软并未提及服务器版Windows 8的正式发售时间。(新铁)
+

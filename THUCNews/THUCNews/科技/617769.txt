@@ -1,0 +1,37 @@
+坚守外观猛砸配置 苹果发布新MBP家族
+    作者：孙少军
+    苹果新MBP家族的三大洗具
+　　苹果电脑昨日在中国大陆正式发布了全新的MacBook Pro家族，包括13英寸、15英寸和17英寸的3大系列5款机型，终于让大家对酷睿i系列平台的苹果本的期待尘埃落地。不过，此次苹果在MacBook Pro家族的更新，对于苹果的粉丝和潜在消费者来说，有欢呼也有失落。总结出来就是三大“洗具”与三大“杯具”：
+    洗具一：配置全面升级
+　　苹果 MacBook Pro家族配置全面升级，新款的MacBook Pro笔记本配备更快的处理器、强大的新一代 NVIDIA 图形处理器，同时电池使用时间更长的更新版 MacBook Pro系列。其中，深受欢迎的 13 英寸 MacBook Pro 配备了全新的 NVIDIA GeForce 320M 图形处理器（图形处理速度提升达 80%）。新款15英寸和17英寸MacBook Pro采用Intel Core i5和i7处理器以及自动图形切换技术，可在强大的NVIDIA GeForce GT 330M和节能的Intel HD Graphics集成图形处理器之间无缝切换。
+    洗具二：电池续航10小时
+　　MacBook Pro家族更新了容量更大的电池组，同时借助新平台对电脑能耗的控制，使得新款产品的续航时间普遍增加在3小时左右。13英寸的MacBook Pro续航时间已经达到了10小时，并且保持了1000次的充放电能力。基本上达到了全天工作的续航水平，并且可以维持电量达到3年以上。
+    洗具三：性价比提升
+　　新款MacBook Pro的配置得到了提升，但是价格却相对于上一代产品有了不小的降幅。以17英寸的产品距离，上一代产品的价格在20000元左右，但是本季新品的官方报价仅为17998元。整条产品线相对于上一代的性价比得到了提升，这对于一直持币观望的消费者来说，是一个值得高兴的消息。 		第2页：新MBP家族的三大杯具
+    杯具一：固守外观设计
+　　依然坚守着“金刚”的外观设计，经典的一体成型工艺和一丝不苟的精细制造依然在延续。虽说已经达到了业界顶级水平，但是一成不变也会让挑剔的消费者感到扫兴。
+    杯具二：缺乏新功能
+　　玻璃触摸板、多点触摸功能、具有IPS技术的显示面板……这些苹果独有的功能，貌似还是在原地踏步。特色功能与设计方面貌似只有Magic Safe电源接头的外形有了改变。
+    杯具三：13英寸没有采用酷睿i
+　　“13英寸为什么没用酷睿i系列的处理器？”这是笔者在现场听到的最多的质疑声音了。为什么没有采用，官方也没有作明确的答复。恐怕这也是这次更新中，让消费者最为纠结的部分。13英寸与酷睿i系列擦身而过，的确留下了太多的遗憾。
+    编辑点评：
+　　苹果官方将此次的新品发布称为“更新”，顾名思义，这次的新品只能算作对上一代的升级。并不是革命性的跨越，因此，坚守着经典的外形是可以理解的。不过，13英寸没有搭载最新的处理器，确实成为了美玉之瑕。
+　　以下三页，介绍全新MacBook Pro产品的配置与价格 		第3页：13英寸MacBook Pro配置与报价
+附录：苹果全新MacBook Pro产品的配置与官方报价
+　　新款 13 英寸 MacBook Pro、15 英寸 MacBook Pro 和 17 英寸 MacBook Pro 现在通过 Apple 零售店和 Apple 授权经销商向用户发售。  
+　　建议零售价人民币9,498 元的 13 英寸 2.4 GHz MacBook Pro 包括： 
+　　· 13.3 英寸宽屏 LED 背光 1280 x 800 光面显示屏；　　· 带 3MB 共享二级缓存的 2.4 GHz Intel Core 2 Duo处理器；　　· 1066 MHz 前端总线；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· NVIDIA GeForce 320M 集成图形处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 250GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive® 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme® 802.11n 无线网络技术和蓝牙 2.1+EDR ；　　· 千兆以太网端口；　　· iSight® 摄像头；　　· 2 个 USB 2.0 端口；　　· 1 个 FireWire® 800 端口（兼容 FireWire 400）；　　· SD 卡槽；　　· 耳机输出/音频输入组合（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 63.5 瓦时锂离子电池；　　· 60 瓦 MagSafe® 电源适配器。
+　　建议零售价人民币  11,998 元 的 13 英寸 2.66 GHz MacBook Pro 包括： 
+　　· 13.3 英寸宽屏 LED 背光 1280 x 800 光面显示屏；　　· 带 3MB 共享二级缓存的 2.66 GHz Intel Core 2 Duo处理器；　　· 1066 MHz 前端总线；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· NVIDIA GeForce 320M 集成图形处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 320GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive® 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme® 802.11n 无线网络技术和蓝牙 2.1+EDR ；　　· 千兆以太网端口；　　· iSight® 摄像头；　　· 2 个 USB 2.0 端口；　　· 1 个 FireWire® 800 端口（兼容 FireWire 400）；　　· SD 卡槽；　　· 耳机输出/音频输入组合（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 63.5 瓦时锂离子电池；　　· 60 瓦 MagSafe® 电源适配器。
+　　13 英寸 MacBook Pro 的按单定制选件包括：8GB 1066 MHz DDR3 SDRAM，320GB 5400 rpm 或 500GB 5400 rpm 硬盘，128GB、256GB 或 512GB 固态硬盘，Mini DisplayPort 到 DVI 适配器，Mini DisplayPort 到双路 DVI 适配器（用于 30 英寸 DVI 显示器），Mini DisplayPort 到 VGA 适配器，Apple Remote 遥控器，Apple MagSafe 飞机适配器和 AppleCare® Protection 计划。 		第4页：15英寸MacBook Pro配置与报价
+　　建议零售价人民币 13,998 元的 15 英寸 2.4 GHz MacBook Pro 包括：
+　　· 15.4 英寸宽屏 LED 背光 1440 x 900 光面显示屏；　　· 带 3MB 共享三级缓存的 2.4 GHz Intel Core i5 处理器；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· 集成的Intel HD Graphics 图形处理器 + 带 256MB 虚拟内存的 NVIDIA GeForce GT 330M 图形处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 320GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme 802.11n 无线网络技术和蓝牙 2.1+EDR；　　· 千兆以太网端口；　　· iSight 摄像头；　　· 2 个 USB 2.0 端口；　　· 1 个 FireWire 800 端口；　　· SD 卡槽；　　· 音频输入（模拟/数字）；　　· 音频输出/耳机（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 77.5 瓦时锂离子电池；　　· 85 瓦 MagSafe 电源适配器。
+　　建议零售价人民币 15,998 元的 15 英寸 2.53 GHz MacBook Pro 包括：
+　　· 15.4 英寸宽屏 LED 背光 1440 x 900 光面显示屏；　　· 带 3MB 共享三级缓存的 2.53 GHz Intel Core i5 处理器；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· 集成的 Intel HD 图形处理器 + 带 256MB 虚拟内存的 NVIDIA GeForce GT 330M 处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 500GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme 802.11n 无线网络技术和蓝牙2.1+EDR ；　　· 千兆以太网端口；　　· iSight 摄像头；　　· 2 个 USB 2.0 端口；　　· 1 个 FireWire 800 端口；　　· SD 卡槽；　　· 音频输入（模拟/数字）；　　· 音频输出/耳机（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 77.5 瓦时锂离子电池；　　· 85 瓦 MagSafe 电源适配器。
+建议零售价人民币 16,988 元的 15 英寸 2.66 GHz MacBook Pro 包括：
+　　· 15.4 英寸宽屏 LED 背光 1440 x 900 光面显示屏；　　· 带 4MB 共享三级缓存的 2.53 GHz Intel Core i7 处理器；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· 集成的 Intel HD 图形处理器 + 带 512MB 虚拟内存的 NVIDIA GeForce GT 330M 图形处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 500GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme 802.11n 无线网络技术和蓝牙 2.1+EDR ；　　· 千兆以太网端口；　　· iSight 摄像头；　　· 2 个 USB 2.0 端口；　　· 1 个 FireWire 800 端口；　　· SD 卡槽；　　· 音频输入（模拟/数字）；　　· 音频输出/耳机（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 77.5 瓦时锂离子电池；　　· 85 瓦 MagSafe 电源适配器。
+　　15 英寸 MacBook Pro 的按单定制选件包括：8GB 1066 MHz DDR3 SDRAM，高分辨率 15 英寸 1680 x 1050 光面和防眩显示屏，500GB 5400 rpm 或 500GB 7200 rpm 硬盘，128GB、256GB 或 512GB 固态硬盘，Mini DisplayPort 到 DVI 适配器，Mini DisplayPort 到双路 DVI 适配器（用于 30 英寸 DVI 显示器），Mini DisplayPort 到 VGA 适配器，Apple Remote 遥控器，Apple MagSafe 飞机适配器和 AppleCare Protection 计划。  		第5页：17英寸MacBook Pro配置与报价
+　　建议零售价人民币 17,998 元的 17 英寸 2.53 GHz MacBook Pro 包括：
+　　· 17 英寸宽屏 LED 背光 1920 x 1200 光面显示屏；　　· 带 3MB 共享三级缓存的 2.53 GHz Intel Core i5 处理器；　　· 4GB 1066 MHz DDR3 SDRAM，可扩展至 8GB； 　　· 集成的 Intel HD 图形处理器 + 带 512MB 虚拟内存的 NVIDIA GeForce GT 330M 图形处理器；　　· 运行速度为 5400 rpm 带突发移动感应器的 500GB Serial ATA 硬盘；　　· 吸入式的 8 倍速 SuperDrive 光驱，支持双层刻录 (DVD±R DL/DVD±RW/CD-RW)；　　· Mini DisplayPort 端口（VGA、DVI 和 HDMI 适配器单独销售）；　　· AirPort Extreme 802.11n 无线网络技术和蓝牙 2.1+EDR ；　　· 千兆以太网端口；　　· iSight 摄像头；　　· 3 个 USB 2.0 端口；　　· 1 个 FireWire 800 端口（兼容 FireWire 400）；　　· ExpressCard/34 扩展卡槽；　　· 音频输入（模拟/数字）；　　· 音频输出/耳机（模拟/数字）；　　· 玻璃 Multi-Touch 触控板和背光键盘；　　· 内置 95 瓦时锂离子电池；　　·85 瓦 MagSafe 电源适配器。
+　　17 英寸 MacBook Pro 的按单定制选件包括：2.66 GHz Intel Core i7 处理器，8GB 1066 MHz DDR3 内存，500GB 7200 rpm 硬盘，128GB、256GB 或 512GB 固态硬盘，防眩显示屏，Mini DisplayPort 到 DVI 适配器，Mini DisplayPort 到双路 DVI 适配器（用于 30 英寸 DVI 显示器），Mini DisplayPort 到 VGA 适配器，Apple Remote 遥控器，Apple MagSafe 飞机适配器和 AppleCare Protection 计划。
+

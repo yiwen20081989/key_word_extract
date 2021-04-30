@@ -1,0 +1,8 @@
+美国各大应用商店数据分析：iPhone游戏最火
+　　新浪科技讯 北京时间10月4日下午消息，据国外媒体报道，应用商店研究机构Distimo今天发布报告，分析了美国市场第三季度苹果、黑莓、Android、诺基亚、Palm和Windows Mobile的应用商店的数据。
+　　报告显示，iPhone App Store的游戏最多且最受用户欢迎。在iPone最热门的100个免费应用中，游戏所占比例高达55%；在iPhone最热门的100个付费应用中，游戏所占比例同样为55%；游戏所占比例较高的还有Windows Marketplace，游戏占热门免费应用的比例为23%，游戏占付热门费应用的比例为45%；排名第三的是苹果App Store for iPad，游戏占热门免费应用的比例为25%，占热门付费应用的比例为40%。
+　　而在黑莓和Palm的程序商店中，游戏则似乎不太受欢迎，游戏占热门应用的比例均为20%左右。该报告并未将Android平台的游戏计入其中，因为谷歌将游戏的排名并入了“其他应用”类别。据估计，Android平台现在大约有1.5万款游戏。
+　　各家应用商店最流行的免费程序分别是iBooks阅读程序(iPad)，Type n Talk (iPhone)、黑莓Messnger(黑莓)、Pandora收音机(Android)、ZumZum(诺基亚)、Facebook(Palm)，以及微软My Phone(Windows Mobile)。
+　　在付费应用方面，各家应用商店最流行的付费软件为Pages (iPad)、愤怒的小鸟(iPhone)、BeBuzz(黑莓)、Beautiful Widgets (Android)、ToonWarz(诺基亚)、mCraig (Palm)，以及Meon(Windows Marketplace)。
+　　由于黑莓平台的商务特性，RIM是各家应用商店中自主推出程序最多的。黑莓平台最流行的10个免费应用中有4个由RIM自己开发。(张和)
+

@@ -1,0 +1,25 @@
+4.7�Beats单核HTC Sensation XL上手
+Sensation XL降临
+    Sensation,一个相当有韵味的名字，HTC所做的手机都有一个非常好听的英文名，Sensation算是小编相当喜欢的一个，Sensation是一个理念！而这一次，Sensation携手Beats，推出了两款堪称经典的高端多媒体娱乐智能手机，其中一款就是今天给大家带来的Sensation XL。
+    首先我们来看HTC Sensation XL的机身，如果只看正面的话，很容易就将它理解为白色版本的Sensation，但旁边的Beats耳机已经将它“出卖”，音乐才是它的杀手锏。
+    在整个Sensation系列中，Sensation XL与Sensation XE、Titan都属于HTC Sensation产品线上的产物，外观改动不大，这样的做法也是为了快速将不同细分产品推向市场，降低成本的同时还可以快速布局产品线、抢占市场先机。
+    microUSB接口依然位于机身左侧靠下，但音量调节键改到了机身右侧。机底还是卡扣后盖锁，机顶的3.5mm耳机孔与电源键没有变化。改动最大的算是后盖，摄像头被移动到了正中间，仍然是双LED灯，靠下的Beats标志格外显眼。
+Sensation XL配置详参
+虽然Sensation XL看上去与Sensation、或是Sensation XE无异，但实际上它的配置还是有一定程度的缩水，笔者将其汇总如下：
+1.屏幕升级到4.7英寸，Super LCD，分辨率800x480
+2.机身三围132.5x70.7x9.9mm（比Sensaton XE薄1.4mm）
+3.处理器为高通MSM8255，单核，主频1.5GHz（Sensation XE为双核）
+4.RAM依然为768MB
+5.机身内置16GB存储空间，用户可用约12.6GB，不支持microSD扩展
+6.电池容量为1600mAh（Sensation XE为1730mAh）
+7.支持最高720p摄像，但支持1080p视频播放
+8.摄像头800万像素，f2.2光圈，28mm广角，双LED灯
+9.前置摄像头130万像素
+10.预计11月份开卖
+    虽然从配置上来看，Sensation并不算是顶级配置，但会买Sensation XL的用户应该不会很介意规格上的落差--因为虽然屏幕的DPI较低，但看起来还是非常棒，而9.9mm的厚度也令手感变得不错。单核心的处理器并没有带来很明显的不便，唯一较明显的是Sensation XL只能摄录和播放720p影片（Sensation XE可以到1080p），但这还是可以接受的。
+Sensation XL综合评述
+    从拍摄体验来看，其F/2.2、28mm和双LED补光灯还是颇令人满意，界面也非常好用，设定方便、对焦快速，拍出来的照片也非常不错。另外，Sensation XL也配备了一个130万像素的副相机。相对来说，另外一些配置上的牺牲就有点难以适应：只有16GB的内置储存（不能外加microSD卡），而且使用者更只能使用当少的12.6GB--一般音乐爱好者的收藏大概不止这个数量吧？以一部音乐手机来说，Sensation XL的容量未免小了一点。
+    Sensation XL拥有和Sensation XE一样的Beats Audio。与Sensation XE一样，Beats Audio的字眼代表的，除了是一套音效设定外，还有的就是一组Dr. Dre耳机，因为整套设定都是为这组耳机而设的嘛。
+    Sensation XL将会随附的是HTC YourBeats耳道式耳机，也就是和Sensation XE一样；不过在部份限量版的Sensation XL上就会是搭配更高端的Beats Solo白色耳罩式耳机，和白色的机身配成一对。虽然比YourBeats更大声的Beats Solo并不是人人都喜欢，但这款耳机的外表确实是出众，所以应该还是有市场的吧。
+    不管从操作还是主打的音乐体验来看，Sensation XL都没什么可挑剔的，毕竟定位不同，对于一款以娱乐多媒体定位的机型来说，大屏幕+高品质音质才能带来最好的体验，再说1.5GHz的处理器已经算是高端了，白色的机身，帅气的Dr.Dre耳机，彰显个性，还等什么！
+

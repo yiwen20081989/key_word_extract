@@ -1,0 +1,8 @@
+惠普正式发布Atom迷你本Mini 1000
+作者：Skyangeles
+　　几乎和华硕的Eee PC同时，惠普曾在去年推出了自己的廉价便携笔记本Mini-Note 2133。但和其他品牌的NetBook不同，惠普的机型采用了较为传统的VIA C7平台，而非流行的Intel Atom。今天，惠普终于“追上了潮流”，发布了采用Atom平台的新款NetBook机型，型号为Mini 1000.
+　　该机可选8.9寸或10.2寸液晶屏幕，分辨率均为1024x600，搭载Atom N270 1.6Ghz处理器，外观设计和Mini-Note类似，尤其是接近全尺寸的键盘手感在众多NetBook中显得鹤立鸡群。8.9寸版本重量为1.01kg，10.2寸版也不过1.08kg。
+　　其他配置方面，分为Windows和Linux版。Windows版可选512MB和1GB内存（微软限制NetBook内存不能超过1GB），Linux版则可达到2GB。硬盘可选60GB 4200rpm 1.8寸硬盘或8GB/16GB固态存储，固态硬盘版还可扩展最大8GB的“HP Mini Mobile Drive”移动存储。802.11g无线网络、蓝牙、30万像素摄像头、读卡器等。其中，Linux版本在Ubuntu 8.04的基础上，增加了一套惠普自行开发的“Mobile Internet Experience”MIE快捷界面。
+　　惠普表示，Mini 1000的Windows XP版本即日起开始销售，8.9寸版价格为399美元，10.2寸版则从449美元起。Linux版将于明年1月上市，起价380美元。目前该机仅配置3芯电池，6芯电池版本从明年一月开始提供，今年12月起还会推出内置HSDPA网络选项。另外，圣诞节前还会开卖由Vivienne Tam设计的特别版本。
+
+

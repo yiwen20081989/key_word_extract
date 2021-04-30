@@ -1,0 +1,8 @@
+评测显示Verizon版iPhone 4信号问题被夸大
+　　新浪科技讯 北京时间3月3日晚间消息，美国硬件评测网站AnandTech的评测显示，Verizon版iPhone 4的信号接收问题被过分夸大。
+　　美国“消费者报告”此前对Verizon版iPhone 4进行了测试。测试显示，与GSM版iPhone 4类似，当用户以某种姿势握持该手机时，信号强度将会减弱。因此，“消费者报告”决定不向用户推荐Verizon版iPhone 4。
+　　然而，AnandTech在评测后得出不同的结果。AnandTech认为，Verizon版iPhone 4的信号接收问题已经得到了很大的解决。评测显示，当握持所谓的“死亡带”时，Verizon版iPhone 4的信号衰减为16.5dB，而正常握持时的衰减为15.5dB。而对GSM版iPhone 4来说，握持“死亡带”时信号衰减为24.6dB，正常握持时的衰减为19.8dB。换句话说，Verizon版iPhone 4被握持“死亡带”时的信号衰减小于GSM版iPhone被正常握持时。
+　　AnandTech还将两种版本的iPhone 4与其他8款智能手机进行了对比，包括iPhone 3GS、黑莓Torch和数款Android手机。这些手机被握持“死亡带”时的平均信号衰减为14.4dB，远低于GSM版iPhone 4，但与Verizon版iPhone 4的差距不大。
+　　在正常握持的情况下，这些智能手机的平均信号衰减为7.4dB，低于Verizon版iPhone 4的15.5dB。AnandTech指出，这一平均值较低主要是由于Nexus S和两款Droid系列手机表现较好。不过，在所有被测试的智能手机中，iPhone 3GS的性能最好，正常握持时的信号衰减仅为1.9dB。
+　　AnandTech评测人员布莱恩·克拉格(Brian Klug)表示：“我很有信心可以在没有保护壳的情况下使用CDMA版iPhone 4，在此次评测期间，没有出现一次掉话。”评测同时显示，在使用保护壳的情况下， Verizon版iPhone 4的信号衰减仅为9dB，与其他智能手机类似。AnandTech是诊断出GSM版iPhone 4存在信号接收问题的第一家机构。(维金)
+

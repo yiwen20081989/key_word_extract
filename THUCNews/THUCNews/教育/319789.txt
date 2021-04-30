@@ -1,0 +1,25 @@
+SAT阅读之假设题解题思路：理解与推理
+　　在SAT阅读中有一类题型，叫做假设题。这类题型不仅涉及到对于定位点句子的理解，其理解的原理还在一定程度上涉及到逻辑关系的推理。
+　　这一类题题面的基本特征就是含有一个词assumption。通常题目会问文章的某几行，是基于什么样的一个假设(basedon或restson)。既然是问一个假设，那么显然就是问原文能够成立的条件是怎样的。在SAT的阅读考试当中，通常能在出题点看到的是导致的某个结果，或可达到的某个目的。比如问一个方法基于什么样的假设，意思就是说要达到某个目的，这样的方法为什么能够有效。
+　　具体思路为，若把原文看成B，选项看成A，那么A是B的假设，意思就是说若A成立B就一定成立(由A一定能推出B)，而若B成立A不一定成立(即B不一定能推出A)。比如说，你想长寿，就要少抽烟少喝酒，这句话基于什么假设就是只要少抽烟少喝酒就一定能长寿。
+　　做题的时候，理解出题点后要对自己提问为什么出题点的内容能够成立，在五个选项中找到一个选项，能够符合这个提问。
+　　例如OG中900页：
+　　My physiotherapist expressed himself similarly: "Adaptation follows a different path in each person. The nervous system creates its own paths. You are the neurologist-you must see this all the time。
+　　The physiotherapist's remarks (lines 36-39) reveal the assumption that
+　　A. patients have complete control over the progress of their recovery
+　　B. each neurologist follows a different path to understanding
+　　C. all neurologists are aware of the nervous system's adaptability
+　　D. the author is inadequately informed about the intricacies of the muscular system
+　　E. some neurologists consider both healthy and injured brain processes to be parallel
+　　题目问理疗师的话揭示了一个什么假设。理疗师的意思是：适应对于每个人来说都是基于不同的路径的。神经系统创建了它自己的路径，你就是那个神经学家，你必须时时刻刻看到这一点。意思也就是说你作为一个神经学家，必须时刻了解神经系统创建不同的适应的不同路径。理解选项后可以发现，只有C选项“所有的神经学家都对神经系统的适应性有意识”成立时，这句话才是能够成立的，其他的都为不相关项。
+　　再如2007年5月的真题：
+　　1. I had been trained in the tradition of acting called "psychological realism". A basic tenet of psychological realism is that characters live inside of you and that you create a lifelike portrayal of the character through a process of realizing your own similarity to the character. When I later became a teacher of acting, I began to became more and more troubled by the self-oriented method. I began to look for ways to engage my students in putting themselves in other people's shoes. This went against the grain of the psychological realism tradition, which was to get the character to walk into a classroom of people in their real lives。
+　　The author's explanation in the fourth paragraph suggests that the "self-oriented method" (line 45) rests on the assumption that
+　　A. audience members appreciate complex nuance of character
+　　B. the playwright's biography provides the main evidence for interpreting character
+　　C. actors have already felt the full range of human emotions
+　　D. actors are extremely independent and self-serving people。
+　　E. Actors' lives become fulfilled through their dramatic portrayals。
+　　可以看到题面所问的self-orientedmethod就是文中说到的psychologicalrealism。而这个方法的一个基本理念就是角色就住在你体内，你通过一个实现自身与角色相似性的过程，来创造一个活生生的对角色的扮演。为什么这个方法能够成立呢，为什么能够通过实现自身与角色相似性的过程，来创造活生生的角色扮演呢？显然，只有选项中的C选项“演员已经体会过了所有人类情感”成立，这一点才能够成立。
+　　从以上例题也可看出，假设题是不能排除极端选项的。由于是从选项能推出原文，通常的正解甚至都是带有极端词的。
+

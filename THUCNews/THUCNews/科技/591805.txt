@@ -1,0 +1,10 @@
+Adobe宣布不再针对iPhone开发Flash工具
+　　新浪科技讯 北京时间4月21日晚间消息，据国外媒体报道，Adobe宣布将不再开发新版本的“Packager for iPhone”工具包，这一工具包可以将Flash应用转换为iPhone应用。Adobe未来将专注Android平台。
+　　苹果迟迟未能使iPhone支持Flash，为此Adobe推出了“Packager for iPhone”，帮助开发者将Flash应用转换为iPhone应用。然而苹果再次改变政策，要求开发者必须使用“Objective-C、C++或JavaScript”来开发应用。对于苹果的做法，Adobe最初表示不满，随后表示将诉诸法律，目前则宣布将停止对iPhone的支持。
+　　Adobe的Flash产品经理在博客中表示：“我们将继续在Flash CS5中提供面向iPhone和iPad的功能。然而，我们不计划在这一功能上进行更多的投资。”
+　　业内人士认为，苹果确实不希望Flash进入iPhone，并采取种种措施封杀Flash。苹果CEO史蒂夫·乔布斯(Steve Jobs)曾表示，Flash充满漏洞并且在iPhone上运行缓慢。
+　　苹果在最新的iPhone开发者协议中表示：“应用必须以Objective-C、C、C++或JavaScript(由iPhone OS WebKit引擎执行)编写，只有用Objective-C, C和C++编写的代码可以编译并直接与Documented API链接(例如，通过中间转换、兼容层或工具链接至Documented API的应用是被禁止的)。”
+　　这一协议也对Titanium等跨平台开发公司造成影响。Titanium的Appcelerator工具能够在使用同样源代码的情况下同时为iPhone、Android和桌面电脑开发工具。苹果的协议也阻止开发者为其他语言建立编译器。
+　　苹果App Store能够成功的一大原因在于iPhone不支持Flash。用户需要付费购买的一些应用在其他平台上很常见。在其他平台上，这些应用均以Flash的形式嵌入在网页中。
+　　Flash应用可以很容易被使用在其他平台上，因此苹果或许是希望建立一个独立的开发者社区，使开发者更多学习Objective C，提升iPhone对开发者的粘性。(维金)
+

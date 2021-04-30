@@ -1,0 +1,8 @@
+雅虎将推Y Connect允许用户登陆第三方网站
+　　新浪科技讯 北京时间10月18日上午消息，据国外媒体报道，雅虎计划模仿Facebook Connect，推出名为Y Connect的平台，允许媒体出版商、网络开发者和其他网站将其服务聚合到雅虎。
+　　该平台将帮助这些网站追踪用户行为，从而为其量身打造广告。
+　　在Y Connect平台，用户可以点击雅虎按钮，轻松注册并登陆第三方媒体网站。登陆后，用户行为将可以轻松分享到雅虎好友中。非雅虎旗下的网站将可以通过Yahoo Pulse分享内容，Yahoo Pulse直接与雅虎邮箱连接。
+　　如果战略实施得当，Y Connect将有助于提升雅虎网站流量，帮助雅虎更好理解用户兴趣，从而推出更有针对性的广告。而使用Y Connect平台的第三方网站也将获得来自用户来自雅虎的额外信息，并为用户提供简化的一键注册和登陆服务。
+　　Y Connect看起来像是在模仿Facebook Platform，也就是最初的Facebook Connect。Facebook Connect以“login with Facebook”按钮的形式出现在众多第三方网站上，允许用户以Facebook帐户登陆，使用该网站的功能，如评论文章、在站内与Facebook好友互动，以及与Facebook.com上的好友分享信息。
+　　据悉，Y Connect将于今年秋季正式推出。尽管雅虎与Facebook有竞争关系，两公司同样进行合作，允许用户在旗下网站查看Facebook内容。(张和)
+

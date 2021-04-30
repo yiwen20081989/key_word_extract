@@ -1,0 +1,7 @@
+泰国运营商AIS开通诺基亚push-email业务
+　　通信世界网8月14日消息，泰国移动运营商高级信息服务公司(以下简称AIS)在泰国开通NokiaMessaging手机邮件推送(push-email)服务。
+　　诺基亚提供的电子邮件推送服务，可以自动更新来自不同提供商的信息服务，如Gmail、雅虎、LiveHotmail、OVI邮件以及泰国本地的电子邮件服务提供商。
+　　为纪念这一服务的推出，AIS公司还推出了两款新的数据打包业务。客户可以选择“诺基亚Messaging199”服务，每月199泰铢，可享用高达5MB的网络流量，也可以选择“诺基亚无限Messaging”服务，每月399泰铢就可以享受无限的网络流量 。
+　　此外，AIS已经推出了两款新的诺基亚E系列手机，即诺基亚E52和诺基亚E63，支持NokiaMessaging电子邮件推送服务。
+　　据了解，NokiaMessaging具有完整的手机邮件客户端功能，支持包括YahooMail，Gmail，WindowsLive Hotmail，AOL Mail在内的广泛的电子邮箱。并且具有push-email功能。同时，Nokia Messaging还支持自家的新邮件服务 Mail on OVI。Nokia Messaging还整合了IM通信功能，支持Yahoo! Messager,Gtalk，MSN等众多协议。
+

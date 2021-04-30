@@ -1,0 +1,4 @@
+Android 2.1新特性 HTC SenseUI可直接升级 
+    据国外媒体报道，所有装有HTC Sense UI的手机（包括原版的HTC Hero(参数 报价 图片 论坛)、CDMA版的Spirit Hero、以及HTC Eris）都将跳过Android 1.6和Android 2.0 直接升级至Android 2.1。 
+关于Android 2.1 Sense UI的内容有：1.增加电源widget（实际这个在Android1.6里就有了，除了HTC Tattoo(参数 报价 图片 论坛)之外没有在其他使用Sense UI的手机上使用）。2.可以同时绑定多个Google账号3.更快的运行和加载速度4.设置里增加Personalize功能5.无线控件里有了VPN设置，之前1.5的Sense UI里没有的6.增加Mobile network sharing7.声音和显示选择增加的重力感应校准8.Location和Privacy9.Connect to PC设置10.文字到语音转换11.新的拨号界面，按键更大，更易于操作12.更多桌面插件13.新的Google地图14.新的浏览器15.全局搜索16.全新的Market
+

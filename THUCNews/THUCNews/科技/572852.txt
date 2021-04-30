@@ -1,0 +1,7 @@
+报告称42% Twitter消息通过非官方应用发布
+　　新浪科技讯 北京时间3月16日早间消息，据消息人士透露，Twitter已经对其生态系统采取了一项大胆的措施，称第三方开发者不应再试图与Twitter争夺本地用户，而应将重点放在为Twitter消息提供数据和垂直应用等方面。
+　　消息人士称，Twitter已向开发者发出电子邮件称，目前每个月约有90%的活跃用户使用Twitter官方应用来发布消息。
+　　社交媒体分析公司Sysomos公布的报告则显示，该公司对上周五在Twitter上发布的2500万条消息进行分析后发现，58%的Twitter消息是通过官方的Twitter应用发布的，42%来自于第三方应用(即非官方的Twitter应用)。Sysomos在2009年6月公布的报告显示，55%的Twitter消息是通过非官方应用发布的。
+　　在第三方应用中，最受用户欢迎的是软件开发商UberMedia开发的TweetDeck、UberSocial和Echofon等应用。其中，Tweetdeck在所有Twitter消息中所占份额为5.5%；在通过非官方应用发布的Twitter消息中，Tweetdeck所占份额为13.1%，UberSocial为16.4%，Echofon为9.2%。
+　　Twitter昨天公布数据称，该公司网站上每天平均创建的新帐户为46万个，也就是每周有几百万个，但其中有多少是活跃用户尚未可知。Sysomos指出，许多Twitter用户既使用第三方应用也使用Twitter.com来发布和追踪Twitter消息，并指出一些活跃用户会选择TweetDeck、UberSocial、Seesmic及其他流行的第三方应用，原因是这些应用的特性更加丰富。(唐风)
+

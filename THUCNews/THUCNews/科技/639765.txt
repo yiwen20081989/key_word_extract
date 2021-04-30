@@ -1,0 +1,6 @@
+报告显示Android开发人员流向iOS平台
+　　新浪科技讯 北京时间7月15日晚间消息，调研公司Flurry Analytics周四公布的调查结果显示，今年第二季度在开发人员所启动的新项目中，Android平台降至28%。
+　　Flurry Analytics数据显示，开发人员第二季度所启动的新项目中，Android平台占到了28%，iPad占到了15%，iPhone和iPod Touch占57%。相比之下，Android平台第一季度的市场份额为36%，iPad为10%，iPhone和 iPod Touch为54%。
+　　这意味着第二季度iOS项目份额占到了72%，高于第一季度的64%。很明显，iOS平台吸引了Android开发人员。Flurry Analytics称，这已经是Android项目份额连续第二季度出现下滑。去年第四季度，Android项目份额曾达到39%。
+　　Flurry Analytics还指出，导致iOS项目份额增加的主要原因是苹果推出了iPad 2和Verizon版iPhone，从而吸引了更多开发人员。(李明)
+

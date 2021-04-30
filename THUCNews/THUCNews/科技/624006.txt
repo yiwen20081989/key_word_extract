@@ -1,0 +1,5 @@
+TouchPad运行Android 2.3.5 支持10点触控
+　　前段时间Android第三方固件制作团队CyanogenMod表示，已经成功将CM7移植到TouchPad上，不过遗憾的是并支持触控操作，而今天国外另一开发小组TouchDroid成功解决了这个问题。
+　　今天TouchDroid开发小组表示惠普TouchPad植入他们所写的多点触摸驱动程序后，不但可以顺畅的运行Android 2.3.5系统，而且还能够进行触控操作，并且支持10个手指触控。
+　　此前该小组就已经成功让惠普TouchPad实现Android系统与WebOS系统双启动。虽然惠普放弃了TouchPad平板，但是不少开发者正在试图通过他们自己的努力，让该平板重获生命力。
+

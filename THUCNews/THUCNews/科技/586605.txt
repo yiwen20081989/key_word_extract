@@ -1,0 +1,8 @@
+EMC收购开源软件公司SourceLabs
+　　【赛迪网讯】美国知名科技博客TechFlash称，美国易安信(EMC)已收购开源软件创业公司SourceLabs。 
+　　据国外媒体报道，TechFlash称，SourceLabs于2004年由其CEO拜伦·塞巴斯蒂安(Byron Sebastian)创办，主要运营开源社区Swik.net，其2006年从Ignition Partners、Madrona Venture Group和Index Ventures获得了600万美元的投资。目前，SourceLabs的部分团队已经开始在EMC位于贝尔维尤的分支机构开始研发工作。 
+　　去年11月，SourceLabs的业务受到了金融危机的沉重打击。塞巴斯蒂安表示，由于经济形势严峻，该公司客户的投资速度与以往相比呈现出了走低形势。 
+　　塞巴斯蒂安介绍称，SourceLabs自助式Linux和Java服务访问的用户在半年内就增长了400%。该公司所提供的服务可以帮助开发人员解决遇到的Linux、Xen和Apache等开源软件问题。 
+　　作者：李远
+
+

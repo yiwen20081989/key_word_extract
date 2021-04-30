@@ -1,0 +1,6 @@
+三名谷歌前员工创建群聊工具Beluga
+　　新浪科技讯 北京时间12月23日上午消息，三名谷歌前员工开发了一款名为Beluga的群聊工具，该应用将兼容Android和iPhone平台，并且可以通过该公司的网站访问聊天记录。
+　　TextPlus、GroupMe、Path和Instagram等群聊服务都已经获得了一定成功，这类服务可以帮助用户与特定类别的好友分享信息，而不是像Facebook和Twitter那样，不加区别地与所有好友交流。
+　　Beluga则可以创建类似于群组的“Pod”，并对特定Pod内的好友发送文本、图片和表情。该服务可以与手机地址簿相整合，所以无需单独记忆每个人的号码，而且可以通过Facebook查找那些已经使用Beluga的好友。
+　　该公司的三名创始人分别是本·戴文波特(Ben Davenport)、露西·张(Lucy Zhang)和乔纳森·波罗(Jonathan Perlow)，他们三人曾分别效力于谷歌AdSense、AdWords和Gmail团队。(思远)
+

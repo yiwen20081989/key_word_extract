@@ -1,0 +1,5 @@
+SanDisk发布95MBs SDXC及Eye-Fi卡
+　　SanDisk针对欧洲市场发布一系列新品，其中包括传输速度达到95MB/s的SDXC UHS-I卡及Eye-Fi无线卡。
+　　SanDisk Extrem Pro SDXC UHS-I卡基于SD 3.0标准，读取速度95MB/s，写入速度90MB/s，适用于大体积RAW或1080p60视频文件。该卡将提供8-64G型号，起价110美元(约合人民币703元)。
+　　SanDisk Eye-Fi无线内存卡为合作产品，提供4G和8G 2款型号，售价未知。目前尚不清楚该卡与现有的Eye-Fi产品有何不同。
+

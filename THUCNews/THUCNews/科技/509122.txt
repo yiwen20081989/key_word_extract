@@ -1,0 +1,5 @@
+支持SDXC卡 Buffalo推便携强兼容读卡器
+　　buffalo计划在11月下旬推出一款能兼容多种储存卡的读卡器「BSCRA55U2」，售价是2，257日元，折合人民币172元。兼容OS，windowsXP/Vista/7，Mac OS X 10.1.2等系统。提供红，黑，银，白四种配色。
+　　读卡器「BSCRA55U2」兼容的储存卡类型非常丰富，包括SDXC/SDHC/SD存储卡，miniSDHC/SD存储卡，microSDHC/SD存储卡，MMC，RS-MMC，内存棒，内存棒PRO，内存棒duo，内存棒PROduo，内存棒PRO-HGduo，内存棒micro，XD图像卡(Type M/M+/H)，smart media等。
+　　其大小尺寸是105×170×46mm，重量约40g。
+

@@ -1,0 +1,6 @@
+苹果微软等18公司被诉侵犯软件远程激活专利
+　　新浪科技讯 北京时间12月16日早间消息，据国外媒体报道，互联网解决方案提供商BetaNet当地时间周一向美国德克萨斯州东部地方法院起诉18家公司侵犯其专利，其中包括苹果、Adobe和微软。
+　　BetaNet称，该公司1993年6月22日获得了这项名为“远程激活个人电脑软件的安全系统”的专利。BetaNet在起诉书中特别指出，苹果的iTunes、Aperture、QuickTime和MobileMe侵犯了其专利。
+　　该案被告包括Adobe、苹果、Arial Software、Autodesk、Carbonite、Corel、柯达、IBM、Intuit、微软、McAfee、Online Holdings、甲骨文、Rockwell Automation、Rosetta Stone、SAP美国、西门子和Sony Creative Software。
+　　BetaNet称，许多软件产品都使用了其专利技术，其中包括Intuit的Quicken和TurboTak，微软的Office、OneCare、Silveright和Windows Server，McaFee的VirusScan，Adobe的Creative Suite、Photoshop和Acrobat。(志翔)
+

@@ -1,0 +1,21 @@
+微软公布Win7售价 新购Vista用户免费升级
+　　新浪科技讯 北京时间6月25日晚间消息，据国外媒体报道，微软周四称，Windows 7操作系统的价格将在很大程度上与Vista系统保持一致，并表示从本周五开始，凡是在Windows 710月上市以前购买预装Vista系统PC的用户都可获得免费的升级。
+　　微软表示，在Windows 7于10月22日上市时，凡是从本周五起购买预装Windows Vista Home Premium、Windows Vista Business或Windows Vista Ultimate系统的PC用户都可联系制造商以获得免费升级。为了刺激不计划购买新PC的用户需求，微软还表示将会接受Windows 7的限量预购订单，最低价格为50美元。
+　　在发布Vista以前，微软也提供了类似的升级计划，促使微软将来自于Windows的部分营收递延计入此后几个季度的业绩。微软尚未透露Windows 7升级计划将对其季度业绩造成何种影响。
+　　微软称，用户将现有PC系统升级到Windows 7 Home Premium版本将需支付120美元，比Windows Vista低10美元；升级到Windows 7的Professional和Ultimate版本则需分别支付200美元和220美元，与可比Vista系统持平。无论用户原来使用Windows XP还是Windows Vista，升级费用都是相同的。
+　　微软还表示，裸机安装Windows 7 Home Premium、Professional和Ultimate版本的费用分别为200、300和320美元。
+　　与此相比，苹果曾在6月初表示，升级到Mac OS X Snow Leopard最新操作系统的成本将为30美元。
+　　对于即将购买新PC的用户来说，Windows的成本通常已包含在购买价格中。因此，微软今天宣布的价格是针对单独购买Windows或从较早版本升级的用户。
+　　微软希望Windows 7的发布能比Vista顺利，后者因多次跳票备受指责。2007年1月，微软终于正式发布了Vista，但许多用户抱怨称，这一系统不但速度缓慢，而且不能与现有的设备和程序兼容。
+　　而这一次，为了促进早期销售和提高知名度，微软将预订Windows 7 Home Premium和Professional版本的价格均下调了约一半，至50美元和100美元。这一预订活动将从周五在美国、加拿大和日本市场开始，并于7月15日在英国、法国和德国开始进行，持续时间仅为两周左右，售完为止。
+　　用户可从微软的下载站点或从百思买等零售商处购买Windows 7。百思买已经表示，每名用户将被限购三套Windows 7。
+　　微软没有透露从Windows 7初级版本升级到高级版本需要多少费用，同时也拒绝透露Windows 7的价格将对上网本造成何种影响。上网本体积较小、价格较低，但低价的部分原因可能是运行版本较老、价格较低的Windows XP。
+　　微软本月早些时候曾表示，将在欧洲市场上推出不绑定IE的Windows，旨在避免当地反垄断监管机构对其作出制裁。微软Window产品营销副总裁布拉德·布鲁克斯(Brad Brooks)称，微软一直没有时间完善面向欧洲用户的升级软件，因此计划至少到12月才会以升级价格向欧盟消费者出售完整版本的Windows 7。
+　　美国当地用户可按下列价格购买或升级Windows 7：
+　　Windows 7 Home Premium (升级安装)： $119.99
+　　Windows 7 Professional (升级安装)： $199.99
+　　Windows 7 Ultimate (升级安装)： $219.99
+　　Windows 7 Home Premium (完整安装)： $199.99
+　　Windows 7 Professional (完整安装)： $299.99
+　　Windows 7 Ultimate (完整安装)： $319.99
+

@@ -1,0 +1,58 @@
+高端卡片杀手 松下LX5照片数据现身
+　　当你看到松下多款数码相机正在疯狂的跌价时请不要惊讶，因为在7月下旬松下公司即将召开秋季新品发布会了，其中传言纷纷的松下高端数码卡片机LX5则是众多人讨论的焦点。今天，在松下美国官方网站上已经出现了松下LX5的身影，更重要的是，还有他详细的数据。废话不多说，有图有真相！ 
+　　
+　　LX5拥有1010万像素的拍摄能力，采用一直大光圈F2.0的徕卡赫赫有名的Summicron结构镜头。而在传感器尺寸方面，延续了LX3的1/1.63CCD传感器，不过该传感器拥有超高的灵敏度，使得相机在图像质量方面得到重大的提升！ LX5可使用OVF与EVF取景器，显示屏方面则采用了3英寸大屏45万色LCD显示器，镜头方面除了耀眼的F2.0大光圈外，提供了3.8倍的光学变焦，其等效焦距为24-90mm。 
+　　View the complete product detailsCamera Effective Pixels
+　　10.1 MegapixelsSensor Size / Total Pixels / Filter 1/1.63-inch / 11.3 Total Megapixels / Primary Color FilterAperture F2.0 - 3.3 / Multistage Iris Diaphragm (F2.0 - 8 (W) / F3.3 - 8 (T))
+　　(F2.0 - 11 (W) / F3.3 - 18 (T) in movie recording)Optical Zoom
+　　3.8xDigital Zoom
+　　
+　　4x
+　　( Max. 15.1 x combined with Optical Zoom without Extra Optical Zoom)
+　　(Max. 26.8 x combined with Extra Optical Zoom)Focal Length
+　　f=5.1-19.2mm (24-90mm in 35mm equiv.)
+　　(25-95mm in 35mm equiv. in movie recording)Lens LEICA DC VARIO-SUMMICRON
+　　10 elements in 9 groups
+　　(3 Aspherical Lenses / 5 Aspherical surfaces)Optical Image Stabilizer Power O.I.S. (Off / Auto / Mode1 / Mode2) 
+　　Photo & MovieConversion Lens Compatibility YesFocusing Area Normal: Wide/Tele 50 cm - infinity
+　　Macro / Intelligent AUTO / Wide 1 cm - infinity / Tele 30cm - infinityFocus Range Display YesAF Metering Face / AF Tracking / Multi (23pt) / 1pt (flexible / scalable)Focus Normal / Macro Quick AF On/Off (On in Intelligent Auto)， Continuous AF On/Off
+　　AF/MF Switchable， Manual Focus(Jog Dial)， One Shot AF， AF Area Select， AF TrackingAF Assist Lamp
+　　YesISO Sensitivity
+　　Auto / i.ISO / 80 / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* / 12800* (* by pixel mixed readout)
+　　High Sensitivity (ISO 1600-12800)White Balance
+　　
+　　Auto/Daylight/Cloudy/Shade/Flash/Halogen/Color Temperature/ White Set 1 / 2White Balance Note (Selectable at Normal Portrait，Soft Skin，Creative Portrait，Normal Sports，Creative Sports，Objects Close-up，Creative Close-up，Baby，Pet，High Sensitivity，Hi-Speed Burst，Panorama Assist，Photo Frame mode)White Balance Adjustment 2-axis adjustable， ±9steps each， Blue/Amber and Magenta/Green biasExposure
+　　Program AE， Aperture Priority AE， Shutter Priority AE， Manual， Program Shift(Program AE mode)Exposure Compensation
+　　1/3 EV Step， ± 3 EVBacklight CompensationYes (only in Intelligent AUTO mode)Auto Bracketing
+　　(AE
+　　)+/- 1/3 EV ~3EV step， 3 framesLight MeteringIntelligent Multiple
+　　/ Center-weighted
+　　/ Spot
+　　Face Detection Photo & MovieStill Image Scene Mode Portrait， Soft Skin， Self-Portrait， Scenery， Panorama Assist， Sports， Night Portrait， Night Scenery， High Sensitivity， Food， Party， Candle Light， Baby1/2， Pet， Sunset， Hi-Speed Burst， Flash Burst， Starry Sky， Fireworks， Beach， Snow， Aerial photoMovie Scene Mode Portrait， Soft Skin， Self-Portrait， Scenery， Low Light， Food， Party， Candle Light， Sunset， Beach， Snow， Aerial， Pinhole， High SensitivityMovie Scene Mode Note (Activated by selecting Still Picture Scene Mode then pressing movie button. Still Picture Scene Modes without corresponding Movie Scene Mode is recorded in Normal Mode)Shutter Interval approx. 0.5 secSelf Timer
+　　2sec / 10secAuto Review 1sec， 2sec， Hold， OFFPicture Adjustment Contrast +2steps
+　　Sharpness +2steps
+　　Saturation +2steps
+　　Noise ReductionImage Quality RAW， RAW+Fine， RAW+Standard， Fine， Standard4:3 Aspect Ratio (Still Image) 3648x2736(10M) / 3072x2304(7M)/ 2560x1920(5M) / 2048x1536(3M) / 1600x1200(2M) / 640X480(0.3M)3:2 Aspect Ratio (Still Image) 3776x2520 (9.5M) / 3168x2112 (6.5M) / 2656x1768 (4.5M) / 2112x1408 (3M) / 2048x1360 (2.5M) / 640x424 (0.3M)16:9 Aspect Ratio (Still Image) 3968x2232 (9M) / 3328x1872 (6M) / 2784x1568 (4.5M) / 2208x1248 (2.5M) / 1920x1080 (2M) / 640x360 (0.2M)1:1 Aspect Ratio (Still Image) 2736x2736(7.5M) / 2304x2304 (5.5M) / 1920x1920 (3.5M) / 1536x1536 (2.5M) / 480 x 480 (0.2M)Motion Picture Recording 4:3 VGA: 640 x 480 pixels， 30fps (Motion JPEG)
+　　QVGA: 320 x 240 pixels， 30 fps (Motion JPEG)Motion Picture Recording 16:9 WVGA: 848 x 480 pixels， 30 fps (Motion JPEG)Motion Picture Recording HD Movie 1280x720 pixels，60p(CCD output is 30p)
+　　(AVCHD Lite， SH: 17Mbps / H:13Mbps / L:9Mbps)
+　　/ 30fps (Motion JPEG)Aspect Ratio 4:3， 3:2， 16:9， 1:1Intelligent Exposure Photo & MovieReal-time Histograms
+　　YesComposition Guide Lines
+　　Yes (3 patterns)Scene Mode Help Screen YesExternal Flash YesViewfinder
+　　(optional OVF/EVF)LCD Monitor 3.0" TFT Screen LCD Display (460K dots)， AR Coating
+　　Field of View : approx. 100% Wide Viewing Angle
+　　AUTO Power LCD mode， Power LCD mode
+　　High CRI (Color Rendering Index) LED backlightFilm Mode Standard / Dynamic / Nature /Smooth / Vibrant / Nostalgic / Standard B&W / Dynamic B&W / Smooth B&W / My Film 1， 2 / Multi Film
+　　*Works for movie recordingPlayback Mode Normal Playback， Slideshow， Category Playback， Mode Playback， Favorites PlaybackOSD Language English， SpanishRecording Media Built-in Memory， SD Memory Card， SDHC Memory Card， SDXC Memory CardInterface AV Output (NTSC)， mini HDMI， USB2.0 High speedViera Link YesPower ID-Security Li-ion Battery Pack (3.6V， Minimum: 1250mAh) (Included)
+　　AC Adaptor (Input: 110-240V AC) (Optional)Battery Life
+　　400 pictures (CIPA Standard)Built-in-Flash Auto， Auto/Red-eye Reduction， Forced On， Slow Sync./Red-eye Reduction， Forced Off，Flash Synchro; 1st / 2nd
+　　0.8 - 7.2m (Wide/ISO Auto)， 0.3 - 4.4m (Tele/ISO Auto)Included Software PHOTOfunSTUDIO 5.0 HD Edition， SILKYPIX Developer Studio 3.1 SE， QuickTime， Adobe ReaderStandard Accessories Battery Charger， Battery Pack， AV Cable，USB Cable， Shoulder Strap， CD-ROM，Lens Ring Front， Hot Shoe Cover， Lens cap， Lens cap stringMulti-Aspect Yes2-Speed Zoom NoStep Zoom YesMax Auto ISO Setting YesQuick Menu YesContinuous Shooting Mode Full-Resolution Image， 2.5 frames/sec Max. 5 images (Standard mode)， Max. 3 img (Fine Mode)High-speed Burst Mode: approx. 6 frames/sec (img priority) approx. 10 frames/sec (speed priority) recorded in 3M for 4:3，2.5M for 3:2，2M for 16:9，2.5M for1:1)Focus Icon Select Yes (in Face Recognition only)Optical Zoom in Motion Picture YesMacro Zoom NoOrientation Detector YesPlayback Motion Picture Yes ( AVC HD Lite / Motion JPEG)Slideshow Mode All / Still Images Only / Motion Picture Only / Category / Favorites BGM Effect (Natural / Slow / Swing / Urban / OFF)Show Histogram YesShow Highlights YesDelete Image Single / Multi / All / All except FavoritesCut Animation YesPictBridge Support Single / Multi / All / Favorites / DPOFAVCHD / AVCHD Lite REC NTSCOne-Touch Movie Button YesMovie REC Guide YesWind-Cut in Motion Picture YesFlash Burst Continuous Shooting Mode Max. 5 images (Standard mode)Continuous recordable time (Motion images) AVCHD or AVCHD Lite with picture quality set to [FSH or SH] approx.140 min
+　　MOTION JPEG with picture quality set to [HD] approx.140 minActual recordable time (Motion images) AVCHD or AVCHD Lite with picture quality set to [FSH or SH] approx.70 min
+　　MOTION JPEG with picture quality set to [HD] approx.70 minMy Color Mode Expressive /Retro / Pure / Elegant / Monochrome / High Dynamic / Dynamic Art / Dynamic B&W / Silhouette / Pinhole / Film Grain / Custom / Happy (only in iA mode)
+　　*For movie recordingIntelligent ISO Control PhotoFace Recognition PhotoIntelligent Scene Selector Photo (Portrait， Scenery， Night Portrait， Night Scenery， Sunset， Macro) & Movie (Portrait， Scenery， Low Light， Macro)File Format Still Image: JPEG(DCF/Exif2.3)
+　　Image with Audio: JPEG (DCF / Exif2.3) + QuickTime
+　　Motion picture: AVCHD Lite， QuickTime Motion JPEGMode Dial / Mode Button Intelligent AUTO， P(Program) mode， A(Aperture Priority) mode， S(Shutter Priority) mode， M(Manual) mode， Creative Movie mode， My Color mode， Scene mode， Custom 1，2Copy / Title Edit / Text Stamp Yes / Yes / YesDimensions (W x H x D) 4.32 x 2.58 x 1.69 in / excl. protrusions: 1.00 inWeight(lbs) Approx. .61lb with Battery and SD Memory Card
+　　Approx. .51lb without Battery and SD Memory CardExtra Optical Zoom (EZ) 4.5x (4:3 / 7M)， 5.4x (4:3 / 5M)， 6.7x (4:3 / under 3M)Shutter Speed Still: 60 - 1/4000 sec
+　　Movie Mode : 1/30 - 1/20，000 sec (1/8 - 1/20，000 sec on MF operation on Creative Movie mode)
+　　Starry Sky Mode : 15， 30， 60sec.Digital Red Eye Correction (Red-Eye Removal) PhotoMode Switch [Playback] buttonEasy Zoom / Zoom Resume No / YesThumbnails / Zoomed Playback 12，30-thumbnails / Max 16xCalendar Display / Dual-Image Playback Yes / NoSet Favorites / Rotate Image Yes / NoDPOF Print Setting / Set Protection Yes / YesResize / Trim / Aspect Conv. / Leveling Yes / Yes / No / YesTravel Date / World Time Yes / YesBuilt-in-Memory Approx. 40MBMicrophone / Speaker Mono / YesTouch Panel NoIntelligent Zoom 5.0xAF Tracking PhotoIntelligent Resolution Technology Photo & MovieVideo Divide YesFace Recognition Edit YesHDMI output Video: Auto / 1080i / 720p / 480p
+　　Audio: Mono
+

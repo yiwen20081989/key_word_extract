@@ -1,0 +1,10 @@
+Facebook电子邮箱不太可能成为Gmail杀手
+　　导读：科技博客PaidContent本周刊文称，业内普遍认为，Facebook将于下周一推出电子邮箱服务。科技博客TechCrunch将Facebook这一新服务称作“全功能的网页邮箱产品”，并认为该服务将成为“Gmail杀手”。不过，PaidContent认为，任何公司想打入电子邮件市场都不会很容易。
+　　有报道称，Facebook用户将可以创建后缀为“@facebook.com”或“@fb.com”的电子邮箱帐号。此外还有报道称，Facebook电子邮箱服务将被直接整合到微软的网络版Office中。
+　　不过，尽管Facebook目前的规模很大，也拥有大量关于用户的信息，但Facebook进军电子邮件市场并不一定会取得成功。尽管面临Facebook的竞争，但Twitter、Craiglist和Foursquare在各自的领域仍然表现良好。而电子邮件市场比这些市场更难以改变。
+　　用户不会经常更换电子邮箱帐号。Compete本周早些时候发布的数据显示，以流量计算，Gmail仍然远远落后于雅虎邮箱和微软Hotmail，而Gmail推出已经有6年时间。comScore的数据也显示，以独立访问用户数计算，Gmail目前仍落后于雅虎邮箱，仅仅与Hotmail持平。而以月访问量计算，Gmail远远落后于雅虎邮箱和Hotmail，这意味着许多注册Gmail邮箱的用户并不将Gmail作为主要的电子邮件帐户。
+　　Compete的数据还显示，今年所有电子邮箱网站的访问量较去年有所下降，仅仅略高于两年前的水平。根据雅虎CEO卡罗尔·巴茨(Carol Bartz)的说法，这一部分是由于用户越来越多通过社交网络发送短消息，而较少通过电子邮箱发送邮件。Facebook在社交网络领域毫无疑问已经领先。
+　　Facebook或许只是希望保持这一领先优势。雅虎邮箱和Hotmail正逐步添加更多社交功能。例如，雅虎目前允许邮箱用户通过收件箱更新Facebook状态。
+　　MySpace曾经尝试类似的战略，并于去年夏季推出了电子邮箱服务。当时有业内人士认为，MySpace邮箱有潜力成为美国第二大的电子邮箱服务，然而comScore的数据显示，MySpace邮箱在推出后市场份额就一路下滑。
+　　尽管Facebook邮箱不一定能成为“Gmail杀手”，但仍将有助于Facebook与谷歌的竞争。这使得Facebook可以更容易地获取用户的联系人列表。本月早些时候，谷歌不再允许用户将联系人列表导入到Facebook中，并指出Facebook也没有向用户提供方便的好友导出功能。(张楠)
+

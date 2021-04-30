@@ -1,0 +1,7 @@
+微软发布测试版Outlook整合社交网站服务
+　　新浪科技讯 北京时间2月17日晚间消息，据国外媒体今日报道，微软周三发布Beta测试版Outlook Social Connector(以下简称“OSC”)软件，旨在将其电子邮件程序Outlook转变为Facebook和MySpace等流行社交网站信息的集散中心。
+　　微软在去年11月首次披露了这种软件，其功能是当用户点击阅读电子邮件信息时，Outlook邮箱软件的界面底部会显示发件人在社交网站上的最近活动。
+　　业界人士指出，在网络发展趋势方面，微软以往的表现有好有坏，其免费的Hotmail和Windows Live Messenger程序被广泛使用，但Windows Live博客和社交网站则未能在与Facebook的竞争中取得多大成果。在Outlook插件方面，小型创业公司Xobni已经开发了一种软件，能将收件箱搜索与来自于Facebook、LinkedIn及其他社交网站的内容结合在一起。
+　　微软的这种新软件还将Outlook本身视为一个社交网站，如果电子邮件发件人和收件人一同编写存储于某家公司Sharepoint服务器上的文件，那么当其中一方对文件作出编辑后，双方都将看到更新后的内容。Office 2003、Office 2007以及Beta测试版Office 2010用户可从周三起下载更新后的测试版OSC软件。
+　　微软称，Facebook和MySpace插件将在Office 2010今年6月上市时准备就绪，以供用户下载。微软Office团队的企业副总裁威尔·肯尼迪(Will Kennedy)称，微软的部分企业客户称其担心Outlook上的这种额外信息可能会降低员工的生产力，但肯尼迪表示，这种新软件能起到利于商界运作的作用。(唐风)
+

@@ -1,0 +1,6 @@
+ARM Mali-400荣膺智能手机最强GPU
+　　Samsung GALAXY S Ⅱ被戏称为“盖世兔”，Exynos 4210 SoC+ARM Mali-400 GPU打遍天下无敌手，近日外媒放出一张各主流GPU的图形跑分得分柱状图，其中ARM Mali-400高调夺得第二名宝座，荣膺智能手机最强劲CPU宝座。
+　　三星在猎户座芯片组中集成了四核心版的Mali-400 GPU，它的GLBenchmark 2.1 FPS跑分跑到了42.5分，尽管依然落后于苹果iPad 2的PowerVR SGX 543MP2，但它还是比其他智能手机要快1.7——4倍。
+　　不用跑分单靠操作我们也能感觉到，Samsung GALAXY S Ⅱ确实是最顺滑的Android智能手机。
+　　Mali-400的缺点？三角形生成量不算顶级，可能会在未来的一些游戏里遇到障碍。怎么样，你认为市售智能手机中最强GPU是哪颗？
+

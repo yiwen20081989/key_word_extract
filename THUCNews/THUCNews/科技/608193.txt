@@ -1,0 +1,4 @@
+Android主流系统版本Flash10.2本周放出
+　　在今年在巴塞罗那召开的2011MWC大会期间，Adobe宣布即将发布适用于平板电脑Android 3.0(Honeycomb)系统版本的Flash Player 10.2 ，那么时隔一个月后，谷歌联手Adobe再次发出消息，Adobe player 10.2 Beta版将在本周18日正式在Android官方电子市场正式上线，但是本次放出的Flash 10.2仅支持android 3.0(Honeycomb)，同时官方承诺在未来也会全方位支持Android 2.2(Froyo)， Android 2.3(Gingerbread)。
+　　经过内部测试，Adobe本次放出的Flash 10.2并不适用于Android 2.2系统版本，不同于配备了双核的平板电脑，在手机单核环境下运行并不能像平板电脑那样有效的控制电源管理以及流畅完美的通过浏览器渲染视频。当然 Adobe也在不断的优化，相信用不了多久众多的采用Android 2.2系统的手机用户也可以流畅播放视频了。
+

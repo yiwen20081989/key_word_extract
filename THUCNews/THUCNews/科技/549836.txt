@@ -1,0 +1,14 @@
+分析：Twitter增长停滞不利生态圈发展
+　　导读：美国知名科技博客网站VentureBeat今天载文称，自今年7或8月份达到峰值后，Twitter.com美国独立用户访问量开始缓慢下滑，这对Twitter及其生态圈显然是利空消息。
+　　以下为文章全文：
+　　Twitter.com缓慢下滑
+　　市场研究公司Comscore、Compete、美国网络广告创业公司Quantcast以及谷歌的数据都显示，Twitter.com美国独立用户访问量自今年7或8月份达到最高后已出现缓慢下滑。Comscore称，今年10月Twitter.com美国独立用户访问量环比下滑8%，同比增长1271%；Compete认为Twitter.com美国独立用户访问量环比下滑2.1%，同比增长578%。
+　　过去一年Twitter迅速增长的原因有：媒体对名人使用Twitter的报道、Twitter联合创始人兼CEO埃文·威廉姆斯(Ev Williams)上奥普拉·温芙瑞(Oprah Winfrey)主持的访谈节目以及奥普拉使用Twitter。Twitter自9月份以来增长停滞、甚至略微滑坡表明，外界对其兴趣有限，网站的发展巅峰已过。
+　　市场研究公司尼尔森6月份发表报告称，60%新用户注册一个月后会放弃Twitter。尼尔森高管大卫·马丁(David Martin)称，“终有一天新增Twitter用户将少于流失的用户。”尽管今年夏季Twitter获得大量新用户，但许多用户都没有坚持到秋季。
+　　新用户少于流失用户
+　　当然，网站流量并非是衡量Twitter“健康状况”的唯一指标。谷歌的分析数据表明，关键字“twitter”搜索量自夏季中旬达到最高水平后，过去数个月一直在下滑。自夏季达到高峰并回落后，对Twitter应用的搜索量一直保持稳定。由于用户通常在下载应用前进行搜索，对Twitter应用兴趣的稳定意味着用户的增长。但是，由于Twitter应用搜索量与“Twitter”相比非常小，因此带来的新用户不足以弥补流失用户。
+　　Twitpic是人气最高的Twitter应用，在使用桌面或手机版Twitter应用时，用户必须访问Twitpic.com才能访问链接到Twitter消息的照片。Twitpic独立用户访问量可以反映Twitter的使用情况。Compete的数据显示，在过去的一年中，Twitter和Twitpic用户间相关度为0.994，与9月份相比，10月份Twitpic美国独立用户访问量下滑3.5%。
+　　Compete的数据显示，10月份Twitter.com独立用户访问量比9月份减少496336人；Tweetdeck和Seesmic(用户通过这两个网站可以查看和管理他们的Twitter、Facebook等社交网络更新信息)10月美国独立用户访问量为583696人。认为所有用户下载一款应用后将不再访问Twitter.com是不切实际的，因此，Twitter在美国的增长已经停止。
+　　一个值得注意的例外是，过去数月Tweetphoto增长非常迅速。Compete的数据显示，10月份Tweetphoto美国独立用户访问量超过100万。Tweetphoto使用户可以在Twitter和Facebook上共享照片，其增长与越来越多的用户在Twitter上共享照片有关。
+　　业内人士指出，由于增长停止、至今没有可靠的业务模式，Twitter前景堪忧。尽管Twitpic等公司已经制定了可持续发展的商业模式，但如果Twitter用户不再增长，甚至出现下滑，其生态圈中的其他公司也会因此受到不利影响。(志翔)
+

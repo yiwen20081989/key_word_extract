@@ -1,0 +1,6 @@
+iOS4.3截图显示iPad2拥有摄像头(图)
+　　新浪科技讯 北京时间1月21日凌晨消息，据美国科技博客网站MacRumors报道，开发者在iOS 4.3第二个测试版中找到了iPad 2将配置摄像头的证据。
+　　开发者在iOS 4.3测试版中发现了一张名为homeScreenOverlayFaceTime~ipad.png的图片，该图的作用是预览iPad所选壁纸效果。这张图片中出现了FaceTime、照相和Photo Booth应用等图标。
+　　FaceTime功能将允许iPad 2用户与iPhone、iPod touch和Mac用户进行通话，标准的“照相”应用则用于拍照。虽然不能确认是否有后置摄像头，但该图证明iPad 2至少拥有一个摄像头。
+　　另外，这张图片中的日历应用定格的日期为2月9日。按照苹果的传统，可以猜测iPad 2的发布日期为2月9日。(张和)
+

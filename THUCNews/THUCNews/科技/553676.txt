@@ -1,0 +1,9 @@
+Windows Live Messenger Wave 4截图曝光(图)
+Windows Live Messenger Wave 4整合了一些社交网络功能
+　　新浪科技讯 北京时间2月21日下午消息，据国外媒体报道，一位名叫Zukona的用户曝光了一张Windows Live Messenger Wave 4(以下简称“Wave 4”)的最新截图。图片显示，这款全新的软件将支持更多社交网络功能。
+　　这张图片与几个月前泄露的一张图片比较相似，但增加了一些新的功能。除了可以与Windows Live整合之外，这款新软件还支持Facebook和Twitter等社交网络。
+　　用户可以通过界面右下角的“连接到”(Connected to”)按钮选择自己希望连接的社交网络。Facebook等社交网站上的信息可以直接出现在该软件中。业内人士认为，Wave 4可能整合了Facebook的联系人，或是兼容了Facebook Chat的通信协议。
+　　用户还可以借助Wave 4向Windows Live发布更新。在Wave 3中，用户只能够在其他用户的主页上发表评论，而且无法针对该用户的任何信息进行回应，而Wave 4则弥补了这一不足。
+　　Wave 4还整合了SkyDrive和Windows Live Photos服务。用户可以直接通过左边栏预览其他用户更新的图片，从而在第一时间访问这些图片。另外，在状态更新下方还显示有“via SkyDrive”字样，但具体功能不详。
+　　在类似于Zune的导航栏顶端，除了“社交”(Social)和“好友”(friends)外，还新增了两个类别，分别是“MSN”和“游戏”(Games)。(鼎宏)
+

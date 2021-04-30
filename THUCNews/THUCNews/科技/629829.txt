@@ -1,0 +1,13 @@
+分析称不必对Clearwire部署LTE过于吃惊
+　　新浪科技讯 北京时间12月8日消息，据国外媒体报道，分析师今天表示，业内不必对Clearwire未来可能部署LTE技术的声明太过认真，该公司CEO本·沃尔夫(Ben Wolff)只是想在LTE产生的规模效益中保持Clearwire的优势。
+　　上周，美国第三大移动运营商Sprint Nextel和Clearwire宣布，已于本月完成了价值145亿美元的交易，成立WiMAX合资公司，新成立公司名称将为Clearwire。此外，Clearwire还从Comcast 、英特尔、时代华纳、谷歌以及有线网络运营商Bright House Networks等公司获得32亿美元投资。
+　　Clearwire CEO本·沃尔夫当时表示，尽管Clearwire一直致力于WiMAX，但如果需要的话，Clearwire在未来几年内会考虑利用LTE提供宽带服务。上述声明在WiMAX领域引起了不小的反响，并引发了很多关于Clearwire长期计划的推测。尽管如此，分析师认为业内没有必要对沃尔夫的声明太认真。
+　　在刚刚结束的Future of 4G Interactive峰会上，沃尔夫表示，未来的无线领域不会分为两大阵营：LTE和WiMAX。他认为，将设备与多个无线设备和用户连接在一起可以形成一个多重网络。只要消费者在任何时候任何地点都可以用移动设备连接网络，那么无论运营商提供的网络是WiMAX、LTE还是两者的结合都不会成为问题。
+　　按照这个观点，沃尔夫关于Clearwire未来可能考虑部署LTE的言论就不会太令人震惊。事实上，市场研究公司IMS Research的分析师鲍勃·佩雷斯(Bob Perez)认为，沃尔夫的声明只是意味着，Clearwire想在LTE产生的规模效益(economies of scale)中保持自己的优势。
+　　佩雷斯还警告说，双模式WiMAX/LTE可能不会像听起来那么容易，至少在进行缺乏额外的开发前，这两个网络可能无法和谐地共存。当然，任何一种双模式的技术方案都会像最初设想的那样简单。(古海)
+    相关新闻：
+    WiMAX运营先驱Clearwire考虑部署LTE
+    Sprint和Clearwire完成WiMAX合资公司交易
+    WiMAX运营先驱Clearwire用户数达40万
+
+

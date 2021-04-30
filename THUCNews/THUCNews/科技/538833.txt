@@ -1,0 +1,6 @@
+Google发布测试版Mac Picasa
+　　据外国媒体报道，昨天下午，Google发布了测试版Mac上可用的图片管理工具Picasa。Mac版本的Picasa可在英特尔Mac机器上运行，操作系统为苹果OS X 10.4以上。
+　　这是Google首次为Mac操作系统推出Picasa.Picasa旨在让用户管理、编辑、上传自己的照片，此次推出的Picasa版本也集成了Picasa网络相册在线图片分享服务。此前，Mac用户只能使用Google的iPhoto插件或者单独的上传软件才可以使用该服务。
+　　Picasa产品市场经理Jason Cook表示说：“有数以百万计的Mac用户在使用Picasa网络相册，发布Mac版Picasa可以让他们有更好的体验。”
+
+

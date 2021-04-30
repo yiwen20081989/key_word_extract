@@ -1,0 +1,6 @@
+Adobe推Android版Photoshop应用
+　　新浪科技讯 北京时间3月5日晚间消息，据国外媒体报道，Adobe周四针对Android手机推出了新版的Photoshop.com移动应用。
+　　新版Photoshop.com应用加入了更多编辑选项，例如使照片色彩更鲜艳，以及使照片呈现流行艺术风格等。最重要的是，新版Photoshop.com应用可以被手机中的其他程序调用。Adobe表示：“第三方应用开发者可以使用Photoshop.com移动应用，使Photoshop成为他们所开发应用的一部分。”
+　　Adobe发布Android版Photoshop被认为是对苹果的回应。苹果此前拒绝在iPhone(手机上网)和iPad中加入Adobe的Flash播放器。
+　　Adobe数字图像及富媒体解决方案集团总经理道格·马克(Doug Mack)表示：“与iPhone不同，Android平台允许我们向开发者开放Photoshop.com编辑器，他们可以在任何应用中提供这款编辑器。用户则可以在各类应用中使用它，在发布图片之前方便地修改图片，使图片看起来更漂亮。”(维金)
+

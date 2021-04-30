@@ -1,0 +1,47 @@
+职称英语阅读新增文章及参考答案之理工类(2)
+　　阅读第六篇：编制灯光
+　　Weaving with Light
+　　In the Sierra Madre mountain range of west central Mexico1, the native Huichol people2 live much the way their ancestors did—without electricity. That's because it's too expensive to string power lines3 to the remote mountain areas where they live. To help support themselves, the Huichol create beautiful artwork. They sell their art in cities hundreds of miles away from their villages. And without electricity—at home or on the road, they can only work during daylight hours. When it gets dark, they must stop whatever they're doing。
+　　Now, a team of scientists, designers, and architects is using4 new technologies to provide the Huichol with light after the sun sets. The scientists' technique involves weaving tiny electronic crystals into fabrics that can be made into clothes, bags, or other items。
+　　By collecting the sun's energy during the day, these lightweight fabrics provide bright white light at night. Their inventors have named the fabrics "Portable Lights." Portable Lights have the potential to transform the lives of people without electricity .around the world, says project leader Sheila Kennedy。
+　　"Our invention," Kennedy says, "came from seeing how we could transform technology we saw every day in the United States and move it into new markets for people who didn't have a lot of money."
+　　At the core of5 Portable Light technology are devices called high-brightness light-emitting diodes, or HB LEDs6. These tiny lights appear in digital clocks, televisions, and streetlights。
+　　LEDs are completely different from the light bulbs. Most of those glass bulbs belong to a type called incandescent lights. Inside, electricity heats a metal coil to about 2, 200 degrees Celsius. At that temperature, bulbs give off light we can see。
+　　Ninety percent of energy produced by incandescent lights, however, is heat — and invisible. With all that wasted energy, bulbs burn out quickly. They are also easily broken。
+　　LEDs, on the other hand, are like tiny pieces of rock made up of molecules that are arranged in a crystal structure. When an electric current passes through an LED, the crystal structure produces light. Unlike incandescent bulbs, they can produce light of various colors. Within an LED, the type of molecules and their particular arrangement determines what color is produced。
+　　练习：
+　　1. To make a living, the Huichol create artwork and
+　　A. sell it to tourists in their villages。
+　　B. sell it in cities far away from their villages。
+　　C. display it in their village museum。
+　　D. keep it in their homes to attract tourists。
+　　2. Why can Portable Lights emit light?
+　　A. Electronic crystals are woven into fabrics。
+　　B. Items such-as clothes and bags are used to carry lights。
+　　C. The sun's energy is collected during the day。
+　　D. All of the above。
+　　3. What does Sheila Kennedy say about Portable Lights?
+　　A. This invention can change the lives of people, both rich and poor。
+　　B. They are widely used in the United States。
+　　C. Portable Lights can help poor people around the world to get light。
+　　D. They are expensive to make but easy to carry。
+　　4. What is the most important part of the Portable Light technology?
+　　A. HB LEDs
+　　B. Glass Bulbs。
+　　C. Incandescent lights。
+　　D. Heated metal coils。
+　　5. LEDs are different from light bulbs in that
+　　A. LEDs are incandescent lights while light bulbs are not。
+　　B. LEDs have a metal coil while light bulbs have not。
+　　C. LEDs emit colored light while most light bulbs don't。
+　　D. LEDs are made up of tiny pieces of rock while light bulbs are not。
+　　译文：
+　　在墨西哥中西部的马德雷山脉，维克人过着与祖先类似的生活——他们不是用电，因为在他们居住的偏远山区架设电线成本太大。维克人以制作精美的工艺品为生，他们到几百英里以外的城市去销售工艺品。因为家里和路上都没有电，他们只能白天工作，天一黑就不得不停下手中的活计。
+　　如今，一个由科学家、设计师和建筑师组成的团队正在利用新技术为维克人在太阳下山之后提供光亮。科学家的技术将小小的电晶体编入纺织品内，纺织品可以做成衣服、袋子和其他物品。
+　　这些纺织品白天收集太阳能，晚上可以发出明亮的白光。发明者将这些纺织品命名为“移动光源”。项目负责人希拉·肯尼迪称，移动光源有可能改变全世界用不上电的人们的生活。
+　　肯尼迪说，“这一发明的动力是我们可以改变美国日常所见的技术，用来服务那些不富裕的人们。”
+　　移动光源技术的核心是高亮度发光二极管，已经在电子钟、电视和路灯中得以应用。
+　　发光二极管与电灯泡完全不同，玻璃灯泡大多是白炽灯，内部用电将金属丝加热到2,200摄氏度以上。这种温度下，灯泡发出我们能看到的光。
+　　但是，白炽灯散发的能量90%都是热量，而热量是不可见的。因为浪费了很多能量，白炽灯消耗能量的速度很快。另外，白炽灯也很容易损坏。
+　　而发光二极管如同由按照晶体结构排列的分子组成的小块石头，电流通过发光二极管时，晶体结构就会发光。而白炽灯不同，发光二极管可以发出各种颜色的光。发光二极管内部的分子类型和排列方式决定了光的颜色。
+

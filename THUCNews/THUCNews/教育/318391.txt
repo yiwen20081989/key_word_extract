@@ -1,0 +1,32 @@
+雅思考官评判字数的几个标准问答
+　　雅思写作考试有着明确的字数要求，Task 1至少150字，Task2至少250字。但许多雅思考生还是会有这样的疑问，考官在评判雅思写作考卷的时候，是如何统计字数的呢？标点符号算字数吗？像‘and,’ ‘is,’ ‘that,’ ‘in,’ ‘a,’ ‘an’ ,‘the’这样的单词算字数吗？如果字数不够会扣分吗？本文就将引用雅思考纲以及一些官方发布的材料来，并结合考生的疑问，分类解释一下雅思考官评判字数的几个标准。
+　　一、雅思写作的最低字数要求是什么？不到字数如何扣分？　　
+　　答：Candidates must write at least 150 words for their Task 1 report or letter, and at least 250 words for their Task 2 essay. Answers under the minimum number of words are penalisedusing a sliding scale system. This means that the more an answer is under length, the greater the penalty is. Details of the level of the penalties are confidential.
+　　二、照抄题目的部分算字数吗
+　　答：A group of words that have been copied straight from the exam paper are not included in the word count. For example, if the words “young people are often encouraged” are taken from the question paper without any change, five words are taken off the answer’s total word count. This may result in a marking penalty for an underlengthanswer.
+　　三、那对题目文字进行微小的改动可以吗？
+　　答：Wording that has been taken from the question paper with only very small changes in the words, or in the word order, is not counted. The answer receives a marking penalty if the new total word count is now less than the minimum number of words for Task 1 or Task 2 answers.
+　　四、既可以拼写成一个单词也可以拼写为两个单词时，怎么算字数？
+　　答：Words that can be written as one or two words, dependingon the dictionary used or general usage, are counted as they’re written on the answer sheet. For instance, “per cent” is counted as two words, but “percent” is only counted as one word.
+　　五、两个单词误拼写为一个单词，怎么算字数？
+　　答：Compounds that are normally written as two words (e.g., “bus stop”) butwhich have been wrongly written as one word (“busstop”) count as only one word. Similarly, “eventhough” - the incorrect joining of the two words “even though” - is counted as one word. This acts as a marking penalty for the error by the candidate.
+　　六、一个单词误拼写为两个单词，怎么算字数？
+　　答：Words that are normally written as one word but that have been written as two words count as only one word. For example, the examiner would count “draw backs” (written instead of the noun “drawbacks”) as only one word, not two words, because the candidate has made a mistake.
+　　答：Numbers (currency, percentage, temperature, distance and weight) count as one word if they are written using numbers and symbols (e.g., “17,000,000,” “17m,” “$55” and “14%”). However, they count as two or more words if they’re written using numbers and words (e.g., “17 million,” “55 dollars” and “14 percent”).
+　　八、有连字符或者缩写的单词如何统计字数？
+　　答：Words that are hyphenated (e.g., “self-evident”) or contracted (e.g., “shouldn’t”) count as one word.
+　　九、符号和缩写如何统计字数？
+　　Words that are written as a symbol(e.g., using “&” instead of the word “and”) or as an abbreviation (e.g., writing “i.e.” instead of “that is”) count as one word.
+　　十、书信中的称呼和结束语算字数吗？
+　　答：In General Training Task 1, the opening and closing phrases (e.g., “Dear Mr May” and “Yours sincerely”) and the candidate’s name at the end of the letter are not counted.
+　　十一、日期怎么算字数？
+　　答：Depending on the form. used, dates may count as one word (e.g., “29/1/2008”), two words (e.g., “January 2008” and “29th January”) or three words (e.g., “29th of January”).
+　　十二、标题算字数吗？
+　　答：Titles or headings (at the top of letters or essays, and at the beginning of paragraphs) are not included as part of an answer’s word count.
+　　十三、没写完的句子算字数吗？
+　　答：Words are counted whether they’re part of a whole sentence or an unfinished sentence (e.g., if the words are in an incomplete sentence at the very end of the answer).
+　　十四、删除掉的句子算字数吗？
+　　Words that have been crossedout aren’t counted.
+    更多信息请访问：新浪雅思频道 雅思论坛 雅思博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

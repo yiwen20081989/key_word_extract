@@ -1,0 +1,5 @@
+Snapdragon助阵 HTC推首款CDMA WP7手机
+　　日前，HTC和美国运营商Sprint宣布，全球首款采用CDMA制式的Windows Phone 7手机HTC Arrive将于3月20日在Sprint正式开售。其签约售价为199.99美元，合约期为2年。
+　　HTC Arrive采用时下非常流行的侧滑QWERTY全键盘搭配触摸屏幕设计，拥有3.6英寸WVGA分辨率电容式触摸屏幕，此外这款手机还配备有一枚支持720p高清视频拍摄的500万像素摄像头，拥有16GB容量机身储存空间。同时我们还能够在手机上体验到微软Office全面的服务，Windows Phone 7专属Game Hub以及XBOX Live的出色游戏体验。
+　　HTC Arrive出色的性能离不开强劲的核心。高通主频为1GHz的Snapdragon处理器抢进的性能为这款手机给用户带来出色体验提供了基础。目前上市 的所有Windows phone 7手机都采用高通公司Snapdragon芯片。高通方面曾表示，Snapdragon处理器帮助Windows Phone 7史无前例地将移动处理性能、强大的多媒体功能、无线连接及最优的功耗管理整合在一起，为世界各地的消费者重新定义了“移动”的理念。
+

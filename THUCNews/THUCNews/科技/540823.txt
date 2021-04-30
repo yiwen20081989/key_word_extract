@@ -1,0 +1,8 @@
+传Facebook开始考虑用户实名地址问题
+　　新浪科技讯 北京时间3月14日上午消息，科技博客TechCrunch创始人迈克尔·阿灵顿(Michael Arrington)日前撰文称，Facebook正在认真考虑用户实名地址问题。MySpace采用的就是实名地址，如阿灵顿的网页地址是myspace.com/mikearrington。
+　　阿灵顿称，他在Facebook的个人网页不是Facebook.com/michaelarrington，而是facebook.com/profile.php?id=500065899，这肯定不易让人记住，因此网民必须通过搜索才能找到网页。MySpace的实名地址颇受欢迎，其原因就在于网民喜欢拥有实名，而不仅是IP地址。
+　　阿灵顿称，Facebook的政策正发生明显变化，至少是对于某些网页而言，如乐队、名人、品牌公司等拥有了实名地址。不过，拥有实名地址的网页一直很少，因为去年8月，Facebook发表了以下声明：
+　　不幸的是，我们目前不能批准实名地址申请。现有实名地址的网页所有者是和我们有合作关系的乐队和公司，以发布产品之用。我们希望这类地址在今后适用于所有用户的个人网页。当这一功能推出时，我们会在www.facebook.com/help.php?page=60上提供如何获取实名地址的步骤。我们为目前所造成的不便表示遗憾。
+　　阿灵顿称，不过，现在看起来Facebook正在让更多的用户拥有实名地址。Digg创始人凯文·罗斯(Kevin Rose)周四上午申请到了一个。女演员戴米·摩尔(Demi Moore)及其丈夫阿什顿·库切尔(Ashton Kutcher)都有一个。但TechCrunch目前还没有。(志伟)
+
+

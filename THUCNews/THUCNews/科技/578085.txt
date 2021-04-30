@@ -1,0 +1,7 @@
+Facebook虚拟交易自7月1日起强制使用Credits
+　　【TechWeb报道】7月1日消息，据国外媒体报道，Facebook在7个月前警告开发者称，从今年7月1日起，该平台所有开发者都被要求使用Facebook Credits，尽管如此，很多游戏开发商在最后期限还在匆忙升级游戏。
+　　这意味着从7月1日起，Facebook游戏玩家购买虚拟物品就必须使用Credits了，而不能再使用其它支付服务，比如PayPal。一旦购买Credits，就可以在所有Facebook应用中使用。
+　　很多开发商从一年前就开始部署Credits，Facebook在今年1月份宣布该决定的时候，不少游戏开发商就已经开始支持Facebook Credits。Facebook当时宣称，来自150家应用开发商的350款应用已经开始使用Facebook Credits，占所有虚拟商品交易额的70%。
+　　Zynga、Playfish、CrowdStar、Digital Chocolate、Lolapps和PopCap等大型游戏开发商早就做好了准备，已经运行了一段时间。Facebook表示，推出Facebook Credits的主要目标是让用户的支付更直接，其实该公司可以通过这些交易获得30%的分成。
+　　Facebook Credits刚推出的时候，遭到了很多游戏开发商的批评，但是随着时间推移，这些游戏商惊喜的发现，Facebook Credits很易于使用，且创收效果佳。(张蓝蓝)
+

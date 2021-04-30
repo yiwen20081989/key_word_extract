@@ -1,0 +1,8 @@
+微软在英发布Office Web Apps
+　　新浪科技讯 北京时间6月8日晚间消息，据国外媒体今日报道，微软已经通过其SkyDrive网络存储服务在英国市场上发布了免费的Office网络版“Office Web Apps”。
+　　微软计划逐步推出Office Web Apps应用，目前仅有美国、爱尔兰、英国和加拿大用户可使用这种服务。微软已经将Office Web Apps应用放入Windows Live服务序列，使其与Hotmail处于同一序列中，这与谷歌文件和Gmail的结合相似。
+　　微软将在6月15日面向全球其他国家发布Office Web Apps，该公司此前曾将这种应用称为“Office 2010的网络同伴”。用户可利用Office Web Apps在手机、PC和苹果Mac电脑上浏览、创建、编辑和共享Word 2010、PowerPoint 2010、OneNote 2010和Excel 2010文件。用户还可通过IE、Safari和火狐浏览器使用这种服务，但不能通过谷歌Chrome使用。(唐风)
+　　新浪科技讯 北京时间6月8日晚间消息，据国外媒体今日报道，微软已经通过其SkyDrive网络存储服务在英国市场上发布了免费的Office网络版“Office Web Apps”。
+　　微软计划逐步推出Office Web Apps应用，目前仅有美国、爱尔兰、英国和加拿大用户可使用这种服务。微软已经将Office Web Apps应用放入Windows Live服务序列，使其与Hotmail处于同一序列中，这与谷歌文件和Gmail的结合相似。
+　　微软将在6月15日面向全球其他国家发布Office Web Apps，该公司此前曾将这种应用称为“Office 2010的网络同伴”。用户可利用Office Web Apps在手机、PC和苹果Mac电脑上浏览、创建、编辑和共享Word 2010、PowerPoint 2010、OneNote 2010和Excel 2010文件。用户还可通过IE、Safari和火狐浏览器使用这种服务，但不能通过谷歌Chrome使用。(唐风)
+

@@ -1,0 +1,5 @@
+报告称WP7应用普遍比iPhone和Android便宜
+　　新浪科技讯 北京时间11月27日凌晨消息，据研究公司Distimo报告称，微软Windows Phone 7手机付费应用平均价格为1.95美元，低于iPhone、Android、黑莓等几乎所有竞争平台应用平均价格。
+　　报告显示，在Windows Phone 7平台最热门100个应用中，57%的价格低于2美元。这与上一代Windows Mobile平台的情况大不相同。Windows Mobile应用的平均价格远远高于其他所有竞争平台。
+　　Distimo还披露了另外一组有趣的数据。除了Windows Mobile，Android Market前100名付费应用的平均价格也比iPhone平台更高。但如果将所有的付费应用都考虑进去，Android应用价格仍然比iPhone应用价格低，这可能是因为Android用户更喜欢点击广告而不愿付费。(张和)
+

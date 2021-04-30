@@ -1,0 +1,21 @@
+谷歌颁发首批“谷歌专注研究奖”
+　　新浪科技讯 北京时间2月2日晚间消息，据国外媒体报道，谷歌周二颁发了首批“谷歌专注研究奖”(Google Focused Research Awards)。这一奖项主要授予那些在与谷歌利益相关的领域中进行的研究。
+　　这一奖项有效期为2至3年，获奖者将获准使用谷歌的工具、技术和专业知识。此次，谷歌将这一奖项授予10所大学31名教授开展的12个项目。获奖情况如下：
+　　机器学习：
+　　-William Cohen、Christos Faloutsos、Garth Gibson和Tom Mitchell，卡耐基梅隆大学
+　　将手机作为数据采集设备，用于公共卫生和环境监测：
+　　-Gaetano Borriello，华盛顿大学；Deborah Estrin，加州大学洛杉矶分校
+　　计算的节能性：
+　　-Ricardo Bianchini，鲁特格斯大学；Fred Chong，加州大学圣芭芭拉分校；Thomas F. Wenisch，密歇根大学；Sudhanva Gurumurthi，弗吉尼亚大学
+　　-Christos Kozyrakis、Mark Horowitz、Benjamin Lee、Nick McKeown和Mendel Rosenblum，斯坦福大学
+　　-David G. Andersen和Mor. Harchol-Balter，卡耐基梅隆大学
+　　-Tajana Simunic Rosing、Steven Swanson和Amin Vahdat，加州大学圣迭戈分校
+　　-Thomas F. Wenisch、Trevor Mudge、David Blaauw和Dennis Sylvester，密歇根大学
+　　-Margaret Martonosi、Jennifer Rexford、Michael Freedman和Mung Chiang，普林斯顿大学
+　　隐私问题：
+　　-Ed Felten，普林斯顿大学
+　　-Lorrie Cranor，卡耐基梅隆大学
+　　-Ryan Calo，斯坦福大学互联网及社会研究中心
+　　-Andy Hopper，剑桥大学计算机实验室
+　　随着谷歌继续确认那些符合大学研究者和谷歌双方共同利益的关键研究领域，谷歌将继续颁布这一奖项，支持与大学的合作。(维金)
+

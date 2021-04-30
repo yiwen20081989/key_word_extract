@@ -1,0 +1,9 @@
+AMD全新一代45nm笔记本处理器解析
+　　9月10日，AMD正式发布了全新的笔记本平台品牌“Vision”、Vision品牌下的新一代主流笔记本平台“Tigris”，以及随之而来全新45纳米系列处理器。
+　　当前AMD的Puma笔记本平台使用的处理器还是65nm工艺，而Tigris平台会全面进化到45nm，分为四个系列，共计八款型号，全线支持AMD-V虚拟化技术。品牌方面炫龙Turion、速龙Athlon都升级到第二代，闪龙Sempron则没有。　　
+　　最高端的处理器是“Turion II Ultra Dual-Core Mobile M600”系列，双核心，包括M640/M620/M600三款型号，主频2.6/2.5/2.4GHz，HT总线速度3.6GT/s，二级缓存2MB，热设计功耗35W，支持128b浮点计算，最大处理器带宽27.2GB/s。次之则是“Turion II Dual-Core Mobile M500”系列，双核心，包括M520 2.3GHz和M500 2.2GHz两款，二级缓存减少到1MB，其它规格同上。　　
+　　再下一阶的是“Athlon II Dual-Core Mobile M300”系列，双核心，有M320 2.1GHz和M300 2.0GHz两款型号，二级缓存仍是1MB，不过仅支持64b浮点计算，HT总线速度降至3.2GT/s，带宽也减少到25.6GB/s，热设计功耗还是35W。最后垫底的是“Sempron Mobile M100”系列，唯一的单核心，而且只有M100 2.0GHz一款，二级缓存仅为512KB，不过热设计功耗也降低到了25W。
+　　AMD宣称，Tigris平台可带来43％的视频转码速度提升、62％的无线下载速度提升和55分钟以上的电池续航时间。　　
+　　除了面向主流市场的Tirgirs，AMD还会推出第二代超轻薄笔记本平台“Goldeye”，处理器采用双核心的Athlon Neo X2和Turion Neo X2，LP BGA封装，热设计功耗18W，集成显卡计划到780G核心的DX10级别Mobility Radeon HD 3200，独立显卡可搭配Mobility Radeon HD 3410/4000系列，支持混合交火Hybrid Graphics和集显/独显切换PowerXPress。相比第一代Yukon，新的Goldeye平台可以将电池续航时间延长最多22％。　　
+　　AMD Vision计划已经获得惠普、宏?、微星、富士通等笔记本厂商和OEM厂商的支持，主流平台Tigris和二代超轻薄平台Goldeye的实际产品都会和Windows 7同步零售上市（10月底），还会有两款配套软件：Fusion Media Explorer、Fusion Utility for Mobitliy。另外，AMD移动版的DX11 Evergreen显卡(Mobility Radeon HD 5000系列)由于要到明年上半年才会推出，Tigris、Goldeye笔记本最初不会并不会配备DX11显卡，但后期可能会有此升级。
+

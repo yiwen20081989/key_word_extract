@@ -1,0 +1,8 @@
+进军嵌入式市场 Intel推新款Atom处理器
+作者：东子   
+　　对Intel Atom有所了解的朋友，肯定知道Intel Atom是分开会个不同平台的，它们分别是Menlow和Shelton平台。Menlow平台的Z5XX系列处理器的特点是省电，多用于UMPC或者MID之上。比如目前市场已经有的Z500的aigo MID[报价 参数 图片] P8860、Z520的Kohjinsha SC、Z530的Fujistu U2010以及Sony VAIO P等等。而且其产品发展更推向Netbook 市场，MSI、Asus等也即将推出基于Menlow平台的 Netbook产品。
+　　但是在以上的产品中，大家是不是留意到当初Intel推出Z5XX系列时谈到的Z510系列好像仍然不见有产品支持呢？本周初，Intel正式公布推出Z510 及Z510P，它特别 针对嵌入（Embedded)）式市场，Intel更首次明确表态这是一款瞄准手机，或者所谓的“媒体手机”（Media Phones）的处理器。
+　　Intel Atom Z510和Z510P都是主频1.1GHz，二级缓存512KB，前端总线400MHz。Atom Z510 的最大TDP只有2W ，而Z510P为2.2W，配合Intel System Controller Hub US15W （或称 Poulsbo）芯片组的功耗低于5W。是一个十分省电的处理器平台。
+　　虽然如此，但别期望Atom处理器会用在太多智能手机上。这要等到下一版Moorestown 出来才有可能（预计年底或明年）。该芯片会比目前的Atom版本更省电十倍，如此才能符合智能手机的耗电力需求，并有更好的整合性。Moorestown 已经有LG确定用在未来的智能手机上。
+
+

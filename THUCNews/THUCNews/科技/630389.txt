@@ -1,0 +1,11 @@
+Adobe与苹果合作开发iPhone版Flash
+　　新浪科技讯 北京时间2月1日上午消息，据国外媒体报道，Adobe CEO山塔努·纳拉延(Shantanu Narayen)日前在出席达沃斯世界经济论坛时表示，将与苹果合作为iPhone(手机上网)手机开发一款Flash软件。
+　　纳拉延在接受采访时称：“这是一个很大的技术挑战，需要苹果与Adobe合作完成。”纳拉延同时指出，对当前所取得的进展表示满意。
+　　苹果联合创始人史蒂夫·乔布斯(Steve Jobs)一年前曾表示，问题在于Flash软件本身，因为台式机版Flash软件十分耗费资源，iPhone手机的处理器和内存均无法适应。
+　　至于精简版的Flash Lite，乔布斯认为其在播放网页视频或复杂动画等方面的功能有限。乔布斯认为，介于台式机版和Flash Lite之间的一款Flash比较适合iPhone。
+　　与此同时，手机厂商对HTML 5标准表现出浓厚兴趣，并与Mozilla和Opera等浏览器厂商合作，希望用HTML 5来代替Flash。HTML 5可实现Flash的许多功能，同时又比Flash节省资源。(李明)
+    相关报道：
+    3G版iPhone推出不足半年在美激活逾400万部
+    谷歌Android应用商店不敌苹果iPhone
+
+

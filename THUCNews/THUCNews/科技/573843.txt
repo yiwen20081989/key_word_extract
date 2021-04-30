@@ -1,0 +1,5 @@
+LinkedIn将推最新开发者平台
+　　新浪科技讯 北京时间4月7日早间消息，美国职业社交网站LinkedIn宣布，该公司将面向所有开发者推出翻新后的开发者平台，其中包括速度更快的JavaScript应用程序接口和可定制插件。
+　　LinkedIn在2009年首次推出了最初的开发者平台，该平台包括一整套应用程序接口，允许第三方应用开发者将LinkedIn的各个方面整合到应用中去。但是，这个平台缺少OAuth 2.0和JavaScript应用程序接口支持等功能。在过去几个月时间里，LinkedIn一直都在测试这些功能。
+　　新的LinkedIn开发者平台和网站允许任何开发者使用这些应用程序接口，此外这个新平台还向可定制插件开放，如“Sign in with LinkedIn(注册LinkedIn)”按钮和“LinkedIn Share(LinkedIn共享)”按钮等。(唐风)
+

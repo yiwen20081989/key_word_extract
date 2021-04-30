@@ -1,0 +1,4 @@
+破解组织宣布4日起已有近27万部iPhone成功解锁
+    新浪数码讯 北京时间8月5日16点41分，破解组织iPhone_Dev在Twitter上宣布，自8月4日起，有来自213个国家的267756部iPhone（包括各代iPhone，应该以iPhone 4居多）解锁成功。
+    8月2日早上5时许，破解组织“iPhone_Dev”终于放出了iPod touch/iPhone/iPad最新版固件4.0/4.01/3.2.1的越狱程序jailbreakme.com（使用需要越狱的设备访问即可）和iPhone 3G/3GS的解锁程序。8月4日14点40分，iPhone 4的解锁程序才放出，越狱后的iPhone在Cydia里进入repo666.ultrasn0w.com下载ultrasn0w即可完成锁网版iPhone的破解。（臧智渊）
+

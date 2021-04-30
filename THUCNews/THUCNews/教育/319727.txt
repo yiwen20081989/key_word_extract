@@ -1,0 +1,19 @@
+浅析避免GRE作文雷同问题：培养独立思考能力
+　　ETS在GRE作文评分部分讨论到独立智力活动的问题：
+　　Independent Intellectual Activity. Essay responses on the Analytical Writing section will be reviewed by ETS essay-similarity-detection software and by experienced essay readers during the scoring process. In light of the high value placed on independent intellectual activity within United States graduate schools and universities, ETS? reserves the right to cancel test scores of any test taker when there is substantial evidence that an essay response includes, but is not limited to, any of the following:
+　　由此可见，GRE的雷同处理将包括软件的使用和阅卷员审核两部分。那么软件这一部分来讲，我们有理由相信它主要是针对背诵范文的考生，运用计算机的范文数据库检测答卷中是否有某一段文字为抄袭。而对付阅卷员，则需要更加仔细的避开以下ETS所列出的雷区：
+　　Text that is similar to that found in one or more other GRE essay responses
+　　这里讲的就是你的文字和其他考生的文字很接近。相信这项检查将由计算机完成，其原理和turnitin相同。要避免这一点关键是不要背范文，以及要自己来写。有同学会问如果句式一样、内容不同行不行，我的看法是可以，因为你的句子不会和数据库中其他同学任何一个句子相似。
+　　Quoting or paraphrasing, without attribution, language that appears in published or unpublished sources
+　　这里提到的是学术写作中的一个经典问题，就是引述别人的文字时，需要指明这是原作者的工作，而不能将别人的工作据为己有。这里强调的是语言，因此只要每一句话都是你自己造的就不会有这个问题。如果是引用别人的话，就注明出处即可。第二项也有可能通过计算机完成一部分，比如将一些名人名言录入数据库。
+　　3) Unacknowledged use of work that has been produced through collaboration with others without citation of the contribution of others
+　　这一项指的是在作文中使用了和别人合作的成果而未能引述他人的贡献。比如说考生A和考生B在讨论题库的过程**同想出了某个思路，那么两个考生在考试中使用这个思路时都必须引述另一个考生也参与了这个思考的事实。我想这条规则主要是针对考生在作文中重复使用相同的思路和例证。其实，ETS并没有禁止使用别人的东西，而只是强调用了别人的东西，一定要记得给别人相应的credit。
+　　Essays that are submitted as work of the examinee when the words have, in fact, been borrowed from elsewhere or prepared by another person。
+　　注意本项和第三项的关键词有区别，第三项用的是work,是一个很宽泛的概念，涵盖的内容包括文章的思路、例证等；而本项的关键词是words,实际上就是text,这一点和第一项是一致的。第一项强调的是和其他考生的雷同而本项则是和其他已发表文章的雷同。
+　　以上是笔者对ETS政策说明的解释，属于个人观点，仅供参考。接下来，我们可以从独立创作原则的正面角度来讨论如何避免因雷同而被取消成绩。要想避免雷同，考生应从以下几个方面努力：
+　　1) 在观点上要具有洞察力，要有自己的原创特色。观点是GRE作文考试的核心内容，考察考生能否对一个issue进行深入分析与思考并最终提出一个有层次的观点。有了原创观点就不用担心雷同。我这样说也许有有点像让快饿死的人去吃肉粥。如果真的要借鉴范文观点，我建议应该尽可能做一些调整，以避免第二个雷区。或者干脆在文中讲明这个思路是借鉴了哪一本参考书的。美国人对真小人比对伪君子要宽容。
+　　2) 在语言上可以使用一些范文的句式，但是绝对不能照抄原文，而是要换掉一些关键词。或者如果要借用关键词，则必须使用别的句式。
+　　3) 在结构上可以采取声东击西的策略，比如把北美范文用在120题的结构和破题策略用在210题上。
+　　4) 在例证方面，使用范文用过的例证没有问题，哪怕用那些被判雷同的例证也没问题。例证是人类的共同知识，谁都可以使用，关键是我们不能用和范文作者同样的思路和语言来诠释例证并展开类似的论证。因此，越是耳熟能详的例证如牛顿与苹果树、爱迪生孵蛋，要写出原创的内容就越困难，雷同的危险就越大。
+　　总的来说，取消分数是一件很严重的事情，ETS决不会轻易的下手。这个政策背后的原则就是原创性，需要考生有自己的思想、自己的例证和自己的语言。我们一方面可以在政策允许的范围内对范文进行合法、合理的使用，另一方面更要积极培养我们自己的独立思考能力，从根本上解决雷同问题。
+

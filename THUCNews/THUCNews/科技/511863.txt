@@ -1,0 +1,5 @@
+45MBs写入 SanDisk发布UHS-I极品SDHC卡
+　　继两周前的128GB容量，速度超100MB/s的Extreme  Pro系列CF卡后，SanDisk公司今天又发布了同为Extreme Pro系列的顶级SD卡产品，符合SD 3.0版规范，读写速度达到45MB/s。
+　　Extreme Pro SDHC卡采用SanDisk独家Power  Core控制器，支持UHS-I高速接口，符合UHS Speed Class  1高清视频存储标准规范。读写速度均超过45MB/s，满足高分辨率高速连拍和高清视频拍摄的存储需求。
+　　该卡容量分为8GB、16GB和32GB三款，售价介于109.99到349.99美元之间。SanDisk同时还发布了ExpressCard接口的SD/SDHC/SDXC卡读卡器，支持UHS-I接口规范，售价49.99美元(约合人民币330元)。
+

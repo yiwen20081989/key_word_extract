@@ -1,0 +1,4 @@
+微软正式公布WP7系统基于win CE7内核
+　　微软具有划时代意义的全新智能手机操作系统Windows Phone7自从面世以来，引发了众多的关注和猜测。尤其是关于Windows Phone7系统内核的问题一直没有定论。
+　　现在这一谜题终于解开了，微软Windows CE部门的一位员工在其博客中确认Windows Phone 7内核是基于全新的Windows CE 7(Windows Embedded Compact 7)。这让曾经一度认为Windows Phone7是基于WinCE 6内核的人们都大感意外，因为上一代操作系统Windows Mobile 6.x是基于Win CE 5内核。同时也引出一个疑问：WinCE 6内核到哪里去了？
+

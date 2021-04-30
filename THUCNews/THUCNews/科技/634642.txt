@@ -1,0 +1,9 @@
+HD2是否支持Windows Phone 7尚未敲定
+　　新浪科技讯 北京时间3月17日午间消息，据国外媒体报道，宏达电与T-Mobile周二面向美国市场合作发布了备受期待的HD2手机，但双方均表示，目前还不准备在该设备中安装即将上市的Windows Phone 7 Series操作系统。
+　　这款产品搭配4.3英寸触摸屏，采用Windows Mobile 6.5专业版操作系统。HD2最早于去年10月在欧洲发布，而微软则表示，Windows Mobile 6.5的设备不能升级到Windows Phone 7 Series。也就是说，Windows Phone 7 Series今年晚些时候上市时，现有的Windows Mobile 6.5用户只能继续使用现有的软件。
+　　T-Mobile发言人乔恩·埃利亚夫(Jon Eliav)表示，尽管用户对Windows Phone 7 Series的期待度很高，但宏达电和T-Mobile不准备等到该系统发布后再在美国市场推出HD2。埃利亚夫称，宏达电并未对HD2何时或者是否会运行Windows Phone 7 Series置评。他说：“我们不知道首款Windows Phone 7 Series设备何时会面市。”
+　　微软发布Windows Phone 7 Series时，包括T-Mobile在内的全球多家运营商都曾表示将推出采用该系统的产品。
+　　HD2将于3月24日在美国上市，裸机价格为449美元，合同价为199美元。该产品内置3G、GPS、Wi-Fi和蓝牙2.1模块。HD2配备500万像素摄像头，并搭配1GHz高通处理器。整机重量为157克，可提供320分钟的3G网络通话时间或380分钟的标准通话时间。待机时间最高可达490小时。
+　　使用HD2观看视频，最长可使用8小时，音乐播放时间为12小时。这款产品内置576MB存储空间，并可通过MicroSD插槽扩展空间。
+　　宏达电和T-Mobile还与多家内容提供商签订了协议，为HD2的用户提供多媒体内容。用户将可以下载Blockbuster的视频或Barnes & Noble的电子书，还可通过MobiTV收看电视直播。在演示过程中，HD2可以非常流畅地播放电影和MSNBC的电视节目。(鼎宏)
+

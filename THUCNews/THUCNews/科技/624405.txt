@@ -1,0 +1,22 @@
+三星等14家电子厂商被指控违约使用自由软件
+　　CNET科技资讯网12月16日国际报道 14家消费电子产品厂商周一在纽约被软件自由法律中心(Software Freedom Law Center)被提起诉讼侵犯版权。
+　　根据这份起诉书，被告所销售产品里面所包含的BusyBox软件程序已经违反了GNU通用公共授权书第二版(GPLv2)的授权条款。
+　　完整的被告公司如下：
+　　Best Buy
+　　Samsung
+　　Westinghouse
+　　JVC
+　　Western Digital
+　　Robert Bosch
+　　Phoebe Micro
+　　Humax USA
+　　Comtrend
+　　Dobbs-Stanford
+　　Versa Technology
+　　Zyxel Communications(合勤科技)
+　　Astak(电子书阅读器制造商)
+　　GCI Technologies
+　　起诉书里面提到：
+　　“BusyBox又称Linux版的瑞士军刀，已经有越来越多消费性产品采用，比如三星HDTV，被告擅自销售却没有取得软件著作权所有人的同意；根据GPLv2的授权条款，任何人都可免费观看、修改与使用该程序，但前提是他们必须把源代码连带提供给客户。”
+　　此次是由BusyBox与该程序开发者之一的Erik Andersen委托提起诉讼。原告指出，他们已经联系上述公司，但上述侵权公司不是敷衍了事就是置之不理。
+

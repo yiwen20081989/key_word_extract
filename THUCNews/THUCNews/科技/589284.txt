@@ -1,0 +1,6 @@
+苹果iTunes 9再次封杀Palm Pre同步功能
+　　【赛迪网讯】9月10日消息，在苹果发布iTunes 9软件之后，一位名为Sascha Segan网友说，他在把自己的Windows Vista PC升级到iTunes 9之后，iTunes不再能够与Palm Pre同步。有趣的是Palm Pre仍把自己定义为iPod。但是，苹果却不接受。
+　　Segan说，考虑到所有这些事情以前都发生过（并且所有这些事情将再次发生），他预计Palm在几个星期内会发布一个WebOS更新解决这个问题，就像苹果以前发布iTunes 8.2.1阻止Palm Pre同步功能时曾发生的事情一样。
+　　现在，如果你需要iTunes可靠地与你的Palm Pre同步，可以考虑使用免费的iTunes代理软件。这个软件使用Palm的大量存储模式而不是临时的iPod模式。Mark/Space的“Missing Sync for Palm Pre”软件也能够与iTunes同步，但是，这个软件仅兼容8.2.1版。
+　　作者：天虹
+

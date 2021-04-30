@@ -1,0 +1,46 @@
+专家传授2010年考研英语阅读方法与技巧
+　　1. 上下文猜词法——定义法
+　　根据上下文以生词的定义为线索猜测词义是进行快速阅读时最常见、最直接的一种猜词方法。所谓定义就是对文章中出现的生词、词组或术语进行解释。解释定义的方法有两种：一种是用表示定义的词语或短语来叙述，这些定义常有一些标志性的语言，如，be，mean，refer to，to be defined as，be known as，be called，be termed…等等。还有一种就是用标点符号来引出对生词的解释，如逗号、冒号、破折号、括号等。
+　　[例1] Ventilation, as you know, is a system or means of providing fresh air. It plays a very important part in the field of engineering。
+　　[解析] 我们可能不认识Ventilation这个词，但通过be (在此句中是is) 的明确定义，我们不难猜测出它是 “通风” 的意思。
+　　[例2] The principal——money he put in his savings account to earn interest was safe----even though the bank was closed by the police。
+　　[解析] 此句中我们可能不知道principal的意思，但破折号引出的话都是对它进行解释的同位语：他放在存款账户上用以挣利息的钱。因此principal的含义即为本金。
+　　真题演练：
+　　Wild Bill Donovan would have loved the Internet. The American spymaster who built the Office of Strategic Services in World War II and later laid the roots for the CIA was fascinated with information. Donovan believed in using whatever tools came to hand in the “great game” of espionage——spying as a “profession。” (2003)
+　　2. 上下文猜词法——举例法
+　　有时为了进一步说明某一生词，作者会采取举例的方式来对它进行具体的说明和解释，从而使读者更容易加深理解。理解了这些例子的意思，便可以归纳出词的含义，表示举例的连接词有：for example，for instance，such as, like，include，Just as， in such cases，including…等等。
+　　[例1] The remuneration for many jobs can vary greatly. For example, one can earn the minimum wage at the Pizza Pub, $5.50 an hour at a department store, or $ 4.50 an hour at the Bargain Toy store。
+　　[解析] 在此句中，remuneration可能是生词。举例连接词for example引出了三个例子；wage, $5.50和$4.50。通过对所举范例的理解可推断出remuneration的大意是“报酬”。
+　　[例2] Alibi was substantiated when John's friends offered personal testimony, letters of documentation, and three video tapes showing that he was present at the party。
+　　[解析] 句中虽然我们看不到表示列举的标志词，但由 “约翰父亲的证言、档案信件和三盘显示他当时就在晚会现场的录像带” 这三个事例同样可以推断substantiate(证实)的意思。
+　　真题演练：
+　　Hunting for a job late last year, lawyer Gant Redmon stumbled across Career Builder, a job database on the Internet. He searched it with no success but was attracted by the site's "personal search agent". It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. (2004)
+　　3. 上下文猜词法——对比法
+　　文章中，有些生词短语的意思可以通过它前后出现的词或短语的对比来进行推测。常用的对比关联词有：although，but， however, while，whereas，nevertheless，on the contrary，in contrast，on the other hand，rather than，or，unlike，instead等，若能在上下文中找到表达词义反差、转折和对比的单词和短语，便可推断出生词的大意。
+　　[例1]  He thought it was quite unfair to him. He was up to the eyes in his work, while others in his office chatted with each other having nothing to do。
+　　[解析] 通过这两句话可以看出，他之所以感到不满是因为办公室的其他人都无所事事地在闲聊，只有他在忙碌地工作。while在这里表示对比，因此只要比较一下它连接的两个分句的意思，不难发现短语up to the eyes in his work的意思是 “非常忙碌”。
+　　[例2]  This town has a dearth of restaurants but an abundance of bars。
+　　[解析] 由but后表相反之意的abundance (丰富的，遍布的)，dearth (缺乏) 之意甚易辨出。
+　　真题演练：
+　　For any job search, you should start with a narrow concept----what you think you want to do then broaden it. "None of these programs do that," says another expert. "There's no career counseling implicit in all of this." Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. "I would not rely on agents for finding everything that is added to a database that might interest me," says the author of a job-searching guide. (2004)
+　　43. The expression "tip service" (Line 4, Paragraph 3) most probably means ______。
+　　[A] advisory.  [B] compensation.   [C] interaction.      [D] reminder。
+　　4. 上下文猜词法——同义词法
+　　为了解释清楚文章中出现的一个较难的词，作者有时会用一个同义词或近义词来使他的意思表达的更清楚明白，这些同义词或近义词就为读者推断生词词义提供了线索，有时作者可能采取重达的方式复述一下前面的内容，也就是换一个说法。这种重述往往使用比前面一种表达更为简单易懂的词语。表达重述时也有一些信号词，常用的有：in other words，that is to say，that is等等。
+　　[例1] Children often try to emulate or copy the behavior that hey see on television。
+　　[解析] 此句中，emulate可能是一生词，但其后or引出了它的同义词，copy的意思为 “抄写；仿效”，那emulate的含义就不难推测了。
+　　[例2] The village was depopulated, most of the resident dead or moved, but the livestock remained untouched。
+　　[解析] 如果大部分村民已亡故或迁徙，那么村庄只能是 “人烟稀少的”。
+　　真题演练：
+　　Drugs (substances) that affect the central nervous system and alter perception, mood, and behavior are known as psychoactive substances. Psychoactive substances are commonly grouped according to whether they are stimulants, depressants, or hallucinogens. Stimulants initially speed up or activate the central nervous system, whereas depressants slow it down. Hallucinogens have their primary effect on perception, distorting and altering it in a variety of ways including producing hallucinations. These are the substances often called psychedelic (from the Greek word meaning “mind-manifesting”) because they seemed to radically alter one’s state of consciousness. (1997)
+　　5. 上下文猜词法——常识判断法
+　　在阅读的过程中，读者有时可根据自己的生活经验、普通常识和逻辑推理来推测生词的词义。读者的知识面越广，阅历越深，猜词的能力就越强，成功率也就越大。
+　　[例1] If you are capable of working twelve hours a day without a rest, and if you can engage in physical exercise for hours without seeming to get tired, then you are indefatigable。
+　　[解析] 根据上下文分析，如果一个人能连续工作12个小时，能进行体育锻炼数小时而不知疲倦，那么，这个人一定是一个不知疲倦的人，indefatigable的词义就不难猜测了。
+　　[例2] Even the gifted teacher had difficulty making clear to the secondary school classes such an abstruse subject as Einstein's theory of relativity。
+　　[解析] 从常识来看，Einstein's theory of relativity (爱因斯坦的相对论) 对中学生来讲肯定是难以接受的。因此abstruse的意思可以推测为 “难解的，深奥的”。
+　　真题演练：
+　　Science has long had an uneasy relationship with other aspects of culture. Think of Galileo’s 17th century trial for his rebelling belief before the Catholic Church or poet William Blake’s harsh remarks against the mechanistic worldview of Isaac Newton. The schism between science and the humanities has, if anything deepened in this century. (1998)
+　　59. The word “schism” (Line 4, Paragraph 1) in the context probably means ________。
+　　[A] confrontation     [B] dissatisfaction     [C] separation     [D] contempt
+

@@ -1,0 +1,9 @@
+Nvidia称Rambus放弃专利侵权指控
+　　新浪财经讯 北京时间6月8日晚间消息，芯片制造商Nvidia公司(NVDA)宣布，半导体专利技术授权公司Rambus Inc.(RMBS)已经放弃向国际贸易委员会(International Trade Commission)指控其侵犯专利权的打算。
+　　截至美东时间上午10:23(北京时间晚上10:23)，Nvidia公司股票下跌12美分，至10.71美元；Rambus跌8美分，至14.51美元。
+　　总部设在加州Los Altos的Rambus公司在去年11月向ITC提起诉讼，指控Nvidia侵犯了图形处理器及其他相关芯片技术的专利权。
+　　“Rambus已经意识到了这些专利权及指控的不充分，我们对此深感欣慰，”Nvidia公司法律顾问大卫-沙侬(David Shannon)在周一的声明中表示。
+　　Rambus发言人没有立即就此事发表评论。
+　　上周，美国专利和商标局发表意见，否决了Rambus对Nvidia的41项专利侵权指控。
+　　国际贸易委员会的调查原定于8月份展开。
+

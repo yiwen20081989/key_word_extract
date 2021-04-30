@@ -1,0 +1,9 @@
+报告称雅虎广告网络为恶意软件最大传播者
+　　新浪科技讯 北京时间3月24日早间消息，据国外媒体今日报道，反病毒公司Avast的一份报告显示，雅虎旗下广告网络Right Media YieldManager是最大的恶意广告软件传播者。
+　　去年，网络广告中的病毒和其他恶意软件影响了多个知名网站，包括纽约时报和新闻聚合网站“德拉吉报道”。今年以来，TechCrunch和WhitePages等网站也受到影响。
+　　Avast的研究人员指出，一些大型广告发布平台，例如雅虎YieldManager、福克斯旗下Fimserve.com，以及谷歌旗下DoubleClick对此负有责任。此外，一些恶意广告源头就在雅虎和谷歌网站上。而MySpace也在小范围内传播恶意广告软件。
+　　Avast在这些广告中发现的恶意软件是一段JavaScript代码，Avast将其标记为“JS:Prontexi”。Avast研究员基利·赛特科(Jiri Sejtko)表示，这段JavaScript代码是一个木马程序，会寻找Adobe Reader、Acrobat、Java、QuickTime和Flash中的漏洞，并发出虚假的反病毒告警。
+　　Avast表示，只要浏览器加载了含有该恶意软件的页面，无论用户是否进行任何操作，计算机都会被感染。这一恶意软件于去年12月底开始传播，Avast已经在用户电脑中统计到260万个该恶意软件，其中53万来自YieldManager，1.63万来自DoubleClick。
+　　雅虎对此表示，这并不是广告网络的问题。Right Media副总裁贝尼·史密斯(Bennie Smith)表示：“广告网络与第三方合作。你不能排除所有风险，并将责任完全归于广告网络。用户访问的是你的网站，而不是广告网络，因此主要责任在于网站自身。”
+　　谷歌发言人则表示，谷歌已发现来自DoubleClick的广告含有恶意软件，并暂停了这些广告。福克斯和MySpace拒绝对此置评。(邱越)
+

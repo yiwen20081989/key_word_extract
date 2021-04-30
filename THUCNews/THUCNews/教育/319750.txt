@@ -1,0 +1,44 @@
+GMAT作文Argument短题目解题技巧
+　　GMAT作文包括两部分：议论文(Issue)和批判(Argument)。两部分平均分构成分析写作(Analytical Writing Assessment，简称AWA)的总分(满分6.0)。
+　　国内考生一般的备考重点为Argument，因为这一部分比较好掌握，了解一些基本的错误类型，就可以完成大部分的题目，而且越是长篇题目，错误的类型越多，也就越好解题，不担心无话可说。但是，如果考试时，碰到一个篇幅较短、错误单一的Argument题目，考生就要头疼了，往往30分钟写到一半就不知道该写些什么了，要么写的都是次要的、甚至离题甚远的错误。所以，学习有针对性的展开短题目的批判就成为一项非常重要的应试技巧。
+　　下面这道题目是GMAT官方指南中Argument的示范题目：
+　　The following appeared as part of an article in a daily newspaper:
+　　“The computerized onboard warning system that will be installed in commercial airliners will virtually solve the problem of midair plane collisions. One plane’s warning system can receive signals from another’s transponder—a radio set that signals a plane’s course—in order to determine the likelihood of a collision and recommend evasive action。”
+　　Discuss how well reasoned . . . etc。
+　　这道题只有两句话，首句为论点，末句为论据，是一篇典型的短题目。有些考生的思路是：
+　　“原作者没有提供足够的证据表明这套新系统能够有效避免撞机，只是简单说明系统功能，不具有论证效力，除非有更多实验证据证明能够避免撞机，才能使得结论合理”。
+　　或者是：
+　　“原作者没有告诉我们是不是所有的飞机公司都愿意安装这套系统，所以，如果有些公司没有足够的费用购买这套系统，那么撞机也很难避免”。
+　　按照以上这类思路进行批判的话，没能切中要害，因为，所有的Argument题目都存在着证据缺乏(scant evidence)的错误，但是笼统的说缺乏证据是不够的，需要结合题目细致的进行分析和批判。
+　　针对这道题目，我们首先要找到最核心的因果关系，也就是系统(system)与撞机(midair plane collision)之间的关系，然后，把题目中所有的界定成份分别纳入相应集合，就可以清晰的进行有针对性的批判：
+　　system midair plane collision
+　　(1) warning
+　　(2) onboard
+　　(3) computerized
+　　(4) commercial airlines
+　　(5) signal course
+　　(6) determine likelihood
+　　(7) recommend evasive action
+　　如上表，system有7个界定，这7个界定都是重要的得分点：
+　　(1)warning只是警告，如果飞行员没注意到，还会相撞；
+　　(2)onboard机载设备不具备强制性、权威性，飞行员可以选择是否执行；
+　　(3)computerized计算机可能会失灵；
+　　(4)commercial airlines没有排除与军队飞机或私人飞机相撞的可能性；
+　　(5)signal course指示出路线，不等于两架飞机能够选择正确的避让路线；
+　　(6)determine likelihood确定可能性，不等于降低或消除可能性；
+　　(7)recommend evasion action建议避让动作，不等于采取避让行动，而且对方避让动作是否能够配合也是问题；
+　　GMAT的6分范文，明确处理了其中的4个错误点：
+　　(1) warning只是警告，如果飞行员没注意到，还会相撞；
+　　First, …if the cause of the problem of midair plane collisions is that pilots are not paying attention to their computer systems or flight operation, the warning system will not solve the collision problem。
+　　(2) onboard机载设备不具备强制性、权威性，飞行员可以选择是否执行
+　　Second, …If the pilot or flight specialist does not conform to what the warning system suggests, midair collision will not be avoided。
+　　(3) computerized计算机可能会失灵
+　　The argument also does not address what would happen in the event that the warning system collapses, fails, or does not work properly。
+　　(4) commercial airlines没有排除与军队飞机或私人飞机相撞的可能性
+　　Finally, if planes other than commercial airlines are involved in the collisions, the problem of these collisions cannot be solved by a warning system that will not be installed on non-commercial airlines。
+　　通过对于6分范文的分析，可以体会到GMAT出题人对于短题目的考察，偏重于题目细节，希望考生能够细致的对题目进行分析、较全面的指出错误点。尽管这道题的错误类型很单一，只是因果错误，但是，如果不能够深入到细节的话，并找到过半的错误点，分数很难得到大幅提高。
+　　相应的GMAT官方指南上给出了4分的范文，这篇文章之所以分数较低，是因为只找到了我们之前陈述的第(5)点错误，全篇文章都是针对这一点错误展开，所以，分数相应较低。4分范文主体段落如下，供大家体会：
+　　(5)signal course指示出路线，不等于两架飞机能够选择正确的避让路线
+　　The main flaw in the argument is that it assumes that the two planes, upon receiving each other’s signals, will know which evasive action to take. For example, the two planes could be going towards each other and then receive the signals. If one turns at an angle to the left and the other turns at an angle to the right, the two planes will still crash. Even if they receive an updated signal, they will not have time to avoid each other。
+　　综上，对于短题目的分析，考生一定要关注细节，而不是一味地寻找更多的错误类型。针对一种类型的错误，要尽可能考虑到题目中列出的多数“陷阱”，这样就可以更好地向高分冲刺了。
+

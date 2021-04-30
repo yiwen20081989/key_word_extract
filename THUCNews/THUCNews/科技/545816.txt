@@ -1,0 +1,9 @@
+NewsGator将于8月31日关闭在线RSS阅读器
+　　新浪科技讯 北京时间8月3日下午消息，据国外媒体上周五报道，美国RSS软件开发商NewsGator宣布，将于2009年8月31日关闭在线阅读器NewsGator Online Reader。
+　　NewsGator将为用户提供一份说明，以便将数据迁移到谷歌RSS阅读器Google Reader中。NewsGator的桌面和手机RSS阅读器目前已经能够与Google Reader同步。
+　　另外，NewsGator还于上周五发布了新版FeedDemon和Mac版的NetNewsWire阅读器。NewsGator的新版iPhone(手机上网)应用也将尽快登陆苹果应用商店。
+　　分析人士称，关闭在线RSS阅读器对于NewsGator是明智之举，因为该公司可以借此更加着眼于企业和政府用户。运营在线RSS阅读器将消耗大量资源，何况NewsGator也只是在复制Google Reader的基础上添加了一些独特的功能而已。
+　　本次声明最重要的地方在于，结尾部分的常见问题解答。NewsGator在该部分中表示，过去18个月内，该公司的企业产品以前所未有的速度增长。另外，该公司还宣布，其社交网站产品已经拥有超过100万名付费用户。在这样的环境下，继续提供免费的在线RSS阅读器对NewsGator而言也就没有任何意义。
+　　但需要注意的是，NewsGator还将继续开发并支持免费的桌面和手机阅读器，但针对黑莓和Windows Mobile推出的NewsGator Go!自8月31日以后也将不再面向用户推出。而NewsGator的浏览器工具栏和桌面提醒器业务也将同时关闭。
+　　最初，NewsGator是一家专门从事于RSS软件的服务商，代表产品为知名RSS阅读器FeedDaemon。后来，NewsGator将业务逐渐拓展到企业社交网络市场，并推出了Social Sites等产品。当前，NewsGator的竞争者包括SocialText、Jive软件、Central Desktop、Telligent、Atlassian，以及谷歌和IBM等科技巨头。(鼎宏)
+

@@ -1,0 +1,5 @@
+富士发布FinePix Real 3D相机固件升级
+　　富士已正式发布双传感器3D相机FinePix Real 3D新版固件升级，最新固件版本为Ver.  1.10。新版固件作出以下修改：
+　　1. HD高清视频菜单下增加“经济模式”。该模式针对长时间拍摄3D高清视频进行了优化。
+　　固件下载及安装方法：Fujifilm FinePix Real 3D firmware update
+

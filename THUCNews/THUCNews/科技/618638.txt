@@ -1,0 +1,12 @@
+AMD处理器下半年路线图：Fusion APU登场
+　　ATI-Forum.de今天公布了一份路线图，详细列出了AMD将在今年下半年发布的多款处理器型号。相比于四个月前的那份路线图，CPU+GPU4融合设计的Fusion APU已经赫然在列，同时不少型号的发布进程都提前了一个季度，随后还出现了更高频率的新型号。
+　　我们从上往下看，首先是六核心的“Phenom II X6 1045T”，代号Thuban，第三季度发布，主频2.7GHz，加速频率3.2GHz，二级缓存3MB，三级缓存6MB，热设计功耗95W。
+　　然后是双核心的“Phenom II X2 560”，代号Callisto，第三季度发布，主频3.3GHz，二级缓存1MB，三级缓存6MB，热设计功耗80W。
+　　Phenom II家族就这么两个新成员，但是Athlon II家族将有多达十款，遍布四核心、三核心和双核心。
+　　四核心的“Athlon II X4 645”、“Athlon II X4 650”三四季度分别登场，代号Propus，主频3.1/3.2GHz，二级缓存2MB，热设计功耗95W。本季度还有45W低功耗版“Athlon II X4 615e”，主频2.5GHz。
+　　三核心的“Athlon II X3 450”、“Athlon II X3 455”也是两个季度连续出击，代号Rana，主频3.2/3.3GHz，二级缓存1.5MB，热设计功耗95W。本季度也有45W低功耗版“Athlon II X23 420e”，主频2.6GHz。
+　　双核心的“Athlon II X2 265”、“Athlon II X2 270”策略同上，代号Regor，主频3.3/3.4GHz，三级缓存2MB，热设计功耗65W。近期还有45W低功耗版“Athlon II X2 250e”和25W超低功耗版“Athlon II X2 270u”，主频分别为3.0GHz、2.0GHz。
+　　单核心Sempron家族也有新动作，“Sempron 150”将在第四季度现身，代号Sargas，主频提升到2.9GHz，二级缓存1MB，热设计功耗45W。
+　　最后是“Zacate”(草本植物饲料)，也就是近日的热点话题Fusion APU融合加速处理器，隶属于面向移动领域的Ontario，由台积电采用40nm工艺制造。从路线图上看，Zacate会在今年第四季度晚些时候发布，并分为双核心、单核心两种类型，均整合DX11图形核心，BGA封装，热设计功耗只有25W、18W。
+　　据说Zacate APU将会以Exxx系列的编号形式来命名，但目前还不知道具体会使用何种品牌。
+

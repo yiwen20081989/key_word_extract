@@ -1,0 +1,13 @@
+名师一点通：考研英语阅读A部分解题小技巧
+　　在考研阅读理解A部分当中，存在着两对兄弟——矛盾和近似。他们在解题过程中发挥着重要的作用，只要巧妙地利用这两对兄弟，我们的解题就能达到事半功倍的效果。
+　　矛盾兄弟指的是一道题目中意思相反的两个选项；近似兄弟指的是意思相近的两个选项。有些时候，阅读理解A部分的选项设置会有这么一个特点，即四个选项中的两项完全没联系，而另外的两项有可能是意思相近的，有可能是意思相反的。这时，我们就要好好利用相近或相反的这两项了，因为正确的答案极有可能在这两项之中。
+　　矛盾兄弟出现时的处理方法比较简单。当矛盾的选项出现时，我们要首先考虑这两项。结合关键词定位或自然段定位的方法，迅速定位，与选项进行比对，得出结果，正确答案往往在这两项之中。
+　　举个例子2009年text3的31题，我们可以看到C选项 is conventional downgraded “在传统上被低估了”，和D选项 has been overestimated“被高估了”是一对矛盾选项，于是我们把目标锁定在C，D这两个选项当中。我们根据题干的关键词 “education in poor countries”定位到 “ the conventional view that education should be one of very highest priorities for promoting rapid economic development in poor countries is wrong”说到传统上认为在贫困的地区应该十分重视发展经济的想法是错误的，也就是说，贫困地区的教育发展在传统上来说被放在过于重要的位置了，这就符合D选项的意思。
+　　再举一例，02年text1中43题，其中C选项 are an inappropriate subject for humor和D 选项 have often been the laughing stock意思刚好相反，我们可以先把正确答案的目标锁定在这两项当中，然后由于该题位于该篇文章的第三题，我们可以根据自然段定位原则，把它定位到第三段，该段讨论了幽默时应该使用什么样的例子，其中，看到最后一句“You will be on safer ground if you stick to scapegoats like the Post Office or the telephone system。” 这里提到了用post office或者telephone system会更加安全，也就是说，应该用这一类的公共设施来举例制造幽默的效果，也就是说这是制造幽默的恰当的方式，这就与D选项的意思一致，我们就可以选D。
+　　类似的例子还有很多，如04年text4当中的57题 A :undervaluing intellect 和B: favoring intellectualism，59题B: an opponent of intellectualism和 C: a scholar in favor of intellect 都属于矛盾选项，而这两题的正确答案也都在矛盾选项当中产生，此类例子不胜枚举，就不赘述了。
+　　而当近似这两兄弟出现的时候，情况就变得比较复杂了。当近似选项出现的时候，我们依然要首先考虑这两个选项，但在锁定了目标之后，解题过程却比矛盾选项要复杂。同样，我们也要结合关键词定位或自然段定位这两种定位方法定位，找出与之相对应的原文内容，但接下来的判断，却不如处理矛盾选项般简单。 因为，近似这两兄弟，由于他们的相近性，在判断时常常让人觉得模棱两可。在这个时候，我们就要记住这其中最重要的标准之一，就是程度和范围。近似的两个选项，虽然内容相近，但是所表达的程度的深浅和范围的大小往往还是有差别的，这一点，我们在真题当中来体味。
+　　例如2009年text1的第22题。我们可以看到四个选项：predicted, regulated, traced, guided. 这四个词当中regulated和guided的意思是相近的。regulated的意思是约束，规范；guided的意思是引导，指引。都是讲对人们的行为的管制。由于该题目出现在该文章的第二题，我们初步把它定位到文章的第二段。我们可以看到，but后面的句子： brain researchers have discovered that when we consciously develop new habits. 其中consciously develop有意识的发展，强调了发展的意识性，也强调了发展本身。而regulate 和guide都强调了意识性，但是regulate并没有强调发展的部分，而guide暗含了引导其发展的部分，这就是两者间程度的不同了。因此guide和原文的意思更接近。
+　　再来看一个例子，05年text1第21题，这是一道当年得分率很低的题。仔细观察选项，发现其中A posing a contrast 和 C making a comparison 意思相近，两者都有进行比较之意，但是contrast侧重于两者之间的不同点的对比，而comparison则只是对比，既可以强调两者间的相同点也可以强调不同点。这就是两个选项间范围大小的不同。根据原文的结构分析，第一段利用了对比的手法，但并不是为了强调两者的不同之处，所以，我们可以由此得出C为正确答案。
+　　其他的例子还有05年text4 中的36，39题等等。解题方法不变，同样是在锁定了近似选项后再分析两个选项中范围、程度上的差异，再与原文进行比照，便能得到正确答案。
+　　经过上面的分析，我们可以看到矛盾和近似这两对兄弟在考研阅读A部分的重要地位。在解题过程中，当这两对兄弟出现时，只要好好地利用他们，综合其他的解题方法，就能使我们在的考研阅读成功之路更加平坦了。
+

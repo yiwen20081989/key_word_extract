@@ -1,0 +1,5 @@
+博客软件WordPress宣布博客数破5千万大关
+　　新浪科技讯 北京时间8月20日凌晨消息，博客软件WordPress今天宣布，在全球排名前100万的网站中，有14.7%的网站由WordPress程序搭建，同比增长6.2%。在美国，每100个新激活的域名中，就有22个运行WordPress，这些数据包括WordPress.com和WordPress.org。
+　　7月份，WordPress.com的博客数突破5千万大关，WordPress.com月独立访问量达2.87亿次，PV量为25亿次。
+　　WordPress目前拥有15,000个插件，插件下载数达2亿次。WordPress 3.2在发布前2天下载量突破50万次，为WordPress有史以来最快的更新速度。(新铁)
+

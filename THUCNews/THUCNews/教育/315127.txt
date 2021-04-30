@@ -1,0 +1,72 @@
+考研英语阅读辅导：细节事实题解题顺序及步骤 
+　　细节事实题是考研英语阅读理解当中最重要的题型，也是占据比重最大的题型，每年基本20道题目中有一半都是细节事实题。接下来我们来讲解以下解题顺序：　　　　
+　　1. 标志：fact, truth；时间，数字，地点，大写字母，钱；专有名词。　　
+　　2. 根据题干中的标志词返回原文定位：
+　　考生一定要每道题目都返回原文，这是解任何题目的基础，很多考生阅读得不了高分得最重要原因就是不返回原文定位。然而考研和四、六级考试不一样，四、六级考试每道题目基本都能定位到原文的某一句话，而考研直白地考一句话的概率很小，基本都是定位在某一段。 
+　　3. 经常考察的是对原文中一些细节性、具体信息的阅读，因此一定要精确理解原文
+　　这就是考验最大的特点，就是考察的非常细，不光光是一个句子，甚至于一个单词，一个标点符号都要正确理解。
+　　4. 正确选项应与原文同义表达：
+　　我们把选项和原文重叠，记住“本本主义”，即与原文意思接近的，差不多的为正确答案，与原文意思相反的，或者只要是文中未提及的都是错的。 
+　　接下来我们具体以真题为例来阐述一下我们的解题步骤，如2000年第一篇文章：
+　　It was inevitable that this primacy should have narrowed as other countries grew richer. Just as inevitably, the retreat from predominance proved painful. By the mid-1980s Americans had found themselves at a loss over their fading industrial competitiveness. Some huge American industries, such as consumer electronics, had shrunk or vanished in the face of foreign competition. By 1987 there was only one American television maker left, Zenith. (Now there is none: Zenith was bought by South Korea's LG Electronics in July。) Foreign-made cars and textiles were sweeping into the domestic market. America's machine-tool industry was on the ropes. For a while it looked as though the making of semiconductors, which America had which sat at the heart of the new computer age, was going to be the next casualty。
+　　52. The loss of US predominance in the world economy in the 1980s is manifested in the fact that the American________。
+　　[A] TV industry had withdrawn to its domestic market 
+　　[B] semiconductor industry had been taken over by foreign enterprises 
+　　[C] machine-tool industry had collapsed after suicidal actions 
+　　[D] auto industry had lost part of its domestic market 
+　　首先我们审题，根据题干中的1980s(数字)，我们可以定位到原文第二段。然后逐一看选项A“电视工业萎缩回到了国内市场(即：该工业失去了国际市场)。” “根据第二段，到80年代中期，面对其工业竞争力的日益衰退，美国人感到无计可施(at a loss)，美国某些大的行业——如电子消费品——在园际竞争的压力下，面临萎缩或消亡的威胁。到1987年为止，美国仅存的电视制造商只有Zenith一家了(现在已荡然无存：Zenith于7月份——指文章写作年代的7月份——被韩国LG电子有限公司收购了)。这里并没有直接提到美国电视失去国际市场，事实上，它连国内市场也保不住了。因此A选项错误。B“半导体行业被外国公司接管。” 第二段最后一句提到，在一段时间内，半导体制造业看上去好像要成为下一个受害者。“看上去好像”的潜台词就是“事实上并不是如此”，因此B与原文意思相反。C“机械制造业自取灭亡”，第二段提到了机械制造业“岌岌可危”。这显然也是说它正在失去国内外市场，并未提到它的灭亡是由其自身原因造成的。on the ropes解释为“岌岌可危”并不解释为“自杀”。而第二段第六句提到，进口车和纺织品涌进(美国)国内市场。由此可知：D “汽车制造业失去了部分国内市场”与原文意思一致。选项D为正确答案。 　
+　　正如笔者前文所述，考研的特点是精读，而且选项极具诱惑性，接下来我们来看看考研阅读理解之中常见的诱惑手段：
+　　1. 单词替换：因为考研更强调考生理解单词的深度，因此单词替换是考研常用的诱惑手段。具体又可以分为两大类： 
+　　A)词义曲解：当选项中出现一个单词，经常是一词多义的时候，考生应警惕选项中的意思很有可能和原文的意思是不相同的。 
+　　如2002第一篇：“If you intend using humor in your talk to make people smile, you must know how to identify shared experiences and problems. Your humor must be relevant to the audience and should help to show them that you are one of them or that you understand their situation and are in sympathy with (支持)their point of view. Depending on whom you are addressing, the problems will be different. If you are talking to a group or managers, you may refer to the disorganized methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses。” 
+　　41. To make your humor work, you should 
+　　[A] take advantage of different kinds of audience. 
+　　[B] make fun of the disorganized people. 
+　　[C] address different problems to different people. 
+　　[D] show sympathy for (同情)your listeners. 
+　　很多考生没有能正确识别两个sympathy的意思，而误选了选项D。 
+　　B)貌似同义改写：当选项中出现一个单词和原文中一个单词非常相似，或者就是一个词，只要词性发生变化，一般都是错误答案。 
+　　如2004年第二篇：“Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape (幸运的逃脱了). Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly。”
+　　48、The 4th paragraph suggests that 
+　　[A] questions are often put to the more intelligent students. 
+　　[B] alphabetically disadvantaged students often escape from class. (逃学) 
+　　[C] teachers should pay attention to all of their students. 
+　　[D] students should be seated according to their eyesight. 
+　　两个同是escape，只是原文中是一个名词，解释为逃脱；选项是动词解释为逃学。 
+　　2. 因果颠倒：这类选项诱惑性很强，因为原因和结果都和原文相同，只是把原文的原因作为结果，结果作为原因。因此考生在原文中只要读到因果关系的时候，就一定要清楚的分辨出哪一个原因，哪一个是结果。 
+　　如2005年第三篇文章“Of all the components of a good night’s sleep, dreams seem to be least within our control. In dreams, a window opens into a world where logic is suspended and dead people speak. A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears; by the late 1970s, neurologists had switched to thinking of them as just “mental noise” —the random byproducts of the neural-repair work that goes on during sleep. Now researchers suspect that dreams are part of the mind’s emotional thermostat, regulating moods while the brain is “off-line”. (今天研究者认为梦是人思想情绪的自动调节器，在睡眠的时候调节情绪的)And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better. “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it”” 
+　　31. Researchers have come to believe that dreams ____. 
+　　[A] can be modified in their courses 
+　　[B] are susceptible to emotional changes (易受情绪变化的影响) 
+　　[C] reflect our innermost desires and fears 
+　　[D] are a random outcome of neural repairs 
+　　当年很多考生都错选了B。仔细读发现，文中告诉你梦是情绪的自动调节器，就是梦影响情绪，而选项B说的是梦易受情绪变化的影响，即情绪影响梦，正好和原文的因果说反了。而该选项诱惑性很强，因为梦和情绪都是文中出现过的概念。 
+　　3.扩大范围：把原文范围扩大了依然是错误的，它也可以分成两类： 
+　　A)将原文的特指(只适用于个体)变为泛指(适用于群体)。 
+　　如2008年第四篇“For one thing, the South could not afford to part with its slaves. Owning slaves was “like having a large bank account,” says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the Constitution without protections for the “peculiar institution,” (特指黑奴制度)including a clause that counted a slave as three fifths of a man for purposes of congressional representation。” 
+　　39. Which of the following is true according to the text? 
+　　[A] Some Founding Fathers benefit politically from slavery. 
+　　[B]  Slaves in the old days did not have the right to vote. 
+　　[C]  Slave owners usually had large savings accounts. 
+　　[D]  Slavery was regarded as a peculiar institution. (泛指特殊的组织) 　
+　　B)将原文的几个条件省略为一个条件。 
+　　如2000年第一篇“A history of long and effortless success can be a dreadful handicap, but, if properly handled, it may become a driving force. (长期的、不费力的成功史、处理得当的话可能会成为一种推动力。即三个条件推出一个结论)When the United States entered just such a glowing period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries unparalleled economies of scale. Its scientists were the world's best, its workers the most skilled. America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed。” 
+　　53. What can be inferred from the passage? 
+　　[A] It is human nature to shift between self-doubt and blind pride. 
+　　[B] Intense competition may contribute to economic progress. 
+　　[C] The revival of the economy depends on international cooperation. 
+　　[D] A long history of success may pave the way for further development. 长期的成功史会为今后的发展铺平道路。一个条件就推出结论，属于扩大范围。 
+　　4. 张冠李戴：也可称为偷换概念，即把原文中的一个概念变成一个新的概念，该类选项诱惑性并不是很强，考生只要仔细返回原文定位，肯定能够排除干扰。 
+　　如2004年第一篇“Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site’s “personal search agent”. It’s an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property, and Washington, D.C. Three weeks later, he got his first notification of an opening. “I struck gold,” says Redmon, who E-mailed his resume to the employer (把简历寄给了雇主)and won a position as in-house counsel for a company。” 
+　　41. How did Redmon find his job? 
+　　[A] By searching openings in a job database. 
+　　[B] By posting a matching position in a database. 
+　　[C] By using a special service of a database. 
+　　[D] By E-mailing his resume to a database. (把简历寄给了网站数据库，很明显把employer偷换成了database) 
+　　5. 无中生有：选项中出现了文中没有提及的新的信息。 
+　　如2000年第一篇中的第三题 What can be inferred from the passage? 
+　　[A] It is human nature to shift between self-doubt and blind pride. 
+　　[B] Intense competition may contribute to economic progress. 
+　　[C] The revival of the economy depends on international cooperation. (国际合作就是一个文章从头到尾都没有出现过的新的概念) 
+　　[D] A long history of success may pave the way for further development。
+

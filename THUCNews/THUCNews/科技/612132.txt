@@ -1,0 +1,13 @@
+惠普公布12.1英寸dv2本 配AMD Neo处理器
+　　根据国外媒体的报道，惠普公司今天公布了新款的笔记本，型号分别是Pavilion dv2和Pavilion dv3。其中的Pavilion dv3型号此前我们已经有过介绍，是一款13.3英寸的产品，配置AMD处理器。Pavilion dv2笔记本同样配置AMD处理器，采用的是新型号Athlon Neo MV-40，主频为1.6GHz。
+　　说到Athlon Neo MV-40处理器，我们可以稍微了解一下，你可以简单地把它看作是英特尔Atom处理器的竞争产品，但Athlon Neo MV-40处理器实际上有自己的特点，针对的是售价在499美元到1500美元之间的笔记本产品，可以在更大屏幕的笔记本上采用。
+　　Athlon Neo MV-40处理器性能上也更加强悍，据媒体测试称，Athlon Neo MV-40处理器在音频转换和视频创建软件测试中的分数高于Atom处理器，看处理器1080p高清规格。Athlon Neo MV-40处理器采用的是65nm工艺，功耗35W。可以看出， Athlon Neo MV-40处理器的市场定位和Atom还是有很大差别。
+　　说完 Athlon Neo MV-40处理器，我们再回到惠普Pavilion dv2笔记本本身，它采用了12.1英寸显示屏，分辨率为1280 x 800，内存最高支持4GB，搭配500GB硬盘，具备802.11n无线网卡和以太网卡，支持Windows Vista 64位操作系统，可以配置ATI Mobility Radeon HD3410独立显卡，搭配外置蓝光光驱。
+　　带有摄像头，具备蓝牙功能，提供的电池可以进行3.5小时到4小时续航。厚度不到1英寸，重量只有3.8磅。Pavilion dv3笔记本现在已经接受预定，Pavilion dv2笔记本则要到4月份才能上市，因为AMD Athlon Neo MV-40处理器要到3月份才能上市。Pavilion dv2笔记本的售价699美元起，我们在CES上将率先看到该产品。
+
+惠普 Pavilion dv2
+已有_COUNT_位用户评论 点击查看评论
+推荐
+想买
+观望
+

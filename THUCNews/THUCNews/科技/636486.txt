@@ -1,0 +1,9 @@
+Clearwire LTE战略从FDD向TDD转移
+　　【通信产业网讯】8月25日消息，据国外媒体报道，美国WiMAX运营商Clearwire计划今年秋季在亚利桑那州推出LTE试验网，并持续到2011年初。全球最大WiMAX运营商向LTE快速靠拢震撼了整个无线产业。
+　　Clearwire此次将分别对FDD LTE和TDD LTE进行测试。同时，Clearwire还将测试LTE和WiMAX两大制式之间的共存方案。通过测试，Clearwire进一步加速4G商用服务的推出，尤其是LTE商用。
+　　来自Tolaga Research最新研究报告显示，Clearwire公司部署FDD-LTE网络还需要度过一段困难时期，但是如果选择部署TDD-LTE网络可能会为用户提供更好的网络服务。
+　　尽管Clearwire持有重要频谱，并且在很多地区都拥有一定量的频谱资源，但是如果坚持在一些地区部署FDD-LTE网络，它还是“缺少足够的资源”。报告中写到“分配给FDD的市场中，50%到60%都是缺少频谱资源的。Clearwire频谱资源在市场中的竞争优势取决于TDD-LTE 技术，而不是FDD-LTE技术。”
+　　据了解，在实验中，Clearwire公司将测试上行和下行分别采用不同频率的FDD(frequency division multiplexing)与上行下行采用相同频率的TDD(time division multiplexing)两种方式。测试FDD时，为上行和下行各分配20MHz(合计40MHz)，测试TDD时分配20MHz。频率方面，将采用目前为Clearwire分配的2.5G～2.6GHz频带。
+　　Tolaga公司认为，在美国的主要城市中，Clearwire无法在芝加哥，底特律，辛辛那提，奥兰多，坦帕，佛罗里达州，波特兰和俄亥俄州哥伦布部署20 MHz双工通道的FDD-LTE网络技术。把FDD-LTE和TDD-LTE两种技术组合的混合网络体系结构对于Clearwire提供全美范围内的网络服务是很有必要的。
+　　如果Clearwire长期坚持LTE战略并且把FDD-LTE网络技术向TDD-LTE网络技术迁移，那么到时，双模FDD/TDD-LTE设备将会日趋普遍。(左诚/编译)
+

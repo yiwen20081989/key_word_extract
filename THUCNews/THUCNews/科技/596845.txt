@@ -1,0 +1,5 @@
+ARM收购处理器检验软件厂商Obsidian
+　　新浪科技讯 北京时间6月17日晚间消息，ARM今日宣布收购德州处理器检验软件厂商Obsidian Software，具体的金额并购并未公布。
+　　ARM执行副总裁兼处理器事业部总经理迈克·因格里斯(Mike Inglis)在一份声明中称：“自开发Cortex-A8处理器以来，ARM和Obsidian Software就保持着长期合作关系。收购 Obsidian Software有助于强化提高我们的产品质量，缩短产品上市周期。”
+　　Obsidian Software创建于1997年，主要提供处理器检验产品，以及检验咨询和培训服务。交易完成后，Obsidian Software的检验团队将成为ARM德州检验团队的一部分。(李明)
+

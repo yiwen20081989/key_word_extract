@@ -1,0 +1,35 @@
+经验分享：备考达人托福IBT考试阅读心经
+　　本文选自新浪教育《玩转校园的博客》，请点击查看博客内容。
+　　托福考试阅读心经
+　　在IBT阅读中，甚至可以扩展到ETS所有考试的阅读题目中，如果要用一个词来概括的话，那就是paraphrase，意译。无论是题干还是正确选项，大都能在原文中找出一句话来与之相对应。即题目是原文的意译。这种意译是通过同义词来完成的。即题干中多用近义词来对原文中的句子进行替换，来达到提出问题或者提出正确答案的意思。准确把握意译，是多数题目中准确在原文中定位信息、或者在迷惑选项中选出正确的那个，都有着重要的作用。在后面的文章里我会结合实例解释这一点。
+　　关于先看题目还是先看文章的问题。也就是做题时间安排的问题。在此问题上我与有的朋友也有过争执。我个人习惯是先用5—7分钟的时间通读全文，然后平均每个问题有1分钟的时间来回答。由于对问题的回答建立在了熟悉全文的基础上，每个问题又有足够的时间返回全文，每个选项都一一进行斟酌。我认为这样准确率比较高。但有的朋友本着居家过日子的心，认为1000多字的文章只出十几个题，必然有一些信息是没用的。这样通读全文就会浪费掉一些时间，不如先看题再回去找来的痛快。对此我不好妄加评论。每个人都应该通过考前大量的练习来制定出最为适合自己的方法。
+　　关于复习的时间安排。我认为，弄完词汇以后，就应该着手突击一下阅读了。如今各种各样的模拟题犹如英语辅导班一样大量涌现。不会出现我们早期考生有题舍不得做的情况了。但也不能太急功近利，单词没弄好就硬上阅读，有时候会适得其反。用1周的时间大量的突击，也是对单词的一个巩固。找到感觉以后就可以开始下面的复习了。复习听力口语作文的日子里，每天一定要最少做3篇文章的题量，按照考试的时间要求，千万不可放松。做得多了，就可以把阅读当作一种放松了。ETS的阅读文章能教给我们各种学科的基础知识。(这与GRE有区别。托福的专业性文章还都处于一个启蒙的专业水平上，不像G那么变)阅读还可以教给我们一些老美的思路，老美看待问题的方式。阅读不会像你想象的那样痛苦的。
+　　无论是OG还是Delta，都把阅读的题目分成十类，即：Understanding Facts and Details， Identifying Negative Facts， Locating Referents， Understanding Vocabulary in Context， Making Inferences， Determining Purposes， Recognizing Paraphrases (Simplifying sentences)， Recognizing Coherence (Sentence inserting)， Summarizing Important Ideas and Organizing information. 我将按顺序一一解释。
+　　还有很重要的一点，做题的时候，无论考试还是练习，不光要分析对的选项为什么对，更要分析错的选项为什么错。有时候分析错误的原因更为重要。有助于你把握出题的思路，培养感觉。这是非常有用的。
+　　一、直接信息题
+　　应该说直接信息题的难度并不大。用OG上的话解释：直接信息题主要是问考生直接在文中明确给出的信息。不需要进行推断。通常这类问题不会涉及到全文的主旨问题，而一般都考察某一两句话的相关信息。
+　　根据OG给出的解释来看，要做好直接信息题分三步：第一步，把冰箱门打开：准确在文章中定位出那一两句话；第二步，把大象装进去：根据这一两句话的内容选出正确答案；第三步，把冰箱门关上：用鼠标选中正确的答案^_^
+　　关于第一步：如何快速定位。就需要你在题干中找出有助于你定位的那个词。因为前面说过，题干中的话大多是paraphrase，所以这就需要你找出那些不容易被paraphrase的单词帮助你定位。一般以名词或者文章专门涉及到的词为主。遇到不太好找关键词的题干，尽量想办法减少搜索范围。以OG上的例子说明：
+　　第一步我们先找出关键词，即，根据哪个词我们在原文中定位信息。这样的词一般都是不容易被替换掉的。以具体名词居多。因为形容词，副词都是最容易找到近义词的。而越偏的词越不容易被paraphrase，比如“驴打滚”之类的，即使用“年糕”来替换，还是不合适的在这一题里，我们选择cannonballs。回原文找，cannonballs第一次出现在第六行，我们就看这一行上下的句子就可以了。从For example看起，早期的雕像上加一个炮弹是因为需要炮弹来支撑腿的重量。In other words是对这句话的解释，可看可不看。下面一句话：……quickly disappeared when sculptors learned how to strengthen the internal structure…。。看完这个我们就可以做题了。很自然的选择第二个选项。这句话连起来就是：Sculptors in the Italian Renaissance stopped using cannonballs in bronze statues of horses because they found a way to strengthen the statues internally. 这简直就是把原话换了种方式来说。Stopped using替代disappear，strengthen internal structure替代strengthen internally。用形容词替换同根的副词，这是最常见的paraphrase方法之一。
+　　掌握了以上要领，第一个类型的题就搞掂。我们再用Delta上面两个题巩固一下，来检验这种方法是否真的有效。
+　　定位信息。题干句子比较短，没有太多的词可供选择。对于mentor和protégé这种文章专门引入的词，一般在转译的时候不会做出改变，只是问中涉及该词的句子比较多，不太容易定位。好在help的意思大家太熟悉了，都很敏感，可以很快从文章中找出意思差不多的其他词来。我们选择mentor help protégé回原文定位。找到第四行我们发现有个teaching，mentors are given credit for teaching protégés the key elements of the job， and for providing a key relationship in the young adult’s shift from dependence on parents to complete independence. 这句话，对于mentor对protégé的作用提到了两点，一一回到原文去找。发现C选项不就是原文第一点的转述吗？而原文中的第二点，key relationship…。，选项中没有提到。我们选择C答案。
+　　然后回过头来以胜利者的姿态审视这个题：teaching用help作了转译，key换成important， elements换成aspects，这不就是最完美的paraphrase吗？练习阅读，找到了一定的感觉你就会发现，有这种完美转译的单词的选项，一般都是正确的，看上去很舒服。而A中倒是有原文中的原词credit。当你选择的选项中，有不太难被替换的单词，但没有被替换掉，还是以原词形式出现，你一定要加以小心，有可能是正确的，但也极有可能是错误的。比方这个credit，虽然词没变，但是意思不太一样了。而且原文说的是mentors are given credit，题目中变成了giving protégés credit，所以是错误的。
+　　原文正好也有一个 difficult to know，信息找到。原文说…。 The most strongly motivated and skilled， 题目中是highly motivated and skilled。应该说是原文的意思一点没变，几乎连单词也没怎么变。所以我觉得这个题跟ETS风格还是有些许出入。看看如何paraphrase 的：selected改成chosen，strongly改成highly。没什么问题。搞掂。
+　　二、反面信息题
+　　这种题最大的特点是有一个大写的NOT或者EXCEPT。根据ETS的解释，这种题也是来自文中给出的直接信息。要解决这个问题，需要在文中找出3个提到的选项，剩下的那一个就是答案了。而那三个文中有提到的信息，则可能分布在一段或者几段之中，跨度比上面的题大。
+　　这种题难度也就比上面那种大，因为要找“有”容易，找“没有”困难。所以这种题几乎唯一的方法就是排除法。需要注意的是，我们换个角度来看这种问题。那三个提到的信息，必然都是与题干相吻合的，因此是并列关系。要解决这种题，就需要我们对文章中的并列关系极为敏感。阅读的时候看到并列关系，特别是并列项为3项的并列关系，就要想到是不是有可能出反面信息题。特别注意表并列的词，firstly， one… is that， at first之类的，或者是moreover， in addition之类表示附加的词。有些文章的并列可能在一个句子里用几个逗号就解决；而有些则是提到一点之后详尽解释这一点，然后再讲其他的。这样需要我们找信息的时候把具体解释的内容跳过，直接从后面找跟它并列的内容。自然，这种题正确选项与原文的关系，依然是paraphrase。
+　　以OG上的那一段为例：
+　　因为篇幅的关系，OG这个例子不可能举一个贯穿几段的大并列，而只有这么一小段。这也就需要我们通读全段了。看到in addition to，知道这句和前面那句并列。第一句中did not consider useful是对A中thought art was unimportant的paraphrase， in addition的European was better是对C中American is inferior to European art的paraphrase，(对于比较级的句子，这是比较常见的paraphrase方法之一，即找形容词的反义词，把比较二者顺序倒过来就可)。而 B选项的排除则需要用到一些做inference题的方法了，后面我会具体讲。第五行说In early 1900，。艺术家们都想发展一门艺术that did not reproduce，说明从前确实copied，copy是对reproduce的paraphrase，这种推断的方法后面具体再解释。
+　　下面以Delta上面的例子做个解释：
+　　很明显的并列成分，有明显的引导并列的词：One， Another， On of the most…，正好三个。读文章的时候就应该想到可能出个EXCEPT的题。Air pollution是转述harmful air pollutants， hazardous waste是原词，the increasing amount是转述the increase in concentration of dissolved salts。
+　　再来一个：
+　　找到了一个非常关键的词，causes may also include…，明摆着告诉你这附近说的就是题目问的那回事。前面那句说一点，后面那句说一点，这句说一点，就能够排除三点了。A的错误不在于文章没有提到，而在于与文章提到的内容相悖。
+　　三、指代定位
+　　顾名思义，这种题是要问考生文中的代词具体指代的是什么丁冬，说专业点叫做先行词 antecedent。基本可以分为四类。第一是人称代词或者物主代词，如I， you， our， mine; 第二类是从句中的引导词，如what， which， who;第三类是指示代词，this， that(包括其指示的名词，如问this reason， that purpose之类的)；第四类是其他的代词，all， most， some， many， the former， the latter之类。代词需要遵循的首要原则是就近原则。从前面找离它较近的那个词。找到以后把意义代回到原句中看合适不合适就可以了。OG还特别强调了，注意先行词和代词必须人称、单复数一致。总体来说这种题难度都不大。
+　　用OG上的几个例子说明：
+　　先行词，先行词，顾名思义，一般应该在代词前面。根据就近原则就找出来postal service。代回去看看合适不合适，A，distribution有65个office; B销售有65个office，C报纸有65个office，D，邮政服务有65个office。其他几个都太荒诞了。这种题难度相对不大，也就不多说了。
+　　四、词汇题
+　　这应该是所有题型里面最不需要技术的一项，也是最需要技术的一项。所谓不需要技术就是说，只要你认识这个单词，马上就能选出来，5秒钟就搞定；说需要技术是因为万一不认识，就要考验你的词根，对上下文的理解还有RP了。不要过分信任你猜你猜你猜猜猜的技巧，我觉得这种题还是比较容易出错的。有时候两个选项代回去意思都说得通。所以单词基础非常重要。但考试的时候遇到不认识的也别慌，该猜就猜。一般至少可以排除两个选项，剩下两个也别耽误太长时间，一分钟搞不定就当断即断吧。50%的把握，不小了。关于猜词技巧除了上下文，词根也挺重要的。掌握一些常见的词根还是挺有用的。前面单词贴里面说得很多，就不多说了。还有时候你不认识一个单词，但你觉得它“好像”是某个意思，应该大胆相信你自己。有时候潜意识是非常厉害的。
+　　用OG的话说，如果一个单词有多个意义，那么可能在题目中都会出现。要选择符合文中意思的一项。但我还没见过这样的。基本上错误的选项都不是该单词的准确意思。
+　　这种题实战练习作用不太大，就不举真题例子了。记得选好了把你所选的单词替换回去看看是不是能行得通。
+

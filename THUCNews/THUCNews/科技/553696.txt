@@ -1,0 +1,7 @@
+谷歌证实Google Reader实现实时更新
+　　新浪科技讯 北京时间2月21日下午消息，据国外媒体今日报道，谷歌发言人证实Google Reader已经实现了实时更新，支持PubSubHubbub协议的订阅更新将实时出现在Google Reader页面上。谷歌将在未来几天就此事正式发布消息。
+　　此前热门博客或新闻网站上的更新要半个小时之后才会出现在Google Reader上。而现在支持PubSubHubbub协议的订阅源(包括RSS订阅源)的文章可以几乎即时出现在Google Reader上。
+　　Google Reader推出之后，博客作者和读者就开始抱怨更新滞后的问题。但谷歌一直没有有效解决这个问题。
+　　PubSubHubbub协议是由谷歌员工布伦特·斯拉特金(Brett Slatkin)和布拉德·菲茨帕特里克(Brad Fitzpatrick)研发的pubsub(发布/订阅)协议，可以显著缩短订阅源从发布到被客户端发现之间的时间。谷歌于2009年7月正式发布这个协议，此后相继应用到谷歌产品Blogger、Google Alert和Reader当中。
+　　不过，Google Reader的实时更新只适用于支持PubSubHubbub的博客。(逸飞)
+

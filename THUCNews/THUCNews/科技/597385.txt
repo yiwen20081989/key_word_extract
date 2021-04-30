@@ -1,0 +1,6 @@
+Adobe发布首款Edge公众预览版 可免费下载
+　　新浪科技讯 北京时间8月1日下午消息，Adobe周一宣布发布首个Adobe® Edge公众预览版，这是一款新型网页互动工具，可令网页设计者将动画整合到采用HTML、JavaScript 和CSS等标准的网站中去。
+　　鉴于HTML5发生的快速变化，Adobe将采用一种开放式开发策略来推广Adobe® Edge，同时将比正常情况下更早在Adobe Labs发布这款软件，以便获取用户的反馈改善最终产品性能。在公开测试期间，Adobe® Edge可以免费下载，从而鼓励网页设计者积极提供反馈意见。设计者可从www.labs.adobe.com下载这款软件。
+　　Adobe® Edge在Adobe MAX 2010大会首次亮相，可以使设计者更为有效地利用HTML等网页标准创建动画内容。根据设计，Adobe Edge将成为一款快速便捷的专业工具，为Adobe Dreamweaver® CS5.5、Adobe Flash Professional CS5.5和Adobe Flash Builder® 4.5等Adobe现有Web工具提供有益补充。
+　　Adobe设计与网页工程部门副总裁保罗·古拜(Paul Gubbay)说：“过去一年，Adobe HTML5技术完成了多个里程碑式的跨越。如今随着Adobe Edge的推出，我们将HTML5工具提升至一个全新水平，期待未来几个月开发者社区能提供真正有价值的反馈，帮助我们不断完善这款产品。”(圣栎)
+

@@ -1,0 +1,40 @@
+名师辅导：2012考研英语虚拟语气三种用法
+　　虚拟语气用来表示说话人的主观愿望或假想，而不表示客观存在的事实，所说的是一个条件，不一定是事实，或与事实相反。虚拟语气通过谓语动词的特殊形式来表示。在表示虚假的、与事实相反的或难以实现的情况时用虚拟语气， 表示主观愿望或某种强烈情感时，也用虚拟语气。即当一个人说话时欲强调其所说的话是基于自己的主观想法，愿望，假想，猜测，怀疑或建议，而不是根据客观实际，就用虚拟语气。
+　　下面，万学海文(微博)英语考研辅导专家们就为广大的2012年的考生们详细地分析一下虚拟语气的三种用法，以供大家参考。
+　　一、	虚拟语气在状语从句中的运用
+　　虚拟语气在状语从句中的运用除了可以表示条件外，还可以表示比较、结果、目的等。虚拟语气用于表示条件的状语从句中，一般称为虚拟条件句。根据时间的不同，虚拟条件句中谓语动词时态的变化可能有三种形式，即现在、过去和将来。
+If it did, it would open up its diversity program, now focused narrowly on race and 
+gender, and look for reporters who differ broadly by outlook,values, education, 
+and class。(2001年 TEXT1)
+　　这是一个含有条件状语从句的复合句。If it did是条件状语从句。主句中主语是it；谓语动词有两个，分别是would open up.。.和look for...。
+　　这是一个与现在事实相反的虚拟语气，从句用一般过去时，主句用would+动词原形open up和look for。
+　　参考译文：如果它能注意这个问题的话，它就会拓展其雇员多样化项目，而目前的项目只单纯考虑招收不同种族和性别的员工，去雇佣那些在世界观、价值观、教育背景及社会阶层方面各不相同的记者。
+　　二、虚拟语气在名词性从句中的运用
+　　虚拟语气除了用作状语从句中外，还可以用作主语从句、宾语从句、表语从句、同位语从句等名词性从中。
+　　第一，	虚拟语气在主语从句中的运用
+　　当it作形式主语，后面用形容词作表语，即在it is + adj。这样的句型中，当描述主语的表语形容词是advisable，critical，crucial，desirable，essential，imperative，important，
+incredible，inevitable，necessary，recommend，strange，urgent等形容词时，主语从句的谓语动词多用虚拟语气，如果是现在时，谓语动词用should/would +动词原形(should/would经常省略)；如果是过去时，则用should/would + have done的形式。
+　　It was inevitable that this primacy should have narrowed as other countries grew 
+richer. Just as inevitably，the retreat from predominance proved painful。
+　　这是一个含有主语从句的复合句。句首的It是形式主语，真正主语是that从句，该主语从句使用了虚拟语气should+完成时。(2000年  TEXT1)参考译文：随着其他国家日益富裕，美国的这一优势地位逐渐下降是不可避免的。惟其不可避免，从优势地位上退出愈发痛苦不堪。
+　　第二，	虚拟语气在宾语从句中的运用
+　　表示“建议、请求、命令、要求”等主观意向的词(如：suggest、advise、assume、decide、demand、desire、insist、propose、order、recommend、require、suggest……)，引导宾语从句时需用虚拟语气。虚拟语气中的格式很固定：谓语动词用should+动词原形，should可以省略。注意这种句型中的虚拟语气形式不受主句动词时态的影响。Theories concerning on the individual suggest that children engage in criminal 
+behavior because they were not sufficiently penalized for previous misdeeds or that 
+they have learned criminal behavior through interactions with others。(2004  CLOSE)
+　　此句是个含有一个宾语从句、两个原因状语从句的复合句。suggest是主句谓语，Suggest后面的宾语从句中的谓语动词engage in前面省略了should。
+　　参考译文：关于个体研究的理论认为，孩子们从事犯罪活动是因为以前他们做错事情时对他们的惩罚力度不够，或是因为他们通过与其他人的交往学会了犯罪。
+　　第三，	虚拟语气在同位语从句中的运用
+　　名词advice、assumption、decision、demand、desire、insistence、order、proposal、requirement、recommendation、suggestion……后面若有同位语从句，从句的谓语动词也应使用虚拟语气的形式。
+Such behaviour is regarded as “all too human”，with the underlying assumption that 
+other animals would not be capable of this finely developed sense of grievance. (2005年 TEXT1)
+　　这是个含有同位语从句的复合句。that引导的同位语从句的谓语动词由would+动词原形be构成。
+　　参考译文：这样的行为被认为“完全是人类独有的特点”，其潜在的含义是其它动物没有这种敏锐的委屈感。
+　　第四，虚拟语气在表语从句中的运用
+　　与同位语从句一样，若主语是某些特定动词的同根名词(参考上一部分同位语从句)，要在它后面的表语从句要用虚拟式。
+Another decision is whether the school should be one of the vast majority financed 
+by the State or one of the very small but influential minority of private schools，
+though this choice is，of course，only available to the small number of those who 
+can pay. (英语专业四级考试01年Text D)
+　　这是个含有表语从句的复合句。主语是another decision；谓语是is；whether……or……是表语从句，其中谓语动词由should＋动词原形be构成。参考译文：另一个要做出的决定是：应该选择一所占绝大多数的国立学校呢，还是选择一所数量虽小却有影响力的私立学校呢，当然，只有少数有支付能力的人才有这种选择的权利。
+　　总之，虚拟语气是考研英语中的重要考点，频繁地出现在历年真题中。所以，万学海文考研辅导专家们温馨提示，2012年的考生在平时备考中一定要认真复习，理解它在不同语境中的用法。
+

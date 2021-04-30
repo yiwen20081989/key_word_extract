@@ -1,0 +1,8 @@
+IBM发布首个中文版专业社交网站
+　　新浪科技讯 6月22日下午消息，IBM公司今天发布首个专门面向中国软件开发人员和IT专业人士的垂直社交网站(VSN)——My developerWorks中文版社交网站(http://ibm.com/developerworks/cn/mydeveloperworks)，该网站基于IBM的企业网络和协作技术Lotus Connections。
+　　IBM称，自My developerWorks全球社区推出以来，已经有超过32.5万个活跃ID，日均新增注册用户超过1000人，有超过600个博主、900多个群组，用户所创建的书签和Wiki已经分别近1.3万和400个。
+　　新近推出的My developerWorks 中文版与其全球网站一致并且保持同步更新，它提供中文环境下的博客、书签、Wiki、群组、联系、共享和协作等社交媒体功能，用户可以随意设定并在 Twitter、LinkedIn 和 Facebook 等全球社交网站上公布自己的个人资料，借以扩展自己的专业网络。
+　　My developerWorks全球社区依托于1999年正式发布的IBM developerWorks网站。成立之初，IBM developerWorks即定位于成为IBM向软件开发者和IT专业人员提供的首要技术资源中心，为软件开发者提供了有关开放标准技术和IBM产品的重要行业资源，以及用户所需的文章、教程、代码及技能套件。
+　　今年，包括云计算、Rational RFE社区、iPhone应用在内的全新资源正式向全球developerWorks注册用户开放。此外，开发人员通过developerWorks，能够获得AIX、UNIX、IM、Lotus、Rational、Tivoli和WebSphere，以及Java、Linux、SOA、Web服务、XML等开放标准技术的大量工具、代码和培训内容。developerWorks社区目前拥有800多万用户，每月平均有400万需求各不相同的访问者，这些IT专业人员希望获得技术问题的解决方案，并了解最新的开放标准技术及IBM产品和服务。
+　　IBM developerWorks中国网站于2001年2月正式发布，据统计，每个月有超过80万的专业人员访问developerWorks中国网站，超过14,500多篇的中文技术文章，教程，开发技巧，多媒体课堂以及其他的技术资源。
+

@@ -1,0 +1,100 @@
+考研英语词汇复习指南：注意词义选择和引申
+　　作者：陈仲凯
+    考研英语词汇的词义选择和引申
+　　考研英语涉及到5496个大纲单词以及216个超纲词汇，词汇量的要求并不太高。在考研中由于没有词汇单项的题目，很多考生很容易就囫囵吞枣的应付考研单词。其实考研英语在阅读和翻译中对考生单词的检测更为严格。今年的大纲只列出了5496个单词，没有标明音标和词义，这更需要引起我们的警惕和重视。比如：我们熟悉的单词”through”,往往首先想到它的介词词性，在考试中出现过的“through”却表示“直达”的形容词性。如何熟练掌握大纲词汇，我们做真题的同时需要重视词义的选择和引申：
+　　(一)词义的选择 
+　　英文中一词多义的现象非常普遍。例如：英语story一词在不同的上下文中可以有不同的词义： 
+　　例：It is quite another story now. 
+　　现在情况完全不同了。 
+　　例：The officials concerned refused to confirm the story in the Post. 有关官员拒绝证实《邮报》的这条消息。 
+　　例：The white-haired girl’s story is one of the saddest. 
+　　白毛女的遭遇可算是最悲惨的。 
+　　例：A young man came to police station with a story. 
+　　一个年轻人来到警察局报案。 
+　　遇到英语多义词时必须结合上下文反复推敲，切忌望词生义，不求甚解。尤其遇到多义常用词时，不要想当然地把自己懂得的词义放到文章中去。 
+　　例：Albert Einstein, who developed the theory of relativity, arrived at this theory through mathematics. 
+　　误: 阿尔伯特·爱因斯坦发展了相对论，他是通过数学方法得出这一理论的。(此处develop应译为“创立”) 
+　　再以consequence一词为例，考研真题中该词曾出现过三次：Consequence在三句中的分别译为：“推论”“结果”“影响”。 
+　　例: consequence 
+　　Others are reasonable consequences of particular advances in science being to some extent self-accelerating. (1996:71)
+　　其他原因则是由于科学在一定程度上自我加速而取得特定发展的必然结果。
+　　Research not related to immediate goals but of possible consequence in the future. (1996: 73)
+　　这些研究与直接目标没有关系，但是在未来却有可能产生影响。 
+　　Cosmic inflation is a scientifically plausible consequence of some respected ideas in elementary particle physics…(1998:75)
+　　宇宙膨胀论是基本粒子物理学中一些公认的理论在科学上得出的似乎可信的推论。 
+　　多义词词义的辨析选择和确定，是一项艰苦的思维过程，选择时一般可以从三个方面着手： 
+　　1. 据词类定词义。 
+　　有些词在作为不同词类时有不同的意思，如：back做副词意思是“回来”，做动词是“支持”，做形容词是“过期的”(如：a back issue, 过期的期刊)，做名词是“背面，背部”等。因此，选择词义，首先要判明词类。 
+　　例：work 
+　　In general, the tests work most effectively when the qualities to be 
+　　measured can be most precisely defined…(1995:74)
+　　一般来说，当所要测定的特征能够精确界定时，测试效果最佳。 
+　　这一句中判断work为谓语动词，tests做主语，由于主语非人，因此译为“有效,有指定的效果to have a given effect or outcome,” 类似的用法如：Our friendship works best when we speak our minds.
+　　(直言无讳，友情才最真挚”)。 
+　　Pearson has pieced together the work of hundreds of researchers around the world…(2001:73)
+　　皮尔森汇集了世界各地数百位研究人员的成果… 
+　　该句中work一词前有定冠词the修饰，故为名词。考虑到与piece together搭配，而“工作”是无法汇集的，因此确定为“工作成果”。当然work一词还有很多其它词义，而确定其在上下文中意思的第一步就是确定词性。 
+　　再如1994年72题，expanded the reach of science，首先判定reach为名词，排除动词“到达，达到”之意，进一步确定其意为“范围，区域”，该短语因而意为“拓展了科学的影响范围。” 
+　　2. 据专业定词义。 
+　　一个名词有多种意义时，往往是分别适用于不同的学科和专业，这是各行各业都尽量利用常用词汇去表达各自的专业概念造成的。例如：body一词，在以下领域分别为： 
+　　天文学 the sun is the central body of the solar system
+　　太阳是太阳系的中心天体。 
+　　航空 the speed of a plane is associated with the shape of its body and wings. 
+　　飞机的速度与机身及机翼的形状有关。 
+　　航天the body needs special exercise in a spaceship to suit the weightless conditions.
+　　人体需要在宇宙飞船中进行专门训练才能适应失重状态。 
+　　因此，要注意辨认多义词的一般意义和专业意义，以及在各种不同学科中的不同译法, 使译文语言更为符合汉语表达习惯。比如：evidence 一词，普通意义为“证据、根据”，但在99年真题74题中interpret the new forms of evidence in the historical study，根据文章讨论历史学研究的专业背景，译为“史料”。 
+　　同样，以下词义都根据具体专业学科做了适当变化： 
+　　computers with in-built personalities (2001:72)
+　　安装有内置个性芯片的计算机 (而非“性格”) 
+　　home appliances will also become so smart that …(2001:74)
+　　家用电器也会变得如此智能化….(而非“聪明”) 
+　　far-reaching changes in social patterns 
+　　社会模式的深刻变革 (而非“变化”) 
+　　Governments are often force to introduce still further innovations (2000：74)
+　　各国政府常常不得不出台进一步的革新措施…(而非“介绍”) 
+　　3. 据搭配确定词义 
+　　一般说来一个孤立的词其词义是游移不定的，但当词处于特定的搭配关系中时，它的词义受到周围词的制约就会明朗化了，所以我们说“word has no meaning till it is in a context (词在上下文中方有意义)。”比如hot词义很多，但在特定的搭配关系中词义就很明确了： 
+　　hot bath热水浴 Pepper is hot. 胡椒是辣的。 
+　　a hot temper 暴躁的脾气 hot on pop music.热衷于流行音乐。 
+　　Hot music节奏强的音乐 Hot news最新消息 
+　　Hot material强放射性物质 hot dispute激烈争论 
+　　科普文章作为考研的主要文体，有较强的科学性、逻辑性, 词与词之间相互制约依存，因此特别应当多结合上下文、搭配关系推敲词义，决不能孤立、片面、静止地理解一个词的词义，僵化地套用。 
+　　如：evolution一词在真题中的翻译 
+　　The role of natural selection in evolution (2002：63)
+　　自然选择在进化中所发挥的作用 
+　　the real hero of the story was the long evolution in the improvement of machinery for making eyeglasses (1994)
+　　这个故事中真正的英雄是改进透镜制造设备的漫长过程。 
+　　再如：practice 
+　　they are essential to practices in which …(2002:64)
+　　它们对于那种…的做法是必不可少的 
+　　modern practice most closely conforms to one /that sees history as the attempt to recreate and explain the significant events of the past. (1999:71)
+　　当代史学研究实践最为切合其中一种定义, 认为历史学就是试图对过去重大历史事件加以再现和解释。 
+　　上句话中的另两词也颇值得玩味，history一词直接译为“历史”是否妥当呢？不妥。根据as后给出的定义判断，此处的history一词指“对过去重大事件的解释再现”，而 “历史” 本身就是过去重大事件, 怎么可能再去再现别人呢？根据上下文进行逻辑推理，就可以排除这一想当然的曲解，避免一处重大的误译。同样recreate可以译为“再创造”么？也不行。因为根据搭配，recreate后接的是“过去重大事件”, 也就等于“历史”，而历史只能“再现”不可“再造”。 
+　　根据上下文搭配确定词义是最为有效的选择词义的方法，在考研翻译确定词义时，广为适用。请看更多例证： 
+　　例：a leader of the new school (1994) 
+　　新学派的一位领袖人物(而非“新学校的一位领导”，因为上文提到new school of scientists) 
+　　例：they… thus do not tell … (1995) 
+　　因此无法表明(而非“告知”，因为根据上文，主语为standardized tests) 
+　　(二)词义的引申 
+　　所谓词的“引申”，指的是在一个词所具有的基本词义的基础上，进一步加以引申，选择比较恰当的汉语词来表达，使原文的思想表现得更加准确，译文更加流畅，如：heavy的基本词义是“重”，heavy crop引申为“大丰收”，heavy current引申为“强电流”，heavy traffic引申为“交通拥挤”等。词义引申主要使用词义转译、词义具体化的方法实现。 
+　　1.词义转译：有些词照搬辞典义翻译会使译文晦涩，含混，甚至造成误解。这时就应根据上下文逻辑关系引申转译。 
+　　例：cosmic inflation is a scientifically plausible consequence of some respected ideas in elementary particle physics…(1998) 
+　　宇宙膨胀论是基本粒子物理学中一些公认的理论在科学上得出的似乎可信的推论。(不译“受人尊重的”) 
+　　例：elegant systems are in principle unable to deal with…(1996) 
+　　完美的理论体系(不译“优雅的体系”) 
+　　例：Optics technology is one of the most sensational developments in recent years. 
+　　光学技术是近年来轰动一时的科学成就之一。(不译“发展”) 
+　　例：The beauty of lasers is that 
+　　激光的妙处在于…(不译“美丽”) 
+　　2.词义具体化：即把原文中意义较笼统、抽象的词，根据汉语表达习惯，引申为意义较明确、具体的词。例如在下列真题句子的翻译中，笼统的词义具体化后，汉语表达清晰、流畅，成为可接受译文。 
+　　例：The specific demands that a government wants to make of its scientific establishment cannot generally be foreseen in detail. (1996) 
+　　一般来说，一国政府对其科研机构提出的具体要求是无法详细预测的。(不译“建立”) 
+　　例：monitors that will disable them when they offend (1996：72)
+　　如果汽车排污超标，监控器就会使其停止行使。 
+　　例：Until such time as mankind has the sense to lower its population to the points where the planet can provide a comfortable support for all, people will have to accept more "unnatural food." (1991：74)
+　　除非人类终于意识到要把人口减少到这样的程度：使地球能为所有人提供足够的饮食，否则人们将不得不接受更多的“人造食品”。
+　　综上所述，熟练吃透考研真题，全面掌握考研词汇高频含义将是考试成功的关键。祝愿各位考研勇士终成硕士！ 
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

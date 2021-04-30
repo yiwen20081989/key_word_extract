@@ -1,0 +1,7 @@
+首批开卖Windows Phone 7优缺点大汇总
+作者：王彬
+Windows Phone 7系统优缺点综述
+　　Windows Phone 7依然开始对Android、iOS的反击，HTC Trophy肩负着历史的重任正式在新西兰开卖，我们也是在第一时间和大家分享了关于Windows Phone 7的方方面面，那么同期发布的其它机型表现会如何呢？虽然我们不能在第一时间为大家交出评测文章，但先来一个大致的优缺点讲评还是可以的。
+　　首先再来回顾一下Windows Phone 7的演变、进化过程，我们已经不能再把Windows Phone 7当做Windows Mobile 6.5的升级版了，它其实更像是Zune系列音乐随身听的衍生产物。从下面的图片中可以看到，从最早的PMC（Portable Media Center）到Zune一代，再到Tegra平台的Zune HD，最后到了Windows Phone 7，它们有着非常类似的界面。可以说，Windows Phone 7在某种意义上，就是加入了通讯功能的Zune HD。
+　　好了，现在回到首批上市销售的所有Windows Phone 7产品上。虽然系统已经正式发布，但实际上还有很多的问题。比如对第三方软件的支持还很匮乏、几乎不支持多任务处理等；但创新的UI、对Xbox Live平台游戏与Zune软件的整合、简单直观的信息推送都是它的优势。
+

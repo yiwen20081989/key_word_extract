@@ -1,0 +1,6 @@
+Google正式发布Nexus One 约售3600RMB
+　　终于，Google首款自有品牌手机Nexus One(参数 图片 论坛)正式发售了。今天凌晨，Google在美国加州山景城(Mountain View)总部举行发布会，这也预示着Nexus One正式开卖。Google副总裁Mario Queiroz上台发布Nexus One手机，HTC首席执行官周永明(Peter Chou)、摩托罗拉联合首席执行官Sanjay Jha也上台推介Nexus One，但不可否认的是，他们与Google之间原本较为简单的合作关系中已经加入了一些竞争的意味。
+　　我们已经知道，Nexus One的制造方是HTC，因此不少人在刚看到Nexus One时都误以为这是HTC的新品。从外观上看，Nexus One要比苹果iPhone 3G S稍微薄一些，它的厚度仅为11.4mm，重量约为130.4g。它采用了3.7英寸镜面电容式AMOLED触摸屏，分辨率是800×480，它的CPU 是Qualcomm新一代Snapdragon QSD 8250(1.0GHz)处理器，操作系统是Google最新的Android 2.1开源平台。
+　　另外，Nexus One配备有500万像素带自动对焦功能、LED闪光灯、地理标签功能的摄像头，可支持2倍数字变焦，拥有512MB内存空间、并内置4GB mircoSD卡，同时还支持最高32GB的microSD扩展卡，内置AGPS导航接收模块，可以20fps的速度拍摄720×480的视频。 Nexus One的电池为1400mAh，在2G网络下的通话时间最长为10小时、在3G网络下的最长通话时间为7小时，待机时间为250小时(3G网络下)至 290小时(2G网络下)，此外它也具备最长7小时的视频播放时间和最长20小时的音频播放时间。
+　　目前Google的Nexus One专用销售页面www.google.com/phone已 经上线，消费者可在此订购Nexus One，预计国内的水货市场也将很快出现Nexus One的身影。Google将会推出2个版本的Nexus One手机：一是价格为529美元(约为3600元人民币)的解锁版Nexus One，即只包含手机一部、手机外壳一个、充电器一个、USB数据线一根，不捆绑任何运营商的服务、不提供SIM卡，购买者可根据个人喜爱选用任意的运营 商；二是价格为179美元(约为1300元人民币)的T-Mobile版本，也就是说该版本捆绑了T-Mobile的2年套餐服务，标准的套餐是月费用为 80美元，内含500分钟语音通话时间、不限量SMS、MMS短信和不限量网络服务。
+

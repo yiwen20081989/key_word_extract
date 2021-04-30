@@ -1,0 +1,9 @@
+惊爆尼康D3100 CMOS设计源自尼康D3
+　　近日国外chipworks.com网站对尼康D7000(资料 报价 图片 论坛)进行拆解，对D7000 CMOS研究后发现“SONY”字样，证实这款相机采用索尼产Sony  IMX071。
+　　随后小编又在该网站查询到，尼康一些单反相机的CMOS信息
+　　Nikon D3/D700 sensor NC81338L:  Nikon  设计
+　　Nikon D3s sensor NC81361A: Nikon 设计
+　　Nikon D3100 sensor NC81362A: Nikon 设计
+　　Nikon D90 sensor IMX038: Sony 产品
+　　值得注意的是尼康D3100，这款产品的CMOS规格与索尼a560、NEX-5等类似，曾被疑似为索尼CMOS，但chipworks指出D3100  CMOS上编号为“NC81362A”与全画幅D3s  CMOS编号类似，可以初步判定该CMOS与尼康D3、D700、D3s情况类似，为尼康设计，其他厂商代工完成。
+

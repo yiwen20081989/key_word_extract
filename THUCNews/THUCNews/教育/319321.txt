@@ -1,0 +1,59 @@
+终极技巧：雅思阅读长难句简析
+　　雅思阅读考试的部分，在一个小时的时间里要求众多烤鸭们完成三篇800—1200词的文章阅读和题目解答，对于很多人来说，这个时间是不够进行完全阅读的。要最有效率地善用时间，拿到自己满意的分数，我们可以从两个方面入手：一方面是技巧，知道如何依据题目给出的指向，去文章的什么地方寻找答案；另一方面则是硬碰硬的速读能力，很快地扫描全文，然后挑拣出有用信息所在的句子。从长远角度来看，后者对于各位鸭鸭们更为重要，毕竟考到了满意的分数只是开始而非结束，去了自己心仪的学校以后还是要接受铺天盖地的英语材料轰炸。特别是对于准备时间比较充分因此相对从容的同学，不如就从雅思备考的这个阶段开始准备吧。
+　　英语的句式结构其实很简单：主谓宾和主系表。主谓宾是“谁—干—什么”，比如“羊吃草”。“洁白可爱的小绵羊蹦蹦跳跳欢快活泼地在一望无垠的广阔草原上幸福愉快地吃着鲜嫩碧绿的青草”一样也是主谓宾，只不过修饰成分多了些、显得唐僧了些而已。主系表是“谁—是—什么”，复杂版本参考同上。要很快地理解这样的句子，我们就要学会迅速地抓出句子的主干—也就是“羊吃草”的部分，至于其它的修饰部分可以先不过大脑。如果主干显示本句子中包含了解题信息的话，此时再去细细查看题目要问的细节信息也不迟。这样的抓主干技巧一旦熟练，要有充分的时间通读三篇文章、保证不遗漏任何信息地做题，也不是什么不可完成的任务了。特别是对于那些原本语言功底就不错、希望能以阅读这一项的得分再提高一下总成绩的同学来说，这是真正的终极技巧，要达到保8望9也是很有希望的。
+　　针对两种句式结构的抓主干方法，简单说来如下：　　
+　　主谓宾结构：寻找谓语动词
+　　主系表结构：寻找系动词
+　　也就是说，无论哪种句式，我们都要在心里默念寻找动词这个原则，以模糊匹配的方式来对应最有意义的那个动词，进而确认动词之前的主语和动词之后的宾语或表语。
+　　一个句子之所以能够拉长，除了在一个简单句中加上许多修饰成分之外，还有可能是长出了枝干—也就是加了从句，或者是由连词和平衡结构把若干简单句合并在了一起。雅思长难句最频繁出现的情况包括如下几种：
+　　定语从句：that, which(介词+which)， who,…
+　　状语从句：v+ing
+　　寻找平衡结构：三大连词 and/or/but，
+　　not only…but also…
+　　not…but…
+　　no more/longer/less …than
+　　as…as
+　　not so …as… . . 。
+　　还有一种特殊主系表值得单独说一说：
+　　There be句型：寻找中心词
+　　这个句型之所以特殊，是因为系动词和表语都已经以倒装的形式给出来了，欠缺的只是一个主语中心词而已，因此我们看到了there be开头的句子，一定先集中精力寻找到那个中心点。此外，这个句子是一些同学在雅思作文考场上易犯错误的地方。在时间紧迫的压力下，可能会有同学不自觉地受到了中文思维的影响，写出诸如“There are many people do something。”此类的句子，如果在模拟考试的时候发现自己曾经犯过这类笔误，建议大家在考场上给自己留出1、2分钟的检查时间来。检查方法也很简单，把there be两个词遮住，如果剩下的部分还能读出一个完整的句子来，则原本的句子必定是有问题的，可以迅速把there be这两个词擦掉。
+　　除了be动词外，还有一些there be形式的变体：
+　　• There come/comes/came
+　　• There appear/appears/appeared
+　　• There emerge/emerges/emerged
+　　• There may/might be
+　　• There can/could be
+　　• There happen to be
+　　• There used to be
+　　• There is/are going to be
+　　其中后两个句子中说到的情况一定是不存于当下的，在判断题(TRUE/FALSE/NOT GIVEN)中容易被揪出来做文章，出题思路是细节不一致的类型，答案多为FALSE。
+　　结合课堂讲解的部分，有时间的同学可以练习一下快速理解以下这些来自剑桥考题当中的长难句：
+　　1. There are examples of languages that have survived in written form and then been revived by later generations. (4A0201)
+　　2. In New Zealand, classes for children have slowed the erosion of Maori and rekindled interest in the language. (4A0201)
+　　3. The former US policy of running Indian reservations schools in English, for example, effectively put languages such as Navajo on the danger list. (4A0201)
+　　4. It is not necessarily these small languages that are about to disappear. (4A0201)
+　　5. However, it wasn’t until the discovery of the reaction principle, which was the key to space travel and so represents one of the great milestones in the history of scientific thought, that rocket technology was able to develop. (3A0101)
+　　6. What makes a language endangered is not just the number of speakers, but how old they are. (4A0201)
+　　7. In the Native American Navajo nation, which sprawls across four states in the American south-west, the native language is dying。(4A0201)
+　　8. The problem of how health-care resources should be allocated or apportioned, so that they are distributed in both the most just and most efficient way, is not a new one. (4A0403)
+　　9. Every health system in an economically developed society is faced with the need to decide (either formally or informally) what proportion of the community’s total resources should be spent on health-care; how resources are to be apportioned; what diseases and diabilities and which forms of treatment are to be given priority; which members of the community are to be given special consideration in respect of their health needs; and which forms of treatment are the most cost-effective. (4A0403)
+　　10. People are not in a position to exercise personal liberty and to be self-determining if they are poverty-stricken, or deprived of basic education, or do not live within a context of law and order. (4A0403)
+　　11. The spread of monoculture and use of high-yielding varieties of crops have been accompanied by the disappearance of old varieties of food plants which might have provided some insurance against pests or diseases in future. (3A0202)
+　　12. Animals at play often use unique signs—tail-wagging in dogs, for example—to indicate that activity superficially resembling adult behaviour is not really in earnest. (4A0203)
+　　13. A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a “leader” in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform. (5A0102)
+　　14. How can we possily account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative “teachers” actually do in the laboratory of real life? (5A0102)
+　　15. A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways. (5A0102)
+　　16. Breeding seasons in animals such as birds have evolved to occupy the part of the year in which offspring have the greatest chances of survival. (5A0403)
+　　17. This is the process by which plants use energy from the sun to convert carbon from soil or water into organic material for growth。(5A0403)
+　　18. Recently, however, it has been experiencing something of a renaissance, with renewed demand for original Bakelite objects in the collectors’ marketplace, and museums, societies and dedicated individuals once again appreciating the style and originality of this innovative material. (5A0201)
+　　19. The fact that children’s ideas about science form part of a larger framework of ideas means that it is easier to change them. (4A0101)
+　　20. These misconceptions do not remain isolated but become incorporated into a multifaceted, but organised, conceptual framework, making it and the component ideas, some of which are erroneous, more robust but also accessible to modification. (4A0101)
+　　21. Never before has the planet's linguistic diversity shrunk at such a pace. (4A0201)
+　　22. Not only did it solve a problem that had intrigued man for ages, but, more importantly, it literally opened the door to exploration of the universe. (3A0101)
+　　23. Life itself was a perpetual and punishing search for food: some families grew manioc and other starchy crops in small garden plots cleared from the forest, while other members of the tribe scoured the country for small game and promising fish holes. (3A0302)
+　　24. There is clear-cut evidence that, for a period of at least one year, supervision which increases the direct pressure for productivity can achieve significant increases in production. However, such short-term increases are obtained only at a substantial and serious cost to the organisation. (3A0403)
+　　25. Of growing interest is the way in which much of what we might see as diaposable is, elsewhere, recycled and reused. (3A0301)
+　　26. These misconceptions do not remain isolated but become incorporated into a multifaceted, but organised, conceptual framework, making it and the component ideas, some of which are erroneous, more robust but also accessible to modification. (4A0101)
+　　27. The explosion in demand for accommodation in the inner suburbs of Melbourne suggests a recent change in many people’s preferences as to where they live。
+　　28. Take the exercise theory。
+

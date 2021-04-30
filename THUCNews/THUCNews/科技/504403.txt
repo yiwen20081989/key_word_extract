@@ -1,0 +1,4 @@
+各取所需 LOAS发布两款新型读卡器
+　　据悉，这两款产品均支持包括Windows Me/2000/XP/Vista以及Mac OS X 10.2在内的主流操作系统，采用USB2.0高速传输接口。其中CRW-12M37支持UDMA技术的CF存储卡以及Microdrive、SDHC/SD、microSDHC/SD、Memory Stick系列、xD、MMC等几乎所有主流存储介质，而CRW-SD38则仅支持SDHC/SD、microSDHC/SD以及MMC。不过，CRW-SD38功能虽少，但是体积仅为44×24×11mm，重量只有10g。
+
+

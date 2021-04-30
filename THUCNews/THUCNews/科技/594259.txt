@@ -1,0 +1,6 @@
+微软将于下周二放出重要Office安全补丁
+　　新浪科技讯 北京时间11月5日早间消息，据国外媒体报道，微软将于下周二放出三个安全更新补丁，以修复Office和VPN软件“统一访问网关”(Unified Access Gateway)中的11个漏洞。
+　　今天微软在官方博客中表示，三个补丁中，有一个的严重级别为“关键”，另外两个是“重要”。
+　　除Microsoft Forefront Unified Access Gateway外，受到影响的其他Windows产品还包括XP SP3、Office 2003 SP3、Office 2007 SP2、Office for Mac 2011以及Office 2010的32位和64位版本。
+　　微软并未披露何时会放出“零日”漏洞的修复补丁。该漏洞存在IE6、IE7和IE8浏览器中，黑客可利用它在防护薄弱的系统中安装后门，并控制计算机。(彦飞)
+

@@ -1,0 +1,47 @@
+名师指导：新GRE考试语文部分解读
+　　狼真的来了吗？这一次狼真的来了。ETS几年前酝酿的GRE改革曾经宣布终止，当时笔者还应新浪要求撰文(《GRE政策变化解读与对策》)进行详细说明。但这一次ETS的官网www.ets.org明确指出从2011年8月1日起将在全球实行改革后的GRE考试(简称“新GRE”)。为了使中国考生与全球考生站在同一起跑线上，新航道国际教育集团从数年前开始集中大量优势资源对新GRE进行研发，并将发表系列文章，与中国的GRE考生分享我们的最新研究成果。本文拟对新GRE，尤其是语文部分进行介绍，希望对考生有所助益。
+　　一、目前的GRE
+　　GRE目前在中国大陆实行机考与笔试相结合的考试形式，其中写作(一篇issue，45分钟；一篇argument，30分钟)是机考，语文(verbal，包含句子填空、类比反义词与阅读)与数学(quantitative)是笔试。每年有多次写作机考，但是笔试只有两次(分别为6月与10月各一次)，而且必须先参加写作机考，然后才能参加笔试。写作的满分是6分，为issue和argument两篇文章得分的平均分。语文与数学部分的满分分别为800分。
+　　二、改革后的GRE
+　　改革后的GRE，即新GRE，除了其他部分，如写作(issue要求30分钟完成)与数学部分(数量推理题难度加大)的变化以外，相对于目前的GRE而言，语文部分发生了较大变化，一是取消了原来的纯粹词汇测试，即中国考生俗称为“类比反义词”的词汇部分；二是增加了新的填空题和阅读理解题。ETS之所以对GRE做如此改革，一个重要原因是为了提高考试的效度(validity)。下表总结了新GRE与目前的GRE语文部分每个section的异同：
+　　注：新GRE的问题类型已经完全确定。上述的新GRE各种题型的数量分布来自ETS 2006年版的GRE改革计划，但是最终的总题数以及问题分布要以ETS 2010年7月公布的样题为准。
+　　三、新GRE的语文部分
+　　如上所述，新GRE的语文部分增加了阅读与填空部分的新题型。新GRE的语文部分包含三大部分：
+　　阅读理解题(Reading Comprehension Questions)，
+　　文本完成题(Text Completion Questions)，
+　　句子等值题(Sentence Equivalence Questions)。
+　　具体而言，阅读理解题包含三种题型：
+　　五选一( Multiple-choice Questions—Select One Answer Choice )
+　　三选多( Multiple-choice Questions—Select One or More Answer Choices )
+　　句子功能题( Select-in-Passage )
+　　其中第一种“五选一”就是目前GRE阅读的题型。而第二种“三选多”(从三个选项中选出所有适合的答案，正确答案数不定，只选出部分正确答案者不得分)与第三种“句子功能”题(找到原文中与选项描述相一致的句子并点击该句子)都是阅读理解部分新增的题型。例如，
+　　Sample questions 1 to 3 below are based on this passage:
+　　Policymakers must confront the dilemma that fossil fuels continue to be an indispensable source of energy even though burning them produces atmospheric accumulations of carbon dioxide that increase the likelihood of potentially disastrous global climate change. Currently, technology that would capture carbon dioxide emitted by power plants and sequester it harmlessly underground or undersea instead of releasing it into the atmosphere might double the cost of generating electricity. But because sequestration does not affect the cost of electricity transmission and distribution, delivered prices will rise less, by no more than 50 percent. Research into better technologies for capturing carbon dioxide will undoubtedly lead to lowered costs。
+　　Sample Multiple-choice Question—Select One Answer Choice(五选一)
+　　1.    The passage implies which of the following about the current cost of generating electricity?
+　　A.    It is higher than it would be if better technologies for capturing carbon dioxide were available。
+　　B.    It is somewhat less than the cost of electricity transmission and distribution。
+　　C.    It constitutes at most half of the delivered price of electricity。
+　　D.    It is dwelt on by policymakers to the exclusion of other costs associated with electricity delivery。
+　　E.    It is not fully recovered by the prices charged directly to electricity consumers。
+　　Sample Multiple-choice Question—Select One or More Answer Choices(三选多)
+　　Consider each of the three choices separately and select all that apply。
+　　2.    The passage suggests that extensive use of sequestration would, over time, have which of the following consequences?
+　　A.    The burning of fossil fuels would eventually cease to produce atmospheric accumulations of carbon dioxide。
+　　B.    The proportion of the delivered price of electricity due to generation would rise and then decline。
+　　C.    Power plants would consume progressively lower quantities of fossil fuels。
+　　Sample Select-in-Passage Question(句子功能题)
+　　3.    Select the sentence that explains why an outcome of sequestration that might have been expected would not occur。
+　　文本完成题是语文部分新增的第一种填空题型。在一段文章中，有1至3个空，每个空对应三个选项。假如整个段落只有一个空，就对应五个选项。任何一个空选错整个段落的答案就算全部错误。例如，
+　　It is refreshing to read a book about our planet by an author who does not allow facts to be BLANK by politics:  well aware of the political disputes about the effects of human activities on climate and biodiversity, this author does not permit them to BLANK his comprehensive description of what we know about our biosphere. He emphasizes the enormous gaps in our knowledge, the sparseness of our observations, and the BLANK, calling attention to the many aspects of planetary evolution that must be better understood before we can accurately diagnose the condition of our planet。
+　　句子等值题是另一种新增的填空题型，包含一个句子，而且只有一个空格，要求从提供的六个选项中选出两个正确答案。只选出一个正确答案者不得分。例如，
+　　Although it does contain some pioneering ideas, one would hardly characterize the work as BLANK。
+　　A.    orthodox
+　　B.    eccentric
+　　C.    original
+　　D.    trifling
+　　E.    conventional
+　　F.    innovative
+　　以上是对新GRE语文部分的简要介绍。关于新GRE的作文部分，以及新GRE的有效应对策略，请继续关注我们的系列文章——“狼真的来了吗”。
+　　（北京新航道学校GRE首席主讲 李传伟）
+

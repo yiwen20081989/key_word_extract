@@ -1,0 +1,24 @@
+NVIDIA展16款Optimus技术笔记本
+作者：徐文广           		第1页：NVIDIA展16款Optimus技术笔记本
+　　中关村在线报道：在全球第二大，亚洲第一大IT盛会——台北国际电脑展（Computex）上，NVIDIA公司展示了16款支持Optimus技术的笔记本电脑，这些产品全部来自合作伙伴，其中华硕有6款产品（不包括之前已经公布的型号），联想和宏?也有相关新品。
+　　此外，微星还展示了FX700笔记本，搭配了还未公布的NVIDIA显卡，预计采用的是GTX 460M。
+　　NVIDIA公司此次展示的16款支持Optimus技术的笔记本型号如下，图片来自ENGADGET。
+Lenovo Y460 (14英寸，GeForce 330M GPU，1GB)；
+Packard Bell EasyNote TX86 (15.6英寸，GeForce 330M GPU，1GB)；
+Packard Bell EasyNote Butterfly s (13.3英寸，GeForce 310M，512MB) ；
+Gateway EC39C (13.3英寸，GeForce 310M，512MB)；
+Gateway ID49C (14英寸，GeForce 330M，1GB)；
+MSI CX720 (17.3英寸，GeForce 310M，1GB)；
+MSI FX700 (17.3英寸，GeForce GPU)；
+Asus P52 (15.6英寸, GeForce 310M，1GB)；
+Asus U35 (13.3英寸, GeForce 310M，1GB)
+Asus U45 (14英寸， GeForce 310M，1GB)
+Asus N43 (14英寸，GeForce GPU)
+Asus N73 (17.3英寸，GeForce 335M, 1GB)；
+Asus N53Jn (15.6英寸，GeForce 335M, 1GB VRAM)；
+Compal NCL61 (14英寸，GeForce 325M，2GB)；
+Haier 7G (13.3英寸， GeForce 305M，512MB)；
+Hasee TW9A CT (15.6英寸，GeForce 335M，1GB) 。
+  		第2页：Optimus技术笔记本多图
+ 
+

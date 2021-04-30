@@ -1,0 +1,8 @@
+Twitter讨论组服务TweeterClubs上线(图)
+　　新浪科技讯 北京时间1月18日晚间消息，据国外媒体今日报道，一个围绕Twitter消息的讨论组服务TweeterClubs已经上线。通过该服务，用户可以在Twitter消息的基础上创建实时会话。
+　　对那些希望了解互联网上正在发生的会话的用户而言，Twitter是一个优秀的平台。然而，Twitter上的实时消息流有可能过于庞大，而用户也无法通过标签提取某一主题的Twitter消息。TweeterClubs解决了这一问题。
+　　当用户使用Twitter帐户登录该网站后，用户可以通过该网站发布Twitter消息。该消息将被同时显示在TweeterClubs和Twitter网站上。TweeterClubs将只会展示来自与用户相同俱乐部的其他用户发布的消息。当用户登录该网站后，将自动成为俱乐部成员。
+　　TweeterClubs上目前只有一个俱乐部：“Tweetheart俱乐部”。Tweetheart一词出自《名利场》杂志一篇富有争议的文章，这篇文章主要关于6名经常使用Twitter服务的女性。Tweetheart俱乐部展示了这6人发布的Twitter消息。TweeterClubs创始人杰夫·维特海德(Jeff Whitehead)表示，TweeterClubs即将公开开放，用户将可以建立属于自己的俱乐部。
+　　参加TweeterClubs俱乐部的用户可以通过第三方Twitter客户端发送消息，他们的消息将被自动整合到所属俱乐部中。用户可以对自己的俱乐部进行删除成员、删除消息等操作，并查看俱乐部的各类统计数据，包括成员数和每日消息数。维特海德表示，TweeterClubs将推出Android应用，并开放其应用程序接口(API)，帮助其他Twitter客户端在各自平台中引入TweeterClubs的功能。
+　　用户目前可以通过添加标签的方式，直接使用Twitter参与会话，并通过标签搜索会话。TweetGrid、TweetConvo和Bettween等创业企业目前也正围绕Twitter实时会话开发服务。(维金)
+

@@ -1,0 +1,7 @@
+谷歌正加速开发Android 4.0以对抗iPhone 5
+　　新浪科技讯 北京时间8月11日早间消息，据苹果新闻博客AppleInsider报道，谷歌正加速Android 4.0“冰激淋三明治”(Ice Cream Sandwich)版本的开发，以便赶在iPhone 5发布之前推出，给Android授权厂商争取竞争反应(competitive response)间隙。
+　　去年，谷歌Android 2.2“冻酸奶”(Froyo)版本就早于苹果iOS 4推出，并在12月份推出Android 2.3“姜饼”(Gingerbread)。Android 2.3加入了对近场通讯的支持，改进了复制粘贴功能，并完善了谷歌的WebM视频编码。
+　　谷歌在2011年推出Android 3.0“蜂巢”(Honeycomb)后不久，即应用在摩托罗拉Xoom平板电脑中，当时iPad 2还未发布。
+　　谷歌原本计划在今年底发布Android 4.0，但据美国科技产品新闻网站BGR报道，Android 4.0最早将于今年10月发布，并表示，由于苹果预计将于9月或10月发布iPhone 5，谷歌方面加速了Android 4.0的开发进度。以避免用户转向iPhone 5阵营。
+　　美国投资银行派杰公司(Piper Jaffray)分析师吉恩·慕斯特(Gene Munster)近期称，根据派杰一项针对216人进行的调查结果显示，iPhone 5最多可让iPhone在美国手机市场的份额翻番，至64%。调查结果还显示，55%没有iPhone的Verizon用户将会购买iPhone，这其中75%的人会等待iPhone 5发布。同时，53%的AT&T用户会在购买前等待iPhone 5发布。(新铁)
+

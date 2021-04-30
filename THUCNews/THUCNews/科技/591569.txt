@@ -1,0 +1,9 @@
+报告称Win7用户满意较高但升级动力不足
+　　新浪科技讯 北京时间3月30日上午消息，据国外媒体报道，美国市场研究公司Forrester周一发布的报告显示，Windows 7的早期使用者对该产品“非常满意”，但有将近半数的受访者认为没有理由从Windows XP升级到Windows 7。
+　　由于上一代操作系统Windows Vista的用户满意度较低，Windows 7较高的用户满意度对微软而言是一个利好。但Forrester却指出，要让Windows XP的用户升级到Windows 7，微软仍然需要跨越不少障碍。
+　　微软去年10月发布了Windows 7，并获得了不错的销量。Forrester的报告则进一步确认了这一趋势。Forrester是从去年12月开始进行调查的，在此期间，有超过80%的Windows 7早期用户将该操作系统的满意度定为4或5(满分为5)。在对Windows系统的整体满意度进行调查时，这一比例仅为75%。
+　　在这些已经开始使用Windows 7的用户中，有43%已经升级了操作系统但却并未购买新的PC。而Forrester表示，用户此前通常是在购买新PC的同时通过预装的方式获得新版操作系统的。Forrester认为，之所以出现这种差异，是因为Windows 7在旧款PC上的运行状况相对较好，这一点与Windows Vista有很大的不同。
+　　在Windows Vista遇挫后，微软采取了大量营销措施重塑Windows品牌形象。在Forrester的调查中，多数受访者对Windows 7都比较熟悉，44%的受访者听说该系统表现不错。
+　　但还有43%的用户表示，目前没有任何理由从Windows XP升级到Windows 7。根据美国市场研究公司Netmarketshare的数据，今年2月，有65.5%的PC用户使用Windows XP操作系统，Windows Vista和Windows 7分别为16.5%和8.9%，Mac仅为5%。
+　　Forrester认为：“Windows 7最大的竞争对手不是Mac，而是Windows XP。作为一款2001年发布的操作系统，其用户粘性非常大。”(书聿)
+

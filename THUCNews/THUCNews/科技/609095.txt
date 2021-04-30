@@ -1,0 +1,9 @@
+iOS5越狱程序发布 有锁用户升级需注意
+     苹果于这周发布了最新的iOS5系统，在系统发布仅24小时后，苹果放出的iOS5测试版本就已经成功被越狱，但是这次越狱是开机需要再次引导的非完美越狱。
+    日前，DEV-Team团队终于发布了最新的Redsn0w 0.9.8b1版本，这个版本的最大特点就是可以越狱iPhone4、iPhone3GS、iPad以及iPod Touch上的iOS5 Beta版，它可以将Cydia安装到iOS5系统中。
+    不过目前为止，该版本的Redsn0w只支持Mac系统使用，Windows系统的用户暂时还不能用它来给手机越狱。
+    全部兼容设备包括：iPhone 3G (old bootrom)、iPhone 3G (new bootrom)、iPhone 4 (GSM)、iPod touch 3G、iPod touch 4G、iPad1、AppleTV 2G (v4.3 8F202)
+    最后编辑要提醒大家在手机升级iOS5系统的时候，将会使手机被解锁的基带丢失，所以如果你的手机是有锁版，那么升级iOS5时务必要注意。
+ 
+ 
+

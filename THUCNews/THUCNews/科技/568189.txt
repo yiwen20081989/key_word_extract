@@ -1,0 +1,16 @@
+卡巴斯基：用战略性的方法提供保护
+　　新浪科技讯 12月13日下午消息，国际知名的信息安全厂商卡巴斯基在香港召开新闻发布会，宣布推出全新产品和更新产品系列。卡巴斯基实验室产品总监Alexey Kalgin在接受媒体采访时表示：“卡巴斯基的全新产品和更新产品系列旨在通过战略性的方法， 为企业用户的IT安全提供全面保护。”
+　　更新后的卡巴斯基企业级产品可提供多层级企业反病毒保护模式 ，并给不同类型的企业提供专属的解决方案。
+　　新产品系列全景
+　　卡巴斯基反病毒Windows工作站6.0 R2，具有基于新引擎的高级感染清除功能、强大的rootkits防护功能、简单有效的基于策略的设备管理功能，配备了智能重启处理系统，可消除自动运行感染因素，提升扫描速度，降低内存消耗，其在多核处理器上的表现性能更佳。
+　　Kaspersky Endpoint Security 8 for Mac，具有基于策略的集中化管理功能，可通过卡巴斯基管理工具8进行集中管理。
+　　Kaspersky Endpoint Security 8 for Linux，采用了新的反病毒引擎，适用于基于策略的集中化管理，可以通过卡巴斯基管理工具8进行管理，图形化界面支持Gnome 和KDE，支持最新的32/64-为 Linux 操作系统。
+　　Kaspersky Endpoint Security 8 for Smartphones，采用基于策略的集中部署、管理和报告系统，可利用卡巴斯基管理工具进行管理，支持第三方管理工具，反盗窃功能有效防止数据丢失、被盗以及未授权访问。在保障系统安全的同时，防止数据泄漏或丢失。
+　　Kaspersky Anti-Virus for Windows Servers 8.0 Enterprise Edition，持Microsoft Terminal 和Citrix XenApp server远程安全访问， 支持HSM 系统，提供保护离线文件扫描模式配置，适用于IBM Tivoli Storage Manager、EMC Disk Extender 、HSM Caminosoft Managed Server。可利用卡巴斯基管理工具进行基于策略的管理。其中的Kaspersky AV for Storages支持EMC Celerra 数据存储解决方案。
+　　Kaspersky Anti-Virus 8.0 for Linux File Server，整合Kernel module 和Sambai，支持最新的32/64-位 Linux 系统(包括Red Hat, Fedora，SUSE, open SUSE，Novell OES 2，Debian，Ubuntu，FreeBSD)，并提供多种管理选项。
+　　Kaspersky Security 8.0 for Microsoft Exchange Servers，可保护群件服务器不受恶意软件威胁，全新反垃圾邮件引擎4.0能够拦截99%的垃圾邮件，通过DNS拦截和地址拦截技术，提供额外的反垃圾邮件保护，可自定义的黑白名单。全面支持 Microsoft Exchange 2007, 2010 和Windows Server 2008 R2。支持服务器群操作，并可通过Exchange Web Services进行本地通知和系统登录。
+　　Kaspersky Anti-Virus 8.0 for Lotus Domino，是一款全新产品，采用了强悍的卡巴斯基新反病毒引擎，可扫描数据库和其他对象，产品支持的系统包含Lotus Domino 8.0, 8.5 以及Windows、Linux。产品具有强大的可管理性能，可 通过IBM Lotus Domino 界面或网页界面进行管理。
+　　Kaspersky Anti-Virus 8.0 for ISA/ Forefront TMG，能够控制流入数据，防止链接恶意软件，不仅可扫描服务器流量(如Microsoft Exchange)，亦可扫描HTTP, FTP, HTTPS, SMTP, POP3流量。其中的控制板功能可提供集成的产品状态信息，而灵活的可配置性可通过扫描设定减少扫描引擎的负荷。
+　　卡巴斯基管理工具8.0，具备强大的管理性能，可通过一台服务器支持网络中上千台客户端的管理，强大的可扩展性，支持分级管理，可联通性支持所有网络配置和技术 (如VPN,proxy等)。此外，它还支持Microsoft NAP 和Cisco NAC ，可对从网外重新进入网内的笔记本计算机的反病毒策略进行检测。
+　　通过采用战略方法来实现企业IT安全，以及推出全新产品和更新产品系列，卡巴斯基实验室为企业市场的可持续增长打下了坚实基础。另有消息称，在不久的将来，卡巴斯基将会扩大解决方案和服务的范围。
+

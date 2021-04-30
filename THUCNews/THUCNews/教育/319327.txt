@@ -1,0 +1,57 @@
+1-7月雅思A类写作回顾和考试趋势展望
+　　雅思在中国的发展已近20年，在写作部分除了2001年阶段性地废除流程图，2003年重启流程图题型，2006年大作文出题要求的改动，2007年半分机制的启动，其他时间题目变化不大，出题思路老套。但是从2010年1月到7月雅思写作题目中，我们发现雅思写作似乎又出现了新的发展趋势。 　　
+　　Task1 颠覆过往出题格局 地图题异常活跃
+　　2009年雅思写作A类小作文中传统四大图：柱状图(bar chart)、表格图(table)、曲线图(line chart)、饼状图(pie)出现次数分别是12、9、9、4次，以上四大图的混合图共考查7次。但是根据我对今年前7月(共23次考试)的数据题型的统计，过往最不受重视的饼状图出现了6次，原本居于第二的表格图也出现了6次，去年高居榜首的柱状图也只出现了5次。不得不提的是，作为这三类图表图为基础的曲线图竟然一次也没有出现。基本上没有出现混合图，不得不说雅思考试开始逐渐偏重考查学生对于某一类图形的掌握情况了。 　　
+　　2009年非数据图(即地图、流程图、示意图)秉承偷袭题型的特征，全年共出现4次，分别在1月、3月、6月和9月出现。幸好，同学们最害怕的流程图就在5月20号考了热气球原理。但是今年的地图题考得异常疯狂。地图题分为两种，一种为地理变迁题，一种为选址题。而截止到7月31号为止，出现的5次地图题都是地理变迁题。过往由于对于这类地图题的不熟悉或者是不重视，导致了很多学生在考场上毫无防备的情况下遇到这种图后捶胸顿足，泪奔不止。To make things worse，地图题出现时段也颠覆了过往规律。就拿5月份来说，5.15考的是三张房间设计图的对比，紧接着5.29又考了一个村庄的发展，两张地图的对比。仅仅静寂了2次的地图题，又在6.26大爆发，还是考了地图的对比，紧接着7.10万恶的雅思出题者还是出了地图的对比。这种极度无规律的高频地图题，使得那些原本寄托着“才考过地图题自己就可以逃过一劫了”侥幸心理的学生仰天长叹，哀号自己时运不济。不管网上的预测吹的有多可靠，如果同学只寄希望于这些预测却不重视平时的积累和练习，最后的结果也能以杯具收场。说实话，地图题的难度并不是很大，只是因为同学们平时不练习不重视才会闻图丧胆。接下来我来简单谈一下关于地图题的写作要点。 　
+　　地理变迁题讲解
+　　1.时态问题。如果地图题反映的是一个地方在过去的一段时间的变化，文章用一般过去时。如果地图题反映的是一个地方在将来一段时间的变化趋势，文章用一般将来时或表“估计”的词汇。如果地图题反映的是一个地方从过去到现在的变化，可用现完成时。
+　　例如：树林变成了高尔夫球场。The forest has been removed and replaced by the golf course./The golf course has been built in the place where there uesd to a forest。
+　　2.语态问题。从刚才那个例句中我们也可以清楚的看到，地图题中塑造的句子一般都是用被动态。
+　　3.地图题书写的顺序。按照时间顺序和空间顺序。
+　　如2010年5月29日A 类TASK 1
+　　The map shows the development of the village of Kelsbey in 1980 and 2000.
+　　这篇文章大体框架按空间顺序，然后对于每一处细节进行按照时间顺序进行对比。注意地图题的每一个细节都争取做到不遗漏不放弃。我们需要学会按方位顺序来描述，否则文章会出现混乱。这就需要考生在考前对方位词进行总结。地图题的方位我们说东西南北，不说成左右。接下来我抛砖引玉，总结一点重点词组：
+　　①A 在B 的东方/西方/南方/北方
+　　A is/ lies/ is located/ is situated in/on / to the east/west/south/north of B
+　　②A 在B 的对面
+　　A is on the opposite side of B/A is opposite B
+　　③临近马路的地区
+　　The area adjoining/neighboring/ adjacent to/ near /next to/ just off the road
+　　④在道路或河流的北端
+　　At the northern end of the river
+　　⑤A 在B…。.角落
+　　A is at/in the south-eastern corner of B ( at 表示A 在B 外部， in表A 在B 内部)
+　　4. “变化”词汇。地图题描述的是一个地区的变化，那么“变化”词汇必须过关。
+　　变化包括两种：图形原有事物的改变，图形新添事物。
+　　我们先看图形原有事物的改变：
+　　①原有事物可说成：
+　　The preceding/original/previous/former building
+　　②原有事物尺寸上变大/变小：
+　　The size of the library has been enlarged/extended/broadened/expanded/halved/reduced /dimished(by half)
+　　③原有事物在数量上增多或减少：(这组词在我们的图表题中早已熟知，信手捏来)
+　　The number of homes has increased/risen/grown/reduced /decreased/dropped/fallen/doubled/ tripled/ quadrupled to 500.
+　　④原有事物没了：
+　　The farms completely disappeared/were removed。
+　　⑤原有事物被改为：
+　　A becomes B
+　　A is transformed/reconstructed/redeveloped/converted/changed/turned over to/ into B
+　　A is replaced /substituted by B = A gives way to B
+　　⑥图形新添事物
+　　A newly-built road
+　　A new car park was built/established/set up/constructed/completed
+　　A new IT centre has been added to the library
+　　5.地图题句型。其实都不需要赘述了，数据图描述的时候同学都知道应该注意句式的变化，特别是主语的多变，在我们的地图题中也同样如此，事物A、B，地点，时间都可以用来做主语。Do not make the examiner sick by sticking to monotonous sentence structures and repetitive words。
+　　选址题讲解
+　　虽然2010年还没有出现这类图，但是不代表我们可以因此掉以轻心，出题者的心思你别猜别猜别猜，你猜来猜去也猜不明白，不明白。还是靠实力走江湖比较靠谱。我们简单地来看下文章思路。
+　　如剑5 TEST 3 TASK 1
+　　The map shows two possible sites for the supermarket. 为一个城镇的超市选址， 有两个位置 S1 和S2 供选择。选址题并不难写，主要注意两点：位置描述和优缺点。
+　　这篇文章我们BODY段可分两段，分别陈述：S1的位置及位置相应的优缺点；S2的位置及位置相应的优缺点。
+　　关于时态语态词汇句式，就跟地理变迁图大同小异了，也就不重复了。
+　　Task2 题型轻重比例有所不同 话题旧多新少
+　　我们通过2009年雅思写作题型比例来看下2010年发生了些什么变化。2009年47道题目中，观点类型文章(to what extend do you agree or not)高居榜首，出现了18次；讨论类文章(discuss both sides and give your own opinion)出现了14次；优缺点讨论类文章(advantages vs disadvantages/positive vs negative)出现了9次；原因与解决方案类文章出现了5次；2009年8月8日出现的题型比较诡异了，先问受影响的领域然后再是问是好的影响还是坏的。但是到了2010年，截止到7月31日共有25道题目，之前不受追捧的原因解决方案的report文章出镜率很高，占到了6题；之前排第二的讨论类文章荣登榜首，共出现了8次；之前当红辣子鸡观点类文章也只出现了6次；优缺点讨论型文章不温不火出现了5次。数字摆到这里，其实大家心里就开始有数了，雅思考试开始慢慢重视之前被冷落的report,之前出镜率比例高低差距较大的现象也减少了，基本上持平。雅思写作出题者就是不想我们猜到他们倚重的重心，换句话说就是，每一类都很重要。不过还是要提醒同学的是，不管出的是什么题型，两面倒折中式的结构可谓万金油了。不管你来什么题型，我们就以不变应万变，一招便可走天下。
+　　接下来就是同学们非常关心的话题了，几新几旧，哪几类话题是最受雅思出题者青睐？我们还是先来看下2009年的数据然后进行下对比。在2009年的47道题目当中，只有4道新题，其余均是旧题的变体，并且其中有3道题目还是一字都未改过的旧题。这种以旧题为主攻，新题为辅的趋势幸好在10年并没有发生变化。甚至是令人兴奋的是，1月9号考到关于慈善机构是否该资助其他国家的人还是本国人根本就和2009年11号21如出一辙。5月12号考到的电脑教学还是老师教学，跟2009年4月25号一摸一样。2月20日考的是关于经济发展对于社会传统价值观丧失的影响和4月24日的题目竟然又是如此相似。兴奋归兴奋，我们同时也要面对一个惨痛的现实，新题出现的话题难度在加大，FYI，新题出现基本集中在report这类同学最害怕的文章类型中了，无疑是雪上加霜。扯句题外话，5月29号和6月26日题目的组成都是小作文地图题大作文report，这两场考试可谓惨绝人寰，各大雅思论坛烤鸭们哀鸿遍野。所以同学们面对雅思写作千万不能有侥幸心理，也千万不要以为出题者还是有点人性会给你来点难易搭配。我们放出新题看看，是否看到题目就歇菜了。
+　　20100130
+　　Today there is a great increase in anti-social behavior and lack of respect to others. What are the causes of this? What can be done to reduce it? 反社会行为和不尊重，这个问题很深奥机会都没思考过啊。20100211Some people think that politicians have the greatest influence on the world. Other people, however, believe that scientists have the greatest influence. Discuss both of views and give your opinion。政治家和科学家孰重孰轻，无疑要举出具体的例子来支撑自己的论点，但是同学们有限的知识量又一次阻碍了文思泉涌。20100529Many young people leave schools with a negative attitude.Why does this happen? What do you think can encourage young people to have a positive attitude?看到这题又懵了，原因不是只有一个，不就是因为自己平时学习差不爱学习吗？思维再一次交通堵塞。对于这类高难度的新题，同学在题目理解方面不存在任何问题，但是就是想分论点的时候举步维艰。不过，同学们需要清楚的一点是，雅思写作对于论点的深刻性要求并不高，考官关注的是你能不能用英文清晰的表达出你的观点并且强有力的支持你的观点。
+　　那么来看下话题比率吧。先看下2009年话题统计情况，教育依然是当红不让，出现13次，科技8次，环境6次，犯罪4次，社会发展和意识4次，弱势群体3次，媒体广告3次，医疗健康3次，全球化2次，基础设施和文化体育各有一次。2010年教育依然大热，25道题出现了7次。让预测更加难混的是，5月8日至6月5日连续4次都是教育类话题，这是之前都没有遇到的怪事；社会发展和意识这个话题热起来了，出现了7次；全球化出现4次；政府类话题出现3次，科技类出了2次，动物和弱势群体出现1次。但是之前较热的话题--环境，犯罪，媒体，医疗健康话题竟然一题都没有出现。那么下半年开始，请关心这些话题吧。
+　　不管雅思出题的规律多么难以令人捉摸，只要平时把基础打扎实了，一定可以兵来将挡，水来土掩，笑傲写作。
+

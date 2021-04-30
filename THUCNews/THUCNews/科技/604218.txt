@@ -1,0 +1,11 @@
+安致双星 HTC发布Desire与Legend
+文/欢少~
+    截稿前为止，HTC共在本届MWC上发布了四款机型，分别是Brew MP系统的HTC Smart，Windows Mobile6.5系统的HTC HD mini，至于另外两款属于Android阵营的新星，他们是HTC Desire与HTC Legend。
+    其实各位若在近期有留意HTC新品谍照的话，对于本次发布的Desire和Legend不会陌生，Desire可以视为是谷歌Nexus One的兄弟机型，事实上该款冠以“Google”自主品牌的手机乃HTC代工，而Desire便是从内到外纯正的HTC血统，功能配置上与Nexus One非常相近，两者均配备3.7英寸的AMOLED电容式触摸屏，达到WVGA级（480×800像素）的高解析度，内置500万像素自动对焦的摄像头，处理器为频率高达1GHz的Snapdragon。
+    HTC Desire搭载Android2.1系统，支持Adobe Flash 10.1
+    HTC Desire采用512MB ROM和576MB RAM的内存组合，标配8GB micro SD卡并允许扩展至32GB的海量存储空间。由于是自家的产品，Desire毫无疑问内置有HTC Sense界面，能够支持Adobe Flash 10.1，而其操作系统的版本为Android2.1。
+    体型方面，HTC Desire的三围119×60×13.5mm，重量135克，提供了3.5mm耳机与micro USB接口的支持，产品可以实现在GPRS/EDGE/WCDMA/HSPA的多频段网络下工作，GPS、数字罗盘、蓝牙也都配备齐全，标配的是1400毫安时锂电池。
+    光学感应器辅助操控
+    本次HTC发布的Desire和HTC Legend均加入了光学感应器（位于屏幕下方），有助于辅助用户进行方位控制。相比Hero和Nexus One的轨迹球而言，光学感应器能够在不破坏产品整体设计美感的同时增强操控体验，堪称是一举两得。
+    在HTC Desire光学感应器的两侧还设有四枚Android手机标准的实体按键（从左往右依次有主页键、菜单键、返回键、搜索键），回归实体键比起Nexus One所采用的虚拟触控键更显务实。官方表示，HTC Desire将在第二季度初在欧洲亚洲市场上市，而在澳洲将由Telstra独家代理。
+

@@ -1,0 +1,8 @@
+日本厂商推17英寸新本 可配1GB显存NV显卡
+　　根据国外媒体的报道，Mouse Computer Japan公司今天发布了新款的笔记本，型号为m-Book GX580，这也是该公司目前推出最新的高端笔记本产品。
+　　m-Book GX580分为高低端两个版本，高端版本型号为m-Book GX580X，采用了17英寸WUXGA液晶屏，分辨率为1900x1200，配置了英特尔酷睿2 T9600处理器，主频为2.8GHz。采用NVIDIA GeForce 9800M GTX显卡，具备1GB显存，配置4GB内存，可配置500GB硬盘。在日本市场的售价为28.9万日元。
+　　m-Book GX580笔记本还有低端配置版本，型号为-Book GX580B，搭配英特尔酷睿2 T9400处理器，主频为2.53GHz，配置320GB硬盘，售价在25.97万日元左右。
+　　m-Book GX580笔记本搭配了802.11a/b/g/n无线网卡，具备130万像素摄像头，搭配DVD Super Multi刻录光驱。m-Book GX580笔记本的重量为4.1kg，外形大小为397x284x44mm。　采用了PM45 Express芯片组，可搭载Windows Vista Home Premium操作系统。
+　　带有ExpressCard/54 、SD/MMC/Memory Stick (PRO)、USB 2.0、IEEE 1394、eSATA、DVI、HDMI等接口和插槽。附带的电池可进行1.9小时续航。
+
+

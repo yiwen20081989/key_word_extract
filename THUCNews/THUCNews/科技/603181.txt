@@ -1,0 +1,6 @@
+800MHz处理器 三星新机i5700抢先评
+文/张国仁
+    三星的第四款Android手机
+    三星Galaxy Spica i5700与Galaxy i7500在型号上相差无几，只是数字的一个颠倒，同属于Galaxy系列。最初一直有人认为，三星Galaxy Spica i5700是i7500的简化版，但事实并非如此，三星Galaxy Spica i5700具备了比前辈更高的800MHz处理器，支持DivX和Xvid高清视频播放。整体设计上，三星Galaxy Spica i5700与i7500相近，但更年轻活泼一些，将推出红黑搭配及白绿搭配两种配色方案。
+    三星Galaxy Spica i5700将继续采用Android 1.5内核系统，与i7500相比有些不一样的地方是，三星Galaxy Spica i5700仅支持GSM网络，不支持WCDMA/HSDPA 高速3G接入，不过支持WiFi可以做一些弥补，现在国外媒体已经对该机进行了初步评测，通过编译评测，我们对其进行更深入的了解。
+

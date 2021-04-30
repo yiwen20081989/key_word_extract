@@ -1,0 +1,8 @@
+苹果Lion用户使用Mac版Office时会遇到问题
+　　新浪科技讯 北京时间7月26日凌晨消息，微软上周证实，用户在苹果Lion操作系统上使用Mac版Office时将遇到问题，其中最严重的问题是，当Mac版Office 2011用户想要发送即时信息或进行视频或音频通话时，企业版Messenger聊天工具Communicator就会崩溃。
+　　微软Mac团队的产品研发高级总监帕特·福克斯(Pat Fox)上周五在公司博客上称：“我们将在Mac版Communicator即将发布的更新中修复这一问题。”福克斯并未透露修复这一问题的具体时间，仅表示微软将在“近期内”发布更新。
+　　另一个问题可能也不会对大多数用户造成影响。福克斯承认：“在Lion操作系统上，Outlook不能从Apple Mail导入邮件。我们正在检查这一问题，目前还没有修复计划。”据微软支持文件显示，Outlook和Entourage都无法可靠地从Apple Mail导入邮件。这一问题只会对升级至Lion系统以后安装Office的用户造成影响，那些原本已从Apple Mail向Outlook或Entourage导入邮件的用户不会受到影响。
+　　微软在支持文件中称，Lion系统还存在其他问题，如在运行Excel或PowerPoint时，某些情况下会发生系统崩溃；Word的日期格式存在问题；MSQuery只能在Mac版Office 2011的英文环境下运行，不能在Mac版Office 2008中运行；以及Mac版Office 2004完全无法在Lion系统上运行等。微软此前承诺，该公司将在2012年1月10日以前继续为Mac版Office 2004提供支持。
+　　与许多第三方程序一样，Mac版Office 2011和Mac版Office 2008也都不支持Lion独有的许多特性，如Auto Save和Versions等。福克斯称，微软尚未决定是否会升级Mac版Office以支持这些及其他特性。
+　　微软不在苹果Mac App Store中出售Office，其Mac版 Office 2011有两个零售版本，分别是Home & Student(家庭与学生)版和Home & Business(家庭与商务)版，定价分别为149.99美元和279.99美元，用户可直接从微软或通过亚马逊等第三方进行购买。(唐风)
+

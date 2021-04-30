@@ -1,0 +1,10 @@
+AMD全新笔记本平台品牌Vision解析
+　　9月10日，AMD正式发布了全新的笔记本平台品牌“Vision”，Vision品牌下的新一代主流笔记本平台“Tigris”，以及随之而来全新45纳米系列处理器。
+　　Vision是一个系列品牌，具体还会再分为基础型Vision Basic、高级型Vision Premium、旗舰型Vision Ultimate三个子类别。属于基础型Vision Basic的笔记本定位低端，适合休闲游戏、欣赏音乐、浏览照片、观看DVD电影、浏览网络等基本日常任务。高级型Vision Premium面向主流市场，可执行多任务、实况电视、主流游戏、转换音乐、基本照片编辑、观看蓝光/高清电影、网络视频等等。旗舰型Vision Ultimate主要针对游戏型笔记本，可满足更多需求，诸如录制电视、网络游戏、编辑音乐、高级照片编辑、创建编辑视频等等。　　
+　　过去的AMD笔记本平台用不同的LOGO分别代表处理器、显卡、无线网卡等各个零部件，互相搭配之后显得比较混乱，而且还有AMD Game!、AMD Live!等有所交叉的概念，今后则会统一在Vision之下。用AMD的说法就是：“不再只讨论处理器，开始关注用途。”AMD总裁兼CEO Dirk Meyer解释说，Vision这一新概念能更清楚地标明笔记本产品的性能等级，并代表了用户的三大需求：See（理解）、Share（分享）、Create（创造）。值得一提的是，微软已经表达了对AMD Vision计划的欢迎，并会在Windows 7中提供支持。　　
+　　根据处理器、显卡级别的不同，AMD Vision三个子系列也有各自的最低要求。在主流笔记本上，基础型的Vision Basic可以是上一代Athlon X2处理器搭配Mobility Radeon HD 4330/3450独立显卡，也可以是新一代Athlon II处理器搭配Mobility Radeon HD 4200集成显卡。在中等的Vision Premium里，如果显卡是集成的Mobility Radeon HD 4200，处理器必须是新一代的Turion II，如果显卡是独立的Mobility Radeon HD 4330/3450，处理器可以是上一代Turion X2，也可以是新一代Athlon II。在高端的Vision Ultimate要求处理器必须是Turion II，显卡也必须是独立型的，至少Mobility Radeon HD 4650/4570。　　
+　　超轻薄笔记本方面略有不同，特别是因为整体性能相对有限而没有Vision Ultimate级别。如果是Athlon Neo X2处理器搭配M690G Mobility Radeon HD 3200集成显卡，只能属于最低的Vision Basic；如果把处理器换成Turion Neo X2或者显卡升级为独立的Mobility Radeon HD 4330，就可以列为Vision Premium了。可以看出，单核心Sempron处理器并不属于Vision之列，NVIDIA芯片组和显卡也被完全排斥在外。
+　　除了Vision，AMD还同时提出了“HD Computing with AMD”，贴上这个LOGO就意味着笔记本可以很好地欣赏蓝光/高清节目。　　
+　　伴随AMD Vision品牌出炉的还将有新一代笔记本平台“Tigris”，其中处理器代号“Caspian”，引入45nm工艺，主要有单核心的Sempron和双核心的Turion II、Athlon II，芯片组则会升级到RS880M，集成图形核心Mobility Radeon HD 4200，和桌面上的RS880 785G属于同一档次，也支持DX10.1、Tessellation和UVD2。Tigris平台笔记本产品将在今年秋天陆续发布，而且规模不小，年内将就有40余款型号。
+　　AMD还在现场摆放了微星和惠普的两台样机，其中微星的16寸新本代号“1684”，处理器是最高端的Turion II Ultra M600系列，不过显卡是集成的Mobility Radeon HD 4200，应该属于Vision Premium。惠普的“Pavilion dv6a”配置更丰富，处理器上可选Turion II Ultra，下可选Sempron。
+

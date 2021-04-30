@@ -1,0 +1,36 @@
+2011年考研英语长难句翻译六大技巧
+　　2011年的英语考研大纲与2010年的相比没有大变化。阅读理解部分的翻译仍是一块分量很重的考察内容。其实掌握了翻译的解题技巧，翻译就成了最好拿分的一个题型。因为翻译题型主要考察两点：词汇和长难句。而翻译题型的词汇一般是认识的，最主要的一点就是碰到最难翻译的长句该怎么办？
+　　从近些年的真题中，我们发现命题者有一个非常清楚的或者非常明显的趋势和导向，就是对于比较复杂的句子结构和文章考察的比重加大。这个体现在各个部分的题型当中，尤其以英译汉部分最为明显。所以想要抓住获得高分的“核心竞争力”就要着重提高对文章长难句和段落逻辑结构的把握上，再加上一定的应试技巧和策略，才能在考研英语中取得高分。万学海文提醒大家要特别注意英语和汉语之间的差异，将英语的长句分解翻译成汉语的短句，这样翻译做起来就容易得分多了。
+　　在英语长句的翻译过程中，下面六个技巧可以发挥很大的作用：
+　　(1) 逆序法
+　　英语有些长句的表达次序与汉语表达习惯不同，甚至完全相反，这时必须从原文后面开始翻译。在汉语中，定语修饰语和状语修饰语往往位于被修饰语之前；在英语中，许多修饰语常常位于被修饰语之后，因此翻译时往往要把原文的语序颠倒过来。倒置法通常用于英译汉，即对英语长句按照汉语的习惯表达法进行前后调换，按意群或进行全部倒置，原则是使汉语译句符合现代汉语论理叙事的一般逻辑顺序。
+　　例如：
+　　It therefore becomes more and more important that, if students are not to waste their opportunities, there will have to be much more detailed information about courses and more advice。
+　　分析：该句由一个主句，一个条件状语从句和一个宾语从句组成，“……变得越来越重要”是主句，也是全句的中心内容，全句共有三个谓语结构，包含三层含义：A. ……变的越来越重要；B. 如果要使学生充分利用他们的机会；C. 得为他们提供大量更为详尽的信息，作更多的指导。为了使译文符合汉语的表达习惯，我们可采用逆序法，翻译成：
+　　因此，如果要使学生充分利用他们(上大学)的机会，就得为他们提供大量关于课程的更为详尽的信息，作更多的指导。这个问题显得越来越重要了。
+　　(2) 顺序法
+　　当英语长句的内容叙述层次与汉语基本一致时，可以按照英语原文表达的层次顺序翻译成汉语，从而使译文与英语原文的顺序基本一致。例如：
+　　But now it is realized that supplies of some of them are limited, and it is even possible to give a reasonable estimate of their “expectation of life”， the time it will take to exhaust all known sources and reserves of these materials。(84年考题)
+　　分析：该句的骨干结构为“It is realized that …”，it为形式主语，that引导主语从句以及并列的it is even possible to …结构，其中，不定式作主语，the time …是“expectation of life”的同位语，进一步解释其含义，而time后面的句子是它的定语从句。五个谓语结构表达了四个层次的意义：A. 可是现在人们意识到；B. 其中有些矿物质的蕴藏量是有限的；C. 人们甚至还可以比较合理地估计出这些矿物质“可望存在多少年”；D. 将这些已知矿源和储量将消耗殆尽的时间。根据同位语从句的翻译方法，把第四层意义的表达作适当的调整， 整个句子就翻译为：
+　　可是现在人们意识到，其中有些矿物质的蕴藏量是有限的，人们甚至还可以比较合理的估计出这些矿物质“可望存在多少年”，也就是说，经过若干年后，这些矿物的全部已知矿源和储量将消耗殆尽。
+　　(3)分句法
+　　有时英语长句中主语或主句与修饰词的关系并不十分密切，翻译时可以按照汉语多用短句的习惯，把长句的从句或短语转换成句子，分开来叙述。为了使语意连贯，有时需要适当增加词语，也就是采取化整为零的方法将整个英语长句翻译为几个独立的句子，顺序基本不变，前后保持连贯。
+　　Television, it is often said, keeps one informed about current events, allow one to follow the latest developments in science and politics, and offers an endless series of programs which are both instructive and entertaining. (85年考题)
+　　分析：在此长句中，有一个插入语“it is often said”，三个并列的谓语结构，还有一个定语从句，其中三个并列的谓语结构尽管在结构上属于同一个句子，但都有独立的意义，因此在翻译时，可以采用分句法，按照汉语的习惯把整个句子分解成几个独立的分句，翻译成：
+　　人们常说，通过电视可以了解时事，掌握科学和政治的最新动态。从电视里还可以看到层出不穷、既有教育意义又有娱乐性的新节目。
+　　(1) 包孕法。
+　　这种方法多用于英译汉。所谓包孕是指在把英语长句译成汉语时，把英语后置成分按照汉语的正常语序放在中心词之前，使修饰成分在汉语句中形成前置包孕。但修饰成分不宜过长，否则会形成拖沓或造成汉语句子成分在连接上的纠葛。例如：
+　　You are the representative of a country and of a continent to which China feels particularly close。
+　　您是一位来自于使中国倍感亲切的国家和大洲的代表。
+　　What brings us together is that we have common interests which transcend those differences。
+　　使我们走到一起的，是我们有超越这些分歧的共同利益。
+　　(5) 重组法
+　　指在进行英译汉时，为了使译文流畅且更符合汉语叙事论理的习惯，在捋清英语长句的结构、弄懂英语原意的基础上，彻底摆脱原文语序和句子形式，对句子进行重新组合。例如：
+　　Decision must be made very rapidly; physical endurance is tested as much as perception, because an enormous amount of time must be spent making certain that the key figures act on the basis of the same information and purpose。
+　　必须把大量时间花在确保关键人物均根据同一情报和目的行事，而这一切对身体的耐力和思维能力都是一大考验。因此，一旦考虑成熟，决策者就应迅速做出决策。
+　　(6)综合法
+　　上面我们讲述了英语长句的逆序法、顺序法和分句法，事实上，在翻译一个英语长句时，并不只是单纯地使用一种翻译方法，而是要综合使用到各种方法，这在我们上面所举的例子中也有所体现。再如，一些英语长句单纯采用上述任何一种方法都不方便，这就需要我们的仔细分析，或按照时间的先后，或按照逻辑顺序，顺逆结合，主次分明地对全句进行综合处理，以便把英语原文翻译成通顺忠实的汉语句子。例如：
+　　People were afraid to leave their houses, for although the police had been ordered to stand by in case of emergency, they were just as confused and helpless as anybody else。
+　　分析： 该句共有三层含义： A: 人们不敢出门；B: 尽管警察已接到命令，要作好准备以应付紧急情况；C: 警察也和其他人一样不知所措和无能为力。在这三层含义中，B表示让步，C表示原因，而A则表示结果。按照汉语习惯顺序，我们可将句子翻译为：
+　　尽管警察已接到命令，要作好准备以应付紧急情况，但人们不敢出门，因为警察也和其他人一样不知所措和无能为力。
+

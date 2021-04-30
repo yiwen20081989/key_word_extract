@@ -1,0 +1,15 @@
+iPad 2与Android平板机另类PK
+　　IE9的发布引发了大家对桌面浏览器性能的热评，我们驱动之家也针对几大主流桌面浏览器进行了评测对 比。不过有些读者就会有疑问，每次都是桌面浏览器对比，那么有没有具体到某款移动设备的浏览器对比呢？当前最火热的移动设备莫过于平板机了，而平板机中的 佼佼者莫过于iPad和运行Android系统的设备了。下面我们就选取iPad第一代和第二代(iOS 4.3)以及两款有代表性的Android平板机三星Galaxy Tab(Android 2.2)和摩托罗拉Xoom(Android 3.0)，对比一下它们内置的浏览器对HTML5标准的兼容支持情况。
+　　尽管上市这些设备所采用的浏览器都是基于WebKit核心，但是对于Web标准的支持却不尽相同。WebKit提供了一个处理DOM和CSS的渲染 引擎，但是各浏览器在此基础上对缓存、屏幕绘图、定位服务、内存管理和标签、手势等功能的执行能力却各有各的特点。此外，WebKit自身也在快速地发 展，比如说，苹果iOS 4.3中使用的Safari浏览器基于WebKit 533.17.9，而Mac OS X平台最新的Safari  5.0.4使用的WebKit为533.20.27，Android 3.0内置浏览器采用的是WebKit 534.13。
+　　Acid3
+　　Acid3测试是检测浏览器与Web标准兼容性的主要方法，也是目前行业中最权威的测试。最新的Android和iOS浏览器在此测试中的得分均为满分，不过在渲染中它们都出现了一些问题。苹果浏览器在测试中右上方和右下方都出现了粉红色折线，Xoom平板机上的Android  3.0浏览器则有两个明显的渲染Bug，首先，Acid3的字体显示为错误的红色，而且阴影部分也没有出现。
+　　Modernizr
+　　Modernizr是一个检测浏览器对HTML5和CSS3特性支持的JavaScript库，能反映出平台对现代的浏览器功能的支持情况。根据测试，iPad 2支持绝大部分浏览器功能，包括SVG, CSS 2D transforms、CSS 3D transforms、CSS  transitions、WebGL和Web Sockets。奇怪的是，Modernizr测试显示iPad 2不支持Inline  SVG，不过在实际中一些demo网站也可以正常运行，而WebGL反而无法使用。
+　　Android平板机方面，很多Galaxy Tab无法支持的功能在Android 3.0中都可以使用了，比如SVG、Inline  SVG和CSS 3D transforms。不过，Android 3.0仍然欠缺对部分标准的支持，比如WebGL、Web Sockets和Web  Workers。
+　　性能
+　　采用了全新处理器的iPad 2和Xoom帮助浏览器在SunSpider JavaScript基准测试中都实现了突破，两者齐头并进，相比iPad和Galaxy Tab都取得了明显提升。下图中就列出了这四款设备的浏览器在各项SunSpider基准中的得分对比：
+　　总结：
+　　Android平板机在移动浏览器方面的表现可圈可点，但是问题也不少，拿Xoom举例说，在CSS3动画和CSS3转换中你会遇到一些问题，而这些问题并非偶然发生，是可多次再现的，而且浏览器的无响应和崩溃也时有发生，滚轮反应迟钝……有时候你甚至会怀疑自己用的是不是一款试产设备。
+　　iPad 2在测试中的表现则让人挑不出太多毛病，浏览器在多种苛刻情况下表现良好，在打开HTML5和CSS3网站时也十分流畅。对于开发人员来说，iPad 2确实提供了一个不错的平台让你可以尽情使用各种先进的浏览器功能。
+　　一句话，苹果iPad在移动浏览器创新中走在了最前列，这对于HTML5应用程序开发人员来说是个好消息。可以说苹果不仅在新功能的采纳速度上快人一步，而且在质量上也无可挑剔。
+

@@ -1,0 +1,8 @@
+3GS版iPhone上行速度384Kbps很难快传图片
+　　【赛迪网讯】7月10消息，业内人士Glenn Fleishman称，谷歌3GS版iPhone(手机上网)上个月推出的时候，他认为这种手机将采用AT&T网络中的两种高速的无线技术：下行采用HSDPA技术，上行采用HSUPA技术。但是，实际上，3GS版iPhone受到的限制比他在那篇文章中介绍的还要大。
+　　在下行方面，一切都很好。3G版iPhone的下行速度是3.6Mbps的HSDPA技术，3GS版iPhone能够使用比较新的7.2Mbps的HSDPA技术。AT&T正在建设7.2Mbps的服务。这种服务将在今年晚些时候在一些都市区推出。
+　　Fleishman称，他推测苹果将利用这个机会建立上行的HSUPA技术，速度是1.4Mbps或者1.9Mbps。欧洲的许多网络都支持这个技术并且已经推出了7.2Mbps的HSUPA技术。但是，苹果没有提供iPhone内部的技术规格。
+　　据RapidRepair网站发表的iPhone分解报告称，3GS版iPhone配置了一个UMTS/HSDPA芯片。UMTS是在GSM网络中应用的最早的一个3G标准，最大输出速度是384Kbps。因此，如果你拥有一部3GS版iPhone的话，进行速度测试是很容易的。当你在户外一个接收信号很好的地方时，你可以使用Testmyiphone等任何测试速度的软件。测试结果应该是这样的，下行速度你最多可达到1Mbps，上行速度不到384Kbps。
+　　Fleishman说，iPhone不能以更快的速度在3G网络上传送视频和照片是丢脸的。配置3G网卡的笔记本电脑就能够在同样的网络快速发送视频和照片。不过，他认为这个功能也许是未来的配置HSUPA技术的iPhone的一个卖点。
+　　作者：天虹
+

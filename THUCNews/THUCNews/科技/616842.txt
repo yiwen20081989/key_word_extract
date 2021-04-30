@@ -1,0 +1,4 @@
+3999元配i3芯+独显 同方锋锐K46A评测
+　　nVIDIA GeForce 310M面向主流市场(入门级)，在规格上与G210M基本一样。通过GPU-Z所检测的信息，我们了解到NVIDIA GeForce 310M与G210M一样拥有16个流处理器，浮点性能73GFlops，Shader单元频率1500MHz，显存位宽64-bit，容量最大512MB，频率最高800MHz(GDDR3/DDR3)。支持PureVideo HD、PhysX、CUDA、OpenCL、HybridPower、PCI-E 2.0、PowerMizer 8.0、HDMI、DisplayPort、HDCP等技术，同时310M也支持DirectX 10.1。 
+　　《星际争霸II》是使用DirectX 9与像素着色2.0〈Pixel Shader 2.0〉规格的游戏。同时开发小组也打算增加了一些采用DirectX10独有的绘图效果，并且声称兼容DirectX 11。Mac OS X的程序将使用OpenGL规格。另外游戏还将利用Havok的物理引擎来让“物体的碎片滑下斜坡”，可以增进三维绘图效率并且进一步增强游戏的真实感。但图像引擎本身将可以支持《星际争霸Ⅱ》在多种系统上运行。新的引擎也可绘制非常大的兵种，以及大量的兵种单位。 
+

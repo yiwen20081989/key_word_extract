@@ -1,0 +1,8 @@
+Facebook与RockMelt合作开发新版浏览器
+　　新浪科技讯 北京时间6月14日晚间消息，Facebook与RockMelt今日宣布，双方将联合开发新版浏览器RockMelt 3。
+　　RockMelt是一款融入了社交功能的浏览器，刚上市就被业界冠以“Facebook浏览器”的称号，因为RockMelt浏览器整合Facebook聊天、状态更新和共享等一系列Facebook功能。
+　　如今双方终于正式宣布合作，而首款合作产品就是RockMelt 3浏览器。RockMelt目前仍是一款独立的浏览器，只有数十万活跃用户，Facebook也并未对其继续投资。
+　　RockMelt CEO埃里克·维什利亚(Eric Vishria)称：“此次合作只是基于双方的一个共识：社交功能将成为导航和搜索之后的又一个基本的浏览器功能。”
+　　RockMelt 3将增加一些新功能，如Facebook好友动态，Facebook通知、消息和好友请求，整合Facebook的消息系统等。此外，RockMelt 3还去掉了此前的一些冗余功能。
+　　有业内人士称，Netscape创始人马克·安德森(Marc Andreessen)是RockMelt的联合创始人，而安德森又是Facebook的董事，因此两家公司的合作不足为奇。(李明)
+

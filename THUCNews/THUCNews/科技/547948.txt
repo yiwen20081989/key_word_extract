@@ -1,0 +1,24 @@
+Twitter发展简史：从纸上创意到10亿美元估值
+　　导读：国外媒体今天载文阐述了Twitter由几页纸的创意发展成一家身价10亿美元公司的发展历程，其中包括其数次融资以及Facebook的5亿美元收购计划等。以下为Twitter发展史上的22个里程碑：
+　　1、2000-2001年，杰克·多尔西(Jack Dorsey)提出创意
+　　Twitter办公室墙壁上挂着一些镜框装裱的文档，记录了最初的Twitter创意。多尔西表示，他在2000或2001年草拟了这些文档，“我当初的想法是：如果我拥有LiveJournal，如何提高其实时性？用户写的日记实时向其他用户开放，用户可以在任何地方更新日记。那些文档是对这一创意的阐述。”
+　　2、2006年5月，Twttr上线
+　　Twitter最初的名字不是“Twitter”，而是“Twttr”，其主色调也不是蓝色和白色而是绿色和白色。Twitter的名字由“Twttr”改为“Twitter”与传统的电话键盘有关。多尔西称，“开通短信服务需要一个短代码，我们决定申请‘twttr’作为短代码，不幸的是，‘twttr’已经被占用，于是我们决定使用‘40404’作为短代码，这也是将名字改为‘Twitter’的原因之一。”
+　　3、2006年5月，第一条Twitter信息
+　　多尔西发出的第一条Twitter信息是“just setting up my twttr”(我刚刚建立起twttr)。
+　　4、2006年7月份，科技博客网站TechCrunch报道Twttr
+　　TechCrunch创始人迈克尔·阿灵顿(Michael Arrington)在报道中对Twttr服务的“创新和对一个简单创意良好的执行表示赞赏”。分析师贾斯廷(Justin)则指出，“我认为这是有史以来最愚蠢的创意，没有人会将自己的信息放到一个网站上供所有人阅读。”
+　　5、2006年8月，用户通过Twttr传播与旧金山地震相关的信息
+　　2006年8月旧金山地震时，相关消息通过Twttr很快传播出去。这可能是人们首次意识到，Twttr并非只能传播“午饭吃什么？”等无聊的信息。
+　　6、2006年秋季，Twttr更名为Twitter
+　　Twttr不仅更名为Twitter，主色调也由绿色和白色变为蓝色和白色。
+　　7、2007年1月，苹果公布iPhone(手机上网)
+　　尽管最初短信是用户使用Twitter服务的主要途径，但由于其支持链接和照片共享，因此能够在以iPhone为代表的便携式计算设备上运行。自2007年以来，苹果已经销售了约5000万部iPhone和iPod touch。
+　　8、2007年1月，Twitterrific发布
+　　自2006年秋季以来，Twitter一直没有对其设计进行重大修改，而是让第三方开发新的、更好的用户交互方式。The Iconfactory是一家第三方Twitter应用开发公司，2007年1月份首次发布了人气极高的获奖Twitter应用Twitterrific。目前，有数十家第三方开发公司在开发在计算机、机顶盒等设备上运行的Twitter应用。
+　　9、2007年3月，Twitter在“SXSW嘉年华”上大出风头
+　　2007年3月，Twitter在2007年的“SXSW嘉年华”上大出风头，许多人都利用Twitter临时组织聚会。博客网站硅谷闲话(Valleywag)的尼克·道格拉斯(Nick Douglas)表示，“Twitter在‘SXSW嘉年华’上大出风头，Twitter高管称，Twitter用户平时每天发布约2万条信息，本周末突破6万条。这样的流量将为Twitter带来一些永久用户，未来1年内Twitter将像Facebook那样引起公众关注。”
+　　Twitter在这次“SXSW嘉年华”上获得“Web大奖”。
+　　10、2007年7月，Twitter融资100万美元，估值500万美元
+　　Twitter最初只是Odeo公司的一款产品，但Odeo创始人意识到了其潜力，在成立Twitter公司前收购了Odeo所有股份。这意味着Twitter需要融资。风险投资公司合广投资(Union Square Ventures)、Charles River Ventures，以及网景联合创始人马克·安德森(Marc Andreessen)、RSS内容管理服务商Feedburne联合创始人迪克·科斯托罗(Dick Costolo)、天使投资人罗恩·康韦(Ron Conway)和投资家纳瓦尔·拉维肯特(Naval Ravikant)2007年7月对Twitter投资100万美元，估值为500万美元。
+

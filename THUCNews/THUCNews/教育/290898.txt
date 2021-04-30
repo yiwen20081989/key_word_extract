@@ -1,0 +1,12 @@
+12月英语六级听力原文SectionB第二篇(沪江版)
+　　沪江英语绿宝书之2010年12月大学英语六级考试
+　　听力原文(SecB 第二篇)
+　　It's always fun to write about research that you can actually try out for yourself。
+　　Try this: Take a photo and upload it to Facebook, then after a day or so, note what the URL link to the picture is and then delete it. Come back a month later and see if the link works. Chances are: It will。
+　　Facebook isn't alone here. Researchers at Cambridge University have found that nearly half of the social networking sites don't immediately delete pictures when a user requests they be removed. In general, photo-centric websites like Flickr were found to be better at quickly removing deleted photos upon request。
+　　Why do "deleted" photos stick around so long? The problem relates to the way data is stored on large websites: While your personal computer only keeps one copy of a file, large-scale services like Facebook rely on what are called content delivery networks to manage data and distribution. It's a complex system wherein data is copied to multiple intermediate devices, usually to speed up access to files when millions of people are trying to access the service at the same time. But because changes aren't reflected across the content delivery networks immediately, ghost copies of files tend to linger for days or weeks。
+　　In the case of Facebook, the company says data may hang around until the URL in question is reused, which is usually "after a short period of time", though obviously that time can vary considerably。
+　　30 What does the speaker ask us to try out?
+　　31 What accounts for the failure of some websites to remove photos immediately?
+　　32 When will the unwanted data eventually disappear from Facebook according to the company?
+

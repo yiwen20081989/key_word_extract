@@ -1,0 +1,9 @@
+传苹果新款Macbook Pro使用双GPU芯片
+　　据国外媒体报道，苹果计划在其Macbook Pro笔记本中加入双GPU芯片，以增强笔记本的图形显示功能。据熟知内中细节的人士透露，这种双GPU设计将使Macbook Pro笔记本具备自动在集显GPU和独显GPU之前切换信号的功能。
+　　与Macbook Pro的现有设置不同，现有的Macbook Pro笔记本需要经过用户的手动设置，并需要登出系统后，才能在GeForce 9400M集显和9600M GT独显之间切换信号。不过目前还不清楚苹果是否会在最近推出的Macbook Pro更新款产品中应用这项技术。
+　　背景分析：
+　　一年半以前，苹果决定在Macbook/Macbook Pro笔记本系列产品中弃用Intel公司的芯片组产品，转而使用Intel CPU+Nvidia Geforce 9400M集显芯片组的方案，并宣称后者的图形性能和省电性能比Intel的产品更优秀，而Macbook Pro系列笔记本中则还增设了Geforce 9600M GT独显，以便进一步提升笔记本的显示性能。
+　　此举显然对Intel的芯片组业务造成了威胁，他们开始拒绝为Nvidia公司提供新一代Nehalem架构处理器的芯片组授权，这样Nvidia公司的芯片组产品便无法支持Intel最新款的Core i5/i7处理器。苹果和其它笔记本公司也不得不为此重新考虑自己产品的芯片组搭配策略。　
+　　Intel和Nvidia公司为此闹得不可开交，Intel甚至还因此陷入了与美国联邦贸易委员会(FTC)的反垄断诉讼案件。不过Nvidia的芯片组业务也因此而几乎停滞不前，这导致苹果Macbook Pro产品在长达16个月的时间里几乎没有推出显著更新的新品型号。
+　　但是Nvidia公司也没有因此而束手待毙，他们于近期推出了名为Optimus的双显卡新技术，并计划将支持这些新技术的产品应用在苹果Macbook Pro新品上。这种支持Optimus技术的独显芯片可以与基于Intel Nehalem架构的集显系统共存，可以为某款应用程序自动选择合适的GPU信号，而无需用户作出手动调整。
+

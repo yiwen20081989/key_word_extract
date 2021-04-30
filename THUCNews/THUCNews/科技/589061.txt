@@ -1,0 +1,7 @@
+Novell被判未获Unix版权：SCO或再诉IBM
+　　新浪科技讯 北京时间8月25日下午消息，据国外媒体报道，美国第10巡回上诉法院今天推翻了联邦地方法院2007年作出的“Novell拥有Unix版权”的裁定，这将为SCO继续起诉IBM铺平道路。
+　　美国第10巡回上诉法院推翻了犹他州地方法院2007年的一项裁定，即Novell拥有Unix和UnixWare的版权。SCO CEO达尔·麦克布莱德(Darl McBride)表示，这一裁定是“对SCO主张的认可”，将使该公司能够继续起诉IBM和Novell。
+　　SCO销售基于Unix的软件和服务，其中包括面向大型企业的UnixWare和面向中小企业的SCO OpenServer。私募股权投资公司Stephen Norris Capital Partners去年2月向SCO注资1亿美元，认为Unix版权案会翻案，并要求SCO“继续积极”起诉IBM和Novell。
+　　Novell 1993年斥资逾3亿美元收购了Unix系统实验室，后者拥有Unix版权。2年后，Novell将Unix业务出售给了SCO。两家公司的分歧在于Novell是否将Unix版权一同出售给了SCO。SCO 2003年声称Linux是Unix的非法衍生物，并起诉IBM向Linux捐献Unix代码侵犯其版权，要求赔偿10亿美元。SCO还致函1500家大型企业，警告他们使用Linux侵犯其知识产权。
+　　Novell 2004年声称拥有Unix版权，之后SCO又将矛头对准了Novell。犹他州地方法院2007年10月裁定Novell拥有Unix和UnixWare版权，SCO赔偿Novell各种损失计250万美元。此后SCO很快申请破产保护。(志翔)
+

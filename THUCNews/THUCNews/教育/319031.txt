@@ -1,0 +1,4 @@
+GRE考试指南：从上下文猜出词义不现实
+　　假设原文有这样一句话：Sedge root, a woody fiber that can be easily separated into strands, is essential to basketry production. 请问sedge root的中文翻译“莎草的根” 能够帮助我们解决阅读理解题目吗？我想很难！真正能够帮助我们解决阅读理解题目的应该是这样的文字a woody fiber (木制纤维)和定语从句中的文字部分can be easily separated into strands (能够轻易地被分割成线)。通过以上的分析，想必大家已经非常清楚地认识到，过去我们拼命去死记硬背专有名词的中文释义是多么愚蠢的行为。因为真正的认识应该是对特征的认识，所以一个专有名词和他的中文释义对我们来说是没有任何意义的，毕竟我们对它们都没有任何的概念。
+　　最后很多人都说我们可以从上下文中猜出单词的释义，难道真的是这样么？ 笔者认为从上下文中猜出单词的释义是不现实的。例如有这样一句话“Supernova is a massive star which undergoes gravitational collapse。” 我们是不可能从上下文中猜出supernova的释义“超新星”的。而我们真正能够做到的只是从上下文中猜出单词的特征：supernova是巨大的恒星(massive star)，它在进行引力收缩(undergoes gravitational collapse)。于是以后当我们遇到不认识的单词，我们可以再也不用停下来思考单词的释义，也不用费尽思量地去猜所谓的单词的释义，我们需要做的只是静下心来在后面找到单词在文章当中传达的特征就可以
+

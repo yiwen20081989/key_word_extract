@@ -1,0 +1,41 @@
+浅谈考研英语阅读中的核心概念
+　　考研英语阅读的文章来源于国外期刊或杂志。众所周知这些文章浸染了西方式的写作传统——观点鲜明，逻辑严密，全文只有一个主题思想。而这种主题思想是以核心概念的形式体现出来的。我们在阅读文章时，若能有意识地寻找核心概念，就会提高解题速度和准确率。
+　　一、什么是核心概念？
+　　文章的核心概念，即全文论述的中心，又名中心词，通常以名词或名词短语的形式出现。核心概念不一定是一个，有时是两个，此时要注意两个概念之间的区别和联系。
+　　二、如何找核心概念？
+　　一般来说，文章的每一自然段都会含文章的核心概念，抓住出现频率最高的名词或名词短语即可。有时，这个名词会以同义词、指代关系的形式出现，需要引起我们的注意。
+　　三、核心概念的形式？
+　　分为文章的核心概念和段落的核心概念两种。文章的核心概念遍布全文，段落的核心概念属于每一自然段内部的核心论述对象。
+　　四、核心概念的作用？
+　　找出文章的核心概念会提示主旨题(问main idea)的答案。文章与段落的核心概念并用，也会提示大部分事实细节题和例证题(问example)的答案；对比四个选项，含有核心概念的通常为正确答案。
+　　我们以2007年考研英语真题阅读理解Text 4为例：
+　　(文章的核心概念用黑体表示，段落的核心概念用下划线表示)
+　　It never rains but it pours. Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them ? especially in America ? the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity. Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel, information protection is now high on the boss’s agenda in businesses of every variety。
+　　Several massive leakages of customer and employee data this year ? from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley ? have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities。
+　　“Data is becoming an asset which needs to be guarded as much as any other asset,” says Haim Mendelson of Stanford University’s business school. “The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders。” Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP)， perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York’s Columbia Business School. “Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,” he says。
+　　The mystery is that this should come as a surprise to any boss. Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore ? and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands。
+　　The current state of affairs may have been encouraged ? though not justified ? by the lack of legal penalty (in America, but not Europe) for data leakage. Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray. That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C. Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America’s Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security。
+　　评析：这篇文章的核心概念即“数据泄漏，因此要保护数据”。第一段提出文章主题，第二段描述问题现象，第三段说明要保护，第四段提出信任与数据保护的关系，trust成为段落中心词，末段提出要立法解决，legal成为段落中心词。
+　　36.  The statement “It never rains but it pours” is used to introduce
+　　[A] the fierce business competition。
+　　[B] the feeble boss-board relations。
+　　[C] the threat from news reports。
+　　[D] the severity of data leakage。评析：本题答案D。谚语的目的自然是引出主题，找含有核心概念的选项即可。
+　　38.  In bringing up the concept of GASP the author is making the point that 
+　　[A] shareholders’ interests should be properly attended to。
+　　[B] information protection should be given due attention。
+　　[C] businesses should enhance their level of accounting security。
+　　[D] the market value of customer data should be emphasized。
+　　评析：本题答案B。提出GASP，自然是证明主题“数据保护”。注意D选项虽有data，但其重心落在the market value上面，偏离主题。
+　　39.  According to Paragraph 4, what puzzles the author is that some bosses fail to
+　　[A] see the link between trust and data protection。
+　　[B] perceive the sensitivity of personal data。
+　　[C] realize the high cost of data restoration。
+　　[D] appreciate the economic value of trust。
+　　评析：本题答案A。作为事实细节题要定位段落，A选项既含有段落中心词，又含有文章核心概念，体现了细节题既要服从段落主题，又要服从文章主题的原则。
+　　40.  It can be inferred from Paragraph 5 that
+　　[A] data leakage is more severe in Europe。
+　　[B] FTC’s decision is essential to data security。
+　　[C] California takes the lead in security legislation。
+　　[D] legal penalty is a major solution to data leakage。评析：本题答案D。原因同39题一样。
+

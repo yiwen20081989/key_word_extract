@@ -1,0 +1,14 @@
+苹果新操作系统Snow Leopard功能介绍
+    新浪数码评测室：卞志国
+　　Mac OS X v10.5 “Leopard”(美洲豹)是2006年8月7日的世界开发者大会中所公开的，并在2007年10月26日推出的64位操作系统，它同时支持PowerPC和以Intel为核心的Macintosh电脑。
+    Mac OS X v10.6 “Snow Leopard”(雪豹)则是于两年后的2009年8月28日通过苹果零售店和苹果授权经销商进行销售，其只针对英特尔处理器的苹果电脑。
+    这次的Snow Leopard与其说是一个全新版本，并不如说是Leopard的一个升级版本更贴切。其主要改进是三方面的，首先是各种设置软件的升级，更炫、更方便；其次是通过64位软件和其它技术提升了软件的执行效率，更加流畅；最后是办公性能提升，它能运行Microsoft Office和Windows应用程序，几乎能从任何电脑连接到任何网络并共享文件。
+    全面的升级
+    苹果公司称“Snow Leopard构筑于我们迄今最成功的操作系统基础之上，而且我们十分高兴能够比预期提前向用户推出”，“只需29美元(248元)，Leopard用户即可顺利升级到世界上最先进的操作系统和唯一内置支持Exchange的系统。”
+    为了开发Snow Leopard，苹果工程师对构成Mac OS X的1000多个项目中的90%进行了优化。用户将会注意到众多的提升，其中包括：更具响应性的Finder；邮件加载速度快达两倍的Mail；初始备份速度加快80%的Time Machine；集成了Expose的Dock；配备重新设计的播放器QuickTime X，能让用户轻松观看、录制、修剪和共享视频；以及速度加快50%并能防止因插件导致崩溃的Safari 4 64位版本。Snow Leopard的大小只有以前版本的一半，安装后可释放高达7GB的硬盘空间。
+    速度提升的原因
+    这款也是第一次，包括Finder、Mail、iCal、iChat和Safari在内的系统软件均为64位版本，而且Snow Leopard支持64位处理器，可以利用大量的内存，提高性能和安全性，同时保持与32位软件的兼容性。Grand Central Dispatch (GCD) 为软件开发人员编写应用程序时将多核系统的优势发挥到极至提供了一种革命性的创新技术。OpenCL是基于C语言的开放标准，可使开发人员利用图形处理单元的惊人功能来完成图形之外的任务。
+    办公性能提升
+    Snow Leopard是唯一内置了Microsoft Exchange Server 2007支持的桌面操作系统，而且允许用户使用Mac OS X Mail、Address Book和iCal收发电子邮件、创建和会应会议邀请以及使用global address lists全球地址列表搜索和管理联系人。Exchange信息可与Snow Leopard完美整合，因此用户也可以利用只有在OS X才有的功能，例如快速的Spotlight 搜索和 Quick Look 预览。
+    可能以上说明还不够形象，那么我们再看看苹果的PPT介绍。
+

@@ -1,0 +1,16 @@
+外刊评10款最烂操作系统微软四款上榜
+　　新浪科技讯 北京时间4月10日早间消息，据国外媒体报道，《PC World》网站周四评出了迄今为止最差的10款操作系统，OS/360、Windows Me和Windows Vista等不幸上榜。 
+　　10款最差操作系统，按时间顺序排列：
+　　1. OS/360 (IBM，1964年) 
+　　2. 不兼容分时系统(麻省理工学院，60年代晚期) 
+　　3. GNU Hurd (自由软件，1983年) 
+　　4. Windows 1.01 (微软，1985年) 
+　　5. MS-DOS 4.0 (微软，1988年) 
+　　6. SCO Open Desktop (SCO，1989年) 
+　　7. JavaOS (Sun，1996年) 
+　　8. Windows Me (微软，2000年) 
+　　9. Lindows/ Linux XP Desktop (Lindows，2001年/TrustVerse，2006年) 
+　　10. Windows Vista (微软，2006年) 
+　　(李明)
+
+

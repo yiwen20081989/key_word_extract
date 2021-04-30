@@ -1,0 +1,12 @@
+不越狱iPhone也能离线本地阅读电子书
+　　最近越来越多的朋友入手了3.13版本的iPhone 3Gs，但由于现在3.13版本的iPhone  3Gs暂时还无法越狱，导致很多喜欢看电子书的朋友只能从网上在线阅读。但这也使相当一部分手机卡流量有限的朋友无法随心所欲的下载电子书看。本教程就是 教大家使用Stanza这个软件来让你将电子书从电脑传到iPhone里，而不用考虑你的iPhone是否已经越狱的问题。
+　　使用本教程的前提：需要你有无线网络，也就是wi-fi，而且你的iPhone和电脑要在同一个无线 网络中。使用联通iPhone的朋友暂时本教程是不适用的。
+　　    1、打开iTunes，iPhone连上电 脑，在iTunes中的iTunes store中搜索下载安装Stanza(本软件是免费的)。
+　　    2、到stanza官方网站下载  Stanza Desk PC客户端，然后安装到电脑上。http://www.lexcycle.com/download-stanza-windows
+　　    3、打开电脑中的 Stanza，如下图
+　　4、从“文件”菜单栏打开(Open  File.。。)本地电脑中的你想要传到iPhone的电子书(txt、HTML格式的均可)。
+　　5、然后在工具栏里把Enable Sharing和 Allow Anonymous  sharing两个选项都打上钩。
+　　6、接下来打开iPhone的wifi，并且连到和电脑的同一个无线网络，然后运行Stanza，然后点击下面的“获取 书籍”。
+　　然后点上面的“分享”，读取一会就会看到你电脑的名字。
+　　点进去，就会看到名为“未知”的书籍，这就是我们要传进iPhone的电子书。
+

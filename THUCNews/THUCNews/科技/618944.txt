@@ -1,0 +1,8 @@
+英特尔Sandy Bridge处理器详细型号规划曝光
+　　新浪数码讯 Computer Base网站最近报道了Intel下一代处理器Sandy Bridge的产品规划路线图，根据这份路线图显示，SandyBridge仍将采用Core i3/i5/i7的型号组成。其中Core i3将采用双核+超线程设计，三级缓存容量3MB，TDP功耗35-65W。
+　　Core i5则基本采用4核设计(不支持超线程)，缓存容量6MB，TDP 45-95W。其中最高频的Core i5 2500默认频率为3.3GHz，打开TurboBoost自动调频功能后，频率可进一步提升到3.7GHz。
+　　Core i7则全部采用四核+超线程的设计，缓存容量8MB，其中频率最高的型号为Core i7 2600，运行频率3.4GHz，打开TurboBoost自动调频功能后，频率可进一步提升到3.8GHz。
+　　另外，在SandyBridge处理器的命名上Intel还起用了三种新后缀字母，其中S代表65W功耗的型号，T则代表35-45W功耗的型号，K代表未锁频的处理器产品。
+　　同时，Intel还将推出6款笔记型Sandy Bridge处理器，包括双核Core i5 25xxM系列(缓存3MB，支持超线程，TDP 35W)；和同为双核+超线程设计，4MB缓存，TDP 35W的Core i7 2620M。笔记本处理器的工作频率可谓相当之高，连工作频率最低的双核 Core i5 2520M工作频率都达到了2.5(默认)/3.2(Turbo)GHz，而最快的 i7 2620M则达到了2.7/3.4GHz。
+　　另外，笔记型四核处理器部分则包含有Core i7 2720QM (2.2/3.3GHz，TDP 45W)，以及旗舰型的Core i7 2920XM(2.5/3.5GHz，缓存容量8MB，TDP 55W)。
+

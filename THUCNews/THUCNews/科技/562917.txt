@@ -1,0 +1,6 @@
+谷歌今日Logo四色小球可随鼠标飞舞(图)
+　　新浪科技讯 北京时间9月7日下午消息，据国外媒体报道，Google.com英文网站今天的Logo与往常特别节假日时的Google有点不一样，因为今天的Google Logo是动态的。
+
+　　用户访问Google.com首页时，会看到四种颜色小球组成的Google Logo。当鼠标悬停在Logo上时，小球就会变成缤纷的泡沫舞动，并且会跟随鼠标的移动跳动。当鼠标远离Logo时，四色泡泡会慢慢“平静”下来回到最初的状态。
+　　据科技博客Hacker News文章称，今天的Google Logo使用了HTML/JavaScript的粒子模拟器功能。(张和)
+

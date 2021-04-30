@@ -1,0 +1,7 @@
+微软Windows Live整合更多社交网站
+　　新浪科技讯 北京时间4月22日早间消息，据国外媒体报道，微软将更多社交网站和第三方内容合作伙伴整合到Windows Live。
+　　微软Windows Live业务集团总经理布莱恩·霍尔(Brian Hall)接受采访时表示：“我们对Windows Live进行了重要更新。首先，我们增添了能够与Windows Live整合的20个第三方内容合作伙伴，使Windows Live第三方内容合作伙伴超过30个。”
+　　其次，微软还将MySpace、hi5和Tagged等社交网站添加到联系合作伙伴(contact partners)名单，以简化这些社交网站与Windows Live之间的邀请，使用户不必在每家社交网站都进行注册。微软还允许Windows Live用户接受其他社交网站的信息更新，比如Facebook、SmugMug、Digg、metroFLOG (阿根廷)、Hyves(荷兰)和Arto(丹麦)。
+　　此外，微软还对许多国家的现有Hotmail用户提供了新功能，允许这些用户在Hotmail内对Windows Live Messenger的联系人发送即时信息。微软认为，如果用户使用的PC或其他设备没有安装即时信息软件，那么用户可能需要该功能。(宁弦)
+
+

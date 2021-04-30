@@ -1,0 +1,15 @@
+美第三大运营商Sprint取消推出4G版PlayBook
+　　新浪科技讯 北京时间8月13日上午消息，美国第三大移动运营商Sprint Nextel(以下简称“Sprint”)已放弃销售4G版PlayBook平板电脑的计划，主要因市场需求低迷，而这也令PlayBook的东家黑莓手机生产商RIM再次遭挫。
+　　早在8个月前，Sprint成为宣布与RIM展开平板电脑合作的首家移动运营商，但该公司周五表示已取消推出WiMAX版PlayBook的计划。
+　　眼下，RIM的PlayBook平板电脑面临来自苹果畅销产品iPad的强大挑战，而黑莓手机与iPhone的竞争也是一场苦战。
+　　Sprint表示，取消推出4G版PlayBook平板电脑是双方做出的决定。
+　　不过，Sprint业务服务部门主管佩吉特·阿尔维斯(Paget Alves)表示，现今Wi-Fi版平板电脑的受欢迎程度要远超WiMax版平板电脑。
+　　阿尔维斯曾于本周早些时候表示，目前平板电脑市场以Wi-Fi版为主。
+　　RIM表示，相比WiMax版本产品，该公司将优先开发支持LTE标准的产品。RIM称，目前已经对LTE版PlayBook进行测试，并计划于今秋在美国和全球市场进行运营商测试阶段。
+　　美国两大无线运营商Verizon Wireless和AT&T目前正在部署LTE网络。AT&T拒绝就是否会销售LTE版PlayBook平板电脑置评。
+　　早在今年4月份PlayBook推出之前，RIM就表示Verizon会销售这款平板电脑，但在该产品推出之后，Verizon表示正在重新考虑。Verizon发言人布伦达·瑞尼(Brenda Raney)周五表示，该公司仍在研究相关事宜。
+　　一些分析师对RIM选择WiMax作为最初网络支持的做法感到不解，因为上述两大移动运营商早在今年1月份就表示将部署LTE网络。
+　　即便是目前依赖Clearwire 所提供的WiMax服务的Sprint，预计其也会在10月份宣布自主网络的LTE升级计划。
+　　目前，Sprint仍在销售Wi-Fi版Playbook。
+　　不过，市场研究公司Charter Equity Research的分析师埃德·施奈德(Ed Snyder)表示，与Sprint的无线技术合作问题相比，RIM 面临的问题其实更多在于PlayBook缺乏战胜iPad的亮点。(彪赫)
+

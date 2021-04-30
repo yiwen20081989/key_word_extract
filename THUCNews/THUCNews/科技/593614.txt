@@ -1,0 +1,9 @@
+iPod nano六代拆解：电池容量两倍于Shuffle
+　　新浪科技讯 北京时间9月10日早间消息，据科技博客ZDNet报道，继iPod Shuffle和iPod touch之后，iFixit又对苹果的第六代iPod nano进行了“大拆解”，并在网站上放出了详细的拆机报告，指导网友一步一步拆解手中的iPod nanno。以下是拆解报告的主要内容：
+　　iPod nano的电池只有两根电池线，而之前iFixit拆解过的上几代iPod nano均有三根电池线，且第三根电池线一般是连接在温度计上的。iFixit认为这可能是因为新款iPod nano的电池足够小，充电电流很小，不必担心过热的问题。
+　　iPod nano的屏幕为1.54英寸，240×240像素LCD屏。尽管带有多点触控功能，但iFixit认为如此小的屏幕其实连正常人使用一个手指都会无法舒适操作。
+　　跟其同门师兄弟iPhone 4和iPod touch一样，iPod nano的LCD屏幕和前置玻璃是不可分的。
+　　Nano的电池容量为105mAh，是iPod Shuffle电池的两倍还多。这应该是因为iPod nano的显示屏比较耗电，而Shuffle没有显示屏。
+　　Nano的耳机、音量键和睡眠按钮都设计在Nano周围的一根带状电缆上。这是非常高效的设计。
+　　iFixit最后总结，将这么多部件都装到Nano那么小的机身空间中，苹果的工程技术真的很棒。(张和)
+

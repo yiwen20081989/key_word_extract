@@ -1,0 +1,8 @@
+金融时报周三推出语义搜索Newssift
+　　新浪科技讯 北京时间3月19日上午消息，据科技博客TechCrunch报道，《金融时报》集团旗下创业公司FT Search周三晚推出了语义搜索引擎Newssift。
+　　Newssift于美国东部时间周三晚8点正式上线，主要提供商业新闻搜索。经测试，Newssift表现不俗，尤其适合大企业用户。
+　　FT Search CEO罗宾·约翰逊(Robin Johnson)称，Newssift的开发工作持续了2年多，其宗旨是为紧张的商业人员提供一款工具，帮助他们解决一些问题。
+　　Newssift索引约4000家商业新闻源，包括网络版报纸、博客、新闻门户和调研机构网站等，每日新闻索引量达12万篇。
+　　Newssift表现不俗，不但提供关键字搜索结果，还能给出相关关键字搜索结果。如搜索“Sun Microsystems”，Newssift还能给出相关结果，如IBM、乔纳森·施瓦茨(Jonathan Schwartz)和市场份额等。(李明)
+
+

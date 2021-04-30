@@ -1,0 +1,5 @@
+Android2.2支持4G 三星Stealth V送测FCC
+文/马千里
+　　三星在2011年MWC大会上展出了多款新品，相信很多人都会关注，这些产品在上市后是否会加入4G的元素在里面，近日，一款型号为三星Stealth V的产品送测FCC，这款产品在之前曝光过，不过那时它还没有一个固定的称号，据悉，它将由Verizon定制发售，支持4G网络。
+　　三星Stealth V将搭载Android 2.2智能系统，加入全套Google Mobile Services，其中包括Google Maps，Google Search，Gmail，YouTube等，它将装有一块4.3英寸的电容式触控屏幕，使用三星最新的Super AMOLED Plus屏幕，搭配1GHz处理器，设有800万像素摄像头，在系统中还会加入三星社交信息及多媒体整合功能。
+

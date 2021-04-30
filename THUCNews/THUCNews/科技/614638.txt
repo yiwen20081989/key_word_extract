@@ -1,0 +1,10 @@
+惠普冲击高端市场 纤薄的奢华本（图）
+    作者：宋彬
+　　不久前有消息称，惠普旗下的高端品牌Voodoo将会有大动作。据称，Voodoo品牌旗下会推出Envy 13/15等超便携本产品。近日有网站率先曝露了该系列产品的图片和规格等信息。
+　　图片中我们看到该系列产品分别采用了13和15寸的屏幕设计，但机身非常纤薄，其尺寸完全秉承了Voodoo Envy 133的传统，但外观设计则是采用了hp的惯用风格。
+　　其中，Envy 15最值得关注的地方莫过于将配备Nehalem架构、开发代号Clarksfield的新一代四核心处理器Core i7-720QM，主频1.6GHz，Turbo加速最高2.8GHz，三级缓存6MB，支持双通道DDR3-1333内存。
+Envy 15规格：
+屏幕：15.6寸处理器：Core i7-720QM 1.6GHz硬盘：320/500GB (保留12GB用于系统恢复)内存：4/8GB DDR3显卡：Mobility Radeon HD 4830 1GB光驱：LightScribe SuperMulti 8X DVD+/-RW网卡：GbE、802.11a/g/n摄像头：夜视＋红外LED系统：Windows 7 Home Premium 64-bit电池：六芯或九芯锂离子 (120W AC)接口：两个USB 2.0、HDMI、eSATA/USB重量：2.35公斤尺寸：38.0×24.4×2.65厘米
+Envy 13规格：
+屏幕：13.1寸处理器：Core 2 Duo SL9400 1.86GHz (6MB二级缓存)硬盘：250GB (保留12GB用于系统恢复)内存：3GB DDR3显卡：Mobility Radeon HD 4330 512MB光驱：LightScribe SuperMulti 8X DVD+/-RW网卡：GbE、802.11a/g/n摄像头：普通系统：Windows 7 Home Premium 64-bit电池：四芯或六芯锂离子 (90W AC)接口：两个USB 2.0、HDMI重量：1.70公斤尺寸：53.0×21.5×2.05厘米
+

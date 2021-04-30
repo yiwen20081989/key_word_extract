@@ -1,0 +1,9 @@
+下代Atom将集成PowerVR SGX545图形核心
+　　面对AMD APU的威胁，Intel下一代上网本/入门级台式机平台Cedar Trail也在规格方面大踏步地前进，尤其是整合的图形核心。
+　　新平台的Atom处理器开发代号Cedarview，采用32nm HK工艺制造，集处理器、图形核心、视频解码引擎、内存控制器、显示控制器等等于一身，FCBGA封装，尺寸22×22×2.4毫米。
+　　新平台在桌面上首批型号有Atom D2500、D2700两款，均为双核心，但后者还支持超线程，主频1.86GHz、2.13GHz，二级缓存1MB，热设计功耗均为10W。
+　　内存支持抛弃DDR2而仅限于DDR3，不过还是单通道，不过最大容量放宽到4GB，最高频率也提升到1066MHz。
+　　现有Atom处理器搭配的图形核心GMA 500、GMA 600其实也不完全是Intel自己开发的，而是基于PowerVR SGX535，下一代的Cedarview则会升级为PowerVR SGX545，虽不是顶级型号但也将为Atom上网本带来明显的图形性能提升，目标是现有Pine Trail平台的两倍。
+　　PowerVR SGX545支持DirectX 10.1、OpenGL 3.0(其实硬件支持OpenGL 3.2)，核心频率移动版400MHz、桌面版640MHz，支持MPEG-4 Part 2、VC-1、WMV9、H.264等视频格式的硬件解码加速，内部输出支持单通道24-bit LVDS(最高分辨率1440×900@60Hz)、eDP 1.1，外部输出支持VGA、HDMI 1.3a、DisplayPort 1.1，还支持Intel DPST 6.0节能技术，总体还是比较强大的。
+　　其实PowerVR SGX545的原定频率只有200MHz，此时官方标称性能三角形填充率每秒4000万个，像素填充率每秒1G。提升到400MHz乃至640MHz怎么也得翻一番吧。
+

@@ -1,0 +1,8 @@
+联想Think系列停用ThinkVantage
+作者：Skyangeles
+　　延续IBM当年的优良传统，联想Think系列PC的附加软件一向非常出色。其中，被很多用户称道的就是它的软件自动更新功能。从之前的Software Installer，到后来的ThinkVantage System Update，功能都相当强大。用户在新装系统后只要自行安装网卡驱动，ThinkVantage System Update就能找到所有需要安装的驱动、预装软件、BIOS等等自动下载安装。
+　　不过今天传出噩耗，联想官方宣布，停止使用ThinkVantage System Update（TVSU）提供软件/驱动的自动更新下载服务。从今后，所有ThinkPad、ThinkCentre和ThinkStation用户都无法使用TVSU获取自动更新，而只能自行到网站搜索下载软件与驱动。据悉，目前用户打开ThinkVantage System Update软件后已经无法从服务器获取更新列表。
+　　联想表示，未来公司将使用Message Center Plus软件向用户提供产品驱动和软件下载的更新信息。但恐怕，自动下载更新的便利已经一去不复返了。
+
+
+

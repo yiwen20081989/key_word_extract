@@ -1,0 +1,9 @@
+创业公司BackType评估Twitter用户互动价值
+　　新浪科技讯北京时间5月6日上午消息，据美国科技博客Mashable报道，社交网站分析平台BackType将推出一款名为BackTweets Pro的新产品，旨在帮助商家和出版商评估社交网站上互动活动的价值。
+　　BackTweets Pro服务每月收费100美元，会报告Twitter账户拥有者的表现。BackType宣称该公司可以获得比所有竞争对手更多的Twitter数据。BackTweets Pro提供的数据包括过去一年发表的所有Twitter消息以及过去两年Twitter上分享的所有链接。这项服务数据库的Twitter消息量总计超过300亿条。
+　　BackTweets Pro会提供Twitter活动的宏微观见解，包括有关Twitter消息、转发消息、追随者等信息的数据。它甚至会推荐发布Twitter消息或转发消息的最佳时间，以产生最大的反响。该工具还包括搜索和先进搜索功能，用于关键词表现分析。
+　　用户还可以登录谷歌，与其Google Analytics账户建立连接，将在Twitter上面的活动转变为网站流量。BackTweets Pro企业版还提供对多个Twitter账户的支持、额外分析以及与Omniture这样的其他网站流量分析产品进行整合。
+　　BackType创始人克里斯托弗·格尔达(Christopher Golda)说：“BackTweets是唯一一款可解决Twitter平台营销问题的产品，也是唯一一款帮助品牌、机构、出版商了解如何将在Twitter上的互动转化为流量、销售额及他们感兴趣的其他重要性能指标的产品。”
+　　格尔达表示，BackTweets Pro服务之所以能够在竞争激烈的市场生存，有两个主要原因：测量Twitter上的真实活动，帮助商家和出版商理解这种互动的影响。他说：“人们现在对社交媒体越来越重视，我们会将互动活动转换为具体的数据，转换为让首席营销官(CMO)可以真正理解的东西。我们可以评估这种活动的真正价值。”
+　　Backtype的服务最初是帮助用户寻找、追踪并分享博客上的评论，使他们可以根据关键词和链接进行搜索，基本上就是Google Alerts的社交版本。(永鸿)
+

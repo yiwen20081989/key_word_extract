@@ -1,0 +1,6 @@
+全新CPU 摩托罗拉Droid Bionic再曝光
+文/孟滨
+　　早在年初CES大会上就正式发布的摩托罗拉Droid Bionic在发布之后显得扑朔迷离，和它同时亮相的Atrix、XOOM都早已上市，而这款产品却一度传出可能跳票的消息。日前，曝光的一份基准测试结果让这款手机再度回到我们面前，并且透露出一个重要消息：Droid Bionic可能会采用全新的处理器上市。
+　　根据这份NenaMark测试结果所显示的设备信息，摩托罗拉Droid Bionic的GPU型号为PowerVR SGX 540。正是这一信息引起了国外媒体关注。要知道，最初发布的Droid Bionic是一款采用Nvidia Tegra 2双核处理器的手机，图形处理芯片自然也是Nvidia GeForce。而PowerVR SGX 540则多被应用在TI OMAP系列处理器上，此前摩托罗拉的多款产品就采用了这一图形芯片。
+　　联想到此前有消息称摩托罗拉将会重塑这款Droid Bionic，国外媒体猜测，这款手机的处理器可能都会发生变化，它很有可能会采用TI双核处理器。而且此前曾有媒体报道，Nvidia的Tegra 2芯片在Verizon的LTE网络下表现不佳，这也增加了这条消息的可信度。
+

@@ -1,0 +1,11 @@
+传Facebook数月前收购创业公司Zenbe邮箱产品
+　　新浪科技讯 北京时间11月17日凌晨消息，Facebook周一发布了电子邮件系统，但有消息人士称，它已于几个月前购买了创业公司Zenbe的与电子邮件有关的部分知识产权，并将该公司的三名工程师招致麾下。
+　　10月8日，Zenbe宣布关闭电子邮件产品Zenbe Mail。当时有消息人士称，该公司关闭电子邮件业务的原因是Facebook收购了它的部分知识产权，并带走了几名雇员。但两家公司均未对此发表评论。
+　　Zenbe计划于周二晚些时候正式宣布与Facebook的交易。Facebook并未收购Zenbe，只是买下了Zenbe Mail，并挖走了与该产品有关的三名工程师；Zenbe将留在纽约，继续研发新产品。
+　　Zenbe首席执行官阿兰·程(Alan Chung)在博客中称：“你们或许已经听说，Facebook发布了一款统一通讯产品。令人高兴的是，我们也为该项目作出了一定贡献：几个月前，我公司的三名工程师加盟Facebook。网页通讯和协作是新一波创新浪潮的开端，能够投身其中令我们十分激动。”
+　　Zenbe正在开发一款名为Shindig的新产品，能够利用“Facebook的社交图谱，使用户与好友随时随地分享照片”。该公司还计划开发一款名为Blacktop的Foursquare应用，以及一款名为Shareflow的协作工具。
+　　Facebook最近的一些重要产品更新都是通过收购其他企业实现的，多家公司因此被关闭。今年4月，Facebook收购了提供照片分享服务的创业公司Divvyshot，并聘请其创业团队负责Facebook Photos的重新发布；今年夏天，Facebook收购了提供“签到”服务的创业公司Hot Potato，其创始人贾斯汀·沙弗(Justin Shaffer)负责改版Facebook Groups，随后主管Facebook的地理位置服务Places。
+　　此外，Facebook还收购了创业公司NextStop、Drop.io和FriendFeed。FrindFeed创始人之一——布莱特·泰勒(Bret Taylor)现为Facebook首席技术官。
+　　Facebook对Zenbe的收购更侧重人才。周一，Facebook高管在发布会上称，该公司已在邮箱项目上投入了一年多的时间；而Zenbe的工程师刚刚加盟Facebook几个月，这款产品就诞生了。
+　　Facebook在一份声明中称：“我们能够确认，今年早些时候从Zenbe聘请了三位雇员。”(彦飞)
+

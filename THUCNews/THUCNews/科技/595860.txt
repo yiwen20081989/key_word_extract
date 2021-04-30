@@ -1,0 +1,7 @@
+苹果WWDC将于6月6日开幕 可能发布iPhone 5
+　　新浪科技讯 3月28日晚间消息，苹果于今天宣布将于6月6日至6月10日在旧金山Moscone West会议中心举办其年度全球开发者大会(WWDC)。连续三年，苹果都是在WWDC上发布了新一代iPhone，所以今年的WWDC极有可能就是iPhone第5代登场之时。
+　　在此次为期五天的大会中，Apple将会揭示iOS及Mac OS的未来，其中包括开发者采用Apple架构开发出的各种新应用的演示以及超过100场由Apple工程师举办的技术活动。Apple全球产品市场高级副总裁Philip Schiller提到“今年的大会上我们将会揭示iOS和MacOS的未来。”
+　　2011Apple全球开发者大会的活动包括：
+　　Apple工程师将主办超过100场技术活动，涵盖了广泛的面向开发、部署和集成最新的iOS及Mac OS技术的各种话题；     超过1000名Apple工程师为开发者提供编程层面的协助，最佳开发技巧方面的知识，以及指导开发者如何将iOS和Mac OS中的技术尽可能多的融入到他们的应用中。     全球数千名iPad，iPhone和Mac开发者沟通联络的机会；     Apple Design Awards设计奖将表彰那些体现了技术卓越性，创新和杰出设计的iPad，iPhone和Mac的应用。
+　　2011 Apple全球开发者大会网站官方网站：developer.apple.com/wwdc
+

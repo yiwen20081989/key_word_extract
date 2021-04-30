@@ -1,0 +1,23 @@
+专家指点：剥洋葱式考研英语阅读解题方法
+　　在考研英语阅读里，长难句是我们读懂文章和翻译的核心障碍，要想读懂这样的长难句就不能按照普通的阅读方法，从句子的第一单词开始来读，应该找到一个正确的，被无数英、美国家的外国人潜意识里使用的读句子的方法来读，培养这样的方法才是解决长期以来长难句的有效方法，而这种方法就是我们今天要讲的“剥洋葱”式的阅读方法。
+　　“剥洋葱”阅读方法具体分为如下4步：
+　　第一步：确定句子有几个洋葱
+　　一个完整的句子为一个洋葱，有时一个句号却有好几个完整的句子。确定的方法有：
+　　1。看句子里有没有and,如果有看这个并列句是什么并列句，如果是句子并列就说明有2个或多个洋葱每个洋葱应该独立剥皮；
+　　2。看句子里有没有but, yet,如果有就说明他们的前后是独立的，有2个或多个洋葱每个洋葱应该独立剥皮，但是也有特殊情况如But I am a man。这个句子虽然有but，但是还是一个洋葱；
+　　3。看句子里有没有特殊的标点符号，包括分号、冒号和破折号，如果有就说明他们前后的句子独立各自成为洋葱。
+　　第二步：给句子剥皮
+　　每构成一个独立的语法就构成一成皮。
+　　第三步：把每层皮翻译成中文
+　　第四步：把很多简单的中文句子组合成中文长句
+　　注意：考研的翻译句子一般是可以分为四层的长句，一层0.5分。
+　　例如：She, who is her mother's daughter, is a girl of beauty which is envied by Lily whose ugliness is so famous in New York where there are so many poors who have a lot of children forbidden to go to school in which they can study how to live in the tedious world, which we all know。
+　　解析：这个句子看起来很简单，其实很多学生却心中有千言万语不知道从何说起。按照剥洋葱句子结构分析的方式，如下：
+　　第一步：因为这个句子没有and\but\yet,也没有特殊的标点符号。所以这个句子只有一个洋葱；
+　　第二步：句子按照语法剥皮，分为如下①she is a girl②of beauty③which is envied by Lily④whose ugliness is so famous in New York⑤where there are so many poors⑥who have a lot of children⑦forbidden to go to school⑧in which they can study⑨how to live in the tedious world⑩which we all know⑾who is her mother's daughter(插入语总是放到最后解决，翻译的时候可以用括号放在它前面的内容后)
+　　第三步：把每个皮分别翻译为中文。(略)
+　　第四步：把这些简单的中文组合成长句，这个时候就变成简单的中文文字游戏了。
+　　考研英语阅读中的句子大致都可以用这样的方法来解决，考研教育网英语辅导专家提醒广大考生，这种方法不能死记，而要活学活用！
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

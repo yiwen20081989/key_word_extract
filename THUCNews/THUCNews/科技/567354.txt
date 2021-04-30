@@ -1,0 +1,5 @@
+微软称已有50万用户转移至WordPress
+　　新浪科技讯 北京时间11月30日上午消息，微软周一宣布，将与WordPress.com合作，把Windows Live领先的通讯和分享服务与WordPress.com的优秀博客功能进行整合。作为该合作的一部分，微软允许用户将Windows Live Spaces的博客转移到WordPress.com中。
+　　该服务刚刚推出，就已经有50万用户将Windows Live Spaces博客转移到WordPress.com。除此之外，还有将近50万Windows Live用户决定在WordPress.com上创建全新的博客。也就是说，此举为WordPress.com带来了将近100万新用户，并将因此为该网站吸引更多访客。
+　　微软提醒用户，如果要将Windows Live Spaces博客转移到WordPress.com，必须要在2011年3月前完成。(书聿)
+

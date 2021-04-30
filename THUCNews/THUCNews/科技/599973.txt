@@ -1,0 +1,31 @@
+全球第二款Android手机明年1月上市(图)
+　　新浪科技讯 北京时间12月5日消息，据国外媒体报道，澳大利亚Kogan公司日前发布了全球第二款谷歌Android手机Agora，计划于明年1月29日正式推出。
+　　9月23日，T-Mobile发布了全球首款谷歌Android手机G1。10月22日，G1在美国市场首发，售价179美元。而明年1月底上市的Agora将成为全球第二款基于谷歌Android平台的智能手机，售价分为193美元和258美元两种。
+　　Agora的详细规格如下：
+　　操作系统：谷歌Android
+　　所支持谷歌应用：Google搜索、Gmail、YouTube、Google地图、Google Talk和Google日历。
+　　显示：2.5英寸TFT-LCD触摸屏，分辨率为320 X 240
+　　设备控制：五方向中央控制键
+　　键盘：全功能键盘，背光照明
+　　GPS：具备GPS导航，支持谷歌地图
+　　连接： 蓝牙2.0，IEEE 802.11b/g
+　　照相机：200万像素
+　　音频：内置麦克风和扬声器，支持耳机输出 
+　　铃声格式：MIDI、MP3、WMA、AAC、WAV和PCM
+　　视频格式：MPEG2、H263、H264、MPEG4和AVI
+　　支持文件格式： JPEG、GIF、WBMP、MIDI、AMR、MP3和WAV 
+　　重量：130克
+　　电池：1300mAh可充电锂电池
+　　通话时间：约400分钟
+　　待机时间：约300小时
+　　处理器时钟频率：624 MHz 
+　　内存：256MB+128 MB闪存
+　　网络： UMTS/HSDPA (850、1900和2100 MHz)，GSM/EDGE (850、900、1800和1900 MHz) (李明)
+　　相关报道：
+　　华为明年将推基于Android及Symbian智能手机 
+　　摩托罗拉推迟发布谷歌Android系统手机
+　　华硕将于明年上半年发布Android手机
+　　相关专题：
+　　谷歌Android手机发布
+
+

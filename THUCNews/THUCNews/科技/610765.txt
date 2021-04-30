@@ -1,0 +1,9 @@
+松下公布迅驰2三防本 配置P8600处理器
+　　根据国外媒体的报道，松下公司近日升级了Toughbook三防笔记本的配置，采用了英特尔迅驰2平台，旗下的CF-52和F-74笔记本都配置了迅驰2平台。
+　　松下负责产品管理的主管Kyp Walls表示，除了增加移动性能外，Toughbook笔记本在稳定性和安全性方面均有杰出表现。
+　　CF-52笔记本采用了15.4英寸显示屏，包括CF-52EW1AJS和CF-52EW1AAS两个型号，采用了英特尔酷睿2 P8600处理器(2.4GHz主频)，配置Intel PM45 Express芯片组，搭配1GB DDR2内存，采用ATI Mobility Radeon HD 3650显卡，搭配160GB硬盘，将在8月份正式上市，售价预计为1949美元。
+　　CF-74笔记本采用了13.3英寸显示屏，可搭配1GB内存和80GB硬盘，起售价为3199美元。
+　　搭配DVD光驱，指纹时被扫描功能。支持AT&T、Sprint、Verizon Wireless等运营商的无线网络。
+　　Toughbook笔记本镁合金外壳，防水键盘和抗震硬盘，可搭配Windows XP Professional或Windows Vista Business操作系统。
+
+

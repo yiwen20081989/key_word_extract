@@ -1,0 +1,15 @@
+没WiFi同样精彩 联通iPhone 3GS评测
+　　联通定制版本iPhone 3GS的主要区别：
+　　1、联通版的苹果iPhone 3GS与其它版本的iPhone 3GS在外形上没有任何的区别，只是背部的移动电话标识变为中文“美国苹果公司 Apple Inc.WCDMA数字移动电话机”的字样以及增加了中国3C认证的标志。
+　　2、联通iPhone 3GS的功能表中淡化了App Store的功能，就连包装盒上的图标也取消了。
+　　3、联通iPhone 3GS的包装盒比其它版本iPhone 3GS的略高，里面的配件基本一样，只是充电器换成了中国标准，多了行货才有的保修单和联通iPhone 3GS激活指引。
+　　4、联通iPhone 3GS缺少了iPhone最重要的卖点之一：无线WiFi
+　　除此之外，联通iPhone 3GS的详细功能与其它版本的iPhone 3GS无区别。
+　　外观设计：
+　　联通iPhone 3GS的外观设计当然不会有什么改变，拥有圆润的机身以及抛光的机身背面，与其它版本的iPhone 3GS保持一致。
+　　硬件配置：
+　　CPU：采用ARM Cortex A8的三星S5PC100处理器，主频升级至600MHz
+　　内存：内存从原来的128MB加倍至256MB
+　　GPU：新的iPhone 3GS采用英国Imagination Technologies公司的以PowerVR SGX为核心的GPU(图形处理器)，更好地支持OpenGL ES 2.0(图形程序接口)。
+　　联通iPhone 3GS的硬件配置与其它版本的iPhone 3GS保持一致，相比iPhone 3G，iPhone 3GS无论是处理器还是系统内存都得到了大幅度的提升，这些提升表现出来的就是快，无论是开机速度、程序打开、软件运行都有大幅度的速度提升。总体来说，联通iPhone 3GS的运行操控速度是一流的。
+

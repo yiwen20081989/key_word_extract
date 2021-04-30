@@ -1,0 +1,31 @@
+修正Err 99 佳能1D1Ds Mark III固件升级
+　　佳能公司近日针对旗下EOS-1D Mark III以及EOS-1Ds Mark III两台数码单反相机用户发布公告，表示部分EOS-1D Mark III和EOS-1Ds Mark III的反光板操作会发生不良现象，从而导致相机发出Err99故障无法正常使用。对于此问题，佳能公司表示可采用升级固件的方式解决，以下是佳能官方生命内容：
+　　致EOS-1D Mark III和EOS-1Ds Mark III数码单反相机的用户(有关反光板操作异常Err 99)
+    感谢您使用佳能产品。
+　　我们了解到部分EOS-1D Mark III和EOS-1Ds Mark III数码单反相机的反光板操作会发生不良现象。与此相关的对应政策说明如下。由此给您带来不便，我们深表歉意。我们将更加努力为用户提供高品质的产品，以确保用户放心地使用。希望我们的努力能得到您的理解。
+　　现象
+　　按下快门按钮，反光板不工作，并且在相机的LCD屏上频繁显示以下信息
+　　“Err99 不能拍摄，将电源开关置于然后再置于或者重新安装电池”
+　　对象产品
+　　发生不良现象的EOS-1D Mark III和EOS-1Ds Mark III数码单反相机
+　　对应政策
+　　针对对象产品进行免费维修。如果您使用的是对象产品并希望得到服务，请联系佳能快修中心。我们将从2009年3月3日开始提供该项服务。
+　　除了针对对象产品提供上述服务之外，面对EOS-1D Mark III和EOS-1Ds Mark III数码单反相机的所有用户，我们同时提供固件升级，以便可以详细区分Err99的产生原因，用户可以到以下链接下载并升级：
+　　●EOS-1D Mark III Firmware Update Version 1.2.5：www.canon.com.cn/support/download/update/index.html
+　　●EOS-1Ds Mark III Firmware Update Version 1.1.4：www.canon.com.cn/support/download/update/index.html
+　　联系方式
+　　如有任何问题，请致电佳能热线中心：4006-CallCANON (4006-222666)
+　　营业时间： 周一至周五：9：00-20：00
+　　周六、周日：9：00-18：00
+　　※国家法定节假日除外 
+
+参考价：49100
+发布时间：2007-08-21
+外形尺寸：156×159.6×79.9mm
+总像素数：2110万像素
+最高分辨率：5616×3744
+已有_COUNT_位用户评论 点击查看评论
+推荐
+想买
+观望
+

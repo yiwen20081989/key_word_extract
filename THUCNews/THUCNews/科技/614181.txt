@@ -1,0 +1,8 @@
+T6400芯独显250G硬盘 Gateway仅4649
+　　配置方面：Gateway TC7803c采用了Intel Core2 Duo(Penryn) T6400(2.0G)处理器，Intel PM45主板芯片组；标配1G DDR2内存，250G 5400转SATA硬盘；DVD刻录光驱，采用NVIDIA GeForce 9300M GS独立显卡，14英寸显示屏。预装Linux操作系统。
+　　接口方面：3个USB2.0，ExpressCard，5合1存储卡读卡器，1个VGA连接器，RJ-45、音频/耳机输出、麦克风输入、Kensington锁槽。
+　　Gateway TC7803c
+　　Gateway TC7803c是其主打的14寸TC系列笔记本，非常时尚靓丽，最新多媒体轻触式快捷键以及欧洲时尚手袋装饰设计，新颖特别。T6400处理器、PM45主板芯片组以及英特尔802.11a/g/n无线网卡，加上NV独显的应用，本本的性能还是毋庸置疑的。喜欢的朋友们赶快出手吧。
+　　参考价格：4649元
+ 
+

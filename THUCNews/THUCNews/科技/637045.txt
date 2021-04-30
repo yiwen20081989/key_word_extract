@@ -1,0 +1,13 @@
+Android之父发微博以代码形式驳斥乔布斯批评
+　　新浪科技讯 北京时间10月20日早间消息，据国外媒体报道，谷歌Android手机操作系统创始人安迪·鲁宾(Andy Rubin)昨晚在Twitter上就苹果CEO史蒂夫·乔布斯(Steve Jobs)对Android的批评予以驳斥。
+　　乔布斯在昨天的财报电话会议上说：“最近，Twitter客户端Twitter Deck发布了Android应用。开发人员表示，他们需要应对244款手机上一百多种版本的Android。”
+　　对此，TweetDeck首席执行官伊安·道兹华斯(Iain Dodsworth)在Twitter上发布消息称：“我们什么时候说过开发Android应用是一场噩梦吗？没有，并非如此。”
+　　鲁宾则在Twitter上发布了一行代码，以此证明Android系统的易用性：
+　　the definition of open: "mkdir android ; cd android ; repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make"
+　　自2008年发布以来，Android已成为主要手机操作系统之一，得到了手机厂商和无线运营商的支持。市场调查公司尼尔森8月份的数据显示，过去6个月内，在购买智能手机的用户中，Android系统最受欢迎，RIM黑莓和苹果iOS则为了第二的位置竞争激烈。
+　　Android系统发展迅速，有可能超越苹果iOS和iPhone。外媒评论称，这或许是乔布斯不断攻讦Android的原因。
+　　“我们认为Android非常散乱，而且这一情况正日益加剧。而众所周知，苹果致力于将系统整合，用户便无需为此耗费精力。”乔布斯说。
+　　然而，数据显示，Android系统因版本过多而导致的散乱正在被消除。Android系统正在统一到三个版本上：Android 1.5、Android 1.6和Android 2.1。7月份，大约半数的Android设备的版本号为2.1。
+　　但乔布斯仍在试图说服听众，iPhone的控制严密的封闭式系统优于Android的开放平台。他说：“如果开放人员能够专注于单一平台，他们将更具有创新能力。他们可以把时间投入到开发新功能上，而不是测试数百部不同的手机。因此，无论谷歌如何诋毁iOS为‘封闭’平台，我们仍将致力于这一整合系统；无论谷歌如何鼓吹Android为开放平台，我们仍有信心将它击败。”
+　　道兹华斯等开发人员并不同意这种说法。他在Twitter上称，其公司只有两名Android应用开发人员。“这表明Android系统的散乱问题并不严重。”他说。(彦飞)
+

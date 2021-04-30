@@ -1,0 +1,6 @@
+联想刷新Edge产品线 增加更多AMD CPU
+    作者：宋彬
+　　联想刚刚更新了ThinkPad Edge产品线。Edge最早在今年年初被公布，其中Edge E30成为首批采用AMD笔记本平台的ThinkPad笔记本。在14以及15.6寸的E40、E50版本中增加了AMD处理器。
+　　新版本的E40、E50采用了2.1GHz的 Athlon II X2, 2.3GHz的Turion II X2和1.8GHz的Phenom II X3，显示芯片方面，均采用ATI Mobility Radeon HD 3400。
+　　其他配置方面，这些产品采用LED背光屏幕，分辨率为1366x768，搭载4GB内存，可选250GB～500GB硬盘。操作系统采用32位或者64位的Windows 7。预计这些新品将于6月22日开售，售价为549美元起。
+

@@ -1,0 +1,16 @@
+名师揭秘：Argument写作的让步式攻击体系
+　　让步式攻击：首先，攻击原文第一个错误，例如是调查类错误，攻击其调查过程、调查数据是否具有代表性等等。然后，在攻击第二个错误时，假定上面的调查即便是在没有错误的情况下进行的，也不能导出作者原文的第二个论断，言外之意就是何况这个调查还是有错误的。最后，在攻击第三个错误时，假定第二个问题也是成立的(没有错误)，也无法导出第三个论断。这样一种让步式的体系，到最后就彻底驳斥了原文的整个逻辑体系，让原文的逻辑无法成立，题目最后的结论自然就成为了空中楼阁。
+　　下面我们拿Argument38题来做一个讲解。
+　　Argument 38
+　　The following memo appeared in the newsletter of the West Meria Public Health Council。
+　　“An innovative treatment has come to our attention that promises to significantly reduce absenteeism in our schools and workplaces. A study reports that in nearby East Meria, where fish consumption is very high, people visit the doctor only once or twice per year for the treatment of colds. Clearly, eating a substantial amount of fish can prevent colds. Since colds are the reason most frequently given for absences from school and work, we recommend the daily use of Ichthaid, a nutritional supplement derived from fish oil, as a good way to prevent colds and lower absenteeism。”
+　　正确理解GMAT Issue中的enterprise
+　　在GMAT的Issue题库中，两次出现了同一个单词“enterprise”：
+　　“In any enterprise, the process of making or doing something is ultimately more important than the final product。”
+　　“The best strategy for managing a business, or any enterprise, is to find the most capable people and give them as much authority as possible。”
+　　分析：
+　　A。调查类错误+因果类错误：论断引用一份在东部地区的研究，说当地人吃鱼多，一年只去医院看一两次感冒。首先，东部地区的调查样本选择是否随机，是否具有代表性，样本数量是否足够大。其次，感冒的人不一定都会去医院，一年去医院接受一两次感冒治疗并不意味着一年只得一两次感冒，有很多感冒的人自己在家里休息或吃药。第三，即便东部的人确实一年只感冒一两次，但未必是由于吃鱼而防止了感冒，可能是其他原因，例如东部地区的水土、环境、卫生措施。没有这些资料，就不能从这份研究中确信东部人是因为吃鱼使患感冒的频率少了。
+　　B。错误类比类(地区间的错误类比)：即便东部地区的人吃鱼防止了感冒，但是西部地区未必能引用这一个做法来预防感冒，因为东西部地区环境不同，引起的感冒原因可能不同，吃鱼预防感冒未必能解决西部地区的感冒问题。
+　　C。错误类比类(物质间的错误类比)：即便西部地区的人也能通过吃鱼预防感冒，但是正如论者所说，从鱼油里面提炼出的Ichthaid物质未必能够起到和鱼同样的作用。论断的前提是Ichthaid能起到和鱼一样的效果，但论者没有提供任何资料证明这一点。虽然说吃鱼能够防止感冒，但这不意味着鱼油也能防止感冒，更不能保证鱼油中的某种成份如Ichthaid能有这样的效果。因为从鱼到鱼油再到Ichthaid有一个提炼过程，论者没有提供证据证明防止感冒的成分都留在了Ichthaid里。
+　　D。急于概括类错误：论者认为感冒是旷工旷课最常用的理由，所以减少感冒也就是减少旷工旷课的好办法。但是论者没有提供资料有多少旷工旷课的人是因为感冒，还是以感冒为借口。我们都知道身体不舒服是最容易请到假的，另外Ichthaid有没有副作用，论者也没有提供资料。如果说感冒减少后，人们改用其他的借口，或是患肠胃病的人又多了，这就显然不是一个好办法。
+

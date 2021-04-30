@@ -1,0 +1,10 @@
+Ask.com将于10月1日关闭Bloglines
+　　新浪科技讯 北京时间9月11日下午消息，据国外媒体报道，Ask.com周五宣布，将于10月1日关闭该公司旗下的RSS阅读器Bloglines，并且已经在Bloglines的首页上发布说明，帮助用户将feed导出到其他RSS阅读器中。
+　　Ask.com于2005年收购了Bloglines，但最近几年却没有对该服务投入太多精力，而且很少进行更新，但谷歌阅读器(Google Reader)的热度却日益增加。
+　　与此同时，Twitter等微博网站的兴起也对RSS业务的发展产生了一定的影响。
+　　Ask.com在声明中说：“RSS聚合器的使用量已经大幅减少，Bloglines并非唯一一个受此影响的服务。”但Ask.com发言人拒绝提供Bloglines的使用数据。
+　　根据美国互联网流量监测机构comScore的数据，Bloglines今年8月的独立用户访问量为46.8万，较去年同期的42.7万略有提升。但在此期间却出现过剧烈变动，2月份最高还曾经达到69.7万。
+　　报纸、杂志等许多媒体的网站都开始通过Twitter向读者提供信息。与之类似，Facebook和Twitter也可以帮助用户订阅来自企业和各类组织的信息。
+　　美国市场研究公司Altimeter Group的分析师杰雷米·欧阳(Jeremiah Owyang)说：“Bloglines等传统RSS阅读器消失的原因在于Twitter和Facebook成为新的feed阅读渠道。传统feed阅读器将继续下滑。”
+　　除了Bloglines的热度降低外，Ask.com关闭该服务的另外一个原因是希望将重点放在搜索引擎的问答服务领域中。该公司从中看到了巨大的机会，并且已经成为了主要的搜索问答服务提供商。(鼎宏)
+

@@ -1,0 +1,11 @@
+谷歌将Friend Connect集成至博客平台
+谷歌将Friend Connect集成至博客平台
+　　新浪科技讯 北京时间2月27日下午消息，据国外媒体报道，谷歌周四宣布，将Friend Connect集成至博客发布平台Blogger，这使得用户可以通过其谷歌、雅虎、AIM或OpenID帐号来添加关注的博客，并使得Blogger从简单的博客发布平台转变为一个社交网络。
+　　通过Friend Connect，你所关注的博客将会列入Blogger区块中。Friend Connect与Blogger整合后，你还可以快速知道你的朋友是否也在关注同样的博客。
+　　谷歌还承诺，未来将使用更简便的方法向Blogger平台引入OpenSocial工具，并集成评论功能。(王飞)
+　　相关报道：
+　　谷歌新推Friend Connect工具栏
+　　Twitter加盟谷歌Friend Connect惹风波
+　　谷歌开放Friend Connect
+
+

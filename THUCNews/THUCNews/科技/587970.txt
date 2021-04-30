@@ -1,0 +1,10 @@
+英特尔Novell联手挑战Android 
+　　作者：天虹
+　　【赛迪网讯】5月8日消息，谷歌试图统治移动市场的最新努力本周四再次遭到打击。英特尔和Novell宣布称，他们将合作推广英特尔的Moblin操作系统，这是一个用于移动设备的竞争的Linux发布版本。
+　　谷歌推出的Android操作系统是以智能手机市场为目标的(不过，基于Android的上网本显然已经发布了)。英特尔的Moblin是以上网本为目标的。
+　　此外，Android和Moblin不是两种不同版本的Linux发布版，就像 Red Hat Enterprise Linux和SUSE Linux Enterprise Server一样。英特尔首席Linux和开源软件专家Dirk Hohndel说，Android和Moblin以不同的方式使用Linux。
+　　Hohndel说，Moblin是用于移动设备的Linux。它的第一个重点是上网本。Android是使用Linux内核的手机操作系统，有很大区别。
+　　Novell负责解决方案和产品营销的副总裁Justin Steinman说，Moblin 2.0是从一开始就为上网本设计的第一个开源软件Linux软件栈和技术框架。Moblin计划首先用于上网本，然后再向小型移动设备过渡。考虑到 Novell在桌面Linux方面的实力，我们与英特尔合作为用户提供在上网本方面的优化的体验是有意义的。
+　　考虑到苹果在智能手机市场日益提高的统治地位和Symbian在其它移动设备方面的实力，英特尔与Novell的合作似乎是一个明智的和战略性的举措。
+
+

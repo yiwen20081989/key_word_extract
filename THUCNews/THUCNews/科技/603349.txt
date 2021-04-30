@@ -1,0 +1,8 @@
+魔兽世界手机版 科幻界面Else平台发布
+文/李宽
+　　Emblaze Mobile公司在伦敦召开发布会，宣布了一款全新的智能手机操作系统，名字就叫做“ELSE”，意思就是与众不同的。
+　　该系统的正式名称为Else Intuition，是基于Access Linux Platform 3.0操作系统核心。日本Access公司在收购Palm Source后，将Palm OS结合Linux后发展为现在的“Access Linux Platform”即ALP。Emblaze Mobile在这套系统的基础上开发了一套颇具颠覆意义的用户界面，最终成果就是现在的Else Intuition。
+　　ELSE的用户界面“sPlay”同样基 于触摸操作，菜单项目从屏幕右端呈放射状排列，再加上屏幕右侧的触摸按键，菜单操作都可用右手大拇指通过、触摸滑动完成。其他诸如选择项固定在屏幕中央放大的功能，各种软件界面等也都颇具特色。
+　　硬件方面，首款ELSE系统手机就叫做“The First ELSE”，搭载ARM Cortex-A8架构的德州仪器OMAP 3430处理器，256MB RAM，3.5寸854x480分辨率电容式触摸屏，500万像素摄像头，支持480p 30FPS摄像，1450mAh电池（号称续航能力至少比iPhone 3GS高一小时），16GB/32GB闪存，内置蓝牙、WiFi、GPS，支持HSDPA/EDGE（WCDMA/GSM）网络。
+　　应用扩展上，ELSE同样将提供一个网上媒体和软件商店，但将通过和运营商合作采取手机扣费方式支付，类似目前国内的模式而不像iPhone(手机上网)那样通过信用卡进行支付。ELSE将发布一款SDK供第三方厂商开发软件。ELSE公司提到已经预订登陆该平台的第三方软件甚至包括《魔兽世界》。
+

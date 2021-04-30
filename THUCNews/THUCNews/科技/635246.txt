@@ -1,0 +1,6 @@
+3G版iPhone再被破解 运行谷歌Android系统
+　　【赛迪网讯】5月8日消息，据国外媒体报道，iPhone破解团队DevTeam成员David Wang日前表示，他已经将谷歌Android系统成功地移植到苹果3G版iPhone手机上。
+　　上个月，David Wang已经成功地将Android系统移植到第一代iPhone手机上。David Wang当时表示，将Android移植到3G版iPhone上很简单。
+　　本周四，David Wang宣布已经实现在3G版iPhone上运行Android。David Wang表示，未来几日内将公布相关文件和破解说明。目前，David Wang仍在加紧修复一些尚未解决的小问题，如声音支持和电源管理等。
+　　David Wang通过openiBoot实现了Linux和iPhone OS双系统启动，并运行linux kernel引导进入了Android系统。据悉，David Wang对一代iPhone的破解工作始于2008年。
+

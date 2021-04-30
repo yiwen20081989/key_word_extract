@@ -1,0 +1,8 @@
+微软再向两家Android制造商收取专利费
+　　【赛迪网讯】7月1日消息，据国外媒体报道，继去年4月宏达电付费给微软以让Android手机可合法使用微软专利技术后，微软于本周再宣布已与其他两家Android设备制造商General Dynamics Itronix及VelocityMicro签署专利授权。
+　　General Dynamics Itronix与VelocityMicro都取得包括旗下各种Android设备的微软专利，但并未透漏详细合约内容。
+　　微软负责专利及授权的奥拉西奥古铁雷斯表示，很高兴能与General Dynamics Itronix和Velocity Micro达成协议，以保障这些公司Android设备的专利权利，也可作为产业领导厂商解决专利问题的范例。
+　　专利博客FOSS Patents创办人弗洛里安穆勒认为，上述厂商相继与微软签署专利协议，代表微软有强有力的证据来证明这些Android制造商付费使用微软专利，而且应该有不少类似的协商尚未浮出台面。
+　　穆勒指出，有关Android专利的争议突显出谷歌虽然以开放为名免费授权Android平台，但实际上却未能为这些Android制造商提供保障。
+　　花旗银行分析师沃尔特普里查德曾透露，宏达电每一台Android设备要付给微软5美元的授权费，而微软向其他厂商的要价则是7.5 12.5美元。
+

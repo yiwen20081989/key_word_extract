@@ -1,0 +1,35 @@
+ComScore 4月广告网络排名：AOL旗下A平台居首
+　　新浪科技讯 北京时间5月26日凌晨消息，据国外媒体报道，据市场研究公司comScore周一公布的4月份美国广告网络排名数据显示，AOL旗下的A平台仍以接近1.765亿的美国网络用户位居榜首，约占用户总数的91.5%。
+　　数据显示，雅虎网络以1.671亿美国网络用户排名第二，谷歌广告网络以1.645亿用户名列第三，福克斯受众网络(Fox Audience Network)以1.492亿用户排名第六。在排名前25的广告网络中，有几个网络的同比增幅达到了两位数以上，其中以Turn Inc的121%为最高，其次为CPX Interactive的88%，再次是24/7 Real Media的48%。
+　　comScore执行副总裁杰克·弗兰加(Jack Flanagan)称：“过去一年中，排名前25的广告网络的覆盖范围均已有所拓展，且几乎可以说每天都有新的广告网络浮现出来，每个网络都以帮助广告商实现其战术目标为目的，不论其是否能实现覆盖范围和频率，或是以特定的受众群体为目标。”
+　　此外，comScore还公布了4月份的广告焦点(Ad Focus)排名。(唐风)
+　　以下为comScore公布的4月份前25位美国广告网络排名：
+　　                               独立访客总数
+　　广告网络                  2008.4  2009.4  增幅(%)
+　　AOL旗下A平台                  190728   192875     1
+　　雅虎网络                      170508   176455     3
+　　谷歌广告网络                  160206   167129     4
+　　ValueClick Networks           140930   160307     6
+　　Specific Media                144773   158012    14
+　　福克斯受众网络                  --     149249    --
+　　24/7 Real Media                99959   147668    48
+　　Traffic Marketplace           114682   143519    25
+　　微软美国媒体网络              119595   139674    17
+　　Tribal Fusion                 135113   138274     2
+　　Casale Media - MeidaNet       127184   137884     8
+　　interCLICK                    107961   134834    25
+　　Turn Inc                       60617   134028   121
+　　Adconion Media Group          117965   133498    13
+　　CPX Interactive                69178   130370    88
+　　Collective Media旗下Network    88279   129808    47
+　　ContextWeb旗下ADSDAQ           93815   123534    32
+　　AudienceScience(前Revenue Science) --  121001    --
+　　Burst Media                    89670   116727    30
+　　Undertone Networks             72940    97053    33
+　　AdBrite                        81838    91033    11
+　　Pulse 360                        --     82574    --
+　　Vibrant Media                  72351    80779    12
+　　Aidfy                            --     73467    --
+　　Kontera                        52159    72870    40
+
+

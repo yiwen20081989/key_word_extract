@@ -1,0 +1,24 @@
+微软发布Silverlight 3和Expression 3
+　　新浪科技讯 北京时间7月14日消息，微软(中国)有限公司今天发布了新一代互联网媒体体验及交互式应用平台Microsoft Silverlight 3（新浪高速下载）和Expression 3。据发布会现场介绍，作为最新一代互联网媒体体验及交互式应用平台， Silverlight 3延续了Silverlight之前版本快速创新的传统，更加开放的支持了更多视音频编码标准，支持浏览器外运行Silverlight应用、大幅图形性能改进等超过50项突破性的创新特性。
+　　与Microsoft Visual Studio、Expression相结合，微软提供了一个高度协作的开发和设计环境，可简化提供互动用户体验的流程。自从Silverlight问世以来，包括众多全球知名的网络内容提供商、架构解决方案提供商和编码独立软件供应商在内的诸多合作伙伴加入了Silverlight合作伙伴计划。目前，30多个国家和地区的超过200家合作伙伴正在帮助全球各地的用户开发、设计和最终呈现极具吸引力的Silverlight体验以及各类应用。
+　　微软中国有限公司开发平台合作部大中华区总经理谢恩伟表示：“Silverlight自发布以来便因其出色灵活的性能广受好评，并实现了在中国乃至全球用户中的迅速普及，全球范围内超过三分之一的电脑已经下载并安装了Silverlight。此次发布的最新版Silverlight 3具备众多的创新功能特性，满足了市场对互联网媒体及交互式应用完整的端到端的解决方案需求，使开发团队更为轻松高效地进行合作——从概念设计到原型开发，从交互实现，到测试部署。在短时间内，我们以创纪录的惊人速度从业界新人成长为行业领先的平台。借助全球600多万.NET开发者以及端到端开发及部署方案，Silverlight的进一步普及指日可待。”
+　　更多创新功能打造网络互动体验
+　　Silverlight 3拥有Visual Studio和Expression Blend的全面支持，其中的主要新特性和功能包括主流及扩展媒体格式支持、基于微软IIS7的强大流媒体播放体验、允许Web应用在桌面运行的浏览器外支持、大幅图形性能改进包括3D图形支持、GPU加速等很多提升RIA开发效率的特性。此外，为了全面结合.NET开发工具，Visual Studio 2008、Visual Studio 2010和Visual Web Developer Express将全面支持可视化Silverlight设计器。
+　　Silverlight 3中的新特性包括如下方面：
+　　· 支持更高质量、更多编码格式的视频和音频。Silverlight 3支持VC-1/ H.264/音频编码(AAC)音频、直播或点播Internet Information Services 7.0(IIS7)Smooth Streaming(平滑流媒体技术)、全高清(720p及以上分辨率)回放，以及支持更多的可扩展的解码器，为用户带来丰富、全屏、无停顿的媒体体验。
+　　· 强大、便捷的脱离浏览器模式。Silverlight 3提供一系列新的功能来为互联网应用创建轻巧的使用体验。Silverlight的脱离浏览器模式让网站可以与用户建立更紧密，更稳固的关系。它允许用户在本地桌面、开始菜单创建基于互联网的各类应用的链接，鼠标单击即可运行，很大程度上方便用户的日常使用。此外，它可以自动测试网络连接情况，自动更新以及访问最新的数据。这些特性将大幅改善用户的互联网体验。
+　　· 在软件开发中实现更加完整统一的原型设计。使用Expression Blend 3中的创新功能，产品设计者与开发者的工作流程将更加完整、完善、合理：
+　　ü SketchFlow带来了全新的软件设计理念，帮助设计者与开发者完善工作流程。SketchFlow引入了一套新功能，旨在让设计师与开发者更高效地实现动态用户交互并创建直观的产品原型。SketchFlow还有助于团队内外沟通设计理念并通过注释有效收集有各方反馈。SketchFlow使应用程序能够在视觉上模拟出简单交互原型，并将一系列设计草图(wireframe)用于未来的产品设计及开发中。
+　　除了上述的最新功能特性之外，Silverlight 3还提供数百个旨在提高开发团队工作效率的新功能和控件，其中包括三维图形优化和硬件图形加速等。辅以全新Expression Studio 3中不断创新的面向软件设计团队的世界级工具，互联网交互设计师以及开发者将能够更有效地创建领先的丰富媒体及交互式体验。
+　　吸引众多客户和合作伙伴积极开发相关应用
+　　Silverlight通过其跨平台、跨浏览器的特点、灵活的编程模型、对SEO(搜索引擎优化)的支持和对视频信息快速、低成本的分发，为专业团队、网络媒体及商业用户带来了突破性的解决方案，其商业价值已经得到普遍的认可，越来越多的客户和合作伙伴选择使用Silverlight技术。
+　　在全球市场，NBC环球公司在其直播温布尔登网球公开赛的视频直播中部署了Silverlight和Internet Information Services 7.0 (IIS7) Smooth Streaming。而米高梅影片《星际之门：宇宙》利用Silverlight中的Deep Zoom和Microsoft Photosynth，在其官方网站http://stargate.mgm.com为Stargate TV提供沉浸式体验，让星际迷们详细地探索拍摄场景。利用Silverlight技术，米高梅影片《星际之门：宇宙》还可通过支持发布框架的各种流内广告格式为潜在广告主带来更高的灵活性。大陆航空(Continental Airlines) 利用Silverlight将应用程序重新开发为富互联网应用程序，并通过Web浏览器交付，以此更新其呼叫中心预订系统。该举措将使公司改进客户服务质量、降低成本并提高工作效率，每天处理70,000多个电话。
+　　而在中国市场，包括互联网门户、500强企业在内的多家网站及企业已经开始应用Silverlight 3实现各种创新应用及产品。
+　　新浪财经一直坚持以用户为本，为用户提供及时、准确的财经资讯。新浪财经在了解到Silverlight 3提供的强大交互能力及优质的图形绘制能力后，即与微软公司合作，面向新浪财经用户推出了基于Silverlight 3的新浪A股行情银光版，新浪A股行情银光版充分利用Silverlight技术的各项优势特性，进一步提升新浪财经用户的用户体验。新浪A股行情银光版地址：http://vip.stock.finance.sina.com.cn/silverlight/
+　　搜狐继之前与微软公司在Silverlight 1奥运火炬接力项目，Silverlight 2搜狐新韩线项目的合作之后，又一次就Silverlight 3与微软进行深度合作，力求打造全国领先的互联网高清视频体验。搜狐娱乐事业部高级经理于涛先生表示 " 搜狐高清影视剧与视频技术出色的微软Silverlight技术强强联手，其深远影响将日渐显现，不仅会给中国互联网用户带来优质的体验，也一定会有力推动视频行业的快速发展。”
+　　作为全球市值最大的商业保险集团—中国人寿与微软强强联手打造的养老金精算咨询系统，是国内首个专业化的养老金精算咨询平台，同时也是国内首个全部基于Silverlight 的企业级应用。 中国人寿养老保险信息技术部副总经理王勇先生表示“中国人寿作为国际顶级保险企业，一直以来都十分注重 IT 创新，并不断通过IT创新推动业务创新，Silverlight 3在企业级应用中能够提供更加丰富的用户体验，大大增强了公司应用系统的友好性、易用性和先进性，实现了客户友好性与专业化技术的完美结合。Silverlight 3技术目前已经在我公司的IT应用中体现了价值，未来我公司还将与微软在电子商务与一体化客户服务平台方面展开进一步的合作。”
+　　即日便可享受Silverlight 3带来的极致体验
+　　即日起，用户可访问http://www.microsoft.com/silverlight下载Silverlight 3。使用以前版本Silverlight的用户将自动升级到Silverlight 3。未来30天内微软将正式推出Expression 3，并包括一个免费的60天试用版本，用户可访问http://www.microsoft.com/expression/try-it进行下载。带有SketchFlow功能的Expression候选版本(RC)即日起开放下载。
+　　欲查看Silverlight 3和Expression Studio 3中的完整功能清单，请访问：http://www.microsoft.com/presspass/presskits/silverlight。
+　　欲了解更多关于Silverlight合作伙伴的信息，请访问：http://www.microsoft.com/silverlight/partners/default.aspx。
+

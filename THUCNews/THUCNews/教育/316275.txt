@@ -1,0 +1,51 @@
+2012考研英语：定语从句翻译指导
+　　1.前置定语
+　　98年 71) But even more important, it was the farthest that scientists had been able to look into the past, for what they were seeing were the patterns and structures that existed 15 billion years ago。
+　　结构分析：这是一个复合句. But even more important是整个句子的状语，it was the farthest是主句，that scientists had been able to look into the past是修饰the farthest的定语从句，for引导原因状语从句(参见1995年71题)，在这个状语从句中，what they were seeing是主语从句，were the patterns and structures是状语从句中的系表结构，that existed…是修饰名词patterns and structures的定语从句。
+　　译文： 但更为重要的是，这是科学家们所能观察到的最遥远的过去的景象，因为他们看到的是150亿年前宇宙云的形状和结构。
+　　02年 64)They are the possessions of the autonomous (self-governing) man of traditional theory, and they are essential to practices in which a person is held responsible for his conduct and given credit for his achievements。
+　　结构分析：这是一个复合句。主句是由两个并列的分句构成的：They are…, and they are；in which引导定语从句，修饰practices，其中is held responsible for … and given credit for …并列做定语从句的谓语，given前面省略了助动词is。
+　　译 文： 自由和尊严(它们)是传统理论定义的自主人所拥有的，是要求一个人对自己的行为负责并因其业绩而给予肯定的必不可少的前提。
+　　它们(自由和尊严)对于那种要求个人对自己的行为负责并因为其业绩而受到赞扬的做法来说，是必不可少的。
+　　2.独立成句
+　　当译成前置定语会使句子变得臃肿，妨碍理解的时候，最好让其独立成句。
+　　94(72)"In short", a leader of the new school contends, "the scientific revolution, as we call it, was largely the improvement and invention and use of a series of instruments that expanded the reach of science in innumerable directions."
+　　新学派的一位领袖人物坚持说：“简而言之，我们所称谓的科学革命，主要是指一系列器具的改进、发明和使用，这些改进、发明和使用使科学发展的范围无所不及。”
+　　contend坚决主张，声称[Y][+(that)]
+　　The police contended that the difficulties they faced were too severe。
+　　警察强调说他们面临的困难太严重了。
+　　He left his job largely because he was homesick。.他辞职不干主要是因为他想家。
+　　We have countless reasons against his plan。我们有举不胜举的理由反对他的计划。
+　　96 72) This trend began during the Second World War, when several governments came to the conclusion that the specific demands that a government wants to make of its scientific establishment cannot generally be foreseen in detail。
+　　基本结构：简单句+时间状语从句(主语+谓语+宾语+同位语从句(主语the specific demands +定语从句that a government wants to make of its scientific establishment+谓语cannot generally be foreseen in detail)
+　　基本结构试译：这种趋势始于第二次世界大战期间，当时一些国家的政府得出结论：……
+　　译 文：这种趋势始于第二次世界大战期间，当时一些国家的政府得出结论：政府要向科研机构提出的具体要求通常是无法详尽预见的。
+　　注意：不要将when引导的定语从句与时间状语从句相混淆，当然也就不能when引导的定语从句翻译成“当… 时候”。When引导定语从句前面一般是表示时间的词作为先行词，如果是过去时，when译成“其时、届时”“当时”“在那个时候”，如果是将来时态，则译成“到时”“届时”，有时候还可以译成“然后”“随后”。
+　　The Queen will visit the small town in April, when she will open the new hospital。
+　　女王将于四月访问小镇，到时，她将主持这家新医院的开业仪式。
+　　I expect to stay here no more than two days, when I shall return。
+　　我预计在那儿呆两天，随后就回来。
+　　99 71) While there are almost as many definitions of history as there are historians, modern practice most closely conforms to one that sees history as the attempt to recreate and explain the significant events of the past。
+　　结构分析：这是一个复合句。While there are almost as many definitions of history as there are historians整个这一部分是让步状语从句，其中第一个as是程度副词，第二个as是连词，引导比较状语从句there are historians；modern practice most closely conforms to one是主谓宾结构的主句；that sees history as the attempt是修饰one的定语从句，to recreate and explain the significant events of the past是不定式短语做名词attempt的后置定语。
+　　译文：几乎每个历史学家对史学都有自己的界定，但现代史学家的实践最趋向于认为历史学是试图重现过去的重大史实并对其做出解释。
+　　[我们的翻译]：几乎每个历史学家对史学都有自己的界定，而现代实践最符合这样一个定义，该定义把历史看作是重现和解释过去的重要事件的尝试。
+　　There are almost as many job opportunities as there are college graduates。
+　　几乎每个大学毕业生都有就业机会。
+　　01 73) Pearson has pieced together the work of hundreds of researchers around the world to produce a unique millennium technology calendar that gives the latest dates when we can expect hundreds of key breakthroughs and discoveries to take place。
+　　结构分析：这是一个复合句。Pearson has pieced together the work是主谓结构的主句，of hundreds of researchers是介宾短语做定语修饰名词work，around the world则是介宾短语修饰名词researchers，to produce a unique millennium technology calendar是不定式短语做结果状语，that引导定语从句修饰名词calendar，when引导定语从句修饰dates。这里的when相当于by which，因此不能翻译成“当… 时候”，而应该翻译成“通过这些日期”或者“到这些日期”(参见96年真题72)
+　　译文：皮尔森汇集世界各地数百位研究人员的成果，编制了一个独特的新技术千年历，它列出了人们有望看到数百项重大突破和发现的最迟日期。
+　　3.独立成句，且译出内含逻辑关系。
+　　97 71) Actually, it isn't, because it assumes that there is an agreed account of human rights, which is something the world does not have。
+　　结构分析：这是一个多重复合句。Actually,是副词做状语，修饰整个句子，it isn't,是主句，在because引导的原因状语从句中，that引导宾语从句，which引导非限制性定语从句修饰名词an agreed account，而the world does not have是省略了从句引导词that的定语从句，修饰something。
+　　译文：事实并非如此，因为这种问法是以人们对人的权利有共同认识为基础的，而这种共同认识并不存在。
+　　定语从句分为限定性定语从句和非限定性定语从句。由于二者在翻译时无大差异，所以讨论时不加严格区分。定语从句的译法一般有三种：
+　　(1)译成含“的”字结构的定语，放在先行词之前。
+　　由于定语从句的作用相当于定语，所以这种译法是最普遍的。
+　　(2)采用“分译法”——单独成句
+　　当定语从句与被修饰词之间关系不很紧密，且译为前置定语过于臃肿时，应该考虑将定语从句单独成句，具体做法是将关系词处理为先行词的重复。P1-72 P8-71
+　　(3)独立成句，且译出内含逻辑关系。
+　　He, who has been in this school for five years, is quite familiar with the campus。
+　　因为在学校已经待了五年，所以他对校园很熟悉。
+　　Electronic computers, which have many advantages, cannot do creative work and replace human。
+　　尽管电脑有很多优势，但还是不能做创造性的工作，不能代替人。
+

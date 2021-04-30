@@ -1,0 +1,7 @@
+Zynga推三款HTML5游戏 支持移动浏览器
+　　新浪科技讯 北京时间10月12日晚间消息，Zynga今天宣布推出三款新的跨平台游戏，这些游戏将支持Facebook最新推出的iPad应用。由于采用HTML5技术开发，这些游戏将兼容任何移动设备和网页。
+　　Facebook于本周二推出了备受期待的移动应用。该应用将帮助第三方，例如Zynga，在iPad上提供HTML5格式游戏。Zynga CEO马克·平库斯(Mark Pincus)在周三的发布会上表示，Zynga正计划通过自有的Zynga Direct门户推出10款新游戏。
+　　Zynga首席技术官卡迪尔·李(Cadir Lee)表示，HTML5、CSS和Javascript等技术组成了Zynga的“开放网络堆栈”，这将帮助Zynga开发跨平台的游戏。以往，HTML5游戏的运行速度很慢，因为这些游戏无法获得不同设备中原生硬件的支持。不过，开发者仍可以利用HTML5开发一些对速度要求不高的游戏，而HTML5自身也在不断改进。
+　　卡迪尔·李表示，Zynga的游戏将采用多个游戏引擎，包括Flash。目前Zynga所有Facebook游戏的基础都是Flash。Zynga将利用Adobe即将发布的Flash 11格式开发画面更具吸引力的游戏。这意味着Zynga将并行地采用HTML5和Flash。
+　　Zynga此次推出的HTML5游戏包括《Zynga Poker》、《FarmVille Express》和《Words With Friends》。而另两款移动游戏《Dream Zoo》和《Mafia Shakedown》将以原生应用的方式发布。(维金)
+

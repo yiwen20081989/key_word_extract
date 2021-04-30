@@ -1,0 +1,6 @@
+iPhone游戏移植到Zune HD仅用12个小时
+　　【赛低网讯】9月23日消息，据国外媒体报道，开发人员日前成功地将iPhone(手机上网)游戏移植到微软刚刚发布的Zune HD播放器中。
+　　本月中旬，Novell面向iPhone用户发布了“MonoTouch”软件开发包，允许开发人员在.NET环境下开发iPhone应用。
+　　正是利用该开发包，有开发人员成功地将iPhone游戏“WordMonger”移植到Zune HD中，该过程仅用了12个小时。
+　　Zune HD是Zune播放器的升级产品，本月15日上市，16GB版售价219.99美元，32GB版售价289.99美元。Zune HD是苹果iPod播放器的直接竞争对手。
+

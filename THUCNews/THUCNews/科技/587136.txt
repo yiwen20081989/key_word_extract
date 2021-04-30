@@ -1,0 +1,7 @@
+RC版Vista SP2投入测试 正式版或于4月发布
+　　【赛迪网讯】2月22日消息，马来西亚科技博客TechARP上个月预测，RC-Escrow版Windows Vista和Windows Server 2008的发布时间为1月26-30日，RC版发布时间是2月16-20日。微软1月底向测试人员发布了RC-Escrow版本。有传言称微软已经在TechARP预测的期限内向Microsoft Connect测试人员发布了RC版本。
+　　据国外媒体报道称，科技博客Ars Technica称，测试人员可以通过微软网站下载RC版本，也可以通过“Windows更新”功能获得RC版本。微软去年12月发布了公开测试版SP2。据TechARP称，微软可能在4、5月份期间发布正式版SP2。
+　　Windows 7开发进度似乎也在加速，RC版将于2月底发布。之前有传言称微软将于8月发布RTM版Windows 7。
+　　作者：刘彦青
+
+

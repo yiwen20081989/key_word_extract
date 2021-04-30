@@ -1,0 +1,6 @@
+微软WM6.5在线软件商店截图曝光
+　　如今在多种操作系统平台上都有在线商店，就在今天的CTIA无线通讯展会上，微软公司也公布了一些Windows Mobile 6.5上的Marketplace(微软面向Windows Mobile的在线商店)程序截图，就让我们仔细来看一下。
+　　据最新消息表示，Windows Mobile 6.5的用户可以通过Windows Mobile手机上的Marketplace程序购买其他程序，可以通过信用卡或者电话账单进行支付。
+　　同时还可以允许Windows Mobile 6.5用户在24小时内全额退掉已经购买的程序，微软在今天公布，开发者可以免费发布他们的程序升级包。
+
+

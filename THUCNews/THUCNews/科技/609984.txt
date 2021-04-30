@@ -1,0 +1,5 @@
+WVGA分辨率 Nexus Prime产品信息曝光
+　　由三星代工的下一代谷歌Nexus手机Nexus Prime此前曾多次被媒体报道，不过已知的信息仍然仅限于这款手机的代工厂商和名称。如今，据一份曝光的xml产品文档显示，Nexus Prime将拥有WVGA级分辨率。
+　　根据曝光的xml产品文档(nexusprime.xml)来看，下一代谷歌Nexus手机Nexus Prime的数字型号为三星GT-I9250。通过这份文档还可以看到，Nexus Prime(三星GT-I9250)将拥有480×800像素的分辨率，属于WVGA级，至于这款手机的屏幕尺寸，目前还没有得到确切信息。
+　　距离谷歌上一代Nexus手机Nexus S的推出时间已达半年之久，下一代谷歌Nexus手机何时推出，硬件配置如何，至今依然没有确切消息，看来Nexus粉丝还需静心等待。
+

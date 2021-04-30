@@ -1,0 +1,4 @@
+Comex公布JailbreakMe 2.0越狱源代码
+　　相信大家最近都发现了，在iPhone 4最近疯狂降价，从原有的一万多降到八千元，然后一周之内又降到了5899元，在苹果发布最新iPhone 4.0.2和iPad 3.2.2固件修复PDF漏洞后，Dev team破解小组成员Comex也很快公布了JailbreakMe 2.0越狱网站源代码，此前该网站利用PDF漏洞来越狱iPhone和iPad，感兴趣的朋友可以关注一下。 
+源代码地址： 进入 
+

@@ -1,0 +1,7 @@
+消息称苹果、EMC与甲骨文参与Novell专利交易
+　　新浪科技讯 北京时间12月17日早间消息，美国科技博客网站FOSS Patents发现，苹果、EMC与甲骨文也参与了Novell的出售交易，可能希望以此获得Novell的专利技术。
+　　11月底，Novell宣布作价22亿美元出售给投资财团Attachmate，同时以4.5亿美元现金的价格向CPTN Holdings出售882项专利。但Novell仍持有部分Unix相关专利。
+　　Attachmate财团由Francisco Partners、Golden Gate Capital和Thoma Bravo三家投资公司组成。而CPTN是一家由微软牵头、诸多科技公司参与的科技联盟。
+　　美国科技博客网站FOSS Patents从并购交易文件中发现，苹果、EMC与甲骨文也通过CPTN参与了交易。FOSS Patents发现，德国联邦竞争管理局(Federal Cartel Office)网站本月早些时候公布的法律文件详阐述了这三家公司的参与交易过程。
+　　目前还不清楚交易完成后，微软、苹果、EMC和甲骨文这四家公司计划怎么处理Novell的专利技术。业内人士指出，这四家公司能走到一起，显然是各有所图。微软曾与Novell纠缠于反垄断诉讼案；作为VMware的母公司，EMC可能希望获得部分虚拟化技术专利；至于苹果和甲骨文，或许希望获得882项专利的交叉授权，但这仍然有待观察。(郑峻)
+

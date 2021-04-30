@@ -1,0 +1,31 @@
+考研英语阅读理解干扰选项设置规律
+　　随着考研报名现场确认的展开，2011年考研进入了倒计时的阶段。作为统考项目的英语，一直是很多同学头痛的问题。很多学校要求的成绩在55-60分，但是多年以来，英语部分的全国平均分在50分左右徘徊。而占卷面总分40%的阅读部分是广大考生能否取得最后胜利的关键。按照一般的复习计划表，这个时候广大考生应该完成了单词的记忆，真题的研读，开始总结错题，发现自己的思维盲区，形成自己的做题套路的时候了。
+　　参加考研的考生大多参加过四、六级考试，很多还取得了不错的成绩。需要注意的是，四、六级考试的经验虽然给考研打下了坚实的语法和词汇的基础，但是对于阅读部分而言却有一个重要的思路需要转变。传统四六级考试一篇300字的文章大约需要8-9分钟读完。考研考试，一篇400字文章大约可以在18-20分钟内容读完。作为更高级一点的考试，考研在文章字数增加不多的情况下，时间却增加了100%，为什么？是为了降低难度吗？肯定不是，四、六级考试是水平性考试，考研是选拔性考试，随着考研人数的增加，考研的难度只有可能增加，不可能降低。实际上，这增加的差不多10分钟时间是给考生用于思考的。考研考试的一个最大特征就是题目设计精密，干扰项设计具有很强的迷惑性。
+　　考研考试中文章之外干扰考生选择正确选项的方式很多，笔者将题干中的干扰设置方式进行详尽的分析，并且总结出一些规律。希望能在最后冲刺阶段帮助广大考生再度提高分数。
+　　随着广大学子对于考研重要性的认识越来越深刻，准备考研的时间越来越长，考研中已经很少出现那些“裸考”的考生。大部分考生在准备考研的过程中，都能够做到扫清词汇和语法障碍。但是在扫清了词汇和语法障碍之后，广大考生很快就会发现在阅读部分出现一个瓶颈，基本上都是5对2，或者5对3，很难继续进步。而且很多文章都是读懂了，但是题目还是做错了，看了答案也还不知道为什么做错的。这就是我们常说的，“死不瞑目”。
+　　就如上文所分析的，参加过四、六级考试的考生过来准备考研需要有一个转变。那就是从快速答题，到低速谨慎答题的一个转变。参加过四、六级考试的考生在参加考研的时候普遍有一个习惯就是快速读过考题的题干，甚至是不读题干。或者按照自己头脑中对于题目的印象来答题或者根据对于文章的判断来答题。这在考研中是致命的，这样说基于两个原因。
+　　1、考研考试中干扰设置不是凭空出现，或多或少在文章中都会提到，如果仅以在文章是否提到来判断的话，一定会出现错。
+　　2、考研考试一种命题模式是题干中限定答案的范围。如果忽略这种范围，解题必错。
+　　下面就几道考研真题来具体说明题干中需要注意的信息
+　　What accounts for the great outburst of major inventions in early America -- breakthroughs such as the telegraph, the steamboat and the weaving machine?
+　　Among the many shaping factors, I would single out the country’s excellent elementary schools; a labor force that welcomed the new technology; the practice of giving premiums to inventors; and above all the American genius for nonverbal, “spatial” thinking about things technological. (1996)
+　　1.According to the author, the great outburst of major inventions in early America was in a large part due to ________.     [A] elementary schools                    [B] enthusiastic workers
+　　[C] the attractive premium system           [D] a special way of thinking
+　　The researchers studied the behaviour of female brown capuchin monkeys. They look cute. They are good-natured, cooperative creatures, and they share their food tardily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of “goods and services” than males. (2005)
+　　2.Female capuchin monkeys were chosen for the research most probably because they are ________。
+　　[A] more inclined to weigh what they get
+　　[B] attentive to researchers’ instructions
+　　[C] nice in both appearance and temperament
+　　[D] more generous than their male companions
+　　这两道题共同的特点就是题干中都有一个表示程度的限定词，第一道题中的限定词是in large part,第二道题中的限定词是most。这两个词语的出现本身就有一重暗示，选项中应该有不止一个原因，但是这道题目要求回答出其中最重要的。第一道题会原文定位可以发现定位句“I would single out the country’s excellent elementary schools; a labor force that welcomed the new technology; the practice of giving premiums to inventors; and above all the American genius for nonverbal, “spatial” thinking about things technological。”中含有四个并列成分1 excellent elementary schools；2a labor force；3the practice of giving premiums to inventors；4 the American genius for nonverbal, “spatial” thinking about things technological。
+　　这四个内容在选项中都有出现。很多同学会因为先入为主的思维习惯选择A。但是注意到了题干中的限定信息，要求找其中影响最大的。我们就要比照四个因素哪个影响最大。原文中的第四点前出现了above all，这个短语表示最重要的是。所以此题应该选择D
+　　类似的2005年的考题中也出现了同样的情况，题干中出现most。选项中出现了列举。They look cute. They are good-natured, cooperative creatures, and they share their food tardily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of “goods and services” than males. 这些列举也分别被设计成了干扰项。但是其中受到强调的是above all 后面的这个因素。like their female human counterparts, they tend to pay much closer attention to the value of “goods and services” than males. 所以此题答案为D
+　　从上面的分析可以看出，阅读理解并不是简单的读懂文章就可以把题作对。还要能够审清题目，理解题目要求。一般来讲，题干中出现，表示时间，范围，程度，先后次序的词语需要考生谨慎对待。很有可能成为命题人精心设计的陷阱。
+　　下面几个题干供广大考生回去练习。
+　　请仔细观察题干，标示出其中限定性的词语。
+　　1、According to the passage, one must write an account of himself before starting to find a job because ___
+　　2、The foremost reason why the BBC has to readjust itself is no other than ________。
+　　3、In the eyes of visitors from the outside world, ________。
+　　4、The passage shows that the author is ________ the present situation。
+　　5、The census distinguished itself from previous studies on population movement in that ________。
+

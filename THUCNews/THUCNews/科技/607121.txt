@@ -1,0 +1,9 @@
+再刻里程碑 Milestone 2行货ME722评测
+里程碑家族回顾
+　　在评测开始之前，笔者有一个问题请教各位，Milestone、Droid、XT702、Milestone 2(参数 论坛 软件)、ME722(参数 报价 论坛 软件)、Droid 2(参数 论坛 软件)、Droid 2 Global，这些产品代号究竟有什么样的区别呢？在这里我们做一个简单的区分：
+　　Droid和Droid 2是由美国电信运营商Verizon定制，它们支持CDMA网络，机身内没有SIM卡卡槽，在国内需要烧号才能够使用；
+　　Droid 2 Global是一个特例，CPU为1.2GHz。它不仅支持CDMA网络，同时也支持GSM，如果插入WCDMA的卡可以使用3G网络，机身内有SIM卡插槽，是一款名副其实的“全球通”手机；
+　　Milestone以及Milestone 2则是WCDMA版本的Droid和Droid 2，它们机身内有SIM卡卡槽；
+　　XT702和ME722分别是Milestone和Milestone 2在国内的行货版本，同样支持WCDMA网络，内置本地化服务。
+　　可以看到，从最早的Droid到现在的ME722，中间经历了很多款产品，从最初的Android 2.0系统到现在倍受OEM厂商追捧的Android 2.2系统，中间也经历了很多次软件更新和升级，那么行货版的Milestone 2在性能上究竟作出了哪些提升？提升后又能够给智能手机用户带来的新体验是什么？ME722能否延续XT702的辉煌呢？ME722的价格大概会是多少呢？就这些问题，在接下来的评测文章中，笔者会为大家一一解答。
+

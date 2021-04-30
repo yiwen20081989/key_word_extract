@@ -1,0 +1,4 @@
+谷歌提供Chrome OS源代码下载
+　　新浪科技讯 北京时间11月20日中午消息，据国外媒体今日报道，谷歌目前已经开始提供Chrome OS源代码的下载。
+　　谷歌软件工程师马特·卡茨(Matt Cutts)通过Twitter公布了Chrome OS的下载地址，想要下载Chrome OS的用户可以访问http://src.chromium.org/获取该操作系统的源代码。(书聿)
+

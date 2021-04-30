@@ -1,0 +1,29 @@
+名师提醒：小心新托福阅读中的“绊马索”
+　　在新托福考试中，很多考生最容易忽略的就是阅读，因为在跟各种英语考试的过招中，绝大部分人会感觉阅读是自己的强项。然而这种认知不一定准确，在我们的培训当中，发现不少这样的学员，自认阅读不错，实际考出来的分数只有22分左右，甚至会更低。ETS对阅读高水平(High level)的评定标准是22~30分。而事实上，阅读如果达不到25分以上总分想要过百会比较困难，因为这相当于把挣分的压力转移到了大部分人比较弱的听力\口语\写作上面。由此可见阅读取得高分对于获得百分以上的托福成绩是一种保证！
+　　那么为什么很多自认为阅读不错的考生不一定能在这一部分熠熠生辉呢？ 这是因为新托福阅读考试存在一些“绊马索”。
+　　“绊马索”一： 细节题考查精确定位。托福阅读中的细节题其实不难，但前提是定位的点要对。比如下面这个例题
+　　Two species of deer have been prevalent in the Puget Sound area of Washington State in the Pacific Northwest of the United States. The black-tailed deer, a lowland, west-side cousin of the mule deer of eastern Washington, is now the most common. The other species, the Columbian white-tailed deer, in earlier times was common in the open prairie country, it is now restricted to the low, marshy islands and flood plains along the lower Columbia River。
+　　According to paragraph 1, which of the following is true of the white-tailed deer of Puget Sound?
+　　A. It is native to lowlands and marshes。
+　　B. It is more closely related to the mule deer of eastern Washington than to other types of deer。
+　　C. It has replaced the black-tailed deer in the open prairie。
+　　D. It no longer lives in a particular type of habitat that it once occupied。
+　　这是一个典型的细节题，在该题题干中，有的考生会选择Puget Sound作为关键词回原文定位，因为它是专有名词，在文中会比较显眼；但是如果一旦选择了这个地名，势必会定位在该段的第一句话，托福细节题往往是定位在哪句就在哪句找答案，这样的话考生是选不出正确答案的，因为定位不精确。其实正确的关键词应该是white-tailed deer，这个用连字符连接的词在文章中也是比较醒目的，按该词定位应是该段最后一句话。所以根据它的意思应该选D项。其中A项与原句意思不符，B和C都与定位句信息无关。我们再来看另外一个否定事实细节题的例子：
+　　Plant communities assemble themselves flexibly, and their structure depends on the particular history of the area. Ecologists use the term "succession" to refer to the changes that happen in plant communities and ecosystems over time. The first community in a succession is called a pioneer community, while the long-lived community at the end of succession is called a climax community. Pioneer and successional plant communities are said to change over periods from 1 to 500 years. These changes-in plant numbers and the mix of species-are cumulative. Climax communities themselves change but over periods of time greater than about 500 years。
+　　According to paragraph 1, which of the following is NOT true of climax communities?
+　　A. They occur at the end of a succession。
+　　B. They last longer than any other type of community。
+　　C. The numbers of plants in them and the mix of species do not change
+　　D. They remain stable for at least 500 years at a time。
+　　这个题大家都会选择用climax communities去定位，但在定位过程中会出现很多问题。首先考生要学会跳跃式定位，即根据文章中特殊的标点符号以及最醒目的词来搜索我们真正需要的关键词。文中的particular是加了阴影的，succession是在引号里面的，都非常醒目，通过看这两个词我们会发现它们附近没有我们需要的东西；再比较突出的就是数字及破折号，在500的上方有a climax community，但它是单数，与题干关键词不完全匹配，细节题讲究的是精确定位，所以我们应该选择500斜下方的Climax communities，即该段的最后一句话。否定事实细节题的出题思路有两种：一是无中生有，即根据定位点的内容，四个选项只有一个没有提到，这种思路多适用于选项比较简短的题目；二是张冠李戴，即根据定位点的内容表述，只有一个选项与之矛盾，这种思路多适应于选项比较长的题目。就这个例题而言，根据定位的最后一句话，从表述上来说跟它相关的只有C和D两个选项，D项的意思与原句相符，而C项与原句矛盾，所以正确答案是C。
+　　综上所述，做新托福阅读的细节题，最重要的一点就是要尽量地去精确定位。
+　　“绊马索”二： 无方向中隐藏方向。新托福阅读考试中绝大部分题目都是对应具体段落的，这会为考生节省很多时间。但是也不排除有少量题目的范围比较大或比较模糊，考生在寻找答案时难免一头雾水，费时费力。其实这些看似没有明确定位方向的题目都是暗藏玄机的。下面我们就来看一个例子：
+　　Wind power has a significant cost advantage over nuclear power and has become competitive with coal-fired power plants in many places. With new technological advances and mass production, projected cost declines should make wind power one of the world's cheapest ways to produce electricity. In the long run, electricity from large wind farms in remote areas might be used to make hydrogen gas from water during periods when there is less than peak demand for electricity. The hydrogen gas could then be fed into a storage system and used to generate electricity when additional or backup power is needed。
+　　Wind power is most economical in areas with steady winds. In areas where the wind dies down, backup electricity from a utility company or from an energy storage system becomes necessary. Backup power could also be provided by linking wind farms with a solar cell, with conventional or pumped-storage hydropower, or with efficient natural-gas-burning turbines. Some drawbacks to wind farms include visual pollution and noise, although these can be overcome by improving their design and locating them in isolated areas。
+　　Based on the information in paragraph 3 and paragraph 4, what can be inferred about the states of North Dakota, South Dakota, and Texas mentioned at the end of paragraph 1?
+　　A.They rely largely on coal-fired power plants。
+　　B.They contain remote areas where the winds rarely die down。
+　　C.Over 1 percent of the electricity in these states is produced by wind farms。
+　　D.Wind farms in these states are being expanded to meet the power needs of the United States。
+　　这个题目的题干涉及到三个段落，而事实上考生根本不需要去看第一段的内容，因为答案依据的是第三、四段的信息，但是这两个段落如果都看的话内容也不少，从应试的角度来说太费时间。正确的做法应该是从选项中挖掘一下方向。A项里大家一般都会选择有连字符的coal-fired作为关键词去定位，B项没有比较显眼的词就只能选名词短语remote areas，C项选1 percent， D项选the United States。选完关键词我们不难发现除了B项不大好定位以外，其他三个选项的关键词都很醒目。经过定位，A项应该去比对第3段的第一句话，意思明显矛盾；B项不好找，可以暂且跳过；C项和D项的关键词在这两段都找不到，这就属于新托福阅读中推理题的错误答案设计方法之一 -- 无中生有。所以虽然我们没有去验证B项的说法是否正确，但经过排除也只能选B了。这样的做题方法就会省时省力，且答案也是正确的。在考试中，这种情况往往会影响考生的心情，进而影响水平的发挥，但是只要我们了解了ETS出题的套路就能把它们轻松搞定。　　考场如战场，只有知己知彼方能百战百胜。了解了ETS在设计题目时所使用的"绊马索"，我们就可以很好地做到事半功倍。
+

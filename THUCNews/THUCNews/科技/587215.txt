@@ -1,0 +1,14 @@
+AMD芯片制造工厂启用新名称新战略
+　　新浪科技讯 北京时间3月4日下午消息，据国外媒体报道，已经从AMD剥离出来的芯片制造工厂现在是一个独立公司，该公司采用了新名字“Globalfoundries”，并制定了基于地理位置和生产过程的新战略。
+　　Globalfoundries将继续为AMD生产芯片，同时也将寻找其他客户。“Globalfoundries”一名强调了该公司想要强于其他芯片制造商的计划。
+　　Globalfoundries受到阿联酋投资者的支持，该公司总部位于硅谷，不过在德国Dresden还有工厂。AMD持有Globalfoundries 34%的股份。
+　　Globalfoundries下一个重大举措是今年晚些时候在纽约州成立一家工厂，该工厂将直接招聘1400名员工，并将为该地区创造其他5000个就业机会。
+　　前AMD高管道格·格罗斯(Doug Grose)将出任Globalfoundries CEO。他表示，Globalfoundries在纽约州的工厂“将带来切实的增长”。
+　　Globalfoundries现有3000名前AMD雇员，该公司将面临很多困难，最为明显的是经济衰退。此外，该公司还需增加全新的生产工序。
+　　经济衰退使芯片需求大幅下滑，芯片产能过剩。AMD此前一直使用IBM的绝缘硅(silicon-on-insulator)生产技术，制造的芯片性能非常高。不过很多其他制造商使用块硅(bulk silicon)生产技术制造出来的芯片耗电较低。Globalfoundries计划在Dresden增加一个块硅生产线，并使用IBM和其他制造商共享的技术。(宁弦)
+　　相关报道：
+　　梅耶：AMD将改变人们对计算机的认识
+　　前3Com CEO接替鲁毅智出任AMD董事长
+　　AMD完成制造工厂分拆计划
+
+

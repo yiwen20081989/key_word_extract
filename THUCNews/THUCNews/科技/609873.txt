@@ -1,0 +1,5 @@
+微软：WP7 Mango系统支持前置摄像头
+　　除了搭载Mango系统终端何时大批量上市的问题外，该系统是否支持前置摄像头也受到了不少用户的关注。最新的消息称，微软新西兰Tech Ed上已经明确给出了Windows Phone 7 Mango机型将支持前置摄像头。
+　　与传闻相同的是，Mango系统拍照界面的确包含了摄像头前后切换按钮，同时微软还暗示Skype将在不久后整合到7.5版的Windows Phone系统中。
+　　其实之前就有消息称，Windows Phone开发者工具从7.0开始到7.1版本，一直都存在一个“Self Portrait Camera(自拍相机)”的值，但微软一直没有让推出的Windows Phone设备得到前置摄像头的支持。
+

@@ -1,0 +1,24 @@
+《连线》杂志：Apple TV三大秘密功能
+　　导读：美国《连线》杂志网络版今天撰文称，苹果最新发布的Apple TV包含了三大秘密功能，可以帮助其进一步拓展家庭娱乐市场。
+　　以下为文章全文：
+　　新款Apple TV将成为苹果CEO史蒂夫·乔布斯(Steve Jobs)有史以来表现最佳的一个戏法。
+　　在推出这款设备时，乔布斯将Apple TV称作是“又一个业余爱好”。但是对Apple TV的代码和硬件配置进行仔细研究后便会发现，乔布斯还隐瞒了很多信息。
+　　有趣的是，乔布斯并没有提到Apple TV将运行iOS，这是一款被用于iPhone、iPod Touch和iPad等苹果旗舰产品的操作系统。Apple TV的软件有可能已经被“越狱”，而部分隐藏的软件最终可能会允许用户将Apple TV的媒体内容与其他iOS设备分享。
+　　这些秘密的功能将成为苹果改革电视行业的必备因素。多年以来，苹果高管一直都将机顶盒作为一种“业余爱好”产品来开发，因为与iPhone和iPod的巨大成功相比，这款产品相形见绌。现在，苹果已经对Apple TV进行了改版，使之变成了一款配备许多秘密功能的流媒体租赁设备。或许苹果真的能给电视行业带来变革，即使现在不能，今后也有可能。
+　　“AirePlay透露了苹果客厅战略的真实野心，他们想将iPhone和iPad作为主导因素，而电视则只是苹果生态系统的一个输出设备。”美国市场研究公司Forrester分析师詹姆斯·麦奎维(James McQuivey)说，“预计苹果将逐步向这一方向推进，但是目前，苹果还没有在电视的控制权上有太大作为。”
+　　以下就是苹果新款Apple TV机顶盒的三大秘密功能：
+　　iOS和第三方应用支持
+　　有足够的证据证明，Apple TV将运行iOS。其中最为重要的一条是，苹果最近专门针对Apple TV设计了一款iOS 4.1操作系统。
+　　有关iOS的这一信息非常重要，因为Apple TV新增了一项名为AirPlay的功能。该功能可以将iPad、iPhone和iPod Touch的视频通过流媒体方式在Apple TV中播放。当乔布斯演示AirPlay时，他只是展示了如何与iPad内置的视频播放器、图片应用和曲库配合。而现在，我们知道Apple TV可以运行iOS，因此该产品便可以安装MLB at Bat或ABC Player等第三方应用，从而向该机顶盒提供流媒体内容。
+　　美国科技博客DaringFireball撰稿人约翰·克鲁伯(John Cruber)证实，AirPlay按钮已经出现在MLB at Bat中，他还补充道，使用苹果内置媒体控制器的应用都将可以与AirPlay整合。
+　　简而言之，借助第三方应用，用户就可以通过附带AirPlay按钮的Apple TV观看无线流媒体内容。AirPlay将成为苹果重塑家庭娱乐领域的一大秘密武器。
+　　除了AirPlay外，能够运行iOS还意味着Apple TV有朝一日也将能够支持iTunes应用商店中的所有应用。该功能目前还没有包含在Apple TV中，但是底层的操作系统肯定支持这一功能，所以苹果有可能会在今后的软件升级中推出一个电视应用商店。
+　　越狱
+　　Apple TV对第三方应用的支持很可能会受到限制，但是越狱者却可以解决这一问题。越狱已经能够帮助iPhone、iPad和iPod Touch突破苹果的限制，因此Apple TV同样有望借此运行未获授权的应用。当然，乔布斯肯定不会向用户推荐这种方式。
+　　事实上，黑客已经开始行动。据iPhone越狱团队iPhone Dev Team透露，被用于破解最新一代iPod Touch的Shatter工具已经能够被用于Apple TV。也就是说，通过破解代码，用户很快就能够为Apple TV增加视频会议等新功能。
+　　除此之外，对旧版Apple TV的破解似乎也可以使用。iPhone Dev Team解释称，“新款Apple TV操作系统似乎将旧版Apple TV OS与iOS进行了整合”，因此一些为旧版Apple TV增加功能的插件同样也适用于新版Apple TV。
+　　Lowtide应用
+　　美国科技博客Unofficial Apple Weblog撰稿人、iOS程序员埃里卡·萨顿(Erica Sadun )对Apple TV的软件进行了细致研究后发现，该产品运行了一款名为Lowtide的应用，并将其包含在该机顶盒的媒体界面中。
+　　经过进一步研究，萨顿发现Lowtide最终有可能被扩展至其他iOS设备。换句话说，用户可以从Apple TV向iPhone、iPod Touch或iPad分享媒体内容，相当于对原先使用方式的反向操作。
+　　Lowtide目前还没有被整合到苹果iOS移动设备中，但iOS开发者达斯汀·霍维特(Dustin Howett)已经成功将Lowtide加载到使用iOS 4.1的iPod Touch中，而且证明了上文提到的反向操作。但由于一些技术问题，他并不推荐在iPhone上进行这种操作。(书聿)
+

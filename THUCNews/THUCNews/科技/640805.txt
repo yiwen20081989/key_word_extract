@@ -1,0 +1,6 @@
+思科高管跳槽网络虚拟化厂商Nicira
+　　新浪科技讯 北京时间10月10日晚间消息，据美国科技博客网站AllThingsD报道，网络设备供应商思科(Cisco Systems)企业和公共部门副总裁阿兰•科恩(Alan Cohen)同意加入网络虚拟化厂商Nicira，并出任该公司的营销部门副总裁。
+　　科恩在科技市场和产品管理方面有着20多年的经验。科恩曾在无线网关制造商Airespace公司担任营销部门副总裁。该公司于2005年被思科收购，科恩也因此转为思科门下。此外，科恩还曾在IBM、电信公司US West、手机数据网络公司Tahoe Networks、会计事务所Coopers & Lybrand以及美国能源部供职。
+　　据悉，科恩已是从思科转投Nicira的第七位高管。目前，思科正通过大规模人员重组和下调预期营收艰难转型。
+　　Nicira属于创业型企业，致力于网络虚拟化技术，现拥有风险投资家安德森•霍洛维茨(Andreessen Horowitz)和虚拟化软件公司VMware创始人戴安•格林(Diane Greene)的900万美元投资。Nicira的主要成员包括CEO史蒂夫•穆兰尼(Steve Mullaney)、CTO马丁•卡萨多(Martin Casado)、斯坦福大学教授尼克•麦基翁(Nick McKeown)以及加州大学伯克利分校教授斯科特•申克(Scott Shenker)。(彪赫)
+

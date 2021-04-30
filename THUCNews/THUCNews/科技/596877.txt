@@ -1,0 +1,5 @@
+谷歌推出新插件 Office中直接打开谷歌文档
+　　新浪科技讯 北京时间6月22日上午消息，微软Skydrive云存储服务和微软Office文件同步服务的配合一向不大好。谷歌近日又推出新服务，可以通过Google Cloud Connect插件在Office中直接打开谷歌文档里的文件。
+　　此前，谷歌通过推出Google Cloud Connect插件，让Office 2003及以上版本具备了在无需打开浏览器的情况下，将Office文件同步到谷歌文档中去的功能。此次通过在Google Cloud Connect插件中增加一个新的菜单选项，用户可以在Office中直接打开谷歌文档中的文件。
+　　微软也提供了在Office中直接打开Skydrive云存储服务中文件的功能，但仅限于Office 2010版本。(新铁)
+

@@ -1,0 +1,8 @@
+亚马逊开始时使用Bit.ly专业版网址缩略服务
+　　新浪科技讯 北京时间4月15日上午消息，据国外媒体报道，亚马逊周三正式开始使用Bit.ly提供的专业版网址缩略服务，将亚马逊的网址缩略成以“amzn.to”开头的网址。
+　　Bit.ly的企业用户目前已经达到6000家，除亚马逊外，还包括纽约时报(nyti.ms)、赫芬顿邮报(huff.to)、CNN(on.cnn.com)以及TechCrunch(tcrn.ch)等。
+　　亚马逊去年推出了自主开发的网址缩略服务amzn.com。尽管该服务目前仍然可以使用，但亚马逊却通过官方Twitter账户对amzn.to进行了推广。
+　　目前，通过Bit.ly缩略的所有网址都可以变成以“amzn.to”开头的短网址。例如，Kindle购买页面的完整网址为“http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/ref=amb_link_352822542_3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=1M1FK26JH3WD8N4FJX4K&pf_rd_t=101&pf_rd_p=1260157962&pf_rd_i=507846”，如果使用Bit.ly进行缩略，则会得到“http://amzn.to/c6f1m5”的结果。
+　　由于每天都有大量亚马逊的商品信息通过Twitter传播，因此“amzn.to”将成为该公司的一个有力的品牌推广工具。
+　　Bit.ly周二宣布，该公司今年3月缩略的网址总量达到34亿，同时还面向企业用户推出了专业服务。入门版用户仍然可以免费使用该服务，但如果要获得流量数据等增值服务则需要支付每月995美元的费用。(书聿)
+

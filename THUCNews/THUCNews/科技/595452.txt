@@ -1,0 +1,8 @@
+英特尔发布Light Peak新款Macbook Pro将支持
+　　新浪科技讯 北京时间2月25日凌晨消息，英特尔周四发布了高速PC连接技术Thunderbolt，数据传输速度高达10Gbps。
+　　Thunderbolt即此前所说的Light Peak技术，数据传输速度为10Gbps，不到30秒即可传输一部全长的HD高清电影。英特尔表示，将与苹果合作推出该项技术，苹果新款MacBook Pro笔记本将采用该技术。
+　　英特尔称，Thunderbolt可提供更快的数据传输速度，简化设备之间的连接，培育出开发和使用PC的新方式。
+　　英特尔全球副总裁邓慕理(Mooly Eden)称：“处理HD高清媒体内容是当前PC用户最关注的任务之一，通过Thunderbolt技术，英特尔为专业人士和普通消费者提供了更快、更方便处理这些内容的新方式。”
+　　周四，苹果在官方网站上发布了新版Macbook Pro笔记本，全线产品升级到了英特尔全新Sandy Bridge平台处理器、且采用Thunderbolt技术。
+　　Thunderbolt的数据传输速度为10Gbps，而Firewire 400的速度是400Mbps，Firewire 800为800Mbps，USB2为480Mbps，USB3为3.2Gbps。(李明)
+

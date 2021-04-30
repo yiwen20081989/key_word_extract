@@ -1,0 +1,25 @@
+全面领先 谈Android击败WP7的十大原因
+作者/刘致远
+　　一份来自英国的手机零售商的最新报告表示，在过去的一段时间内Android的销量与Windows Phone 7的比例若为15：1。这一结果表明，Windows Phone 7可能会陷入困境。 微软自11月8日在北美市场推出Windows Phone 7，被认为是无论消费市场还是企业市场的最佳选择。 微软对其寄予厚望，企图籍以扭转其在手机市场上的颓势，并以此作为和Android以及iOS的竞争。 但很显然，Windows Phone 7在市场上的表现却不尽人意，远远没有达到微软预期的目标。事实上，通过英国零售商MobilesPlease的报告，我们可以看到Windows Phone 7的销量仅占其智能手机销量的3%。而Android销量达到Windows Phone 7的15倍之多。
+　　诚然，这个数字并不能代表全世界。 但是，我们也许能够从中看到微软存在的问题，以及Android面对Windows Phone 7的十个优势。
+　　1。 硬件更强大
+　　尽管微软可能不愿意承认这一点，运行着Android的手机比Windows Phone 7的硬件配置要强大得多。 例如moto Droid X，包括了一个4.3英寸的显示屏，以及强大的娱乐功能，并且它运行在Verizon的网络之上。 相比搭载Windows Phone 7的三星 Focus，它拥有一块4英寸的显示屏，但它的网络上运行在AT&T上。 而且在外观上他们有天昂之别，简单地说，Android的设备显然更给力。
+　　2。 拥有更多的选择
+　　相比 目前市场上寥寥可数的Windows Phone 7设备，Android显然拥有更多的选择。包括摩托罗拉、HTC、三星等在内的谷歌合作伙伴，提供了大量的Android设备够用户选择。并且由于 Android是开源的，同时也吸引了一大批本土的企业加入到Android阵营中，这显然有助于Android的销售更加强劲。
+　　3。 更精致的Android 2.2
+　　Windows Phone 7独特的格状UI使其成为一个很好的信息交流工具。 但是，这并不意味着它比Android更优秀。 事实上，它仍然是一个第一代产品。 多任务的缺乏，相比Android Market寥寥可数的应用使得它远没有达到Android 2.2的水平。
+　　4。 谷歌的Android Market
+　　Android Market正在帮助谷歌及其合作伙伴销售更多的基于Android的设备。Android Market 带来的影响远远超过它的10万应用数。 微软曾表示，它将尽快发展基于Windows Phone 7应用程序市场的计划，但我们很清楚的知道，它还有很远的路要走。
+　　5。 多任务
+　　Android拥有完善的多任务功能，但Windows Phone 7却不提供多任务功能，这对主打网络应用的智能手机来说几乎是不可想象的。 虽然微软表示将来会加上多任务功能，但我们不知道这个将来会有多远。
+　　6。可供选择的网络
+　　对于Windows Phone 7来说，这又是一个大问题。目前市场上的Windows Phone 7设备都是运行在T-mobile和AT&T的网络上。T ? Mobile的用户群相比Verizon和AT&T数量非常少。 而AT&T已经有了iPhone，不知道它会在Windows Phone 7上投入多少。 而另一方面，Android设备已经可以在所有的网络下运行，这无疑使其更容易吸引消费者和企业客户。
+　　7。 用户喜欢一哄而上
+　　虽然普通的用户可能不会去关心Windows Phone 7和移动智能产业的发展情况。但是当他们听到Android和Windows Phone 7差距达到15：1的销量，无疑会使他们产生疑虑，是否应该买一台Windows Phone 7设备。
+　　8。 如果Android能击败苹果，它同样可以击败微软
+　　到目前为止，谷歌Android设备销量已经超过了苹果iOS设备的销量，这一趋势可能一直继续下去。如果Android能击败苹果，那么毫无疑问，它同样可以击败微软。 毕竟，微软已经好几次在移动智能市场上遭遇滑铁卢了，也不差了这一回。
+　　9。 微软的广告似乎都没作用
+　　微软曾表示，将投入大量的广告资金用以推广Windows Phone 7设备。 但很显然这些广告都没有达到微软预期的效果。如此看来，微软还需要寻找其他路径去扩大Windows Phone 7的影响力。 但很显然Android已经赢得了战斗。
+　　10。 微软在移动市场已经失去立足点
+　　很难想象微软的移动团队究竟以何作为立足。在Windows Mobile面对 Android和iPhone节节败退后。 微软推出了KIN手机，但仅仅只在市场上出现几周便宣告放弃，直到现在微软又推出Windows Phone 7。微软似乎并未清楚自己想要什么，显然在移动市场，它已经失去立足点。
+

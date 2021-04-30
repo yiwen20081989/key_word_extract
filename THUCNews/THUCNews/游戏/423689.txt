@@ -1,0 +1,45 @@
+索爱发布可远程遥控PS3手机Aino
+　　PSP和PS3的互动是一件很有意思的事情，你可以将PSP的媒体文件和PS3一起分享，还可以将PS3里的数据和PSP共享，这就是Remote Play！今天索尼爱立信公布了一款同样拥有Remote Play功能的新手机Aino。
+　　大萤幕触控滑盖机种
+　　于2009年5月正式发表的SE Aino，是SE旗下的第一款支援触控萤幕的非智慧型手机，它采用滑盖设计，除了有完整的数字滑盖键盘之外，它的萤幕也具有触控能力，而且萤幕面积蛮大，采用三?配置，不过解析度采用240 x 432画素，比一般的WQVGA要更高一些。
+　　Remote Play让你远端控制PS3
+　　Aino加入一个相当特别的功能，就是Remote Play。 Remote Play原本是针对PSP所设计，可以让PSP变成PS3的控制器，并且利用PSP浏览PS3上面的多媒体内容；现在SE把这个技术移植到Aino上面，不论使用者在什么地方，都可以透过手机内建的WLAN，或是3G / HSDPA方式，操控家中的PS3，并且浏览多媒体内容，是活用数位汇流的实际例子。
+　　810万超高画素摄影、全方位多媒体
+　　Aino强调全方位的多媒体，因此在照相方面并没有马虎，采用的是810万画素的相机模组，除了支援AF之外，也有LED闪光灯的设置，另外相机支援16倍数位变焦、geotagging、影像稳定器、红眼减轻、Smart Contrast、Photo fix、BestPic、脸部对焦、触控对焦等众多功能，完全就是高阶配置。
+　　在其他多媒体方面，Aino通过DLNA认证，因此可利用网路与其他DLNA硬体分享多媒体资讯；手机内建完整音乐播放器，除了支援专辑图片之外，还支援Shake Control、SensMe、MegaBass、TrackID、 A2DP，它另外还支援Clear Stereo与Clear Bass，并具备立体声双喇叭，不论是接上耳机或是外放，都会有更好的体验。此外，Aino支援microSD记忆卡扩充，并随机附赠8 GB。
+　　充电座、A2DP耳机通通送
+　　为了符合Aino的玩乐多媒体特性，SE在配件设计上面也特别用心下了工夫，手机在标准包装配件中，加入了同色系的A2DP无线耳机MH100，其上的3.5 mm耳机介面，让用户可以随时更换自己喜欢的耳机，而附赠的同色系充电座EC100，除了手机可以插上充电外，连MH100也可以直接插上充电，手机在插上EC100后呈现倾斜状，因此可以当做观看影片的支架。
+　　相关功能列表：
+　　‧支援GSM / EDGE四频、WCDMA / HSDPA双频
+　　‧内建3?240 x 432画素触控TFT萤幕，支援1670万色显示
+　　‧内建55 MB记忆体
+　　‧支援microSD记忆卡，随机附赠8GB
+　　‧内建810万画素相机、支援自动对焦
+　　‧支援16倍数位变焦、geotagging、影像稳定器、红眼减轻、Smart Contrast、Photo fix、BestPic、脸部对焦、触控对焦
+　　‧支援影片/相片部落格
+　　‧内建RDS FM收音机
+　　‧内建Tracker、Walk Mate
+　　‧支援Java、内建3D游戏
+　　‧内建音乐播放器
+　　‧支援A2DP
+　　‧内建TrackID、SensMe、MegaBass、Clear Stereo、Clear Bass
+　　‧支援Shake Control
+　　‧支援Remote Play
+　　‧内建WLAN
+　　‧内建蓝牙
+　　‧支援USB随身碟模式
+　　‧支援DLNA认证
+　　‧内建aGPS
+　　‧支援萤幕自动旋转
+　　‧支援Exchange ActiveSync
+　　‧内建录音器
+　　‧支援即时通讯
+　　‧内建Google Maps
+　　‧内建NetFront浏览器
+　　‧支援RSS
+　　‧内建facebook、YouTube应用程式
+　　‧随机附赠MH100无线蓝牙耳机、EC100充电座
+　　‧通话时间：780分(GSM)、270分(3G)
+　　‧待机时间：380小时(GSM)、367小时(3G)
+　　Sony Ericsson Aino预计2009年第四季上市，建议售价未定。
+

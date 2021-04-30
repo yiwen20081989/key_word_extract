@@ -1,0 +1,69 @@
+托福考试语法指导：分词及真题要点解析
+　　托福考试语法指导：分词常考题型及解题要点
+　　1. 分词具有形容词特征，可单独作定语或表语。
+　　(1) The highly respect zoologist Ernest Just Joined the ruling board of the Marine Biological Laboratory in the 1930*s (93.1)
+　　［答案］ B 动词respect用来修饰后面的名词zoologist，故应改用分词respected形式，其作用相当于形容词作定语。
+　　(2) A patent gives inventors exclusive rights to their inventions for a fix period of time. (90.1)
+　　［答］ C 修饰保词period应用动词的分词形式，即fixed。
+　　(3) Characteristics of Op Art are the carefully arrange hues and geometric patterns that create optical illusions. (88.5)
+　　［答案］ A 修饰名词hues，应用分词形式arranged。
+　　(4) The question of the origin of the Moon is interest not only in itself but also as a part of the larger genesis of the earth and the solar system 。 (88.5)
+　　［答案］ B interest应用其分词interesting形式作表语，作用相当于一个形空词。
+　　2. 分词短语作定语，放置于中心名词后面
+　　解题要点
+　　分词短语作后置定语在TOEEL考题中出现频率非常高。因而，考生务必熟记这一结构和用法。实际上，分词短语作后置定语。皆是定语从句的省略形式。
+　　全真例题分析
+　　(1) The leaves and stems of the aifaifa plant are the only parts of the plant -------
+　　(A) the uses for livestock feed
+　　(B) for using livestock feed
+　　(C) used for livestock feed
+　　(D) they are used for livestock feed (93.1)
+　　［答案］ C过去分词used + 介语短语组成的分词短语修饰前面的名词成分the only parts of the plant，作后置定语。此结构亦扩展为定语从句(that are ) used for livestock feed
+　　(2) The slide rule used sliding scales with marks ------- numbers and their logarithms。
+　　(A) representing
+　　(B) represented
+　　(C) are represented
+　　(D) they are representing (92.10)
+　　［答案］ A 分词短语作名词marks的后置定语，作用相当于一个定语从句：which represent numbers and their logarithms。
+　　(3) Earlg philosophers believe that the mind was divided into three faculties ------- s feeling ，intellect and will
+　　(A) to know
+　　(B) known
+　　(C) knowing
+　　(D) knew them (94.1)
+　　［答案］ B分词短语known as…说明前面的名词three faculties。此结构可改写成定语从句。Which are known as…
+　　(4) The bison know for the hump over its shoulders is usually called a buffalo in North America. (91.1)
+　　［答案］ A 此句主语是The bison ，谓语是系词is ，划线A部分应当为分词短语，修饰名词The bison .A应改为known for。
+　　(5) Louisa May Alcott is chiefly remembered for Little Women. One of the most popular girls books ever wrote (88.5)
+　　［答案］ D 修饰名词books应用分词生语ever written。
+　　3. 分词短语作状语
+　　解题要点在句了意义非常清楚明确时，状语从句通常可以简略为分词短语，但有一个先决条件。此分词短语的逻辑主语应与句子的主语为同一人或物，此类分词短语通常置于句首。
+　　全真例题分析
+　　(1) ------- as“the census taker of the sky”Annie Jump Cannon contributed considerably to the field of astronomy。
+　　(A) Known
+　　(B) Knowing
+　　(C) To known
+　　(D) Knowledge (92.5)
+　　［答案］ A 分词短语置于句首作表示身份的状语。它的逻辑主语即是句子的主语Annie Jump Cannon。
+　　(2) ------- in 1635， the Boston Latin School is the oldest public school in the United States 。
+　　(A) Founded
+　　(B) Founding
+　　(C) To found
+　　(D) Having founded (92.1)
+　　［答案］ A 分词短语表示时间，其逻辑主语即是句子主语The Boston Latin School。
+　　(3) ------- the constitution of the Cherokee Nation provided for a chief executive， a senate， and a house of representatives。
+　　(A) In 1827 they drafted
+　　(B) The draft in 1827
+　　(C) In 1872 was drafted
+　　(D) Drafted in 1827 (90.5)
+　　［答案］ D分词短语作状语，表示时间。此结构可扩展为一状语从句；where the constitution of the Cherokee Nation was drafted in 1827 it provided for a chief executive a senate， and a house of representatives。
+　　4. 现在分词表达主动的概念；过去分词表达被动的概念
+　　全真例题分析
+　　(1) Tudging to be the best boxer of his time， sugar Ray Robinson lost only 3 out of 137 fights (94.1)
+　　［答案］ A 此分词短语与其逻辑上的主语sugar Ray Robinson 是被动的关系(Sugar was judged to be…) 故应用过去词Tudped to be。
+　　(2) During the Colonial days， the Iroquois had an agricultural economy basing mainly on corn with supplementary crops of pumpkins ，beans， and tobacco. (92.1)
+　　［答案］ B通常我们说to be based on ，这个短语表示被动概念(基于，以…为基础)，所以应改用过去分词based。
+　　(3) Per capita income is a nation*s entire income dividing by the number of people in the nation. (90.10)
+　　［答案］ B根据句意及分词dividing后面的介词by，可以推断这个分词短语表达的是被动的概念，因此，应用过去分词divided by。
+　　(4) Clementine Hunter*s primitive paintings have been exhibited at various galleries. Included one at the Smithsonian Institution in Washington. D.C. (93.1)
+　　［答案］ D 分词in cluded与其逻辑的主语paintings并无被动的关系，不应用过去分词，应改为惯用现在分词短语in cluding + 名词宾语的结构
+

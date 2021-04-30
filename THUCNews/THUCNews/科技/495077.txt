@@ -1,0 +1,9 @@
+不到千元 爱可视推Android 2.2系统PMP
+　　爱可视发布两款只有plam大小的Android系统MP4，分别是Archos 28和Archos 32，各自拥有2.8英寸QVGA屏、3.2英寸WQVGA屏。据悉，爱可视这两款新品均配备WiFi无线网络、G-Sensor重力加速感应功能，其中Archos 32还增加对蓝牙的支持。售价方面，Archos 28为100美元、Archos 32也才150美元。 
+　　
+　　爱可视Archos 28 
+　　虽然体积小巧，但是爱可视Archos 28和Archos 32性能配置不弱，均采用800MHz Cortex A8处理器，支持3D OpenGL ES 2.0硬件加速。和大屏的Archos 101一样跑Android 2.2系统，功能非常强大。 
+　　
+　　爱可视Archos 32 
+　　爱可视Archos 28和Archos 32支持H.264， WMV9， AVI， MP4， MOV， 3GP， MPG， PS， TS， VOB， MKV， FLV， RM， RMVB， ASF， WMV视频格式。兼容MP3， WMA， WAV， AAC， OGG， FLAC， AC3音频文件。并提供对JPEG， BMP， PNG， GIF图片格式的支持。
+

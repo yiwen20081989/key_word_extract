@@ -1,0 +1,7 @@
+Phoenix展示最新BIOS 10秒进入Windows 7
+　　【赛迪网讯】9月28日消息，据国外媒体报道，计算机BIOS厂商Phoenix近日展示了最新的BIOS技术“Instant Boot BIOS”，启动Windws 7只需10秒钟。
+　　据Phoenix首席科学家史蒂夫·琼斯(Steve Jones)称，Instant Boot BIOS使用了UEFI(一种新的BIOS平台)技术，只处理系统的绝对核心文件。
+　　利用配备了高速固态硬盘(SSD)的联想T400s测试，按下计算机电源按钮后，Instant Boot BIOS加载Windows 7只需1秒钟，10秒钟就进入了Windows 7桌面。
+　　(责任编辑：木杉)
+　　作者：友亚
+

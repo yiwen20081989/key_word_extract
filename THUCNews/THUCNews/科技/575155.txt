@@ -1,0 +1,12 @@
+Facebook网站基础设施主管将离职
+　　新浪科技讯 北京时间5月4日早间消息，Facebook技术运营副总裁乔纳桑·海利格(Jonathan Heiliger)周二宣布，他将于今年夏季从Facebook离职。
+　　海利格负责Facebook的网站基础设施已有4年时间，他的继任者将是杰伊·帕里克(Jay Parikh)，后者于2年前从Ning跳槽至Facebook。帕里克未来将向Facebook工程副总裁迈克·施洛普夫(Mike Schroepfer)报告工作。
+　　海利格目前尚未确定个人未来的计划，不过他将作为顾问帮助创业企业解决规模和基础设施的问题。海利格表示，在Facebook工作4年之后，他希望能放松一段时间。在他任职期间，Facebook的规模扩大了20倍，这带来了巨大的挑战。他表示：“我们曾有几次面临严重的灾难。我们的服务器性能接近极限，同时又没有其他服务器可用。”
+　　在Facebook，海利格负责全球基础设施和内部技术系统。在加入Facebook之前，他曾供职于LoudCloud、Danger和GlobalCenter等公司。海利格表示：“Facebook是我任职的第4家创业企业。坦白地讲，我不计划再加入一家创业企业。我们实现了许多目标，又设定了许多新目标。”
+　　海利格表示，任职Facebook期间，最令他惊讶的是Facebook的增长速度。海利格是Facebook早期团队的一员，当时的其他团队成员还包括亚当·德安格洛(Adam D'Angelo)、查理·奇弗尔(Charlie Cheever)、达斯汀·莫斯科维茨(Dustin Moskovitz)、杰夫·哈默巴赫(Jeff Hammerbacher)和马特·科勒(Matt Cohler)。海利格的离职标志着Facebook一个时代的结束。(维金)
+　　新浪科技讯 北京时间5月4日早间消息，Facebook技术运营副总裁乔纳桑·海利格(Jonathan Heiliger)周二宣布，他将于今年夏季从Facebook离职。
+　　海利格负责Facebook的网站基础设施已有4年时间，他的继任者将是杰伊·帕里克(Jay Parikh)，后者于2年前从Ning跳槽至Facebook。帕里克未来将向Facebook工程副总裁迈克·施洛普夫(Mike Schroepfer)报告工作。
+　　海利格目前尚未确定个人未来的计划，不过他将作为顾问帮助创业企业解决规模和基础设施的问题。海利格表示，在Facebook工作4年之后，他希望能放松一段时间。在他任职期间，Facebook的规模扩大了20倍，这带来了巨大的挑战。他表示：“我们曾有几次面临严重的灾难。我们的服务器性能接近极限，同时又没有其他服务器可用。”
+　　在Facebook，海利格负责全球基础设施和内部技术系统。在加入Facebook之前，他曾供职于LoudCloud、Danger和GlobalCenter等公司。海利格表示：“Facebook是我任职的第4家创业企业。坦白地讲，我不计划再加入一家创业企业。我们实现了许多目标，又设定了许多新目标。”
+　　海利格表示，任职Facebook期间，最令他惊讶的是Facebook的增长速度。海利格是Facebook早期团队的一员，当时的其他团队成员还包括亚当·德安格洛(Adam D'Angelo)、查理·奇弗尔(Charlie Cheever)、达斯汀·莫斯科维茨(Dustin Moskovitz)、杰夫·哈默巴赫(Jeff Hammerbacher)和马特·科勒(Matt Cohler)。海利格的离职标志着Facebook一个时代的结束。(维金)
+

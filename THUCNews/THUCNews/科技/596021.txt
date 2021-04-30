@@ -1,0 +1,7 @@
+Adobe CS5.5发布 含多款智能手机平台开发工具
+　　新浪科技讯 北京时间4月12日凌晨消息，Adobe今天发布Adobe Creative Suite 5.5(以下简称“Adobe CS 5.5”)，内含多款可用于智能手机和平板电脑平台的工具。
+　　Adobe CS 5.5中的Web Premium Suite主要适用于Android、黑莓、Tablet OS、iOS及其他平台上的移动应用。它还支持HTML5和Flash Player，可以提供更加丰富的视频、休闲游戏、互联网应用及其他内容。
+　　Adobe表示，目前支持Flash Player的平台包括Android、WebOS、谷歌TV、黑莓Tablet OS和三星SmartTV等。此外，未来版本的Windows Phone及其他平台也将在不久后支持Flash。
+　　Adobe CS 5.5还包括Design Premium Suite，内含Adobe InDesign CS 5.5和Folio Producer，增强了专为平板电脑设计的页面布局的互动性。使用该软件开发的文件可以包含视频、音频、全景图像、360度旋转物体和镜头缩放等，并整合HTML和HTML5内容。
+　　Adobe CS 5.5的最低售价为1299美元，最高为2599美元。此外，用户还可以选择按月付费。(彦飞)
+

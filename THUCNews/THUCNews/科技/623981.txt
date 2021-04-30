@@ -1,0 +1,14 @@
+华硕Eee Pad Slider侧滑平板曝光 或9月推出
+　　随着华硕Eee Pad Transformer的大卖，这款“变形金刚”二代也受到不少关注。不过比起来需要花钱购买的"Dock"坞扩展，相信还是有用户愿意购买这款自带侧滑式键盘的Eee Pad Slider。近日这款平板的官方网站专题正式上线，它的具体配置从而得到曝光。同时意大利网站Notebook Italia还透露了Eee Pad Slider在欧洲和美国的定价：16GB版本400美元或479欧元，32GB版本550美元或599欧元。
+　　具体规格如下：
+　　—CPU：NVIDIA Tegra 2 双核1.0GHz
+　　—RAM：1GB，ROM：16GB/32GB，附送一年无限空间ASUS Web云存储服务
+　　—操作系统：Android 3.1 Honeycomb(将升级至Android 3.2)
+　　—显示屏：10.1英寸LED背光IPS广角(178度)，WXGA(1280*800)分辨率，康宁Gorilla防刮玻璃
+　　—内置QWERTY全键盘，USB2.0端口，MicroSD卡扩展槽，mini HDMI接口
+　　—集成重力、光线传感器，陀螺仪，GPS等
+　　—前面板120万像素摄像头，后面板500万像素摄像头
+　　—25Wh锂聚合物电池，续航时间约8小时(观看720p视频，亮度60nits时)
+　　—802.11 b/g/n WiFi@2.4GHz"> WiFi@2.4GHz，Bluetooth V2.1+EDR
+　　—整体尺寸273*180.3*17.3mm，重量约960g
+

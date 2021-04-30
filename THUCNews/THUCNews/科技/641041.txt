@@ -1,0 +1,5 @@
+Dev-Team称iPhone 4S已成功越狱
+　　新浪科技讯 北京时间10月28日晚间消息，知名越狱团队iPhone Dev-Team今日通过Twitter宣布，已经实现对iPhone 4S和iPad 2的初步越狱。
+　　由于是“初步越狱”，有不完善之处，还有许多工作要做。因此，iPhone Dev-Team暂时还不会提供越狱程序。
+　　截图显示，越狱后的iPhone 4S已经可以运行Cydia客户端，Cydia允许iPhone用户使用浏览器，安装未授权应用。(李明)
+

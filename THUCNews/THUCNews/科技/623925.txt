@@ -1,0 +1,19 @@
+3D安卓平板电脑 LG Optimus Pad评测
+　　LG Optimus Pad评测前言
+　　iPad刮起的平板电脑风潮一发不可收拾，日前LG也携它的第一款平板电脑LG Optimus Pad出现在了我们面前。
+　　这款LG Optimus Pad是LG的首款平板电脑，作为首款平板电脑，LG一直希望它可以一枪打响，所以这款LG Optimus Pad配备了3D技术，这是之前任何品牌的平板电脑都没有具备的。
+　　不过和之前推出的3D裸眼手机不同的是，这款LG Optimus Pad的3D功能需要佩戴3D眼镜，这比起3D裸眼手机，差了一些。
+　　但是就硬件配置而言，这款LG Optimus  Pad的配置还是非常不错的，它采用8.9英寸的屏幕，分辨率达到了WXGA(1280×720)，并配备了1GHz主频NVIDIA Tegra  2双核处理器，32GB的内存。而且值得一提的是，它是世界上首款内置3D摄像机的平板电脑，你可以用它来拍摄3D视频，然后和你的朋友们一起分享。
+　　以下是它的详细参数：
+　　支持频率： GSM 850/900/1800/1900 MHz, UMTS 900/2100 MHz, HSDPA 10.2 Mbps, HSUPA 2 Mbps
+尺寸：243.8 x 150.0 x 12.7 mm, 621 g
+触摸屏： 8.9英寸
+主频分辨率：1280 x 768像素
+CPU：双核Nvidia Tegra2
+RAM：1GB
+操作系统：Android 3.0
+机身内存：32 GB
+摄像头：500万像素，支持自动对焦，LED补光灯
+副摄像头：200万像素
+数据功能：支持Wi-Fi，蓝牙2.1+EDR，microUSB，GPS， HDMI TV-out
+

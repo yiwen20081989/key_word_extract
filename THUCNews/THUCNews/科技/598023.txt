@@ -1,0 +1,7 @@
+英特尔下一代处理器将支持苹果OpenCL核心技术
+　　新浪科技讯 北京时间9月16日下午消息，英特尔下一代处理器将支持Mac OS X中的OpenCL核心技术，加速游戏和财务应用的处理速度，从而为MacBook Air带来更为强大的性能。
+　　苹果称，OpenCL可以通过挖掘GPU中的特殊处理能力大幅加速应用运行速度。这种技术可以用于金融建模、会计应用、大型媒体文件、游戏和媒体应用。总之，GPU在处理某些特定数据时，比CPU的效果更好。
+　　英特尔下一代Ivy Bridge处理器的性能将较当前的Sandy Bridge提升60%，这主要归功于更多的图形电路。在Ivy Bridge新增的数千万个晶体管中，很多都是专门用于提升图形性能的。
+　　Nvidia和AMD的GPU已经可以支持OpenCL，但由于这些GPU均未被用于第三代MacBook Air，因此仍然需要借助英特尔的处理器升级来支持这一技术。
+　　Ivy Bridge将于明年第一季度量产，而MacBook Air则有望在此之后进行升级。由于Ivy Bridge同时支持Thunderbolt和USB 3.0技术，因此业内人士猜测，苹果也有可能在MacBook Air现有的Thunderbolt接口一侧增加USB 3.0接口。(鼎宏)
+

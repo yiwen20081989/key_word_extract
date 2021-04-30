@@ -1,0 +1,6 @@
+消息称微软将收购软件公司
+　　新浪科技讯 北京时间9月22日晚间消息，据美国投资博客PEHub今日报道，有消息称，微软已收购一家由风险投资支持的公司Interactive Supercomputing，该公司的主要产品为Star-P互动并行计算平台。
+　　消息人士称，微软将于明日发布正式声明，目前尚不清楚这笔交易的价格。微软发言人则拒绝对这一消息置评。
+　　Interactive Supercomputing此前曾表示，Star-P是一种“专业计算软件，能帮助用户在桌面电脑上使用Matlab和Python等熟悉的软件为计算问题编写代码，并在并行高性能计算机上即时、互动的运行这些代码”。
+　　自2005年以来，Interactive Supercomputing已获得了1800万美元风险投资，投资方包括Ascent Venture Partners、CommonAngels、Flagship Ventures、Fletcher Spaght Associates和Rock Maple Ventures。(维金)
+

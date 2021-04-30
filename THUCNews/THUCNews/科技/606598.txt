@@ -1,0 +1,5 @@
+1GHz处理器 WP7旗舰HTC Spark首次曝光
+文/andy921
+    前段时间，HTC三款神秘新机Lexikon、Bee、Spark的配置在网络上曝光，其中HTC Spark则是一款Windows Phone 7手机，旗舰级别的配置让人很期待，近日，这款神秘新机虽然还没发布，却有了其沃达丰版本的ROM在网络上曝光，同时我们也能看到这款新机的真面目。
+    HTC Spark是一款彻头彻尾的Windows Phone 7手机，采用了1GHz的处理器，搭配512MB的RAM和512MB的ROM。采用的是一块3.7英寸大的WVGA分辨率（480*800像素）屏幕，一枚500万像素的摄像头，支持自动对焦，一枚1350mAh的锂离子电池。HTC Spark是一款3G手机，支持HSDPA 7.2Mbps和HSUPA 5.76Mbps。从曝光的样子看，手机并没有什么特别，跟以往HTC的触摸屏手机差不多。
+

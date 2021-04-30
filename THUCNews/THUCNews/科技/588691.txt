@@ -1,0 +1,15 @@
+GlobalFoundries将迎来首位客户 摆脱AMD阴影
+　　新浪科技讯 北京时间7月17日中午消息，据国外媒体周五报道，由AMD拆分出来的芯片制造工厂GlobalFoundries即将迎来第一位客户。
+　　GlobalFoundries在旧金山的Semicon West贸易展上表示，公司正努力开拓多位客户，使其芯片制造业务多元化，而第一位客户的到来意味着公司已迈出一大步。该公司拒绝透露新客户的名称，仅表示数周内将正式宣布此事。
+　　今年3月份，AMD拆分其芯片制造部门，与阿联酋阿布扎比政府掌管的投资基金“先进技术投资公司”(Advanced Technology Investment Co.)合资成立了GlobalFoundries。成立愈三个月后，GlobalFoundries仍只有AMD一个客户，因此一直试图改变被视为AMD芯片制造部门的形象。
+　　GlobalFoundries制造系统与技术副总裁托巴斯·桑德曼(Thomas Sonderman)表示，每位新客户的到来都会帮助公司进一步摆脱AMD的影响，“随着我们开始招徕AMD以外的客户，并营造自身特色，随着时间的推移，GlobalFoundries将摆脱AMD制造业务的形象。”
+　　不过他承认，完全脱离AMD的掌控仍需时日。GlobalFoundries为AMD生产大量CPU和其它芯片产品，后者持有其少量股份。
+　　桑德曼表示：“当然，AMD是我们的业务模式中不可或缺的一部分，也是我们现在惟一的客户。我们承诺要帮助客户取得成功。”
+　　由于所获得的大部分CPU技术来自AMD，GlobalFoundries成为英特尔与AMD因专利交互授权协议而爆发的争论焦点所在。英特尔在一份2001年签署的专利交互授权协议中授权AMD生产和销售x86芯片，AMD则将此生产销售权转移给了GlobalFoundries。今年3月，英特尔向AMD递交了一份通知，称AMD将制造业务拆分为独立公司的做法违反了双方的协议。
+　　桑德曼对此表示，“我们相信自己完全有权继续生产x86处理器，不过这一纠纷还是应由英特尔和AMD来解决。”GlobalFoundries寄望于为其它客户生产用于显卡和手机的芯片产品，以逐步减少对x86架构的依赖。目前GlobalFoundries在德国德累斯顿拥有数家Fab工厂，同时正计划在纽约州兴建一个芯片制造厂。
+　　研究机构Mercury Research的首席分析师迪恩·麦克卡隆(Dean McCarron)认为，由于AMD在这些芯片工厂拥有既得权利，GlobalFoundries想完全脱离AMD并非易事。
+　　GlobalFoundries的生产蓝图显示，其目前为AMD提供采用45纳米工艺生产的处理器，明年将采用更为先进的32纳米技术。32纳米制程能在减少芯片尺寸和功耗的同时，为处理器增加更多功能。未来2年内，GlobalFoundries还将采用28纳米技术生产显卡和移动设备芯片。
+　　桑德曼表示，为AMD生产复杂的六核芯片(研发代码为伊斯坦布尔Istanbul)证明了GlobalFoundries有实力生产高级芯片。
+　　麦克卡隆对此表示同意，他表示GlobalFoundries所掌握的先进制造技术极为罕见。除英特尔之外，GloalFoundries使原本由台积电把持的芯片制造市场竞争加剧，这将推动芯片制造技术的进步。他说：“如果你想用尖端工艺生产产品，台积电是主要的选择。GlobalFoundries进入的或许是一个正在下滑的市场，但该公司实力却相当强大。”
+　　他还表示，经济衰退中各大芯片厂商的日子都不好过，GlobalFoundries需要大量客户才能实现盈利。(晓彬)
+

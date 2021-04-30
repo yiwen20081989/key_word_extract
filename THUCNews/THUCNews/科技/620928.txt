@@ -1,0 +1,7 @@
+传黑莓平板Playbook将可运行Android应用
+　　新浪科技讯 北京时间1月27日早间消息，多方消息人士透露，RIM正在考虑为搭载自家QNX系统的黑莓Playbook平板和智能手机引入运行Android应用的功能。
+　　消息人士称，RIM正在研究QNX平板和智能手机中的Java环境。RIM曾公开表示考虑在Playbook中引入Java虚拟机，目的不是为了未来的应用开发，而是支持老版应用和企业自行开发的应用。不过，RIM尚未决定采取哪种Java虚拟机。
+　　而消息人士则称，RIM对Dalvik虚拟机非常感兴趣，并有可能最终采用该虚拟机。由于Dalvik虚拟机同样是Android操作系统采用的虚拟机，因此RIM的Playbook和其他QNX设备都将能够运行Android应用。
+　　RIM将有两个选择：一是使用开源Dalvik虚拟机而不涉及谷歌，另一个选择是RIM与谷歌达成协议，由谷歌为RIM的QNX设备提供官方Android应用支持，并允许RIM预装Android Market、Gmail、Google Maps和其他应用。
+　　如果RIM最终选择在QNX平板电脑中支持Android应用，加上此前押注QNX系统和收购The Astonishing Tribe用户界面团队等举动，该公司有可能再次重现市场辉煌。
+

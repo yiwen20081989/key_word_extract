@@ -1,0 +1,4 @@
+高音C变种病毒来袭
+　　本报讯  (记者  马亚宁)本周，病毒“高音C变种”(Tro－janDownloader.Hicy.b)”趁国庆长假来偷袭。
+　　该病毒是一款木马下载器，在被感染计算机系统的“%Sys－temRoot%\system32\”目录下先后两次释放恶意DLL文件——sys－tem.dll，先释放的system.dll文件会在系统目录下“埋伏”恶意驱动Drver.sys，结束某些安全软件进程，以此达到自我保护的目的；第二次释放的system.dll文件则会连接指定的URL“http://j0v.io7*.com/10/count.txtxt”，读取其中保存的恶意程序下载地址，大量下载恶意程序并调用运行。
+

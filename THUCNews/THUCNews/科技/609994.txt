@@ -1,0 +1,5 @@
+支持LTE高速网络 三星Stratophere送测FCC
+文/马千里
+　　Verizon在2011年的最后几个月会发布多款支持LTE网络的产品，泛泰，摩托罗拉，三星等品牌相继携带产品加入Verizon的“LTE军团联盟”。近日曝光的三星Stratophere已经送测FCC，未来上市型号为三星SCH-i405。
+　　从FCC的送测文档中我们发现，三星Stratophere会支持LTE网络，同时向下兼容EVDO以及CDMA网络。其实Verizon从2010年下半年就已经进入LTE网络的测试、试运营阶段了，现在大量的LTE设备出现似乎意味着Verizon已经信心十足，而且LTE网络也比去年成熟了很多。
+

@@ -1,0 +1,57 @@
+SSAT考试词汇分类总结：音乐词汇
+　　来源：上海新东方学校
+　　SSAT中涉及到的词汇范围非常广泛，从日常生活用品到稀奇古怪的动植物名称都有考察。SSAT中一部分类比题涉及到了音乐方面的词汇，这里略加总结并对其考查方式做一个简要的介绍。 　　
+　　1.音乐人及团体
+　　Musician n.音乐家(组成orchestra )
+　　Pianist n.钢琴家
+　　Soloist n.独唱家
+　　Choreographer n.舞蹈编剧(编排dance)
+　　Conductor n.指挥(指挥musician)
+　　Composer n.作曲家(创作Symphony)
+　　Orchestra n.交响乐团 　
+　　上述词汇考察的比较多的有Musician组成orchestra这个组成关系，可以和Fish : School等常考组成关系对应，此外Conductor经常和Coach(指挥运动员或队伍)、Director(指挥演员)组成纵向对应关系。Choreographer和Composer都经常和作品对应，其他一些乐器演奏家则常与相应的乐器构成对应关系。 　
+　　2.乐器
+　　Woodwind n.木管乐器
+　　Tuba n.大号
+　　Piano n.钢琴
+　　Clarinet n.竖笛
+　　Trumpet n.喇叭，小号
+　　Timpani n.定音鼓
+　　Bass n.低音贝斯
+　　Harp n.竖琴
+　　Saxophone n.萨克斯风
+　　Drum n.鼓 stick n.鼓槌
+　　Oboe n.双簧管 reed n.簧片
+　　Violin n.小提琴 string n.琴弦 Fiddle bow n.提琴弓
+　　Flute n.长笛
+　　Organ n.风琴 　
+　　关于乐器的单词出现的很多，但大多数是属于陪考词汇，作为主考词汇的并不多。如果考察，多数属于种属类的关系。上述的所有乐器都可以算作Musical instrument的一种。当然，如果细分，还有其他更细小的种类，例如Clarinet和Flute都是属于Woodwind的一种。 　　
+　　除此之外，还曾经考过Oboe : reed这一组词，其逻辑关系为乐器及其发声器，与此构成相同类比关系的是Violin : string。值得注意的是，此题不可选Drum : stick，因为题目中的类比关系为发出声音的乐器部分，而stick是使乐器发生的部分，并不能构成很好的类比，如果是Drum : stick，那么应该对应的是Violin : Fiddle bow(提琴弓)。 　　
+　　3.乐曲
+　　Symphony n.交响乐
+　　Movement n.乐章
+　　Serenade n.小夜曲
+　　Opera n.歌剧
+　　Ballet n.芭蕾
+　　Composition n.作曲
+　　Melody n.乐曲
+　　Lyrics n.歌词 　　
+　　这部分词汇涉及到的题目并不多，比较重点的是Movement : Symphony的构成关系，这和Word : Sentence、Paragraph : Essay等都可以组成类比关系。另外还曾经考察过属于同类事物的类比关系，例如： 　　
+　　Epic to haiku as
+　　mural to painting
+　　symphony to song
+　　sketch to still life
+　　novel to book
+　　drop to pond 　
+　　这道题目题干中的两个词都属于poem，因此属于同类事物。但是B选项和C选项都符合同类事物的逻辑关系，这时我们还要找其他的对应关系。从篇幅来说，Epic(史诗)比较长，而Haiku(俳句)是日语的一种诗歌形式，类似于宋词，长度较短。因此答案中的两个词除了应属于同类事物外，还应该有长度上的对应。因此应该选择Symphony和Song，两者同属music，而Symphony长度较长，song长度较短。 　
+　　4.声音
+　　Harmony n.和谐，和弦
+　　Cacophony n.刺耳的声音
+　　Dissonance n.不和谐的声音
+　　Rhythm n.节奏
+　　Melodious a.悦耳的
+　　Euphony n.悦耳的声音 　
+　　主要考察广义的反义词，和谐悦耳和不和谐刺耳的声音意思相反。另外，Cacophony噪声还可以和irritate搭配，构成特征动作。总体来说考察的不多。
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

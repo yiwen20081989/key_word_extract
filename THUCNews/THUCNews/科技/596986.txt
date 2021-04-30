@@ -1,0 +1,8 @@
+微软中国以托管方式运营类似Office 365服务
+　　新浪科技讯 7月1日上午消息，微软日前发布Office 365云办公系统，根据微软的安排，这一产品将在全球40个市场正式推出，但并不包括中国内地。微软及大中华区信息工作者业务群总经理峰鹰巩日前透露，微软中国将通过合作伙伴托管方式为中国中小企服务提供类Office 365服务。
+　　微软6月28日正式发布Office 365云计算办公软件套装，其中集合了Office Professional Plus Web应用套件、Exchange Online、SharePoint Online和Lync Online产品。企业在支付了一定费用后使用这些服务，价格从每人每月6美元到27美元不等。
+　　虽然这一产品将在全球40个市场正式推出，但并不包括中国内地。峰鹰巩在上周的一次媒体沟通会上透露，Office 365在中国采取的运营方式与全球是不同的，中小型企业客户将会通过微软中国的合作伙伴以托管方式来订购Office、Sharepoint、Exchange、Lync。
+　　不过，由于当时Office 365还未正式对外发布，峰鹰巩并未透露更多有关Office 365在中国的信息。
+　　值得注意的是，今年1月，微软中国联合上海致腾信息面向国内中小企业市场推出托管服务，通过致腾信息的云服务托管平台，用户以按月或按年租用的方式获得微软Microsoft Hosted Exchange 2010、Microsoft Hosted SharePoint Server 2010、Microsoft Hosted Office Communication Server 2007服务。这些服务与Office 365提供的部分服务类似。
+　　业内人士认为，Office 365没能落地，与微软在中国没有云计算数据中心有关。目前，微软仅在亚洲的香港与新加坡设有数据中心。(罗亮)
+

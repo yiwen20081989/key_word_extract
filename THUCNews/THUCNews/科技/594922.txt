@@ -1,0 +1,8 @@
+Salesforce斥资3100万美元收购DimDim
+　　新浪科技讯 北京时间1月7日上午消息，美国在线CRM(客户关系管理)软件提供商Salesforce周四宣布，已斥资3100万美元现金收购美国网络会议服务公司DimDim。
+　　DimDim提供一款基于浏览器的网络会议平台，因此无需安装任何桌面软件。该公司目前已经获得了900万美元的风险投资。DimDim提供实时协作功能，可以分享文档、会议记录、白板，并使用视频、语音和电话会议。
+　　Salesforce表示，该公司将把DimDim的实时通讯技术部署到Chatter社交协作平台中。尽管Salesforce以往避讳将Chatter与Facebook进行对比，但该公司本次却表示，Chatter与DimDim的整合，就是借鉴Facebook的模式，将协作与通讯工具整合为一款服务。
+　　Salesforce在声明中写道：“如今，Facebook已经证明了将协作与通讯进行整合的价值。Facebook借助交流和信息等服务提升了用户的普及率，并成为全球最热门的网站。Salesforce.com在推出Salesforce Chatter协作平台时，也遵循了类似的方法。自去年6月发布以来，已经有超过6万家客户部署了Chatter，使之成为公司最受欢迎的产品。现在，借助DimDim，Salesforce.com将再次追随Facebook的步伐。公司相信，通过提供一个将协作与通讯相整合的平台， 将提升Chatter的普及率，增强用户忠诚度，并使得整个产品组合具备差异性。”
+　　业内人士认为，这表明Salesforce希望成为企业领域的Facebook。
+　　这是Salesforce过去一个月来的第三次公开收购。该公司此前还曾收购了电子邮件管理器Etacts和云计算厂商Heroku，前者的交易条款尚未披露，后者的收购价格为2.12亿美元。(书聿)
+

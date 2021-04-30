@@ -1,0 +1,9 @@
+全面支持DX11 NVIDIA笔记本显卡解析
+　　作者：孙敏杰
+    NVIDIA公布大量GT400系列移动显卡
+　　上个月，从NVIDIA一款泄漏版驱动当中，我们就发现了很多尚未发布的显卡，包括大量的主流中低端GT400系列的桌面级显卡，还有更多闻所未闻的移动显卡——
+　　- NVIDIA_DEV.0E23.01 = "NVIDIA GeForce GTS 455 "    - NVIDIA_DEV.0DC4.01 = "NVIDIA GeForce GTS 450 "    - NVIDIA_DEV.0DC5.01 = "NVIDIA GeForce GTS 450 "    - NVIDIA_DEV.0DC0.01 = "NVIDIA GeForce GT 440 "    - NVIDIA_DEV.0DE1.01 = "NVIDIA GeForce GT 430 "    - NVIDIA_DEV.0DE2.01 = "NVIDIA GeForce GT 420 "
+　　- NVIDIA_DEV.0E30.01 = "NVIDIA GeForce GTX 470M "    - NVIDIA_DEV.0DD1.01 = "NVIDIA GeForce GTX 460M "    - NVIDIA_DEV.0DD2.01 = "NVIDIA GeForce GT 445M "    - NVIDIA_DEV.0DD3.01 = "NVIDIA GeForce GT 435M "    - NVIDIA_DEV.0DF2.01 = "NVIDIA GeForce GT 435M "     - NVIDIA_DEV.0DF0.01 = "NVIDIA GeForce GT 425M "    - NVIDIA_DEV.0DF3.01 = "NVIDIA GeForce GT 420M "    - NVIDIA_DEV.0DF1.01 = "NVIDIA GeForce GT 420M "    - NVIDIA_DEV.0DEE.01 = "NVIDIA GeForce GT 415M "
+　　近日，NVIDIA终于正式发布了移动版的全线DX11独立显卡产品，从低到高多达七款。显卡新品如此众多，一时间让人难以接受，导致很多网友都会有这样的念头：会不会又是一大堆马甲呢？下面笔者就为大家详细解读NVIDIA GeForce GT400M系列移动显卡产品线。
+　　移动显卡方面，NVIDIA此前仅发布了一款最高端的GeForce GTX 480M，而今天NVIDIA一口气发布了7款定位较低的新显卡，通过基本规格表可以看出，400M系列移动显卡全都支持DX11，由此可见这些显卡都是基于新一代40nm工艺、Fermi架构的新显卡，跟前代显卡彻底划清了界限。
+

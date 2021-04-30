@@ -1,0 +1,7 @@
+Android系统 HTC BeeLexikon配置曝光
+文/李博     HTC中低端Android机型多采用QVGA（240×320）分辨率屏幕，包括Tattoo、Wildfire等，日前，有消息证实，Q屏阵营将迎来新成员——HTC Bee（小蜜蜂）。
+    据悉，HTC Bee将搭载Android 2.2操作系统，同时加载HTC Sense 1.6版，是Adnroid 2.2首款中低端机型。该机配备了3.2英寸电阻式触控屏幕，操作手感与Tattoo、Wildfire并无两样，另外该机还具有500万像素摄像头，搭配补光灯。
+    HTC Bee采用高通MSM7625处理器，频率为528MHz，同时配备384MB RAM内存和512MB ROM存储空间，由于QVGA屏幕无需太多驱动，因此此配置基本可以满足Android 2.2的运行需求。
+    与Bee同期曝光的还有一款名为Lexikon的机型。HTC Lexikon配置稍高，3.8英寸WVGA分辨率触摸屏，内置800MHz MSM7630处理器，拥有512MB RAM内存，与Bee一样搭载Android 2.2操作系统和HTC Sense 1.6版用户界面，也具有500万像素带有补光灯的摄像头。
+    HTC Bee与Lexikon目前尚未透露真机或设计图，上市时间和售价还有待进一步报道。
+

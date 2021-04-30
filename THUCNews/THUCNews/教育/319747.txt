@@ -1,0 +1,58 @@
+雅思写作常见用词错误：你犯过哪几条？
+　　下面对雅思写作词汇中常错词汇进行了分析，大家不妨看一下。
+　　一、such as与for example的混用
+　　我们知道，在表示举例子的时候，such as与like是完全等同的，如：Wild flowers such as/like orchids and primroses are becoming rare。
+　　但是同学们对于Such as、for example 的把握还是不够准确。我们都知道，后者接句子前者接词语表示举例子。于是就有了下面的写法：
+　　There is a similar word in many languages， such as in French and Italian。
+　　这里的such as改为for example为好，因为“in French and Italian”其实是“there is a similar word in French and Italian”的简化，所以要用for example来引出例证。再来看几个类似的例子：
+　　It is possible to combine computer science with other subjects， for example physics。
+　　二、assume 及claim 使用不够准确
+　　我们知道， think，assume，claim是议论文中常用引出观点的动词。在实际作文中，同学们往往认为几个词的意思是一样的，完全可以代换，所以拿过来就用。甚至还有同学把consider也拿过来与之混用。我们首先还是从定义来看这几个词的不同：
+　　Think： to have opinion or belief about sth。
+　　翻译为“认为”，通常接宾语从句来表达比较确定的观点。
+　　Assume： to think or accept that sth is true but without having proof of it。
+　　翻译为“假设、假定”，是否有事实依据是不确定的。
+　　Claim： to say sth is true although it has not been proved and other people may not believe it。
+　　翻译为“声称”，用这个词往往意味着不赞同紧跟其后的观点，所以很少用作‘I claim that…
+　　Scientist are claiming a breakthrough in the fight against cancer， but in fact， …。
+　　所以‘It is claimed that’通常翻译为“有报道称。。。”。和‘it is reported that ’的区别在于后者翻译为“据报道”，往往代表着作者赞同报告的内容，
+　　Consider： to think about sth carefully， especially in order to make a decision
+　　翻译为“考虑”，一般不用作引出观点，看个例子：
+　　We are considering buying a new car。
+　　所以，千万不要在雅思大作文的第一段(观点表达段)就因为用词把握不准而导致对整篇文章的低分印象。
+　　三、介词使用错误
+　　1、普通介词的误用
+　　一般表现为固定搭配错误，如常把provide sb with sth用成provide sb sth; be satisfied with用成be satisfied for等等，虽然这样的错误看似无伤大雅，但在考官眼里就是影响顺畅阅读的，当然会影响最终成绩。解决的办法简单而古老：把常见的固定搭配牢记于心，问题自然就解决了。
+　　2、 “to”作为介词的误用
+　　“to”最常见的用法是以动词不定式符号的形式出现的，所以同学们也已经习惯了“to do”的固定搭配。对于一些如walk to me， to the left等介词to表方向等常见用法一般也不会出现错误。但是对于与动词搭配的介词to就会经常犯错：
+　　如：
+　　More and more students have taken to depend on their parents to make decision for them。
+　　这里的‘take to’ means ‘to begin to do sth as a habit’其中‘to’为介词，所以后面只能接名词或相当于名词的词，如动名词。所以句中depend on 应改为“depending on”。“take to”的另一个常用用法也需要牢记：
+　　He hasn’t taken to his new school. (这里‘take to’ means ‘to start liking sb or sth’)
+　　Prefer A to B中的“to”也是介词，会有prefer doing sth to doing sth/ prefer sth to sth else，另外，“prefer to do sth rather than do sth”中的“to”可是真正的不定式符号。
+　　类似的常用用法请同学们牢记：
+　　Be used to doing
+　　Adapt to doing
+　　Adjust to doing
+　　prefer doing sth. to doing sth。
+　　Be accustomed to doing
+　　See to doing
+　　等等，请注意平时仔细积累。
+　　四、表“建议”的词汇后面忘记用虚拟从句
+　　这是摘自学生雅思作文中的一个病句：
+　　I suggest he continues his study instead of working after graduation from high school。
+　　因为‘suggest’翻译为“建议”，所以后面的从句应该用虚拟语气，句中“continues”部分应该改为“(should) continue”。
+　　在此，小编提醒您，一定要牢记以下常见表“建议”的词汇，而且要记住这些词接从句时要用虚拟语气：
+　　Recommend， suggest， advise
+　　五、compare与contrast的误用
+　　我们先从两者的定义入手来看两者的区别。 Compare的定义为：to examine people or things to see how they are similar or different. Contrast的定义为：to compare two or more things to show the difference between them。由定义不难看出前者侧重于找到两个或多个事物的异同，而后者则侧重于它们的不同。
+　　看个例句：
+　　It is interesting to compare their situations to ours./It is interesting to contrast their situations to ours。
+　　前一句翻译为：对比一下我们的情况与他们的情况会很有趣。
+　　后一句的翻译为：我们的情况与他们的情况有很大的不同，这很有趣。
+　　再看一个引自OXFORD ADBANCED LEARNER’S DICTIONARY的例子：
+　　There is an obvious contrast between the culture of East and West。
+　　The company lost $7 million in contrast to a profit of $6.2 million a year earlier。
+　　When you look at their new system， ours seems very old-fashioned by contrast。
+　　不难发现，Compare翻译为“与。。。相比”而contrast可译为“明显不同的是。。。”，切记这种翻译方式就不会用错彼此了。
+

@@ -1,0 +1,10 @@
+Linux 2.6被成功移植到iPhone上
+Linux被成功移植到iPhone(新浪科技配图)
+　　新浪科技讯 北京时间11月29日消息，据国外媒体报道，著名破解团队Dev Team日前将Linux 2.6内核成功移植到iPhone和iPod touch平台上。
+　　目前，Linux 2.6可支持一代和二代iPhone，以及一代iPod touch。当然，还有一部分驱动问题尚未完美解决，但毕竟为用户提供了新的选择。
+
+Linux被成功移植到iPhone(新浪科技配图)
+　　新浪科技讯 北京时间11月29日消息，据国外媒体报道，著名破解团队Dev Team日前将Linux 2.6内核成功移植到iPhone和iPod touch平台上。
+　　目前，Linux 2.6可支持一代和二代iPhone，以及一代iPod touch。当然，还有一部分驱动问题尚未完美解决，但毕竟为用户提供了新的选择。
+
+

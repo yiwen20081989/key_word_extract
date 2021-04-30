@@ -1,0 +1,4 @@
+红雪0.9.6RC14放出 iOS 4.3.2完美越狱
+　　随着苹果官方频繁的固件升级，美国专业黑客团队Dev-Team也及时的跟进，在iOS 4.3.2发布后不到一周，Dev-Team越狱工具红雪已经更新至redsn0w 0.9.6rc14版本（点击下载），该程序可以完美越狱iOS 4.3.2，此次发布的红雪R14版本依旧利用了之前的漏洞，相比R13增加了对iPhone 4的支持，不过遗憾的是此版本还不支持iPad 2设备。
+支持设备：iPhone 3GS (old + new bootrom)iPhone 4 (GSM)iPod Touch 3G (non-8GB model)iPod Touch 4GiPad 1
+

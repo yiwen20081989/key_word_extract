@@ -1,0 +1,6 @@
+谷歌将把全部YouTube视频转换为WebM格式
+　　新浪科技讯 北京时间4月20日晚间消息，谷歌周二宣布，所有新上传到YouTube网站上的视频都将被转换为WebM格式。
+　　谷歌在声明中称 ，将新视频转换为WebM格式只是第一步，接着还要把YouTube上全部视频转换为WebM格式，这将是一项艰巨的任务。目前，30%的视频已被转换成WebM格式。
+　　WebM是一个开源Web媒体文件格式，参与WebM项目计划的公司有Mozilla、Opera、AMD、Nvidia和甲骨文等。谷歌Chrome、Mozilla Firefox和Opera浏览器现支持WebM格式。
+　　谷歌同时指出：“我们将继续支持H.264视频格式，继续开发HTML5视频播放器。”(李明)
+

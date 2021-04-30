@@ -1,0 +1,10 @@
+宏达电CEO：来不及把Sense移植到WP7
+　　新浪科技讯，北京时间9月26日上午消息，据科技博客Engadget报道，HTC(宏达电)品牌的手机从Windows Mobile时代就开始使用自家开发的界面Touch FLO，之后又推出了Android平台的Sense界面，并大受消费者欢迎。而宏达电CEO周永明在一次接受采访时表示，Sense界面暂时不会出现在首批HTC出品的Windows Phone 7手机上。但他表示，Sense界面未来出现在HTC的WP7手机中，为消费者提供HTC品质的体验。
+　　Engadget文章认为，Sense之所以没有出现在首发的WP7手机上，是因为HTC正在开发更加深度定制的Sense界面，从而为消费者提供更好的体验。
+　　在这次访谈中，周永明还透露，HTC将在2011年推出LTE(长期演进技术)制式的手机，但并未透露任何有关运营商、设计和操作系统等信息。美国运营商中已有AT&T和Verizon确定支持LTE作为其4G技术，并将在2011年铺设LTE网络。
+　　在此之前，HTC已在美国市场推出第一款4G手机，支持WiMAX制式的Android手机EVO 4G，所以其计划推出LTE手机的消息并不让人惊讶。(张和)
+　　新浪科技讯，北京时间9月26日上午消息，据科技博客Engadget报道，HTC(宏达电)品牌的手机从Windows Mobile时代就开始使用自家开发的界面Touch FLO，之后又推出了Android平台的Sense界面，并大受消费者欢迎。而宏达电CEO周永明在一次接受采访时表示，Sense界面暂时不会出现在首批HTC出品的Windows Phone 7手机上。但他表示，Sense界面未来出现在HTC的WP7手机中，为消费者提供HTC品质的体验。
+　　Engadget文章认为，Sense之所以没有出现在首发的WP7手机上，是因为HTC正在开发更加深度定制的Sense界面，从而为消费者提供更好的体验。
+　　在这次访谈中，周永明还透露，HTC将在2011年推出LTE(长期演进技术)制式的手机，但并未透露任何有关运营商、设计和操作系统等信息。美国运营商中已有AT&T和Verizon确定支持LTE作为其4G技术，并将在2011年铺设LTE网络。
+　　在此之前，HTC已在美国市场推出第一款4G手机，支持WiMAX制式的Android手机EVO 4G，所以其计划推出LTE手机的消息并不让人惊讶。(张和)
+

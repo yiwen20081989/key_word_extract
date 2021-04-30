@@ -1,0 +1,29 @@
+雅思阅读：一起在剑8中快乐修炼
+　　今天详细突破剑8之Test1之Passage1。
+　　首先浏览题目，留下总体印象是：一共有三种题型，前两个题型是Matching题，而最后一个是填图题。
+　　然后进行分析，最后的填图题型，应该可以一眼判断是小段落的信息填空，不需要畏惧，顺着文章读下去，水到自然会渠成。
+　　而比较棘手的是前两个Matching题型，1-4题是Information Contained题，而5-8题则属于Traditional Matching题(也就是变形的人名与理论搭配题)，二者都是乱序的。
+　　再次确定和辨析完Matching题目的属性后，大家不禁心里多少会有些紧张吧。因为这类乱序的题目的确是比较棘手。但无论形式如何复杂，只要一步步按部就班的划出Key Words，再回原文定位，一切题目都是可以解决的。
+　　小贴士：
+　　所谓划出Key Words，就是找出题目中的重要信息点(通常也为考点所在)，使题干一目了然，最重要的还是确定了Key Words之后，能够顺利地返回原文进行定位，从而顺利解题。
+　　在此，小编就拙劣地给出一些自己的解题思路吧：
+　　1. KWs：cold temperature；与第4段中的freezing weather信息点相对应
+　　2. KWs：farming communities；与第2段中的agriculture信息点相对应。
+　　小编在此还要罗嗦几句。这题，小编自己也做错了，错误地定位到了第1段中的regulate planting and harvesting。
+　　所以，题目在这里还有一个重要的KWs一开始容易被忽略，那就是the importance of，与第2段中的crucial一词相呼应。
+　　如果两个KWs和相对应原文中的信息点都找对的话，这题就一定不会出错的~
+　　3. KWs：origins of the pendulum；与第6段末尾处中的a pendulum clock had been devised相对应。
+　　这题也比较容易出错哦，因为第6段中的信息点处于段末，容易被忽略；而在第7段前部分就出现pendulum，容易误判定位段。但把握住origins一词，出错的概率就会大大降低了。
+　　4. KWs：simultaneous efforts，different societies，uniform hours；与第5段后半段整体意思想符合。
+　　5. KWs：a civil calendar，months，equal in length；与第3段中的municipal calendar，12months of 30 days想对应。
+　　6. KWs：day in two equal halves；与第5段中的split the day into two 12-hour period相对应。
+　　这里小编还要?嗦一句，这题迷惑性也比较大，容易错误定位到第3段。
+　　7. KWs：a new cabinet shape，timekeeper；与第6段中的the revolutionary，new timekeeper相对应。
+　　8. KWs：organize public events and work schedules，与第1段中的coordinate communal activities相对应。
+　　刚刚讲到9-13题是填空题，并且已经断定是定位至小段落的填空，KWs为escapement。故在读文章的过程中，定位至了第7段，并且一定能够在3分钟之内将其解决。
+　　9. KWs：resembling；与第7段中的like相对应，但由于该题型总的要求是填空内容不超过两个字，所以原文的a ship’s anchor要进行缩减为(ship’s/an)anchor。
+　　10、11、12题可以较为轻松地依次在文章中找到相对应的名词填入。
+　　13. KWs：beat each；与原文中的beat once a second相对应。
+　　吁~ 一篇阅读剖析完毕，回过头来再做一个总结吧，通过这13道题的设置，可以看到，出题者是秉持着平均分配的原则的，每个段落都至少涉及到了一个考点。所以大家也可以参考雅思阅读的这一特点，在做了一部分题，而剩下的题毫无头绪的情况下，根据平均出题原则进行策略性定位，跳转至没有涉及到考点的段落，说不定会柳暗花明的哦！
+　　小编在此的拙见也只是起到抛砖引玉的作用啦~ 大家看了之后，有没有有一些领悟，有没有感到技痒难耐呢？有没会觉得其实雅思阅读没有那么复杂，也想试试身手呢？那就拿出剑8，翻到Test1的剩下两篇阅读开始大展身手吧！在完成后也别忘了和小编一样自己做一个小总结哦~
+

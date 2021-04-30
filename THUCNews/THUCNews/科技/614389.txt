@@ -1,0 +1,10 @@
+夏普推出移动互联网工具NetWalker
+    NetWalker PC-Z1的尺寸只有161.4×108.7×19.7-24.8毫米，重约409克，硬件配置方面没有基于Intel Atom平台，而是采用飞思卡尔的i.MX515多媒体应用处理器，其他主要还有：5英寸LED背光TFT LCD触摸屏(分辨率1024×600)、512MB主内存、4GB闪存(实际可用约2GB)、68键QWERTY键盘(键距14毫米/键程0.8毫米)、microSD/microSDHC存储卡插槽(最大容量16GB)、支持Wi-Fi 802.11b/g无线网络、3.5毫米音频口、USB 2.0和miniUSB 2.0接口。
+　　电池续航时间号称可达10小时左右，但具体使用的电池规格没有披露。
+　　NetWalker PC-Z1预装了夏普特别定制版Ubuntu 9.04 Smartbook Remix操作系统，只需3秒钟即可启动，还自带了大量软件，比如Firefox浏览器、Adobe Flash Lite插件、Thunderbird邮件客户端、OpenOffice.org办公套件、Sunbird日程表软件、Totem多媒体播放器、gedit文本编辑器、Document Viewer文件查看器、LC Font系列字体等等。
+ 
+ 
+　　夏普还计划为其提供丰富多彩的附加内容，诸如语言和专业词典、小说、漫画，将其打造成一部电子词典和电子书。
+　　NetWalker PC-Z1系列有黑(PC-Z1-B)、白(PC-Z1-W)、红(PC-Z1-R)三种配色，其中前两种9月25日先行上市，红色版10月底跟进，建议零售价均为44800日元，约合人民币3265元。目前这种产品仅面向日本国内市场，是否/何时推向海外尚不得而知。
+ 
+

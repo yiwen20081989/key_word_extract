@@ -1,0 +1,8 @@
+VIA首款ARM SoC上网本亮相台北电脑展
+    VIA子公司WonderMedia推出ARM9 SoC处理器 SmartBook产品曝光
+　　VIA于Computex 2009大会上展出由子公司WonderMedia所设计的ARM9架构SoC处理器，并组成WonderMedia PRIZM平台，它内置ARM926EJ/ARM1176JZF运算核心，2D/3D绘图核心并支持OpenGL ES 2.0、OpvnVG 1.1 ，更重要的是它内建Video Decoder，支持JPEG、MPEG1/2/4 、H.264、VC-1及Realplay硬体解码。配合Linux或Android操作系统，目的在于进军机顶盒、电子相架、MID及Smartbook市场。
+　　现场展出了一台采用WonderMedia WM8510芯片的Smartbook为在内地推出的 Firstview PC-706 ，体积为215×150×28 ，采用Linux操作系统，7寸LCD屏幕分辨率为800×60。 据VIA表示，WonderMedia PRIZM平台用途广泛，未来WonderMedia将继续基于ARM架构研发更多SoC处理器产品，现时已有多家多媒体播放器、机顶盒厂商决定采用此平台。
+　　编辑点评：ARM处理器可能在上网本市场还不足以撼动英特尔的地位，产商也有自己的生产计划，就是先占据视频播放等电子产品的市场在说。从现在的情形上来看，英特尔也想依靠Atom Z系列处理器来竞争手机等电子产品市场。在上网本方面，ARM的性能还没有英特尔的好，这点也是毋庸置疑的。Android这样的新兴操作系统也需要和ARM合作。
+　　软件方面，如果没有好的应用软件开发出来，其实这样的上网本的实用性还是比较局限的。另外还有，Realplay都有硬解……
+
+

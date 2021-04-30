@@ -1,0 +1,7 @@
+传新一代Mac Pro将搭载Intel特制处理器
+　　上周末有消息传出，称苹果将在7月底8月初推出新款Mac Pro和Mac mini台式机。日前，有媒体已经宣称得到了有关两款新机的具体消息。
+　　首先对于Mac mini，预料之内的升级包括搭载Intel Sandy Bridge处理器和Thunderbolt接口。由于Sandy  Bridge CPU已经内置集成显卡，并且NVIDIA已经没有授权生产针对它的集成显卡芯片组，新Mac mini将和目前的低端版本MacBook  Pro一样，放弃NVIDIA集显，直接使用Intel芯片组+处理器集成显卡方案。
+　　关于Mac  Pro，和之前的传言类似，新消息称它的服务器版本将支持机架式安装，取代已经停产的Xserve，弥补苹果在机架式服务器产品线上的空缺。至于平台，由 于到8月初发布时Intel的Sandy  Bridge架构双路Xeon处理器还未发布，据称苹果将提前得到Intel专门为其准备的处理器型号。这在苹果和Intel的特殊照顾关系式上早已不是 第一次了。
+　　另外，苹果的无线路由产品AirPort Extreme和Time Capsule已将迎来升级。据称新款机型将重新设计，散热更佳。Time  Capsule内置硬盘将写入苹果自行编写的固件(新iMac已是如此)，功耗更低。AirPort  Extreme将内置6天线，信号更强劲。另外，新AirPort Extreme和Time Capsule都将配合Mac OS X  Lion/iOS 5操作系统，实现iCloud云计算服务的本地缓存功能。
+　　最后还有刚刚曝出的MacBook Air将有黑色版消息。有苹果员工曝料称，苹果确实测试过对MacBook Air甚至MacBook  Pro的铝合金外壳进行黑色喷粉工艺处理，苹果公司总部大楼内内曾出现过多台这样的工程样机。不过，最终的效果并不算好。黑色涂层会吸附人体上的油脂，导 致笔记本腕托处油光发亮，这一问题让乔布斯大倒胃口，最终否决了这一方案。
+

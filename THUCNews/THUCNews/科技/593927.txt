@@ -1,0 +1,13 @@
+黑客发布iOS 4.1永久越狱程序 
+图为Geohot放出的iOS设备越狱图
+　　新浪科技讯 北京时间10月10日下午消息，据国外媒体报道，著名黑客Geohot本周六提前两天发布了iOS越狱软件LimeRa1n的RC版(最终预览版)，支持系统版本在4.0到4.1之间的iPhone 3GS、 iPod Touch三代、iPad、iPhone 4和iPod touch四代。目前该软件仅支持Windows下运行。
+　　用户可以到其官方网站http://limera1n.com下载使用。
+　　LimeRa1n目前已知Bug：
+　　1.安装完Cydia之后需要重启设备才能看到Cydia图标
+　　2.仅支持Windows
+　　3.不支持beta测试版的iOS
+　　4. limera1n程序无法卸载。
+　　5.iPod touch二代暂不支持，正在开发中。
+　　此前，越狱黑客小组Chronic Dev Team宣布10月10日发布greenpois0n越狱软件，但仅适用于使用最新A4处理器的iOS 4.1设备。这使得众多iOS老用户感到失望。但随后另一个黑客小组iPhone Dev Team发布了适用于iPhone 3G和iPod touch二代的redsn0w 0.9.6 beta 1软件。
+　　Geohot本名乔治·霍茨(George Hotz)，被称为是第一个越狱iPhone的黑客。尽管Geohot曾关闭自己的Twitter帐号并保持低调，但他一直非常热爱iOS越狱工作。新版Limera1n利用了iOS设备中的bootrom漏洞，因而不会像Jailbreakme那样被苹果利用固件更新打上补丁。(张和)
+

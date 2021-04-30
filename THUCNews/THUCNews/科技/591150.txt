@@ -1,0 +1,5 @@
+VMware将收购母公司EMC数据中心管理软件
+　　新浪科技讯 北京时间2月26日早间消息，据国外媒体报道，全球虚拟化解决方案提供商VMware周四宣布，将收购母公司EMC的数据中心管理软件。
+　　VMware称，该公司将以2亿美元的价格收购EMC Ionix管理软件系列产品及专业技术，这种软件的用途是在数据中心管理服务器和应用程序，将被用于补充VMware的vCenter和vSphere虚拟化软件。具体来讲，VMware将收购FastScale、Application Discovery Manager、Server Configuration Manager和Service Manager等应用程序。
+　　预计这项交易将在2010年第二季度完成，EMC将继续以经销商身份来提供Ionix产品。VMware是EMC旗下全资子公司，收购完成后将负责Ionix产品系列的业务运营和相关员工的管理。(唐风)
+

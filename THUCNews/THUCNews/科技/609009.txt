@@ -1,0 +1,6 @@
+近似DROID 3 MOTO DROID Bionic用TI芯片
+    文/马千里
+　　摩托罗拉DROID 3，摩托罗拉DROID Bionic，它们是继Atrix  4G之后双核军团的新生力量，不过这两款设备还没有完全曝光，目前也只有一些硬件参数方面的猜测。不过关注过DROID  3这款产品朋友或许知道，之前国外媒体曝光过DROID 3一项跑分，测试数据中显示它可能使用的是TI OMAP  4系处理器，现在，摩托罗拉DROID Bionic可能会步DROID 3后尘，放弃Tegra 2，选择TI OMAP 4。
+　　也许很多朋友看到这则消息并不会感到吃惊，因为摩托罗拉Android产品一直使用的都是TI OMAP 4系处理器，不过Atrix  4G却是Tegra  2阵营的典型代表，业内人士认为，如果摩托罗拉采用两家厂商的双核处理器芯片，其产品可能会产生比较明显的竞争关系。如果在DROID 3和DROID  Bionic正式上市后，我们对于摩托罗拉未来发展之路可能会看得更加清晰。
+　　据悉，摩托罗拉DROID Bionic将采用双核1GHz的TI OMAP 4系处理器，配有PowerVR SGX  540图形处理芯片，装有一块4.3英寸的屏幕，分辨率为qHD。除此之外，摩托罗拉DROID Bionic还将搭载Android  2.3.3智能系统，未来有可能会升级到更高版本的操作系统，相信很多用户对Google Talk都充满了好奇，这也将摩托罗拉升级操作系统的动力。
+

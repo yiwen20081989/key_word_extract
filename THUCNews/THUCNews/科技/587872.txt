@@ -1,0 +1,10 @@
+微软推出Windows 7候选发布版
+　　新浪科技讯 北京时间4月30日晚间消息，据国外媒体报道，微软今天宣布，发布外界期待已久的最新操作系统Windows 7的RC版本(候选发布版)。
+　　目前，MSDN和TechNet的注册用户可以访问technet.microsoft.com下载，5月5日以后，微软将在“微软下载中心”(microsoft.com/downloads)向更多的用户开放下载，该版本根据全球数百万用户和合作伙伴的反馈进行了完善。RC版的发布意味着该操作系统已进入最终开发阶段，并为合作伙伴开发新应用程序、设备驱动和服务，以及为IT专业人员评估Windows 7及检查该操作系统在他们的环境中如何运行做好了准备。
+　　微软Windows 7更新后的最低配置要求为：
+　　1GHz 32-bit(x86)或64-bit(x64)处理器
+　　1 GB RAM(32-bit)或2 GB RAM(64-bit)内存
+　　16 GB(32-bit)或20 GB(64-bit)硬盘空间
+　　内置Windows Display Driver Model 1.0的DirectX 9显卡。(志伟 肖恩)
+
+

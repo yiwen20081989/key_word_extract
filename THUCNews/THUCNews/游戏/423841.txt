@@ -1,0 +1,5 @@
+用手柄作游戏 微软发布游戏制作工具
+　　美国微软公司于6月30日开始提供X360用游戏制作工具Kodu Game Lab的下载，售价为400微软点数。
+　　Kodu Game Lab是一款“制作游戏的游戏”，玩家可以使用Kodu Game Lab自己制作X360游戏，并通过Xbox LIVE上传给其他玩家游戏。
+　　在此之前微软曾提供过‘XNA Game Studio’以及‘Visual C＃ 2008 Express Edition’游戏开发工具，而此次的Kodu Game Lab是所有游戏开发工具中最简单易行的，玩家只需要使用X360手柄就能够比较简单的制作游戏。
+

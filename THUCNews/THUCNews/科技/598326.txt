@@ -1,0 +1,7 @@
+传新版Mac OS和iTunes将比iOS更早支持iCloud
+　　新浪科技讯 北京时间10月10日上午消息，据日本科技博客Macotakara报道，苹果Mac OS X Lion、iTunes将在本周进行更新，率先支持iCloud云服务。
+　　消息称，针对Mac用户的软件更新将早于10月12日的iOS 5发布，预计将在本周一或周二正式发布。
+　　虽然苹果此前并未官方表示，Mac OS X Lion、iTunes是否需要更新才能兼容iCloud云服务，但是测试人员一直在使用尚未正式发布的Mac OS X 10.7.2和iTunes 10.5进行iCloud云服务测试。
+　　iCloud将于10月12日与iOS 5一同发布。
+　　上周二，苹果发布了GM版Mac OS X 10.7.2，这就意味着该系统的开发已经完成，即将发布。不过iTunes 10.5目前还处于Beta测试阶段。(晓明)
+

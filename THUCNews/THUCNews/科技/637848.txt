@@ -1,0 +1,6 @@
+传微软为WP7开发视频聊天应用对抗Facetime
+　　新浪科技讯 北京时间1月12日早间消息，据一名微软员工透露，该公司将为Windows Phone 7平台开发一款类似于苹果Facetime的视频聊天应用。
+　　该员工表示，这款应用有望与微软Live服务绑定，从而使之能够普及到更多的平台和设备中。在被问及为何不干脆使用Skype时，该员工称，这款产品将超越Skype。
+　　由于微软一直在努力提升Windows Phone 7的功能，因此业内人士认为，这一消息较为可信。但该员工并未透露这款视频聊天应用何时会登陆Windows Phone 7或Windows Phone 8平台。他还暗示，Windows Phone 8有可能会将前置摄像头列为必备配置。
+　　另外两位用户名为@justinangel和@tomhounsell的Twitter网友发送的Microsoft.Phone.Media.Extended.dll文件截图显示，微软的确在开发一款前置摄像头应用。(书聿)
+

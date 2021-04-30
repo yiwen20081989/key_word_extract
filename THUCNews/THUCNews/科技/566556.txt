@@ -1,0 +1,6 @@
+Facebook邮箱可直接打开附件内Office文档
+　　新浪科技讯 北京时间11月17日凌晨消息，Facebook刚刚发布的电子邮件系统整合了微软在线办公软件套装Office Web Apps，可直接打开附件中的Office文档。
+　　分析人士称，Facebook电子邮件系统也许并未对谷歌Gmail构成正面冲击，但这并不意味着谷歌可以高枕无忧。该系统与Office Web Apps进行整合，使Facebook拥有了一套更为完善的商务工具，直接与谷歌企业应用套装Google Apps竞争。
+　　微软IW News Bites博客称：“用户可以在Facebook邮箱内利用Office Web Apps直接查看Word、Excel和PowerPoint格式的附件。” 此外，那些并未在本机上安装Office软件的Facebook用户也可以免费使用网页版Office，并在Facebook邮箱中添加Office文件作为附件。微软博客称：“如果在本机上安装Office软件，则可以将附件下载到本地，进行修改和保存。”
+　　Facebook首席执行官马克·扎克伯格(Mark Zuckerberg)在发布会上称，用户并不会立即放弃现有的Gmail账户，转而使用Facebook邮箱。Facebook的电子邮件系统并非Gmail的直接对手，它是一个统一的通讯平台，而不是一种简单的基于网页的电子邮件服务。(彦飞)
+

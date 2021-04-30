@@ -1,0 +1,10 @@
+Feedburner被谷歌收购后境况更糟
+　　新浪科技讯 北京时间1月23日上午消息，据科技博客TechCrunch报道，TechCrunch创始人迈克尔·阿灵顿(Michael Arrington)周四表示，RSS内容管理服务商Feedburner被谷歌收购后，反而变得更加糟糕。
+　　Feedburner自推出以来，用户的抱怨声就从来没有停止过。2007年5月被谷歌并购后，用户原以为Feedburner将从此飞黄腾达，而事实却并非如此。
+　　Feedburner的问题不但没有得到解决，反而越来越不稳定了。在整合并购企业上，谷歌一向属于“慢热型”，这一次也不例外。
+　　包括TechCrunch在内的很多网站依靠RSS来进一步传播内容，据阿灵顿称，近200万TechCrunch读者通过RSS浏览TechCrunch内容，很多甚至从来未登录过TechCrunch网站。
+　　对于这些网站而言，如果Feedburner无法正常工作，那自然是糟糕至极。阿灵顿称，Feedburner的最常见问题是“反应迟钝”，新闻通常被延迟几分钟甚至更长时间。
+　　2008年12月，谷歌关闭了Feedburner博客，并推出了基于广告的Feedburner news。很明显，谷歌希望通过在RSS内容中插入广告获利。阿灵顿对谷歌此举给予了肯定，但表示，谷歌必须要重视服务质量。
+　　阿灵顿称，他对Feedburner出故障已习以为常，好比家中停电一样。 
+
+

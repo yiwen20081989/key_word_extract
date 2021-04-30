@@ -1,0 +1,58 @@
+2011四级考试阅读选词填空技巧汇总
+　　大学英语四级考试的阅读部分，除了传统的两篇仔细阅读和一篇快速阅读，还有一种让考生普遍头痛的考法：选词填空。
+　　选词填空的考察形式是：一篇280词左右的文章，文章中挖出10个空，并统一给出A-O15个备选答案。
+　　选词填空区别于完形填空，有更大的解题难度，原因在于：
+　　1. 完形填空每题都是四选一，选词填空第一题要十五选一，就算用到排除法，最后一题也要六选一，而且在十五个选项中还有五个根本不会用到，难度加大；
+　　2. 完形填空每题的四个选项都是统一的词性，只需要辨析词义、搭配就基本可以作答，而选词填空的十五个选项有多个词性，解题时需要同时判断词性和词义，难度加大；
+　　3. 完形填空每题的四个选项往往都是统一时态，统一形式，而在选词填空中会涉及选项的动词时态、第三人称单数形式、被动主动语态，名词的单复数等的辨析，难度加大。
+　　因此，针对选词填空的解题方法分为三步：
+　　1. 预览选项，了解词义并把选项分为四大类词性：名词n，动词v，形容词a，副词ad，在每个选项后作词性的简要标记；
+　　2. 精读全文开头，把握文章主题，并以三个空或一个段落为一个单位，利用前后文判断每空的词性；
+　　3. 把对应词性的选项逐一带回原文，含义通顺，时态、主谓搭配一致的为正确选项。
+　　四级考试的常用后缀在判断选项词性时可以有一定帮助作用：
+　　常见名词后缀：
+　　-sion，-tion，如：starvation，attraction，profession
+　　-ity，如：quality，diversity
+　　常见动词后缀：
+　　-ate，如：estimate，generate
+　　-en，如：widen，worsen
+　　常见形容词后缀：
+　　-able，如：stable，affordable
+　　-tive，-sive，如：destructive，excessive ，sensitive
+　　-ous，如：unconscious，enormous
+　　常见副词后缀：
+　　-ly，如：deliberately，completely，remarkably，
+　　在根据前后文判断每空的词性时，一些经常考察的形式如下：
+　　名词：
+　　通常来说，冠词(如a，an，the)、形容词、介词后面搭配名词，即“a/an/the/adj./prep. + n。”，举例说明：
+　　Education soon became a _____.  冠词a后面加可数名词的单数形式，正确答案是nightmare，这句话的意思是“教育很快成了一种噩梦。”
+　　As the trade winds lessen in _____, the ocean temperatures rise causing the Peru current flowing in from the east to warm up by as much as 5 degrees. (06-6) 介词in后面加名词，正确答案是strength，这句话的意思是“当信风强度减弱的时候，海洋温度上升，导致从东部流入的秘鲁洋流上升了5摄氏度之多。”
+　　较难的一个例子：Husbands and children now do some of these jobs, a ____ that has changed the target market for many products. (06-12) 这里可以用两种判断方法来判断横线处所填词的词性。第一种方法，用句子结构来判断，前面一句话，husbands and children now do some of these jobs，这是一个完整的句子，主语husbands and children，谓语动词do，宾语some of these jobs；后面的that引导的是一个同位语从句，它所修饰的中心词就是a后面需要填的词，而定语从句的中心词是名词，所以横线处应填一个名词。第二种方法，根据刚才所说的“a + 名词”的语法规则来判断，横线处应该填一个名词，而且是一个可数名词的单数形式。正确答案是situation。这句话的意思是“丈夫和孩子现在也做一些这样的工作了，这种情况就改变了许多产品的目标市场。”
+　　动词：
+　　动词的考点很多，我们来看其中三种：
+　　1. 主语后缺谓语动词。
+　　举例说明： 
+　　He ____ from his teachers, came home in tears and thought about dropping out. 在这句话里，主语是he，本来后面应该有一个动词作谓语，但是这里没有动词，而是在横线后面出现了一个介词短语from his teachers，这样这句话就缺少谓语动词，所以横线上应该填一个动词。正确答案是hid，这句话的意思是“他不愿见老师，哭着回家，想要退学。”
+　　That’s why a growing number of hospitals now depend upon physicians who ___ in pain medicine. (07-6) 在这句话里，who___ in pain medicine是physicians的定语从句，这个定语从句的主语是who，后面也没有跟动词作谓语，而是直接出现了一个介词短语in pain medicine，因此横线上应该填一个动词，而physicians是复数，这就决定了who也是复数，这样横线所填的动词应该与主语性数搭配一致。正确答案是specialize，这句话的意思是“这就是为什么，越来越多的医院现在都依赖上了止痛药配给专家。”
+　　2. 当出现“一个完整的句子 + ，____ + 名词/介词”的结构时，逗号后边的部分是伴随状语，表示伴随状态或者表示原因，应当填动词加ing形式或动词加ed形式。当这个动词与句子主语是主动关系，填动词加ing形式，当两者是被动关系，填动词加ed形式。
+　　举例说明：
+　　The rainfall is increased across South America, ___ floods to Peru. (06-6) 根据独立主格结构原则，应该填动词ing或动词ed，选项中只有bringing符合要求。从意思来看，bring“带来”与rainfall“降雨”之间是主动关系，即“the rainfall brings floods”，所以用bringing无论从意思上还是结构上都符合要求。
+　　3. 横线处如果填谓语动词，往往与上下半句的谓语动词时态一致。
+　　举例说明：
+　　In particular, when older patients ___ of pain, they were told it was a natural part of aging and they would have to learn to live with it. (07-6) 上半句when的从句里有主语patients但没有谓语，因此横线处填谓语动词。下半句的谓语动词为were和would都是一般过去时，因此横线里填一个一般过去时的谓语动词。正确答案是complained。
+　　形容词：
+　　当出现“a/the/the most/more +___+名词”的结构时，横线处通常填形容词
+　　举例说明：
+　　The 1982-83 EI Nino brought the most _____ weather in modern history.  (06-6) the most后面加形容词，表示形容词的最高级。正确答案是destructive。
+　　副词：
+　　1. 当一句话完整的时候，句尾的空往往是副词。
+　　举例说明：
+　　Today, we lake pain _____.  (07-6)这句话有主语we，谓语lake，宾语pain，表达完整的意思，句尾判断应该填副词。正确答案是seriously。
+　　2. 当一句话出现“主语 + ___ + 谓语”的情况时，横线处通常填副词。
+　　举例说明：
+　　In Arizona and Texas, bilingual students ____ outperform their peers in monolingual programs。主语是students，谓语是outperform，两者之间通常填副词。正确答案是consistently。
+　　记背选词填空选项的重点范围：
+　　1. 历年曾经考过的复合式听写的单词
+　　2. 历年曾经考过的完形填空的选项，仔细阅读态度题的选项
+　　3. 历年曾经考过的真题中的高频词汇
+

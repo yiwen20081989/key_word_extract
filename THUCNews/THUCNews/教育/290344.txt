@@ -1,0 +1,30 @@
+名师指导：巧答大学英语六级阅读中的填空题
+　　作者：北京新东方学校 屠皓民
+　　快速阅读和简短回答题是新六级阅读理解中的转换题型，但结合了书面表达。快速阅读和简短回答题的目的在于考察学生阅读理解能力和书面表达能力。一方面它要求考生有较高的短文理解能力；另一方面，要求考生在正确理解的基础上精练而迅速地回答文章后的问题。而快速阅读和简短回答题有一个共同点，都进行填空题型的考察。2007年12月的考试，快速阅读中考察了三题，简短回答题中考察了五题。由此可见，填空题型还是六级出题者比较青睐的考察形式。因此，考生应该在最后的半个月的时间里掌握好填空题的做题要领，在考试中争取在填空题型上有更大的收获。
+　　所谓的填空题就是根据文中的信息将句子补充完整(complete the sentences with the information given in the passage)。既然是补充完整，那说明考卷中所提供的原句是缺少成分的；用文中的信息填补缺少的成分，也就说明了我们必须要返回原文，在文中寻找作者所提供的信息。
+　　这样一来，问题的解决其实就转变成了对于考生英语基础句子结构的考察。填空题的题干本身就是一个有残缺的句子，所残缺的部分必定在原句中充当一定的句子成分。而句子的成分问题无非就是我们高中学过的主谓宾、主系表、定状补等语法问题，一旦残缺部分的句子成分确定了，它的语法结构也就随之确定了。是添动词，副词，还是形容词，是添名词性结构，我们在构造答案之前都可以做到心中有数。
+　　总结起来，要在六级考试中做好填空题，我们应该从三个角度出发，一是分析出题者提供的句子，查找缺少的成分，二是利用题干关键词在文中定位答案的所在范围，三是结合题干，填入符合语法结构的成分，使句子完整并忠实于原文。
+　　例题1：Energy service contractors profit by taking a part of clients’ ____.(2007年12月22日CET6，NO.8)
+　　解析：
+　　① 寻找题干中缺少的成分：根据我们在名词语法中所学的，所有格后面应该是接一个名词性结构，表达的含义应该是“顾客的什么东西”。
+　　② 利用题干的关键词定位答案范围：利用关键词Energy service contractors返回原文定位到了这样一句话：“Energy service contractors” will pay for retrofitting (翻新改造) in return for a share or the client’s annual utility-bill savings.
+　　③ 补充完整题干，符合语法，忠实原文：对比原文我们发现client’s 之后的annual utility-bill savings正是我们要找的属于clients的东西。正确答案也就是“annual utility-bill savings”。
+　　例题2：Many environmentalists maintain the view that conservation has much to do with ______(2007年12月22日CET6，NO.9)
+　　解析：
+　　① 寻找题干中缺少的成分：这道题的残缺成分是with的宾语，同样应该是一个名词性结构。
+　　② 利用题干的关键词定位答案范围：根据关键词Many environmentalists和conservation我们定位到了原文中的这句话：In many people’s minds, conservation is still associated with self-denial. Many environmentalists still push that view. that view自然指代的是上面的conservation is still associated with self-denial这句话。
+　　③ 补充完整题干，符合语法，忠实原文：很明显，with的宾语就是self-denial，在逻辑上self-denial和conservation也通过associated with联系了起来，而且associated with正是much to do with的同义转换，所以这道题的正确答案就是“self-denial”。
+　　例题4：Like women, men hope that their desire for a flexible schedule will be ___(2007年12月22日CET6，NO.49)
+　　解析：
+　　① 寻找题干中缺少的成分：题干中要求在be动词后面的补全残缺成分，而可以放在be动词后面的可以是名词，形容词，从句，但是最有可能的应该是done/doing的动词结构。
+　　② 利用题干的关键词定位答案范围：利用题干中的关键词desire for a flexible schedule，返回原文寻找答案范围。在原文中有这么一句话：As much as if not more so than women, fathers struggle to be taken seriously when they request flexible arrangements.只是原文和题干的关键发生了同义替换，这也是这次考试中非常明显的一种趋势，就是关键词在原文中进行了同义替换。男人struggle to表达了一种强烈的愿望，并且这种struggle to是在request flexible arrangements的时候产生的，一个request flexible arrangements和一个struggle to正是题干中desire for a flexible schedule的同义转换，
+　　③ 补充完整题干，符合语法，忠实原文：我们只需找到be后面的内容就可以了。“taken seriously”就是我们要填的正确答案。
+　　例题5：When Maring was on paternity leave, he was allowed by his company to work ____(2007年12月22日CET6，NO.50)
+　　解析：
+　　① 寻找题干中缺少的成分：题干中的主谓宾结构是完整的，那么残缺成分只能充当状语的作用，而在句子中已经有了一个when引导的时间状语从句，所以，残缺成分很有可能是一个表示地点的状语。我们也注意到了这个残缺成分与work构成了逻辑关系，表示的是“工作的地点”。
+　　② 利用题干的关键词定位答案范围：根据关键词返回原文我们找到了这样一句话：When Maring had a daughter, the company equipped him with a home office and allowed him to choose a job that could be performed from there.
+　　③ 补充完整题干，符合语法，忠实原文：原文中表示地点的词就是there，那么there指代的是哪里呢？不难看出应该是前半句话company equipped him with a home office，there指的就是a home office。正确答案也就顺理成章地有了：“in a home office”。
+　　这个时候我们发现，我们无需去了解原文句子的具体意思，只要对于题干的结构清晰，对于残缺成分与已知成分的逻辑关系清晰，即使看不懂原句我们也可以做对。但是还有一点需要我们提高警惕，我们在填空过程中要尽量避免类似(1) 主谓不一致；(2) 时态不对应； (3) 代词、冠词及其它的限定词使用不当；(4) 动名词、分词及动词不定式使用不当； (5) 强调、倒装、省略(6)开头单词不注意大写等句型使用不当等一些错误，这样才能做到句子完整，忠实原文，符合语法，精确没有漏洞。 
+    更多信息请访问：新浪四六级频道 四六级论坛 四六级博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

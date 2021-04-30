@@ -1,0 +1,6 @@
+维基解密支持者黑掉MasterCard官网
+　　新浪科技讯 北京时间12月8日晚间消息，国际信用卡组织MasterCard官方网站mastercard.com遭受黑客攻击，目前已无法访问。
+　　黑客此举旨在支持维基解密(WikiLeaks)，原因是MasterCard切断了维基解密募款通道。据分析，MasterCard此次遭受的攻击与瑞士邮政旗下PostFinance网站遭受的攻击为同一黑客组织所为。
+　　PostFinance以维基解密创始人朱利安·阿桑奇(Julian Assange)不能提供瑞士公民身份证明为由，关闭了他的账户。PostFinance周三证实，自从周一关闭阿桑奇账户后，其网站就遭到了黑客攻击。
+　　上周五，eBay旗下网络支付处理商PayPal宣布，停止维基解密的账户和服务，这意味着维基解密将无法通过PayPal获得资金。几个小时之后，PayPal就遭到了黑客攻击。(李明)
+

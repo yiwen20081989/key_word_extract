@@ -1,0 +1,6 @@
+Google：不会开发Chrome OS平板机
+　　Google I/O大会的第二天，内容全部都是关于Chrome的，但是对于那些盼望着Chrome OS平板机的人来说，Google并没有带来什么好消息。Google Chrome高级副总裁Sundar Pichai在会后的问答环节直言不讳，称Google不会开发Chrome OS平板机。
+　　Pichai指出：“Chrome OS是一种新的体验，从某种意义上说它在硬件需求方面还是不可知论者。当前我们将百分百的精力都放在笔记本上，超过90%的网上冲浪都可以在笔记本上实现，这就是今天我们正在努力的平台，而且我们不打算采用其他平台。”
+　　除了Chrome OS，Google还在会上展示了运行在Google TV上的Android 3.1系统，可以看到新系统的支持更加完善，界面也十分美观，第三方电视应用例如Napster和Pandora也已经可以在3.1版上运行。Android团队表示，今后开发人员可以使用Android 3.1的SDK为Google TV开发应用程序。
+　　Google还宣布了Google TV的硬件合作伙伴，包含三星、台湾瑞轩科技(Vizio)、罗技和索尼，预计今年夏天我们就能见到这些厂家生产的Google TV。
+

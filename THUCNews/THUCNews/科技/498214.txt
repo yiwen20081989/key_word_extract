@@ -1,0 +1,3 @@
+双核架构 黑莓PlayBook处理核心大曝光
+　　黑莓RIM的PlayBook处理核心日前在CES 2011上公开，据悉是采用来自德州仪器（TI）的OMAP 4430，属于ARM Cortex A9双核架构，频率为1GHz。官方数据相较于OMAP 3（Motorola Droid、Droid X采用）的续航力高出一倍，整合PowerVR SGX540 GPU，同时还支持1080P全高清视频解码。 
+

@@ -1,0 +1,3 @@
+Intel发Socket G1 移动四核Core i7
+　　近日，我们从日本网站AKIBA上面了解到，Intel已经开始发售Socket  G1对应笔记平台的四核心处理器。它同属于Core i7家族，处理器主频1.73GHz、L3缓存容量6MB、TDP为45W。可以支持Hyper-Threading与TurboBoost。目前售价为39800日圆。
+

@@ -1,0 +1,6 @@
+黑莓宣布下一代操作系统,支持手机和平板
+　　在今天的黑莓开发者大会上，RIM联合CEO Mike Lazardis向开发者介绍了黑莓的下一代操作系统BBX，BBX将支持黑莓智能手机、平板电脑以及其他设备.
+　　
+　　BBX将在明年用于驱动黑莓的智能手机和平板电脑，Lizardis承诺新一代操作系统将整合黑莓现有智能手机操作系统以及他们去年收购的QNX操作系统。
+　　支持BBX平台的开发环境包括HTML5、Adobe Air、本地C/C++，以及在BBX系统上运行Android程序的BlackBerry Runtime等。
+

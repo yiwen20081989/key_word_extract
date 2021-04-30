@@ -1,0 +1,4 @@
+东芝双屏本Libretto W100在香港上市
+　　Toshiba Libretto W100这部双屏幕手提电脑终于香港上市，其采用 7寸双电容式屏幕，支持 1024X600 解析度，采用  Intel Pentium U5400 1.2Ghz 处理器、2GB DDR3 1066Mhz 内存、62GB SSD，并使用 WIndows 7 Home  Premium 系统，重量达 819g，售价 HKD,800。
+　　Toshiba Libretto W100 在香港的售价较早前在国际的价格 USD,100 有一定差距，而且根据主站的动手玩报告，Toshiba  Libretto W100 CPU 产生的热量及风扇噪音也偏高，看来仍有需要改善的空间。
+

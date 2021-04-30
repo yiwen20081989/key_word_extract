@@ -1,0 +1,8 @@
+IBM收购数据分析软件公司Exeros
+　　新浪科技讯 北京时间5月5日晚间消息 据国外媒体报道，IBM周二宣布，收购数据分析软件公司Exeros，以扩大该公司商业分析咨询部门服务范围。
+　　Exeros开发的软件可以自动搜索不同数据库之间的关联，该公司称这是数据质量出众及数据集成项目的首要条件。
+　　IBM称，该公司计划将Exeros工具与其信息管理系列软件集成。该系列软件中的一部分是IBM于2007年11月以50亿美元收购Cognos后获得。IBM称，Exeros软件可降低数据存储成本、控制数据管理。IBM商业分析和优化服务部门的咨询师使用的就是Exeros软件，该部门是IBM在重组全球商业服务的咨询业务后于上月成立的新部门。
+　　IBM尚未透露收购Exeros的条款细节。
+　　Exeros创办于2002年，是一家私人持股公司，其资金来源包括两家风投公司Globespan Capital Partners和Bay Partners及投资管理公司AllianceBernstein，该公司联合创始人兼CEO Piyush Gupta是前IBM员工，当时他帮助开发名为DataJoiner的企业信息集成工具。(志伟)
+
+

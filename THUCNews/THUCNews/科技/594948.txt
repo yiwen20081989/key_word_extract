@@ -1,0 +1,5 @@
+苹果App Store撤下VLC播放器应用
+　　新浪科技讯 北京时间1月9日下午消息，应诺基亚员工、全功能播放器VLC开发人员莱米·丹尼斯-考蒙特(Rémi Denis-Courmont) 的要求，苹果日前从App Store应用商店中删除了VLC播放器应用。
+　　几个月前，当该款应用登陆苹果App Store应用商店时，人们就猜测VLC不久后将因为授权问题而被删除。VLC本是一款桌面播放器软件，几个月前，Applidium公司将VLC移植到iPad、 iPhone和iPod touch版平台上，放在苹果App Store应用商店内免费提供。
+　　考蒙特对此十分不满，称VLC采用的是GNU通用公共许可证(GNU General Public License)授权，这与苹果App Store授权相互冲突，因此要求苹果删除VLC应用。目前，苹果已删除VLC应用。(李明)
+

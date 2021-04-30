@@ -1,0 +1,6 @@
+Facebook新增HTTPS安全访问功能
+　　新浪科技讯 北京时间1月27日晚间消息，Facebook周四启用了HTTPS支持，旨在提高用户浏览Facebook的安全性。
+　　HTTPS是HTTP和SSL协议的结合体，可在计算机和Web服务器之间进行加密通信，否则用户很容易遭受攻击。例如，在Wi-Fi网络下通过简单的HTTP协议访问Facebook，黑客利用Firefox插件Firesheep可轻松获得获得他人数据。但如果使用HTTPS，黑客很难做到这一点。
+　　用户可在“帐户设置”页面启用HTTPS。在未来几周内，Facebook将逐步推广该功能。当前，还有一些Facebook功能，包括许多第三方应用仍不支持HTTPS。但Facebook表示，将尽快解决这些问题。
+　　需要指出的是，如果启用HTTPS，Facebook浏览体验可能会受到影响，因为加密页面的加载需要更长时间。(李明)
+

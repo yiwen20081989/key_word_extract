@@ -1,0 +1,7 @@
+雅虎IndexTools更名Web Analytics
+　　新浪科技讯 北京时间10月9日消息，据国外媒体报道，雅虎周三宣布，将旗下Web分析应用IndexTools更名为雅虎Web Analytics， 将来逐渐面向个人和小企业开放。
+　　今年4月，雅虎收购匈牙利营销软件公司IndexTools，并把IndexTools作为一项免费服务向大企业提供。与Google Analytics相比，IndexTools更新速度更快，通常为几分钟。而Google Analytic则需要24小时，但面向所有用户开放。
+　　更名后，新版雅虎Web Analytics已经向广告主和第三方应用开发商开放。日后，Web Analytics还将向雅虎小企业客户提供。
+　　雅虎数据分析主管丹尼斯·蒙特森(Dennis Mortensen)称，要想在第四季度前注册Web Analytics，最简单的方式是成为雅虎的广告主。否则，只有等到2009年。(李明)
+
+

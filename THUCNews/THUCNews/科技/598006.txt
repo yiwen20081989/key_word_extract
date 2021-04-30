@@ -1,0 +1,6 @@
+Adobe：IE10不支持Flash插件影响不大
+　　新浪科技讯 北京时间9月16日早间消息，微软已表示，Windows 8的“Metro”风格IE10浏览器将不支持Adobe的Flash插件。Adobe对此表示，Flash仍将适用于传统的“桌面”界面，Adobe还将针对“Metro”界面拿出其他计划。
+　　Adobe副总裁丹尼·维诺科(Danny Winokur)表示：“如果仅仅考虑未来一年，那么纯HTML和Flash可以实现的工作仍会有很大不同。Windows桌面仍将是Windows非常重要的一部分，因此在未来几年中，Flash仍将是互联网体验的重要部分。”
+　　此外维诺科宣布，Adboe正针对ARM处理器Windows 8系统开发新版本的Flash。采用ARM处理器的Windows 8计算机仍将支持运行IE10的桌面模式。当用户使用“Metro”风格IE10浏览器，同时遇到一个需要使用Flash的网站时，他们可以无缝地切换至IE10桌面版。
+　　维诺科同时表示，Adobe正在互联网内容发行和开发工具中引入新的互联网标准，包括HTML5、CSS和Javascript等。他表示：“我们并不太担心，哪些技术是正确的，只要我们能够提供这样的体验。我们正与微软和HTML社区的其他公司，包括谷歌和苹果合作，利用HTML5提供丰富的体验。” (邱越)
+

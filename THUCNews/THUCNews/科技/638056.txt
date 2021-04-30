@@ -1,0 +1,7 @@
+测试显示Verizon版iPhone 4未解决信号问题
+　　新浪科技讯 北京时间2月9日晚间消息，苹果产品新闻及评测网站iLounge测试结果显示，即将上市的Verizon CDMA版iPhone 4同样存在天线问题。
+　　去年6月AT&T GSM版iPhone 4上市后，用户发现当用手握住iPhone 4时，手机信号强度会明显减弱，甚至全部消失。后来，苹果通过免费赠送保护套而平息了问题。
+　　上个月，Verizon发布了CDMA版iPhone 4。本周四，CDMA版iPhone 4将正式开售。但iLounge测试结果显示，CDMA版iPhone 4并未解决此前的信号问题。
+　　与GSM版iPhone 4一样，CDMA版同样会出现信号减弱的问题，Wi-Fi信号也受影响。测试结果显示，握住手机后 ，四格信号只剩下一格。下载速度从1.1Mbps降至0.1Mbps，上传速度会从0.5Mbps降至0，即根本无法上传。
+　　与GSM版iPhone 4一样，使用保护套后，CDMA版问题同样迎刃而解。(李明)
+

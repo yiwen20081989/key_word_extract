@@ -1,0 +1,10 @@
+Adobe推出新服务可实现设备间视频分享
+　　新浪科技讯 北京时间3月23日晚间消息，Adobe Systems(以下简称“Adobe”)今日宣布推出一项名为Adobe Pass的新服务，借助这项服务，电视台可以让用户在任意场所观看视频内容。例如，有线电视付费用户可通过电脑、平板电脑和手机观看他们喜欢的节目。
+　　由于权限管理问题，设备间视频分享过去一直难以实现：高品质视频内容制作方担心其作品被随意传播，而支持众多设备也是一件复杂而投入巨大的事情。根据设计，Adobe Pass服务通过将Adobe Flash软件和HTML5 Web技术有机地结合起来，可以消除这些问题。
+　　按照Adobe方面的说法，这项服务对实现“名为‘电视无处不在’(TV Everywhere)的行业运动”至关重要。用户仅需要登录该服务，除了Flash或符合标准的浏览器以外，不需要下载“额外”程序。
+　　Adobe在一份声明中称：“Adobe Pass解决方案可以让内容提供商和程序设计人员根据瞬息万变的市场做出调整——让用户不再局限于起居室看付费电视，同时又能让他们坚持使用单一内容提供商的服务。”
+　　据Adobe介绍，Adobe Pass服务可以在Windows、Mac OS、Android、iOS、黑莓OS和Google TV等平台上使用。它有利于Adobe在付费电视行业争取到更多的合作伙伴，无论是内容制作商还是发行商：特纳广播公司、MTV Networks、Comcast和Synacor。有意使用这项服务的用户只能与Adobe接触以询问价格。
+　　此举表明Adobe正逐步从低端服务向高端服务过渡。Adobe拥有一系列帮助企业销售产品的程序设计工具，能够让用户制作Flash内容和应用，但Adobe Pass成了一座与未来建立联系的桥梁，因为分析师估计苹果iPhone和iPad届时将不会再安装Flash Player。
+　　Adobe在声明中称：“Adobe Pass解决方案可以使行业领先的Flash Platform去提供天衣无缝的高品质体验，让Adobe Flash Access用于提高服务安全性。Adobe Pass还充分利用HTML5为那些目前尚不能使用Adobe Flash技术的设备提供帮助。”
+　　Adobe还试图消除选择Flash服务的付费电视台对盗版行为的担忧。该公司在声明中称：“内置于Flash Player 10.1和更高Flash Player版本的Flash Access客户端安全功能，将用户与他们的设备绑定在一起，对基于每个家庭的设备进行限制，从而避免盗版行为。”(皓岳)
+

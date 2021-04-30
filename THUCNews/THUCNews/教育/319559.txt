@@ -1,0 +1,30 @@
+2011年GRE考试改革 阅读部分形式调整明显
+　　ETS时隔多年再次提出GRE改革，此举使得现行的GRE考试即将成为历史，而由于众多的不确定因素使得目前的split test的形式很有可能再明年6月份成为最后一场。正因为此举，目前考试考位非常紧俏，针对即将到来的GRE改革，笔者针对其中的阅读部分进行了一下分析。
+　　新的GRE考试当中关于阅读部分所进行的形式上调整是比较明显的，首先从题目所占的比例上来说传统GRE考试语文部分中阅读理解和句子填空试题仅占语文考试题目比重的不到二分之一(18/38)，而新GRE考试则主要由这两部分试题组成。虽然表面上来说，从题目的总体数量上从38道题缩减到了20道，但是由于当中增加了阅读的比重，所以导致考生在做题当中阅读的量增大，相应的难度也有所提升，尤其是与之前同学们大量背单词去解决相对应的类比和反义产生了比较大的背离。针对这样的改革，同学在备考的过程当中应当更加强调阅读能力上的提升，同时针对变化，考生应当作出相应的调整，提升深入的理解能力和分析逻辑的能力。以具体的ETS官方所给出的阅读理解的样题为例，我们来看看到底发生了怎样的变化。
+　　首先题型上从原来的传统的五选一变成了三种不同的考题
+　　第一种题型：多项选择题
+　　Sample Multiple-choice Questions - Select One Answer Choice
+　　1. The passage implies which of the following about the current cost of generating electricity?
+　　A. It is higher than it would be if better technologies for capturing carbon dioxide were available。
+　　B. It is somewhat less than the cost of electricity transmission and distribution。
+　　C. It constitutes at most half of the delivered price of electricity。
+　　D. It is dwelt on by policymakers to the exclusion of other costs associated with electricity delivery。
+　　E. It is not fully recovered by the prices charged directly to electricity consumers。
+　　Answer: C
+　　样题当中所给的第一题即是传统的五选一的题型，这种题型在解题的过程当中基本与现行的考试所出的题型没有太大的差异。是一道传统的推断题，我们可以根据当中给出的the current cost of generating electricity 找到原文当中的相应句子"Currently, technology that would capture carbon dioxide emitted by power plants and sequester it harmlessly underground or undersea instead of releasing it into the atmosphere might double the cost of generating electricity."由此答案确定为C。
+　　而后面两种是在之前的考试当中所没有的。其中第二种考题是中国同学相对不太适应的不定项选择。
+　　第二种题型：多项选择题II
+　　Sample Multiple-choice Questions - Select One or More Answer Choices　
+　　2. The passage suggests that extensive use of sequestration would, over time, have which of the following consequences?
+　　A. The burning of fossil fuels would eventually cease to produce atmospheric accumulations of carbon dioxide。
+　　B. The proportion of the delivered price of electricity due to generation would rise and then decline。
+　　C. Power plants would consume progressively lower quantities of fossil fuels。
+　　Answer: B
+　　此题虽然从表面上似乎是发生了变化，需要同学们逐一判断，但是从本质上来说并没有发生变化，只是需要考生在做题的过程当中分析清楚选项。
+　　第三种题型：段中点选题
+　　Sample Select-in-Passage Question
+　　3. Select the sentence that explains why an outcome of sequestration that might have been expected would not occur。
+　　Answer:
+　　"But because sequestration does not affect the cost of electricity transmission and distribution, delivered prices will rise less, by no more than 50 percent."
+　　此题从本质上是对文章内容的深入理解的考查，但是从另一个角度也说明了ETS之前对于细节信息的要求上更进一步，具体到了对于句子的精确理解。针对上述所说到的样题当中出现的相应的题型以及题目所考察的要点，我们发现在最新改革的GRE考试当中阅读部分，除了保留原有的考试模式之外ETS对于题目的外在形式作出了一定的调整。虽然目前所给的样题当中我们发现，第三道题目是一道明显考察方式不同于以往的题型之外，第一和第二道题基本没有显著的改变原有的考察要点，因此在备考的过程当中，考生还是可以使用原有的备考方式，但是由于第三种题型的加入，所以在保留原有练习方式的同时还需要加入新的对于句子间逻辑联系方面的训练，而且需要精确理解句子的含义。因此，从整体上来说，即将到来的新GRE考试对考生来说还是具有相当的挑战
+

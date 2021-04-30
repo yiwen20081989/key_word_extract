@@ -1,0 +1,9 @@
+微软两周内发布Windows Phone 7.5“芒果”
+　　新浪科技讯 北京时间9月22日早间消息，微软周三宣布，将在未来两周内向客户提供开发代号为“芒果”的最新版Windows Phone 7.5移动操作系统。
+　　Windows Phone客户体验总经理埃里克·郝塔拉(Eric Hautala)通过官方博客宣布：“我们数月来一直在与数十家合作企业共同部署Windows Phone 7.5的升级工作，并且取得了不错的进展。我们现在预计，该产品将在未来一周或两周内推出。”
+　　Windows Phone 7.5将引入多项新功能，从而继续与苹果iPhone和谷歌Android平台展开竞争。
+　　芒果的将允许用户在开始屏幕定制个性化“卡片”，显示好友和群组的状态。而升级后的“People Hub”功能则可以通过同一个界面查看Facebook、LinkedIn、Outlook、Twitter和Windows Live Messenger的最新消息，免去了在不同应用间切换繁琐程序。
+　　芒果还将与微软的云存储服务SkyDrive深度整合。例如，Office用户可以通过Office Hub访问SkyDrive，并且将Office文档固定在开始屏幕上。
+　　除此之外，芒果浏览器还增加了对HTML5和硬件加速图形的支持，并且整合了YouTube、LastFM和Slacker等影音服务。
+　　手机厂商还将同步发布最新固件，从而与芒果系统兼容，因此微软建议用户不要使用非正规渠道的升级包。(鼎宏)
+

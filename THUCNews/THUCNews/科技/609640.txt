@@ -1,0 +1,6 @@
+传TI联手谷歌共同打造下代Android系统
+　　谷歌目前最新版本为专为平板设备打造的Android 3.0蜂巢系统，搭载Android 3.0系统的设备芯片大都为Nvidia公司生产的的Tegra 2双核处理器。不过这种情况恐怕会在谷歌下代Android系统Ice Cream Sandwich(冰淇淋三明治)有所改变。
+　　据国外媒体报道，TI(德州仪器)将与谷歌结盟，准备联手开发代下一代Android操作系统Ice Cream Sandwich，这将是一款整合手机与平板设备的系统。
+　　根据谷歌内部人士消息，目前参与Ice Cream Sandwich测试的TI公司处理器为OMAP4460和OMAP4470两款双核处理器。相比OMAP4460来说，OMAP4470可更受关注，因 为该处理器主频最高可达1.8GHz，比OMAP 4460的1.5GHz更加强劲。TI公司还在OMAP4470中集成了266MHz频率的Cortex-M3双核架构，用来处理后台任务，从而在更多情 况下保持待机，提高能效。
+　　此外，OMAP4470的更大进步在于图形处理芯片，其内嵌图形核心更换为更强大的PowerVR SGX544，有传该图形处理器也是德州仪器为Windows 8打造的。
+

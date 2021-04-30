@@ -1,0 +1,7 @@
+微软发布Mac 8版Messenger 支持语音视频会议
+　　新浪科技讯 北京时间3月25日早间消息，据国外媒体报道，微软周三发布了测试版的Messenger for Mac 8，这款软件进一步拉近了与Windows Live Messenger的距离。
+　　测试版Messenger for Mac 8实现了对语音和视频会议功能的支持。微软计划今年晚些时候随着Office for Mac一道发布最终版的Messenger for Mac 8。
+　　微软自2008年以来一直表示，正在将这些早已用于Windows Live Messenger的功能引入Mac版软件。该公司此前希望在去年推出支持语音和视频功能的测试版软件。
+　　Mac IM产品的上一次重大更新还是2008年发布的Messenger for Mac 7。
+　　希望尝试测试版Messenger for Mac 8，体验语音和视频会议功能的用户可以在微软的Mac网站上进行下载。不过，微软也列出了这款软件产品的已知问题，包括无法显示文件图像，以及用户之间发送文件时存在问题。(逸飞)
+

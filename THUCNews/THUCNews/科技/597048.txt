@@ -1,0 +1,13 @@
+亚马逊宣布云音乐计划：免费无限空间 支持iPad
+　　新浪科技讯 北京时间7月7日早间消息，亚马逊周三宣布了三项针对Cloud Drive云计算存储服务以及Cloud Player云音乐播放服务的加强计划：包括无限制空间在内的音乐存储计划、免费存储在亚马逊购买的MP3、Cloud Player网页播放器开始支持iPad。
+　　亚马逊音乐主管克雷格·佩普(Craig Pape)表示：“用户现在每年只需花费20美元就能够享受Cloud Drive、Cloud Player服务，获得免费无限音乐存储空间，我们的音乐服务将支持iPad。”
+　　无限音乐存储
+　　在限制时间内，购买Cloud Drive存储计划的用户可以获得存储MP3和AAC音乐文件的无线存储空间。用户每年花费20美元就可获得20GB文件空间和无限制音乐存储空间。
+　　免费存储所购买亚马逊MP3音乐
+　　用户可以在Cloud Drive中免费存储所有在亚马逊购买的MP3，这其中包括了在Cloud Drive、Cloud Player推出之前购买的音乐以及未来购买的音乐。从亚马逊上购买MP3然后再将其存储到Cloud Drive中，这将有利于用户的存储配额。
+　　Cloud Player网页播放器支持iPad
+　　此前Cloud Player网页播放器可以在任何Android手机、平板电脑、Mac、PC上播放存储在Cloud Drive中的音乐，现在它也开始支持iPad。
+　　Cloud Player网页播放器已进行优化，可在iPad上使用Safari浏览器播放存储在Cloud Drive中的音乐。
+　　更多存储方案
+　　所有亚马逊用户将自动获得5GB免费Cloud Drive空间，在限定时间内，购买Cloud Drive存储计划的用户将获得无线音乐存储空间。Cloud Drive用户还可以上传并存储包括照片、视频、文件在内的数字文件，并且可以保证安全性，使用任何电脑上的浏览器就可以进行访问。(晓明)
+

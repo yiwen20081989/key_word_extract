@@ -1,0 +1,7 @@
+三星Galaxy S配置确定 支持高清3D手游
+　　在今年三月份举办的CTIA 2010大会中，三星正式推出一款型号为GT-I9000的Android智能新机Galaxy S，这款手机作为三星Android机型的代表作，将会拥有强悍的性能配置。之前曝光的信息中均没有提到该手机运行内存的大小，近日Frandroid公布了Galaxy S的官方详细配置。
+　　Galaxy S安装Android 2.1版系统，配有4寸800×480像素分辨率超级AMOLED屏幕，内置1GHz处理器、512MB RAM、500万像素摄像头，支持最高36 fps 720P高清视频录制，并配有VGA分辨率前置摄像头。这款手机将安装Android 2.1版系统，支持Swype滑动式输入法，支持WiFi、MicroSD、GPS、蓝牙、HSDPA等功能，配有一块1500mAh电池。
+　　512MB RAM内存对于一款Android手机来说已经绰绰有余，通常关闭所有应用之后可以获得约120MB空闲内存，如果更新运行Android 2.2系统还将好uode更多。
+　　最值得让人期待的是Galaxy S的图形处理能力，该手机使用的是S5PC110应用处理器，包含有一个ARM Cortex - A8内核和PowerVR SGX540 GPU，这对于运行一些3D高清手游来说有很大帮助。
+　　Gameloft于5月17日在其官方网站公布了十款Android手机用户期盼的3D游戏，其中包括《Asphalt 5(都市赛车5)》、《Let’s Golf(大家一起高尔夫)》、《Assassin’s Creed(刺客信条)》、《Real Football 2010(实况足球2010)》、《Gangstar: West Coast Hustle罪恶都市》、《Tom Clancy’s H.A.W.X(汤姆克兰西之鹰击长空)》、《Hero of Sparta(斯巴达勇士)》、《N.O.V.A. Near Orbit Vanguard Alliance(近地联盟先遣队)》、《Modern Combat: Sandstorm(现代战争：沙漠风暴)》、《Dungeon Hunter(地牢猎人)》，这些游戏对手机的硬件配置有很高的要求，必须有足够的CPU、内存支持，另外独立图形处理芯片也是必须，Galaxy S已经可以成功运行这些游戏。
+

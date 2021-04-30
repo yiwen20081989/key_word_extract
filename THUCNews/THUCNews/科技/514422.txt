@@ -1,0 +1,9 @@
+松下发FT3TS3、TZ20ZS20及TZ22固件
+　　松下发布便携数码相机Lumix DMC-FT3/TS3、TZ20/ZS20及TZ22新版固件升级，最新固件版本均为Ver. 1.2。新版固件作出以下修正：
+　　针对FT3/TS3
+　　1. 提高了内置GPS模块的测量准确度。
+　　针对TZ20/ZS20及TZ22
+　　1. 提高了内置GPS模块的测量准确度； 
+　　2. 加强画面细节。
+　　固件下载及安装方法：Panasonic firmware update for FT3/TS3 TZ20/ZS20 TZ22
+

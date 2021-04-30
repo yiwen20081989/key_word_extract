@@ -1,0 +1,6 @@
+NVIDIA：年中将有五十款Optimus笔记本
+　　NVIDIA预计，到今年年中的时候，将有五十多款笔记本支持新近发布的Optimus显卡智能切换技术。
+　　NVIDIA Optimus能让配备NVIDIA独立显卡、集成显卡的笔记本实现无缝自动切换，满足不同应用的差异化需求，兼顾高性能和低功耗，NVIDIA宣称可增加最多2个小时的电池续航时间。
+　　迄今为止，该技术的合作伙伴仍然只有华硕一家，不过产品型号会非常多，已知的有UL50Vf、N61Jv、N71Jv、N82Jv、U30Jc等等。
+　　Optimus技术支持Windows 7操作系统，Intel Arrandale Core i7/i5/i3、Pine Trail Atom N450/N470、Penryn Core 2 Duo处理器，NVIDIA GeForce 200M/300M系列显卡和ION 2平台，因此应用范围相当广，希望能有更多笔记本厂商加入支持。
+

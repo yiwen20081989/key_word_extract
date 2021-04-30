@@ -1,0 +1,8 @@
+谷歌Android Market商店软件数量突破1万
+　　新浪科技讯 北京时间9月8日早间消息，据国外媒体报道，第三方Android应用网站AndroLib提供的信息显示，谷歌Android Market手机软件商店中的软件数量已经突破1万。
+　　在手机操作系统领域，Android仍是一名挑战者。不过，考虑到未来几个月将有更多智能手机采用Android系统，以及该系统的开放特性，Android正逐渐成为更有力的竞争者。
+　　业内判断苹果App Store软件商店是否成功主要基于其中有多少款软件。数据显示，苹果App Store的软件数量目前约为7万。不过，谷歌从未披露Android Market中具体的软件数量。
+　　AndroLib网站提供的数据显示，该网站系统统计到的Android软件数量为10072款，其中大部分(64.2%)为免费软件。AndroLib网站与Android Market官方网站不同，能帮助用户通过电脑浏览Android软件。
+　　AndroLib表示，可追踪到的Android软件数量已超过1万，但目前没有更好的方式去了解Android Market中究竟有多少款软件。T-Mobile首席技术官科尔·布罗德曼(Cole Brodman)今年5月曾表示，Android Market平台上当时共有约2300款软件。
+　　如果这些数据是准确的，那么意味着Android Market在仅仅4个月的时间内就增长了4.4倍。谷歌于2008年8月28日首次宣布将推出Android Market，并于10月22日正式推出该服务。(维金)
+

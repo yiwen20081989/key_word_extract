@@ -1,0 +1,15 @@
+雅思备考：多看一分钟题干 节省五分钟阅读
+　　不少同学拿到卷子或者翻开书本的时候，就会产生一种分秒必争的心理，想要马上投入到阅读和做题之中去。想要争取时间、利用时间这是好事，但是有一种更好的方法能够更佳利用时间，那就是分析题干。
+　　我在我的课堂上经常会告诉同学们，一定要多看题干，在题干上花的一分钟，绝对能够节省5分钟盲目阅读的时间。我们来看几个题目，题干中隐含了什么样的暗示。
+　　剑4-95页，24-27题的Summary题，其中第25，26题在同一句话中：
+　　The writer describes archeology as both a ___25__ and a ___26___。
+　　从这两个空的前后，其他的词语都不用看，单单看到了两个空白处的前面都有一个冠词a，就知道这两个空白处要填的是单数名词。其中，另一个更好的暗示是，both…and…这样的句型，这么一个并列结构必定有相应的并列结构词出现在原文中，要么也是both…and…，要么是and，要么是as well as，必定如此。
+　　于是去题干中指定的段落中寻找，就只能找到唯一一处拥有并列结构，并且拥有两个单数名词：
+　　Since the aim of archeology is the understanding of humankind, it is a humanistic study, and since it deals with the human past, it is a historical discipline。
+　　所以，要填进去的答案便是这两个名词：humanistic study, historical discipline
+　　再来看一下接下来的第27题：
+　　The writer compares their style of working to that of a ___27__。
+　　很多同学分析出这个空白处要填的是一个单数名词，便停止了继续分析。但是，其实里面还有进一步可以挖掘的潜在暗示。请看：
+　　The writer COMPARES their style of working TO that of a XXX. 请留意我用大写强调的compare … to …，这是一个作比喻的句型，所以比较的双方应该是完全对等的。这样一来，句子中可以看到比喻的前者叫做their style of working，“他们的工作方式”，比喻的后者叫做that of a XXX，“XXX的工作方式”(that of 代指的就是style of working)，这么一来，XXX这个词就应该和their一样，是指的一类人。所以直接在题干所指定的段落中寻找一类人的词语，唯一能找到的就是句子“the practice of the archeologist is rather like that of a scientist”中的scientist。所以scientist就是这个题的答案。
+　　从上面两个很小的例子可以看出，如果我们多花1分钟的时间来分析题干，得到的暗示会比我们用5分钟在书页上扫描要有用很多。所以千万不要认为读题是浪费时间，希望大家都能培养出一个仔细分析题干的好习惯，达到更高更好的做题速率和精确率。
+

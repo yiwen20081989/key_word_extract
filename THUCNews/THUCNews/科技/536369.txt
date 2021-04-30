@@ -1,0 +1,12 @@
+Facebook应用平台被指名存实亡
+Facebook应用平台名存实亡
+　　新浪科技讯 北京时间10月21日消息，据国外媒体报道，Lookery创始人斯科特·拉斐尔(Scott Rafer)日前称，Facebook应用平台已经衰亡。
+　　Lookery是专门面向Facebook的广告网络，但拉斐尔日前表示，自从Facebook改版后，Lookery的流量已经下降了约50%。拉斐尔认为，这意味着Facebook应用平台已经衰亡。
+　　如何解决这一问题呢？有分析人士认为，开发人员应避免使用该平台，而是通过Facebook Connect建立一个独立于Facebook之外的标准Web应用。
+　　通过Facebook Connect，用户可以在整个网络上使用Facebook的身份验证资料，包括档案照片、名称、照片、朋友、群组、活动和其他资讯。例如，用户可通过Facebook登录Digg，每发表一篇文章，都将成为Facebook feed。事实上，Digg将从中受益。
+　　重要的是，用户可以关注自己的网站，而不是被迫安装Facebook应用。其实，拉斐尔的观点是，开发人员要把Facebook看做是推动流量的一个工具，而不是全部。(李明)
+　　相关报道：
+　　Facebook图片量破百亿张 超越Flickr等网站
+　　中国运营商造访Facebook一边讨教一边支招
+
+

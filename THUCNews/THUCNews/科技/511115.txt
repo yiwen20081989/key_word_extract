@@ -1,0 +1,22 @@
+搭载WM6.5系统 佳能发布三防手持终端设备
+　　佳能(Canon)出智能手机了？没错，这是真的，不是山寨机啊。佳能今天发布了一款搭载Windows Mobile 6.5系统的手持终端设备PRea AT-100P，它集合了3G HSDPA、Bluetooth、Gps、Wi-Fi 等功能于一身，虽然佳能也刻意的不把PRea AT-100P定位为手机，而是HandyTerminal，但这明显就是一部可以打电话的3G智能手机嘛！看来佳能不仅仅要在影像业界当巨人，还要在智能手机市场上分一杯羹啊！
+　　佳能这部PRea AT-100P的硬件配置应该还算不错的，采用了OMAP3505 CPU @ 600MHz，256MB DDR-SDRAM，以及内置256MB机身闪存，并支持 microSD卡，屏幕采用3.5英寸的QVGA屏，配有标准数字键盘，数据传输支持 IrDA 1.2、Bluetooth 2.1 + ED、Wi-Fi ABG，内置200万像素照相机，以及内置扫描器。而更为强悍的是，佳能PRea AT-100P还是一款三防手机，坚固的机身可以承受1.5m的抗震，IP54等级的防尘以及防水浅特性。
+　　其实佳能之前也有推出过类似的手持终端设备，但只不过功能配置上都没有PRea AT-100P强，也不能像PRea AT-100P那样打电话而且了。如果脖子上挂的是佳能EOS系统数码单反，手里拿着佳能智能手机，回头率应该也会蛮高的。
+　　至于佳能这部很强悍的智能手持终端设备什么时候上市就真的还不知道？但官网公布的价格为188,000日元，折合人民币约15397元。
+　　佳能PRea AT-100主要特色：
+　　OMAP3503 600MHz
+　　Windows Mobile 6.5.3 Professional
+　　256MB DDR-SDRAM、256MB FLASH DISK
+　　支持 microSD
+　　3.5 英寸 QVGA 240×320 半透过型 TFT LCD
+　　IEEE802.11 a／b／g
+　　Bluetooth Ver 2.1＋EDR
+　　GPS
+　　IrDA1.2 SIR
+　　内置激光扫描仪
+　　IP54 防水・防尘性能
+　　1.5m 抗震
+　　配备1460mAh锂电
+　　规格：75×150×16mm
+　　重量：180g
+

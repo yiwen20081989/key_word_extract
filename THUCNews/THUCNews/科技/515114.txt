@@ -1,0 +1,6 @@
+内外兼修新风尚 纽曼珐琅U盘8G版评测
+Qwesome19英寸液晶（分辨率 1280X1024）
+  在CrystalDiskMark的50MB测试中，读取速度达到了25.14MB/s，写入速度达到了6.1MB/s。
+  在CrystalDiskMark的100MB测试中，读取速度达到了25.16MB/s，写入速度达到了6.4MB/s。
+  在CrystalDiskMark的500MB测试中，读取速度达到了24.9MB/s，写入速度达到了6.3MB/s。三组测试的结果还是非常接近的，并且与前面两款软件分数差不多，仅比HD Tune的读取测试低。
+

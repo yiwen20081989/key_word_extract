@@ -1,0 +1,16 @@
+牛奶控BUFFALO HD-PCU2移动硬盘评测
+  日商美禄可集团成立于 1975年，是日本最大的计算机外设产品提供商，2004年18大类产品中14类产品取得市场占有率第一的好成绩（根据日本BCN数据统计），年销售额10亿美元。其计算机外设品牌BUFFALO，产品线完整，全球设有九大销售据点，满足消费者全方位需求，并将BUFFALO品牌之产品销售世界各地，开拓海外通路并服务全球客户。2003年为拓展中国市场，于上海成立日本株式会社巴比禄上海代表处，协助建立BUFFALO国际品牌形象。而MiniStation系列一直是BUFFALO最为重视的移动硬盘存储系列产品。今天小编我得到了一款MiniStation HD-PCU2移动硬盘，它支持USB 3.0接口，容量高达500GB。下面小编就来做一个详细的评测。
+BUFFALO HD-PCU2移动硬盘：产品包装
+  BUFFALO的HD-PCU2这款，采用了浓郁的iPhone4风格。它是BUFFALO近期强势推出的新品。其时尚造型纤薄机身典雅小巧的便携式移动硬盘，MiniStation系列HD-PCU2移动硬盘具备500GB容量，支持当下最新的USB 3.0接口。 
+Qwesome19英寸液晶（分辨率 1280X1024）
+BUFFALO HD-PCU2移动硬盘：速率测试（上）
+  ATTO DiskBench，写入80.3MB/s，读取84.1MB/s。
+  HD Tach测试：突发191.3MB/s，平均读取66.7MB/s，平均写入56.5MB/s，平均访问时间19.3ms。
+  FD Bench软件：读取81MB/s，写入55.1MB/s，读取速度和ATTO相仿，比较接近实际性能。
+  HD Tune读取测试：平均63.4MB/s，最大84.4MB/s，突发175MB/s。
+  写入曲线，和读取类似，平均56.3MB/s。
+  在CrystalDiskMark的50MB测试中，读取速度达到了85.81MB/s，写入速度达到了58.37MB/s。
+  在CrystalDiskMark的100MB测试中，读取速度达到了84.26MB/s，写入速度达到了69.18MB/s。
+  在CrystalDiskMark的500MB测试中，读取速度达到了84.26MB/s，写入速度达到了81.53MB/s。
+写在最后
+

@@ -1,0 +1,7 @@
+Facebook移动用户数达2.5亿 推新移动网站(图)
+　　新浪科技讯 北京时间4月1日早间消息，Facebook周四宣布，该网站的移动用户数已经达到2.5亿。Facebook同时宣布了移动业务的其他一些进展。
+　　Facebook已针对iPhone、Android、WebOS和其他平台推出了应用，但仍有很大一部分移动用户直接通过网站登录Facebook。到目前为止，Facebook的移动网站版本仍然复杂。对iPhone和Android用户来说，登录Facebook网站会被重定向至针对大尺寸触摸屏设计的touch.facebook.com。而通过功能型手机登录Facebook网站的用户将会被重定向至简版的m.facebook.com。Facebook周四宣布，将把这两个网站整合为一个网站。
+　　不过，触摸屏设备用户不必担心Facebook移动网站出现降级。Facebook移动产品主管埃里克·曾(Erick Tseng)表示，到目前为止，同时维护两个版本的移动网站带来问题，这导致Facebook工程师不得不两次开发同一功能。Facebook此次推出了基于XHP、Javelin和WURFL的新框架，在维持不同用户界面的情况下采用同样的底层代码库。
+　　换句话说，Facebook工程师在后端只需进行一次功能开发。如果用户手机支持这一功能，那么该功能将被显示出来。Facebook针对手机硬件对移动网站进行了优化，例如当用户手机不支持定位时，将无法使用Places功能。Facebook同时优化了网站的图形显示，用户目前可以看到3种不同版本的“共享”按钮。
+　　Facebook于周三晚间开始放出新版移动网站，该网站将在未来几周内面向所有用户推出。(邱越)
+

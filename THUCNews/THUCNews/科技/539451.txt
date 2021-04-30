@@ -1,0 +1,16 @@
+新版Chrome浏览器不支持谷歌Docs
+隐私浏览模式下，新版Chrome浏览器不支持谷歌Docs
+
+新版Chrome浏览器不支持Facebook
+
+　　新浪科技讯 北京时间2月2日上午消息，据国外媒体报道，有用户日前抱怨，称谷歌新版Chrome浏览器(版本号为1.0.154.46)不支持自家应用Google Docs。
+　　Chrome浏览器支持“隐私浏览”模式，即用户在访问网站时不会留下任何“蛛丝马迹”。但在该模式下，用户却无法正常访问Google Docs和社交网站Facebook。
+　　在“隐私浏览”模式下访问Google Docs办公应用时，页面给出提示“该浏览器不支持在线文字编辑”。而访问Facebook时，页面给出提示“所使用浏览器与Facebook不兼容”。
+　　同时，Facebook还推荐用户使用其他浏览器，其中包括Firefox、IE、Safari、Opera和Flock。(李明)
+　　相关报道：
+　　谷歌网页搜索出错：所有结果提示含恶意软件
+　　谷歌修复网页搜索错误 称出现技术故障
+　　谷歌与PC厂商合作 预装Chrome浏览器取代IE
+　　谷歌称火狐Chrome上Gmail比IE快一倍
+
+

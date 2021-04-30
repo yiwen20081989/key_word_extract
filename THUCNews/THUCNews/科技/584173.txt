@@ -1,0 +1,12 @@
+Facebook用户已收听15亿首歌曲
+　　新浪科技讯 北京时间11月10日晚间消息，Facebook公布的数据显示，自Facebook推出Open Graph应用平台以来，Facebook用户在6个星期的时间内收听了超过15亿首歌曲。
+　　根据Facebook的说法，与Facebook合作的在线音乐服务也从中获益。Facebook开发人员凯西·穆勒(Casey Maloney Rosales Muller)表示：“通过这一合作，我们最大的一些音乐服务活跃用户数翻番，而一些处于创业早期，用户基础较小的创业企业和服务活跃用户数则增长了2至10倍。”
+　　他同时表示：“Open Graph仍处于发展初期，但结果表明这一平台能够成为一种强大的发现机制，同时推动应用开发商的发展。”
+　　Spotify是其中一个大赢家。该公司于今年夏季在美国推出服务。自9月22日在F8开发者大会上宣布支持Open Graph协议测试版以来，Spotify的新增用户数超过400万。此外，一家名为Earbits的音乐服务用户数增长1350%。而MOG增长了246%，Rdio增长了30倍，Slacker增长了11倍，Deezer增加了1万新用户。
+　　包括Eventbrite、Ticketmaster和Ticketfly在内的票务网站也报告称，每通过Facebook分享一次链接，它们就能获得2至6美元的直接销售收入。(维金)
+　　新浪科技讯 北京时间11月10日晚间消息，Facebook公布的数据显示，自Facebook推出Open Graph应用平台以来，Facebook用户在6个星期的时间内收听了超过15亿首歌曲。
+　　根据Facebook的说法，与Facebook合作的在线音乐服务也从中获益。Facebook开发人员凯西·穆勒(Casey Maloney Rosales Muller)表示：“通过这一合作，我们最大的一些音乐服务活跃用户数翻番，而一些处于创业早期，用户基础较小的创业企业和服务活跃用户数则增长了2至10倍。”
+　　他同时表示：“Open Graph仍处于发展初期，但结果表明这一平台能够成为一种强大的发现机制，同时推动应用开发商的发展。”
+　　Spotify是其中一个大赢家。该公司于今年夏季在美国推出服务。自9月22日在F8开发者大会上宣布支持Open Graph协议测试版以来，Spotify的新增用户数超过400万。此外，一家名为Earbits的音乐服务用户数增长1350%。而MOG增长了246%，Rdio增长了30倍，Slacker增长了11倍，Deezer增加了1万新用户。
+　　包括Eventbrite、Ticketmaster和Ticketfly在内的票务网站也报告称，每通过Facebook分享一次链接，它们就能获得2至6美元的直接销售收入。(维金)
+

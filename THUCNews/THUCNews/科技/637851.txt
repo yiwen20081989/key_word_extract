@@ -1,0 +1,11 @@
+美国最大运营商发布CDMA版iPhone 4(图)
+　　新浪科技讯 北京时间1月12日凌晨消息，美国最大运营商Verizon于北京时间1月12日凌晨在纽约召开新闻发布会，联合苹果公司正式推出CDMA版iPhone。
+　　CDMA版iPhone传言已久，终于在今天成为现实。其实相比于WCDMA的iPhone 4，CDMA的iPhone几乎仅仅是把它网络制式修改为CDMA2000 EVDO Rev.A，并不是采用Verizon近日主推的准4G网络LTE。
+　　CDMA的iPhone 4保留了iPhone 4的500万像素摄像头、Retina屏幕、FaceTime、iOS、App Store、另外从真机图上新浪科技发现CDMA版的iPhone天线做了一些改进，并取消了SIM卡插槽，改为国外CDMA手机传统的烧号模式(烧号也称写号，即需要把手机号码相关数据通过数据线传入手机内部，而非直接插卡，国外CDMA手机大都采用此方式保存手机号码)。
+　　发布会上Verizon和苹果公布CDMA iPhone 4 16GB签约价199美元、32GB 299美元(非零售价)，和WCDMA版本保持一致。但是它支持原版iPhone 4所不支持的移动热点功能，最多可以通过Wi-Fi供5个设备上网。
+　　2月3日Verizon的老客户可以预订CDMA iPhone 4，2月10日所有消费者可以在网上、Verizon营业厅、Apple Store零售店购买CDMA iPhone 4，预计水货CDMA iPhone 4会在过后3-5天内抵达中国市场。
+　　在发布会的问答环节，苹果提到CDMA的iPhone 4和Verizon的合作是多年的，但不是独家，也就是说其它CDMA运营商包括中国电信也会有机会运营CDMA版的iPhone 4。此外，从问答能看出CDMA版本的iPhone 4暂时不一定会和WCDMA版本一样每年更新、也很难与WCDMA版本同步更新推出。
+　　不过对于中国电信，除了引进时间之外的另一个问题是CDMA iPhone 4的烧号，毕竟中国消费者不太习惯直接使用内置手机号码的手机而非换卡即可，所以中国电信与苹果进行谈判的焦点之一也许就是增加UIM卡槽了。(臧智渊)
+　　Verizon推CDMA版iPhone 4发布会实录
+　　高清组图：CDMA版iPhone 4真机实拍
+

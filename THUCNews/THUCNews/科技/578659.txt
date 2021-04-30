@@ -1,0 +1,6 @@
+网络安全创业企业CloudFlare融资2000万美元
+　　新浪科技讯 北京时间7月12日晚间消息，网络安全创业企业CloudFlare周二表示，已经在第二轮融资中获得2000万美元的资金。该公司在此前的第一轮融资中仅获得200万美元资金。
+　　CloudFlare的此轮融资由投资公司New Enterprise Associates牵头，该公司此前的投资方Venrock and Pelion Venture Partners也参与了此轮融资。New Enterprise Associates曾投资的其他公司还包括Atheros、Fusion-io和Groupon等。
+　　CloudFlare面向网站提供网络安全服务。网站管理员可以将网站的域名服务器指向CloudFlare，而不是主机服务提供商。这一简单的变化使得网站可以应对普通的黑客攻击，并更好地抵御分布式拒绝服务攻击(DDoS)。
+　　CloudFlare脱胎于非盈利项目Project Honey Pot，这一项目通过创建分布式系统来寻找并追踪垃圾信息发送者。与Project Honey Pot类似，越多用户使用CloudFlare，那么该服务应对网络攻击的能力就越强。(张楠)
+

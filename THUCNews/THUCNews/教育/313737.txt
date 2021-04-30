@@ -1,0 +1,84 @@
+考研英语真题：阅读理解试题及名师解析(13)
+　　Could the bad old days of economic decline be about to return? Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. This near-tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-1980, when they also almost tripled. Both previous shocks resulted in double-digit inflation and global economic decline. So where are the headlines warning of gloom and doom this time?
+　　The oil price was given another push up this week when Iraq suspended oil exports. Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term。
+　　Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s. In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past。
+　　Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price. Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption. Software, consultancy and mobile telephones use far less oil than steel or car production. For each dollar of GDP (inconstant prices) rich economies now use nearly 50% less oil than in 1973. The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. That is less than one-quarter of the income loss in 1974 or 1980. On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed。
+　　One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. A sizable portion of the world is only just emerging from economic decline. The Economist's commodity price index is broadly unchanging from a year ago. In 1973 commodity prices jumped by 70%， and in 1979 by almost 30%。
+　　31. The main reason for the latest rise of oil price is
+　　[A]global inflation.                   [B]reduction in supply。
+　　[C]fast growth in economy.    [D]Iraq's suspension of exports。
+　　32. It can be inferred from the text that the retail price of petrol will go up dramatically if
+　　[A]price of crude rises.          [B]commodity prices rise。
+　　[C]consumption rises.          [D]oil taxes rise。
+　　33. The estimates in Economic Outlook show that in rich countries
+　　[A]heavy industry becomes more energy-intensive。
+　　[B]income loss mainly results from fluctuating crude oil prices。
+　　[C]manufacturing industry has been seriously squeezed。
+　　[D]oil price changes have no significant impact on GDP。
+　　34. We can draw a conclusion from the text that
+　　[A]oil-price shocks are less shocking now。
+　　[B]inflation seems irrelevant to oil-price shocks。
+　　[C]energy conservation can keep down the oil prices。
+　　[D]the price rise of crude leads to the shrinking of heavy industry。
+　　35. From the text we can see that the writer seems
+　　[A]optimistic.        [B]sensitive.          [C]gloomy.          [D]scared。
+　　名师解析
+　　31. The main reason for the latest rise of oil price is 最近的油价上涨的主要原因是
+　　[A]global inflation.  全球通货膨胀。
+　　[B]reduction in supply。供应量减少。
+　　[C]fast growth in economy.  快速的经济增长。
+　　[D]Iraq's suspension of exports. 伊拉克暂时停止石油出口。
+　　【答案】  B
+　　【考点】  事实细节题。
+　　【分析】  根据题干可以定位到第一段的第二句话“Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December。”，说明由于石油输出国决定降低供给量，使得油价上升。所以本题的答案是[B]。[D]不是该现象的主要原因，因为“OPEC”的相关决定才是能够影响石油价格的走势的主要原因。
+　　32. It can be inferred from the text that the retail price of petrol will go up dramatically if
+　　从文中可以推断出，如果________，汽油的零售价格将会剧烈上升。
+　　[A]price of crude rises.   原油价格上升。
+　　[B]commodity prices rise.   日用品价格上升。
+　　[C]consumption rises.  消费上升。
+　　[D]oil taxes rise.  油税上升。
+　　【答案】  D
+　　【考点】  推断题。
+　　【分析】  根据题干可以定位到第三段的第三句话“In Europe, taxes account for up to four-fifths of the retail price，so even quite big changes in the price of crude have a more muted effect on pump prices than in the past。.”意思是说“在欧洲，税占汽油的零售价的五分之四，因此相比以往，原油的价格变化对汽油的影响不会很明显”。也就是说税的增加会导致汽油价格的猛涨，而原油价格的变化带来的影响不会很大。本题一个理解的难度是“muted effect”，另外一个是“pump price”。“mute”表示“哑巴的，无声的，沉默的”，和“effect”连用，表示“影响不明显”；而“pump price”是一个很形象的说法，“pump”指的是“泵”，这里很形象用“pump”指代“汽油”。根据上述分析，可以得出答案是[D]。
+　　33. The estimates in Economic Outlook show that in rich countries
+　　《经济展望》的评估表明在富国
+　　[A] heavy industry becomes more energy-intensive。
+　　重工业变得更加能源密集型。
+　　[B] income loss mainly results from fluctuating crude oil prices。
+　　收入损失主要由于波动的原油价格造成。
+　　[C] manufacturing industry has been seriously squeezed。
+　　制造业面临严重影响。
+　　[D] oil price changes have no significant impact on GDP。
+　　油价变化对国民生产总值没有大的影响。
+　　【答案】  D
+　　【考点】  推断题。
+　　【分析】  根据本题的关键词“《经济展望》的估计”可以定位到“The OECD estimates in its latest Economic outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25%-0.5% of GDP。”。也就是说，油价的上涨对GDP 的影响很小，只有“0.25%—0.5%”。因此我们可以得出答案[D]。
+　　34. We can draw a conclusion from the text that  从文中我们可以得出的结论是
+　　[A] oil-price shocks are less shocking now. 油价冲击已经不再那么骇人听闻。
+　　[B] inflation seems irrelevant to oil-price shocks. 通货膨胀看起来和油价冲击无关。
+　　[C] energy conservation can keep down the oil prices. 能源储备能够使油价下降。
+　　[D] the price rise of crude leads to the shrinking of heavy industry。
+　　原油价格的上升导致重工业的萎缩。
+　　【答案】  A
+　　【考点】  文章主旨题。
+　　【分析】  本题的几个选项需要通篇理解。文章第三段指出“油价的经济影响不会那么严重”，作者指出其原因是“原油价格占汽油价格的比例不高，发达国家对石油的依赖减弱，此次涨价的背景不一样了”。文章最后一段说“这次油价上涨与20世纪70年代的上涨不同，对各国的影响也基本没有反映出来，连物价基本都没有变动”，也就是说，油价冲击已经不是那么可怕。所以答案是[A]。
+　　35. From the text we can see that the writer seems  从本文中我们可以看出作者看上去是
+　　[A] optimistic. 乐观的。             [B] sensitive。敏感的。
+　　[C] gloomy. 沮丧的。                  [D] scared。恐惧的。
+　　【答案】  A
+　　【考点】  作者态度题。
+　　【分析】  本文作者主要讲的就是这次油价上涨的影响不大。尤其是第三段和最后一段的第一句话，强调人们不必担心此次油价上涨，因为这一次的情况与“20世纪70年代”不同。由此可见作者的态度是“乐观的”。
+　　难句解析：
+　　1. Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short time。
+　　【结构分析】 本句的主语是“Strengthening economic growth”，谓语是“could push”，插入成分是一个时间状语，其中有一个“as”引导的定语从句，修饰“time”。
+　　2. The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP。
+　　【结构分析】 本句的主句是“The OECD estimates... that…”，“if”引导一个条件状语，“compared with $13 in 1998”是过去分词短语做比较状语，主句是“this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP”，其中的主语“this”指代的是“if”条件句。
+　　3.One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand。
+　　【结构分析】 本句的主干是“One more reason is that.。.”。在“that”引导的表语从句中，它的主语是“it”，指代的是“the rise in oil prices”。
+　　全文翻译：
+　　过去经济衰落的糟糕日子会不会重来？自从石油输出国组织在3月同意减少原油供应，原油的价格已经从去年12月的不到10美元一桶上升到约26美元一桶。这次近3倍的涨价令人想起了1973年的恐慌，当时油价上涨了4倍；以及1979?1980年的那一次，当时的油价也上涨了近3倍。前两次的石油恐慌都导致了两位数的通货膨胀和全球性的经济衰退。那么这次警告人们厄运来临的头版新闻都到哪里去了呢？
+　　本周伊拉克暂停石油出口，这又一次推动着油价上扬。强劲的经济增长势头，加上北半球冬季的到来，有可能在短期内使石油价格涨得更高。
+　　然而，我们有充分的理由预期这次油价暴涨带来的经济影响不会像70年代那么严重。现在多数国家的原油价格占汽油价格的份额比70年代要小很多。在欧洲，税占了汽油零售价的4/5，因此，即使原油价格发生很大的波动，汽油价格所受的影响也不会像过去那么显著。
+　　发达国家对石油的依赖也比从前要少得多，因此对油价的波动也就不会那么敏感。能源储备、燃料替代以及能源密集型重工业的重要性的降低，都减少了石油消耗。软件、咨询及移动通讯消耗的石油，比钢铁、汽车行业少得多。发达国家国民生产总值中每一个美元所消耗的石油量比1973年少了近一半。国际经合组织在其最近一期的《经济展望》中估计，如果全年油价均价22美元左右，与1998年的13美元一桶相比，这仅仅会使发达国家的石油进口在支出上增加GDP的0.25%?0.5%。这还不到1974年或1980年收入损失部分的1/4。另一方面，由于重工业转移至一些新兴石油进口国，它们对能源可能更加敏感，也更可能会受到强烈影响。
+　　另外一个不应因油价上升而失眠的原因是，与70年代的上涨不同，这次油价上升的大背景不是普遍的物价暴涨及全球过旺的需求。世界上很多地区才刚刚走出经济衰落。《经济学家》的商品价格指数一年来总的来说没有什么变化。1973年的商品价格跃升了70%，而1979年也上升了近30%。
+

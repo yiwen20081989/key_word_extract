@@ -1,0 +1,7 @@
+微软Live部门09财年亏损5.6亿美元
+　　新浪科技讯 北京时间9月23日晚间消息，据国外媒体报道，微软周二召开的分析师电话会议披露了该公司近期的重组细节，使得外界得以知晓部分业务部门此前不为人知的数据，这些数据此前都隐藏在上级部门的财报数据中。值得注意的是，Windows Live部门2009财年营收为5.2亿美元，亏损5.6亿美元。
+　　虽然Windows Live部门的亏损状况引人关注，但对于这家软件巨头而言只算得上九牛一毛。在截至6月30日的2009财年，微软整体营收为584.4亿美元，运营利润为203.6亿美元。Windows Live部门的亏损也表明，微软仍面临将全球5亿用户转化为真金白银的艰难挑战。Windows Live包括Messenger、Hotmail等多款广受欢迎的软件和服务，Windows Live套件还包括Movie Maker、Photo Gallery、Live Writer等多款程序。根据微软目前的架构，Windows Live部门并不包括MSN门户网站及必应(Bing)搜索引擎。
+　　Windows Live部门的主要营收来自于广告，Windows业务副总裁塔米·雷勒(Tami Reller)称，该部门的主要支出在数据中心、研发和创新、销售和渠道三个方面。她表示，这些支出对于Windows Live一直非常重要，暗示微软仍将保持大规模投资。雷勒指出：“对于微软和Windows而言，Windows Live在近期和长期内都占据重要战略地位。”
+　　微软在电话会议上演示的文件还显示，旗下广告公司Razorfish在2009财年的营收达3.6亿美元，亏损5000万美元。微软上月宣布，将Razorfish作价5.3亿美元出售给法国广告业巨头阳狮集团(Publicis Groupe)，该交易将在第四季完成。
+　　根据微软的重组计划，Windows Live部门从微软在线服务集团(Online Services Division)剥离出来，并入客户端集团(Client Division)，雷勒解释说，这一调整是为了加强Windows Live和Windows操作系统业务的联系，后者为客户端集团贡献了大部分收入。此外，微软将移动服务业务从娱乐及设备集团(Entertainment & Devices Division)剥离出来，该项业务2009财年的营收为7000万美元，运营亏损为5000万美元。(肖恩)
+

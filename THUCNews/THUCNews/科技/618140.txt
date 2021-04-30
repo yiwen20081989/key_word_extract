@@ -1,0 +1,5 @@
+微软：windows 7 SP1将于7月底发布
+　　作者：马璇
+　　微软IT技术专员Matt Hester表示：Windows 7 SP1将在7月底向测试人员发放。    Windows 7和Windows Server 2008 R2的SP1服务包将在7月进行公开测试，这其实是一个很含糊的日期。昨日，微软开始向测试人员发送邀请函，进一步证实了SP1的临近。
+　　Windows 7 SP1和Windows Server 2008 R2 SP1的Beta版首批仅包括以下语言版本：英语、德语、日语、法语和西班牙语。已安装并运行Windows 7的电脑才可以下载并测试SP1，已安装并运行Windows Server 2008 R2的服务器才可以下载并测试SP1。
+

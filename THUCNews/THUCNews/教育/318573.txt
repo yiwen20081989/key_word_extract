@@ -1,0 +1,27 @@
+新东方名师：GMAT逻辑两大怪之解析
+　　现在逐一讲解，欢迎ARGUE AGAINST
+　　In Patton City, days are categorized as having heavy rainfall (more than two inches),
+　　moderate rainfall (more than one inch, but no more than two inches), light rainfall (at
+　　least a trace, but no more than one inch), or no rainfall. In 1990, there were fewer days
+　　with light rainfall than in 1910 and fewer with moderate rainfall, yet total rainfall for the
+　　year was 20 percent higher in 1990 than in 1910.
+　　If the statements above are true, then it is also possible that in Patton City
+　　A. the number of days with heavy rainfall was lower in 1990 than in 1910
+　　B. the number of days with some rainfall, but no more than two inches, was the same
+　　in 1990 as in 1910
+　　C. the number of days with some rainfall, but no more than two inches, was higher in
+　　1990 than in 1910
+　　D. the total number of inches of rain that fell on days with moderate rainfall in 1990
+　　was more than twice what it had been in 1910
+　　E. the average amount of rainfall per month was lower in 1990 than in 1910
+　　已知：heavy rainfall > 2 inches; 2>=moderate rainfall > 1; 0<light rainfall<=1
+　　且 1990年小雨和中雨的天数都比1910少，然而1990年全年的降雨量还比1910多，那就只能是1990年的大雨天数比1910多，一般我们都会这样的预估，但选项恰恰没有该项。迷茫中，看到了D，误以为找到了救星，正好落在了出题者的陷阱之中。
+　　细看该题所问“If the statements above are true, then it is also possible that in Patton City”，原来并非是由原文推出选项的导出题，而是一道怪题；只要是“可能的”项就是正确的。换句话说，依据原文，有四个选项是绝不可能的，只有一个是可能的。
+　　那再看D，在1990年中雨天数比1910少的情况下，其降雨量可以超过1910的2倍吗？绝不可能 ------ 因为2>=moderate rainfall > 1，即最大的中雨量不超过最小的中雨量的2倍，也就是：即便1990的中雨天每次都是最大量，而1910的中雨量每次都是最小量，那么D都不能成立。
+　　而B与C明显与已知条件矛盾（“1990年小雨和中雨的天数都比1910少”）
+　　而E与“1990年全年的降雨量还比1910多”冲突
+　　看来也就A有希望了；但A与我们的预估相反。
+　　但A的确是可能的，这一点人间惆怅客和其楼上的新浪网友都有很好的解释。说个最极端的情况，1990年只下了一天雨，那是一场万年不遇的亿寸豪雨，其降雨量可以远远超过1910年的天天小雨、中雨或so so 大雨。一天就超过365天这有什么不可能的呢？
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

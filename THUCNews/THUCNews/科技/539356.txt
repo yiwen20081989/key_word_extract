@@ -1,0 +1,12 @@
+微软IE 8 RC1遭泄露 网上提供下载地址
+泄露IE 8 RC1的网页截屏
+　　新浪科技讯 北京时间1月24日晚间消息，据国外媒体报道，微软本欲在26日发布的最新版Internet Explorer（MSIE）RC1遭到恶意泄露。
+　　微软IE8 beta 2发布于去年8月份，这一版本除了适用于微软的Window XP操作系统和Vista操作系统外，微软最近发布的Windows 7 beta build 7000也赶上了IE8的beta 2版本。其实，微软IE 8的终极版本IE 8 final build正提上日程，但就在今天，微软IE 8 RC1从网络上泄露。RC版，是Release Candidate的缩写，意思是发布倒计时，该版本已经完成全部功能并清除大部分的BUG，到了这个阶段只会除BUG，不会对软件做任何大的更改。从微软的惯例来看推出RC版就意味着正式版不远了。
+　　最近有媒体报道IE 8 RC1将在本月26日即中国的大年初一发布，但有人称这一版本已经通过网络泄露，并提供了下载地址。
+　　最近几年，微软很多正在开发的产品遭到提前泄露，例如，Windows 7，而IE 8 RC1是被一个Winmatrix的用户泄露的。IE 8 RC1泄露的版本号是8.0.6001.18343，这也印证了之前有报道称，IE 8 RC 1不支持Windows 7的传闻。（可龙）
+　　相关报道
+　　Internet Explorer 8 RC 将会在下周发布
+    微软：Windows 7 Beta将无法安装IE8 RC
+    下载IE 8 RC1的Windows XP版本
+
+

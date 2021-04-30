@@ -1,0 +1,26 @@
+四六级写作诀窍：用简单句表达复杂思想
+　　应试作文的评分标准尽管描述语言不同，但都可以分为内容、组织和语言三个方面，如果是应用文，还要看语域(主要指语言使用是否符合场合)和格式。新四级作文的评分标准也不能脱离以上三大方面：内容按照题目提纲扩展即可；组织除了要注意段与段之间的连贯与衔接之外，还要特别注意考生最容易忽略的句与句之间的逻辑性；最难提高的是语言，即用词的丰富性和句子的复杂性。要拿到新四级写作高分，就必须在语言上有所起色，语言是绕不过去的一个心结，那么语言突破之路，到底在何方呢？答曰：简单句。 
+　　这是从广大考生的实际出发给出的回答。因为学了很多年的英语，大部分考生还是能够写出一些东西的，最起码能够写出一些英语的简单句吧。简单句包括S+V(主谓句)，S+V+O(主谓宾)， S+V+O+O(主谓宾宾)，S+V+O+C(主谓宾宾补)， S+V+C(主系表)，复杂一些的句子无不是由这些简单句演变而来的。 
+　　用简单句写复杂思想 
+　　学了这么多年英语，为什么还不能写出好的句子？原因在于想得太复杂了。我们可以将要表达的汉语思想，全部说成简单的句子，而简单句，在写作时是考生可以掌控的。之后再将简单句加以润色、组合，使之登堂入室，夺取高分。 
+　　例如写这句话：大学生刚刚毕业就想立刻找到高薪的工作是不可能的。看到这样的汉语句子，一般我们的反应是要用It is impossible for sb. to do sth.. 这样的句型，然后想着往里填词：在sb. 的位置填上“刚刚毕业的大学生”，在不定式的位置填上“找到高薪的工作”，如下所示： 
+　　It is impossible for刚刚毕业的大学生to找到高薪的工作. 
+　　那么“刚刚毕业的大学生”怎么写？英语里面好像找不到一个表示“刚刚毕业的”形容词放在大学生前面，所以就要用定语从句，写成college students who have just graduated，如果graduated不会写，先写成left；然后怎么写“高薪的”，英语里面也没有这样一个形容词放在jobs的前面，所以用定语从句，写成to find jobs which can give them a lot of money。这样这个句子将写成：It is impossible for college students who have just graduated to find jobs which can give them a lot of money. 这样将两个定语从句放在这个句型里面，实在是太容易犯错了。实际上，刚刚毕业的大学生可以写成：newly-graduated students, 而高薪的工作可以写成well-paying jobs, 将这两个短语放进去，成为：It is impossible for newly-graduated students to find well-paying jobs，与上面的定语从句相比会获得更高的分数。不过试问，能写出这两个短语的有几人呢？ 
+　　我们能不能换一种思路，想得简单点，把上面一句话拆分成为四句： 
+　　①每年，都有很多大学生毕业。 
+　　②他们都想找到工作。 
+　　③这些工作可以给他们很多钱。 
+　　④这是不可能的。 
+　　我相信这样的句子大部分考生很快就可以写出来： 
+　　①Every year, many college students graduate. 
+　　②They all want to find jobs. 
+　　③These jobs can give them a lot of money. 
+　　④This is impossible. 
+　　第一句话属于五种简单句中的主谓句，第二句是主谓宾，第三句是主谓间宾直宾，第四句是主系表。 
+　　下面我们看看能不能润色一下：第一句话我们将熟悉的many改为heaps and heaps of (一批一批的)，这是换词；然后?：from universities；又想到还有独立的学院，再加上and institutes。第一句话变成：Every year, heaps and heaps of college students graduate from universities and institutes. 
+　　这句话这样一改，便成气候了。 
+　　第二句和第三句可以用定语从句连接起来，因为第三句的主语是第二句最后jobs的重复，所以②＋③成为：They all want to find jobs，which can give them a lot of money. 再润色，我们发现give可以改为offer，a lot of money可以改为handsome salaries。利用学过的语法知识我们可以让这个句子更加复杂，给定语从句中加一个插入语：they hope，放在which后面，这样这句话就成为：They all want to find jobs，which they hope can offer them handsome salaries. 
+　　第四句话也可以和前两句连在一起，这次不采用主从复合句，而采用并列句，因为意思发生转折，故用but连接，而impossible太绝对了，改为hardly possible，于是成为：They all want to find jobs，which they hope can offer them handsome salaries，but this is hardly possible. 
+    更多信息请访问：新浪四六级频道 四六级论坛 四六级博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

@@ -1,0 +1,39 @@
+托福考试语法指导：并列连词及真题要点解析
+　　托福考试语法指导：并列连词常考题型及解题要点
+　　1. 并列连词 and but or混淆
+　　解题要点 这类题型主要分面布在written Expression (16-40题中) 当A、B、C、D四项选择中出现单独的and或but 或or 时，它通常就是此题的焦点，应根据句意判断此连词是否用错。
+　　全真例题要分析
+　　(1) Harvesting of grains is affected by annual changes in temperature or in the amount of moisture， but both. (90.1)
+　　［答案］ D 根据句意，这里并无转折关系。因此but 应改为or。
+　　(2) Porcelain is not a single clay， and a compound of kaolin. Ball clay， feldspar. And silica. (91.1)
+　　［答案］ C 此句表达的是一个取舍关系，and应改为but. “not…but”是表达转折，到舍含义的固定并列连词搭配。
+　　(3)The structure or behavior of many protozoans are amazingly comples for single-celled artimals。
+　　［答案］ A 根据句中复数谓语动词are 来判断，连词or是错误，它表述的概含是两项之一，应用单数第三人称动词。固而or应改为and。
+　　(4) Cayenne popper comes from the seedpot of the pepper plant which is dried or then ground。
+　　［答案］ D 根据提示词then，我们可以判断dried 和ground (grind 的过去分词，碾碎)是顺序先后的两个动作，并非取舍选择关系。固此or应改为and。
+　　2. 并列连接词词组
+　　both…and as…as
+　　not only …but also not so…as
+　　either…or the same…as
+　　neither…nor 比较级(more-re) …than
+　　so…that to…to常与so…that
+　　whether…or 混淆搭配
+　　解题要点；上述并列连词词组和短语必须搭配使用，不能承意更换或省略。考题中如出现上述词组的任何一部分，则注意另一部分是否正确。
+　　全真例题分析
+　　(1) In meteorology. Either formation of clouds and the oreciporddidon of dew rain and snow are known as condensation (93.1)
+　　［答案］ A either改为both，组成both…and词组
+　　(2) The survival of a forest depends not only on amount of annual rainfall it receives. And also on the seasonal distribution of the rain。
+　　［答案］ C and改为but，组成not only…but also 词组
+　　(3) Lucretia Mott*s influence was too significant that she has been credited by some authorities as the originator of feminism in the United State. (91.1)
+　　［答案］ A too改为so，组成so…that结构。
+　　(4) The gorilla， not as curious than the chimpanzee， shows more persistence and memory retention in solving a problem. (90.5)
+　　［答案］ B than改为as， 组成not as…as 结构。
+　　(5) Some linguious believe that the earliest languages were no less complex as modern languages (94.5)
+　　［答案］ D as 改为than，组成“比较级…than”的句型。
+　　(6) Whether as statesman， scientist， and philosopher， Benjamin Franklin was destined to gain lasting honor throughout much of the world. (92.5)
+　　［答案］ A and改为or，组成whether…or的结构。
+　　(7) Meadowlarks are about the same size than robins， they have heavier bodies， shorter tails， and longer bills. (89.5)
+　　［答案］ B than改为as，组成the same…as的结构。
+　　(8) Nature not only gave the Middle Atlantic fine harbors， however endowed it with a first-class system of inland waterways. (91.1)
+　　［答案］ C however 改为but also，组成not only…but also结构。
+

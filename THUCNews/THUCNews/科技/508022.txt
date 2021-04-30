@@ -1,0 +1,6 @@
+EOS用户注意 iPhone单反遥控程序面世
+   近日，一款即将上线销售的iPhone(手机上网)/iPod touch软件——App DSLR  Remote引起了不少苹果粉丝兼单反用户的注意。原因在于该款软件的作者表示，只要在你的iPhone或者iPod touch上安装App DSLR  Remote就可以远程遥控你的DSLR。
+　　不过，目前此款软件支持的机型还仅限于佳能的EOS系列，而且这并非点对点的直接控制，需要将EOS数码单反首先连接到个人电脑，然后iPhone/iPod  touch再通过Wi-Fi连结电脑来控制你的单反。如此繁琐的操作恐怕并不是真正的摄影师需要的，不过由于可以利用iPhone/iPod  touch直接显示带有Live View功能单反的取景画面，因此对于某些用户而言，他们对遥控拍摄高质量照片及视频（目前佳能的EOS  500D和EOS  5D MARK II均可以拍摄高清视频）可能更感兴趣。
+　　据悉，App DSLR Remote将会分为专业版和简易版两种，前者可以通过iPhone/iPod  touch控制拍摄参数，售价9.99美元，而后者只能用来当快门按键使用，售价1.99美元。
+
+

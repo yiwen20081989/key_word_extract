@@ -1,0 +1,7 @@
+甲骨文公司推出最新Java SE 7版
+　　新浪科技讯  8月4日上午消息，甲骨文公司宣布推出最新Java  Platform, Standard Edition 7(Java SE 7)，这是甲骨文公司首度推出的Java平台新版本。
+　　本次推出的Java SE 7提升了多个方面的性能，包括：通过减少所需代码量，简化常见编程任务；提升对动态语言的支持(包括Ruby、Python和JavaScript)；全新为多核环境而设计的API；带有文件系统的完整I/O工作界面等。
+　　甲骨文融合中间件和Java产品高级副总裁Hasan Rizvi表示：“我们对Java SE 7的推出感到十分兴奋，新版本包括强大的技术更新。我很高兴Java社区能够一起合作以推动技术发展，同时也让我们对开发Java SE 8有了一个更明确的方向。Java平台的成功对甲骨文非常重要，我们将致力于为客户提供一致的、高性能的和高品质的Java SE实施服务，Oracle融合中间件产品也将全系列支持Java SE 7”。
+　　甲骨文还表示，若开发人员有意立即使用Java SE 7，他们可以利用NetBeans集成开发环境 (IDE) 7.0，和新增Java SE 7插件的Eclipse Indigo或IntelliJ IDEA10.5的，以支持Java SE7平台的最新功能。
+　　支持JDK 7的Oracle JDeveloper计划将在今年晚些时候推出。
+

@@ -1,0 +1,5 @@
+Adobe考虑将完整版Photoshop移植到iOS
+　　我们都知道苹果和Adobe公司之间存在着巨大的矛盾，但是这并不影响Adobe将他们更多的软件推广到iPhone上面，例如他们就准备把全功能版本的Photoshop引入到这一平台之上。
+　　虽然Adobe公司已经在iPhone平台上推出了简易版的Photoshop，但是这显然不是Adobe公司的目的，因为就在不久之前他们已 经在三星的Galaxy Tab上面运行了运行content-aware fill工具，这预示着Adobe将移动互联平台排在了他们未来发展的一个非常重要的地位。
+　　不过由于iPhone以及iPad和传统的桌面平台还是拥有很大的差距，无论是在操作方式还是在操作的精度方面都拥有较大的不同因此Adobe想要开发出一款好用的全功能的Photoshop确实需要一定的时间。
+

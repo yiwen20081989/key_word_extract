@@ -1,0 +1,5 @@
+BMC收购自动化软件公司Phurnace
+　　新浪科技讯 北京时间1月7日晚间消息，据国外媒体今日报道，商务软件制造商BMC Software(以下简称“BMC”)已经收购了自动化软件公司Phurnace Software(以下简称“Phurnace”)，后者的主要业务是帮助客户调配基于Java编程语言的软件应用，但双方并未公布这项交易的具体财务条款。
+　　BMC称，Phurnace的软件有助于客户在其IT系统中引入基于Java语言的新应用时降低相关成本、复杂性和风险，并表示该公司计划将Phurnace的自动化技术植入BMC BladeLogic Server Automation套装。
+　　BMC的企业服务管理部门总裁Dev Ittycheria发表声明称：“客户只有通过自动化程序才能大大减少在生产环境中调配应用的时间，同时又能降低调配过程中的风险和成本。”(唐风)
+

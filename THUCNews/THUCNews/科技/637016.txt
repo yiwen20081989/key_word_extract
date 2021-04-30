@@ -1,0 +1,10 @@
+ARM总裁透露Android 4.0昵称为“冰淇淋”
+　　新浪科技讯 北京时间10月18日上午消息，据国外媒体今日报道，英国芯片设计商ARM总裁都铎·布朗(Tudor Brown)透露，谷歌新一代Android操作系统将被命名为Ice Cream(冰淇淋)。
+　　自2009年5月以来，谷歌的每个Android版本都会采用一种甜品名字做昵称，而且首字母均按照字母表的顺序排列。2009年5月推出的Android 1.5昵称为Cupcake(杯形蛋糕)，2009年9月推出的Android 1.6昵称为Donut(甜甜圈)，2009年10月的Android 2.0被命名为Eclair(长形松饼)。目前正在使用的Android 2.2昵称为Froyo(冰冻酸奶)，该产品于今年5月发布。
+　　谷歌还透露，Android 3.0和3.5的昵称分别为Gingerbread(姜饼)和Honeycomb(蜂窝)。按照布朗的说法，接下来的Android操作系统将被命名为Ice Cream。
+　　但谷歌目前仍然对Android 4.0的情况保持沉默。该公司发言人通过书面声明表示：“今后两代平台的发布名称分别为Gingerbread和Honeycomb。时间和细节尚未公布。”
+　　但业内人士认为，Ice Cream这个名称可信度很高，原因在于布朗对Android路线图非常熟悉，目前全球95%的手机和超过四分之一的电子设备都使用ARM的技术。而包括智能手机和平板电脑在内的众多设备都采用了Android操作系统。
+　　这并非Android昵称首次泄密。Android合作伙伴三星就曾经在今年9月的一次行业展会上提前透露了Honeycomb的名称。
+　　除此之外，按照字母表的顺序来看，Ice Cream也非常符合谷歌的习惯。事实上，业内人士早在几个月前就已经认定Ice Cream将被用于未来的Android操作系统。
+　　业内人士预计，Ice Cream要到2011年中期才能推出，Gingerbread和Honeycomb分别有望在今年底和明年初发布。(书聿)
+

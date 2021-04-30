@@ -1,0 +1,5 @@
+双核竟不如单核？四款智能旗舰硬件比拼
+　　随着智能手机硬件性能的不断提升，2011年无疑已经成为了智能手机双核处理器时代的元年。而在目前率先登场的双核处理器智能手机中，摩托罗拉ATRIX 4G、LG Optimus 2X以及HTC Sensation究竟哪一款的硬件性能更加出色，相信也是消费者最为关注的问题之一。
+　　近日就有国外媒体将摩托罗拉ATRIX 4G、LG Optimus 2X、HTC Sensation以及三星GALAXY S四款手机的GLBenchmark基准测试得分进行了比较。通过测试结果可以看到，尽管同样采用了NVIDIA Tegra 2双核处理器，LG Optimus 2X以2858分成为第一名，而摩托罗拉ATRIX 4G仅为2187分的成绩却处于末位。同时，HTC Sensation凭借着主频高达1.2GHz的高通Snapdragon MSM 8260处理器芯片组的出色表现，以2355分位于第三名。最令我们惊讶的是，这四款手机中唯一采用单核处理器的三星GALAXY S得分高达2567分，夺得了第二名的好成绩。
+　　当然在摩托罗拉ATRIX 4G、LG Optimus 2X、HTC Sensation以及三星GALAXY S四款手机中，摩托罗拉ATRIX 4G与HTC Sensation的屏幕分辨率高达540×960像素，LG Optimus 2X与三星GALAXY S的屏幕分辨率仅为WVGA级别，因此摩托罗拉ATRIX 4G与HTC Sensation得分偏低与此也不无关系。不过我们仍可以看到，现阶段的双核处理器与单核处理器在性能之间的差距仍不明显。
+

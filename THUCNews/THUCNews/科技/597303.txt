@@ -1,0 +1,6 @@
+十多款Adobe软件与Mac OS X Lion不兼容
+　　新浪科技讯 北京时间7月25日早间消息，有十余款Adobe产品无法与苹果新一代桌面操作系统Mac OS X Lion完美兼容，从而加剧了Adobe与苹果产品的软件兼容问题。
+　　苹果iOS此前已经封杀了Adobe Flash软件。虽然最新的这些问题并不像Flash与iOS的关系那样已成定局，但Adobe表示，很多产品在Lion中的确会丧失一些功能。软件通常需要重新编码才能继续与新版操作系统兼容，或者使用新系统的功能。但苹果与Adobe历来不合，因此出于对电池续航时间、安全性和性能的考虑，苹果拒绝在移动设备中支持Adobe Flash技术。
+　　目前已知的受影响的Adobe软件包括：Acrobat、Adobe Drive、Contribute、Dreamweaver、Fireworks、Flash Builder、Flash Catalyst、Flash Player、Lightroom、LiveCycle、Photoshop和Premiere Pro。
+　　除了软件兼容问题外，Lion还存在其他一些问题，包括Wi-Fi连接故障、无法登录、应用无法运行或运行缓慢以及系统整体运行缓慢。但抱怨系统运行缓慢的用户可能使用的是性能较差的老款Mac。(鼎宏)
+

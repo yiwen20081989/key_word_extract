@@ -1,0 +1,8 @@
+微软为正版用户提供中文版杀毒软件免费下载
+　　新浪科技讯 北京时间9月18日上午消息，微软中国有限公司今天宣布，已经通过正版验证的Windows电脑用户将可从微软官方网站免费下载并安装Microsoft Security Essentials(MSE)中文测试版杀毒软件，下载定额为10万个。
+　　Microsoft Security Essentials提供核心的安全保护，帮助用户免受病毒、间谍软件和其他恶意威胁的侵害，帮助电脑提高抵御包括病毒、间谍软件、特洛伊木马和 Rootkit等恶意攻击的能力。
+　　微软大中华区市场战略部总经理孙建东表示：“微软致力于为正版软件提供更大的价值和更丰富的服务。作为正版Windows产品享受的一项增值服务，Microsoft Security Essentials是不断提高人们对正版价值认知的又一项举措。安装Microsoft Security Essentials可以让用户在享受畅快的计算体验的同时对自己的系统安全也非常放心。”
+　　中国软件联盟秘书长邹忭表示，“如今恶意软件已经逐步从手工作坊式生产发展成为一种成熟的经济欺诈手段，电脑用户也面临着一个快速变化的安全环境。通过提供高质量的防范恶意攻击软件，微软采取了一种务实的举措来鼓励人们使用正版软件。公众使用正版软件意识的提升，也会促进整个软件生态系统的健康发展。”
+　　方正科技总裁蓝烨表示，“作为一项正版软件增值服务，Microsoft Security Essentials为消费者提供了更多的安全选择；同时，它进一步展示了正版软件带给消费者的更丰富的价值和更为精彩的体验。这将有助于消费者更好的了解并选择使用正版软件。” 。
+　　Microsoft Security Essentials可以在Windows XP (SP2 or SP3)、Windows Vista 以及Windows 7(包括Windows XP模式)上运行。从2009年9月18日起，通过正版验证的Windows 电脑可以从http://www.microsoft.com/security_essentials/?mkt=zh-cn下载Microsoft Security Essentials中文测试版，下载定额为10万个。
+

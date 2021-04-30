@@ -1,0 +1,8 @@
+美上诉法庭裁定Skype赢得专利侵权诉讼案 
+　　新浪科技讯 北京时间10月8日晚间消息，据国外媒体今日报道，Skype法律顾问罗伯特·米勒(Robert Miller)表示，一家联邦上诉法庭认定eBay和Skype并未侵犯Peer Communication持有的两项点对点技术专利。
+　　Peer Communications是加州Acacia Technologies旗下子公司，后者是一家专营专利授权和实施的公司。Peer Communications于2006年8月向美国德克萨斯东区地区法庭提交了这一诉讼。
+　　Skype法律顾问罗伯特·米勒在公司博客上撰文称，法庭作出了有利于Skype和eBay的判决，但随后这一诉讼被提交至美国联邦巡回上诉法庭。这两项专利存在密切关系。据法庭文件表示，这两项专利处理的是统一的用户网络连接界面，保证一个网络代理接入多个不同的网络服务。
+　　今年9月，eBay宣布达成协议，作价19亿美元将Skype 65%的股份出售给一个私人投资者财团。
+　　交易消息宣布后，Skype的两位创始人尼克拉斯·曾斯特罗姆(Niklas Zennstrom)和雅努斯·弗里斯(Janus Friis)向eBay提起诉讼，称eBay侵犯在他们在网络电话服务当中使用的可以改编和分享的P2P源代码的专利技术，并提出了索赔7500万美元/天的诉讼请求。Skype联合创始人在2005年将公司出售给eBay时保留了源代码的所有权，并将其许可给eBay。
+　　大约三周前，Skype创始人起诉私募基金Index Ventures及其合伙人米切兰格罗·沃尔皮(Michelangelo Volpi)，指责沃尔皮盗用商业机密推动eBay出售Skype。Skype创始人称，沃尔皮以Index Ventures合伙人的身份盗用商业机密，参与策划了Index Ventures及其财团对Skype的收购。原告在诉讼状中称：“沃尔皮肆意违背了他的受托人义务。”(逸飞)
+

@@ -1,0 +1,4 @@
+ThinkPad X100e推Atom版 取代AMD芯片
+    作者：马璇
+ 　 联想上网本ThinkPad X100e推出时称采用1.6GHz AMD Athlon Neo芯片，也是首款采用AMD芯片的ThinkPad本，但据联想网站显示，一个装载双核1.66GHz Intel Atom CPU的X100e版本已悄悄出现，除了芯片方案不一样外，其它参数几乎一模一样：1280x720分辨率，160GB 5400转硬盘。
+

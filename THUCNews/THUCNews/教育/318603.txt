@@ -1,0 +1,26 @@
+考G必备：试题数学部分术语完全攻略
+　　1。有关数学运算
+　　add,plus加?subtract减?difference差??multiply,times乘?product积?divide除 divisible可被整除的?dividedevenly被整除?dividend被除数，红利?divisor因子，除数 quotient商?remainder余数??factorial阶乘?power乘方?radicalsign,rootsign根号 roundto四舍五入?tothenearest四舍五入
+　　2。有关集合
+　　union并集?proper subset真子集?solution set解集??
+　　3。有关代数式、方程和不等式
+　　algebraic term代数项?like terms,similar terms同类项?numerical coefficient数字系数?literal coefficient字母系数??inequality不等式 triangle inequality三角不等式??range值域??original equation原方程?equivalent equation同解方程，等价方程?linear equation线性方程(e.g.5?x?+6=22)?
+　　4。有关分数和小数
+　　proper fraction真分数?improper fraction假分数?mixed number带分数?vulgar fraction,common fraction普通分数?simple fraction简分数?complex fraction繁分数??numerator分子?denominator分母?(least)common denominator(最小)公分母?quarter四分之一?decimal fraction纯小数?infinite decimal无穷小数?recurring decimal循环小数?tenthsunit十分位
+　　5。基本数学概念??
+　　arithmetic mean算术平均值?weighted average加权平均值?geometric mean几何平均数?exponent指数，幂?base乘幂的底数，底边?cube立方数，立方体?square root平方根?cuberoot立方根??common logarithm常用对数??digit数字?constant常数?variable变量 inversefunction反函数?complementary function余函数?linear一次的，线性的 factorization因式分解?absolute value绝对值，e.g.｜-32｜=32?round off四舍五入?
+　　6。有关数论?
+　　natural number自然数?positive number正数?negative number负数?odd integer,odd number 奇数?even integer,even number偶数?integer,whole number整数?positive whole number正整数?negative whole number负整数??consecutive number连续整数?rea lnumber,rational number实数，有理数?irrational(number)无理数??inverse倒数?composite number合数 e.g.4,6,8,9,10,12,14,15……?prime number质数e.g.2,3,5,7,11,13,15……注意：所有的质数(2除外)都是奇数，但奇数不一定是质数reciprocal倒数??common divisor公约数?multiple倍数?(least)common multiple(最小)公倍数??(prime)factor(质)因子?common factor公因子?ordinaryscale,decimalscale十进制?nonnegative非负的??tens十位?units个位??mode众数?median中数??common ratio公比??
+　　7。数列
+　　arithmetic progression(sequence)等差数列?geometric progression(sequence)等比数列??
+　　8。其它?
+　　approximate近似?(anti)clockwise(逆)顺时针方向?cardinal基数?ordinal序数directproportion正比?distinct不同的?estimation估计，近似?parentheses括号 proportion比例?permutation排列?combination组合?table表格?trigonometric function三角函数?unit单位，位
+　　几何部分
+　　1。所有的角
+　　alternate angle内错角?corresponding angle同位角?vertical angle对顶角?central angle 圆心角?interior angle内角?exterior angle外角?supplement aryangles补角?complement 　aryangle余角?adjacent angle邻角?acute angle锐角?obtuse angle钝角?right angle直角 round angle周角?straight angle平角?included angle夹角
+　　2。所有的三角形
+　　equilateral triangle等边三角形?scalene triangle不等边三角形?isosceles triangle等腰三角形?right triangle直角三角形?oblique斜三角形?inscribed triangle内接三角形?
+　
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

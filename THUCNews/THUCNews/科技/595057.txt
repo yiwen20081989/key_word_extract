@@ -1,0 +1,6 @@
+亚马逊为Web服务推新功能：简化应用部署
+　　新浪科技讯 北京时间1月19日晚间消息，亚马逊网络服务(以下简称“AWS”)周三推出了一项新功能，旨在简化第三方AWS云应用的部署和管理。
+　　该项新功能被称为AWS Elastic Beanstalk，允许开发人员上传其应用，之后的一切完全可以由AWS Elastic Beanstalk自动管理。当然，开发人员仍可以随时手动管理。
+　　AWS Elastic Beanstalk为免费服务，只要是AWS的付费用户即可免费使用。AWS Elastic Beanstalk可以有效地利用亚马逊的其他AWS服务，如Amazon EC2、Amazon S3、Amazon简易通知服务、 Elastic加载平衡和自动调节(Auto-Scaling)等。
+　　AWS Elastic Beanstalk首个版本针对Java开人员，使用阿帕奇Tomcat软件堆栈，但将来会支持多种开发堆栈和编程语言。 亚马逊还表示，正与解决方案供应商在API(应用编程接口)方面展开合作。(李明)
+

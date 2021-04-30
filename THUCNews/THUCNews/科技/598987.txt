@@ -1,0 +1,7 @@
+谷歌Android Market应用数量达50万
+　　新浪科技讯 北京时间10月25日早间消息，移动行业研究公司Research2Guidance发布的最新报告显示，谷歌Android Market应用商店中的应用数量正快速增长。
+　　报告显示，今年第三季度，Android Market中的活跃移动应用数量约为31.9万个，低于苹果App Store的46万个。不过该公司发现，平均来看，自Android电子市场上线以来，每名Android开发者平均推出了超过6个应用，高于iOS平台的4个。
+　　在应用的总发行量发面，Android Market已有约50万应用，而App Store约有60万应用。其中，超过37%的应用被Android电子市场以各种原因删除，而App Store删除的应用约占24%。应用被删除的原因包括多次测试、不兼容最新版系统、开发者放弃，以及应用质量较低等。
+　　在用户数方面，该研究公司认为，Android Market的用户数将于今年底超过苹果App Store。
+　　ABI Research的一项研究显示，Android手机下载应用的总数超过iPhone，在全球移动应用下载市场的份额为44%。不过全球市场Android手机的数量已经达到iPhone的2.4倍。这意味着每一部Android手机下载的应用约为每一部iPhone的一半。(邱越)
+

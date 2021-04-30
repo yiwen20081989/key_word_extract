@@ -1,0 +1,8 @@
+戴尔Studio 15新型号配HD4570显卡
+作者：徐文广
+　　前几天报道过的Studio 15(参数 图片 文章 评论 )55型号现在正式登陆新加坡，据报道，Studio 1555不光采用了512MB显存ATI Mobility Radeon HD 4570显卡，还搭配了15.6英寸LED宽屏，支持720p高清，分辨率为1366 x 768。
+　　Studio 15新型号外观提供7种颜色供选择，搭配Windows Vista Home Premium系统。
+　　采用了3GB内存，配置2.4GHz主频P8600处理器，搭配有250GB硬盘。搭配USB、HDMI、VGA、RJ45、IEEE 1394、34mm ExpressCard、耳机麦克风等接口。内置了低音喇叭。重量为2.5千克，搭配6芯锂离子电池，外形大小为371.6mm×252.9mm×25.3mm-38.9mm。售价在1599新币左右（合计1044美元）。
+　　Studio 15笔记本最高可配置T98100处理器，选择Windows Vista Ultimate操作系统，支持8GB内存，可配置GM45或965PM芯片组，支持500GB硬盘。可选择9芯锂离子电池。
+
+

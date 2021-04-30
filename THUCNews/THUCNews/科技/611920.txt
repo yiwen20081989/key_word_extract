@@ -1,0 +1,6 @@
+戴尔Inspiron Mini 12开始预装Ubuntu系统
+    目前市场上的唯一一款12寸Atom笔记本戴尔Inspiron Mini 12上市不足一个月，即将入门门槛降至500美元以下。新型号搭载了Ubuntu Linux操作系统，售价499美元，比之前的Windows版本降价50美元。
+    新型号为Inspiron 1210，和Windows版一样为12.1寸1280x800液晶屏幕，Intel Atom Z520 1.33GHz处理器，1GB内存，40GB PATA硬盘，但搭载的操作系统为Ubuntu 8.04.1。另有一款将处理器升级到Atom Z530，硬盘升级至60GB的Linux型号售价和低配Windows版一样，同为549美元。
+    Windows版方面，戴尔也改变策略，标配预装操作系统从Vista Home Basic改为了Windows XP Home，不过用户也可以免费更换为Vista Home Basic。这种改变的原因可能在于，该机使用了原本针对MID市场的Z系列Atom处理器和Poulsbo芯片组，因此内存容量限制在1GB无法继续升级，面对Vista系统不免显得捉襟见肘。
+
+

@@ -1,0 +1,28 @@
+名师帮您避免雅思考试中易出的错误
+　　上一篇文章中，笔者重点和考生们探讨了是非无判断题中TRUE的情况。本文当中，阅读组的专家将会向广大考生们介绍FALSE的几种常见情况。
+　　一，题目和原文直接矛盾。这种情况也就是指题目和原文的表述是直接相反的，是比较直接的一种出题方式，一般以反义转换作为矛盾的体现方式，较明显。如剑桥5中出现的这种情况，
+　　题目：Johnson set up an academy to help with the writing of his Dictionary。
+　　原文：Johnson decided he did not need an academy to settle arguments about language;
+　　此题非常容易判别出来，即使考生的英文基础薄弱，不能准确识别出academy的意思，也并不影响考生通过否定词not来判断出本题的正确答案FALSE。
+　　当然，不是所有和原文直接矛盾的题目都会以反义转换的方式表现出来。如剑桥4的G类考题中曾经出现过这样的例子，
+　　题目：The elections for the Union President and Executive Committee are held together。
+　　原文：The Union is very active and is run by an Executive Committee elected by students in the Autumn Term. The President is elected every Summer Term to provide continuity for the next academic year。
+　　介于是G类的文章，此题本身不存在太大的理解上的难度。考生只要能准确捕捉到原文描述的两个时间点并不是在一起的就可以没有障碍的判断出题目的正确答案了。
+　　二，以偏概全。这种情况出现时，往往原文中是多个条件并列，题目只是其中一个条件。考生不难想象，要出现这种情况，题目中必然出现诸如must或only这
+　　类词以达成题目这种“偏”的情况。用一个示例说明，
+　　题目：Only Russians have won gold medals in the men’s winter Olympics。
+　　原文：Since the start of Winter Games, 45 out of 46 gold medals in men’s Nordic skiing event have been won by competitors from Scandinavia or the former Soviet Union。
+　　此题陈述只有Russians获得了冬运会所有金牌。这里用到了 ‘Only’这个词来造成“偏”的情况去概括原文当中的“全”，即北欧人和前苏联的选手以及那位不知从哪个国家来的金牌得主。所以答案应为FALSE。
+　　这种情况的出现一定程度上提醒考生，在考试过程当中遇见must或only这样类型的词的时候，不妨仔细阅读原文看看原文所描述的是不是仅仅单一只是题目所涉及的条件。这里还要补充说明的一点是，有一些考生往往会主观夸大一些现象，期望有“终南捷径”，只要一看见only这个词会直接把这道题目判定为FALSE。这其实是没有任何道理的。有only存在但是答案不是FALSE的情况比比皆是，举一G类的例子，
+　　题目：The Chapel View Restaurant is for students only。
+　　原文：This is another training restaurant and is set up as a quick-service facility which offers a selection of snacks and main courses at a modest price。
+　　上述原文内容是原文当中提到Chapel View Restaurant的唯一一句描述。那么从这句描述中我们可以看出，原文没有明确这个餐厅的开放对象，有可能是只为学生提供，有可能也对外开放，但是原文没有进行这方面的说明，所以说这道题目虽然有only但是也不能够判定为FALSE。其正确答案是NOT GIVEN。
+　　三，原文和题目中使用了表示不同范围、频率、可能性的副词。副词是雅思阅读考试是非无判断题中经常单拎出来作为考点的词。在此提醒考生们切不可忽略小小的副词，因为它们往往可以改变一句话的准确意思。从而直接影响到题目的正确性。如
+　　原文：Without a qualification from a reputable school or university, it is unlikely to find a good job。
+　　题目： It is impossible to get a good job without a qualification from a respected institution。
+　　这道题中的原文和题目做了一些同意转换，如a reputable school和a respected institution，但是这不是考点，考点出现在表示程度的副词unlikely和impossible上。题目中的impossible，是完全不可能的意思，而原文中的unlikely，只是不太可能，并没有完全抹杀掉非名校毕业生找到好工作的可能性，所以答案应为FALSE。
+　　四，条件状语。原文中包含条件状语，题目中只有相关陈述却没有了表示条件状语的成份。也即原文所陈述的情况是在一定的条件下成立的，现在题目去掉了“一定的条件”，那么很显然相关陈述也就不可能成立了。举个例子，
+　　题目：The international society has often criticized the Internet because it is not safe。
+　　原文：The Internet has often been criticized by the international society as a newly-emerging dangerous tool in the hands of terrorists。
+　　此题中的陈述是国际社会批评因特网是个危险工具。“一定的条件”是介词短语in the hands of terrorists，在恐怖分子手中，因特网是危险的。但是原文表达的这个意思在题目中其实是发生了变化的，条件状语in the hands of terrorists被去掉了，那么相关的陈述也就没有成立的依据了，所以答案应为FALSE。
+

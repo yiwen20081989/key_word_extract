@@ -1,0 +1,6 @@
+WQVGA屏自主界面 Acer P300P400亮相
+文/andy921
+    2010 Computex台北国际电脑展会日前正式召开，本次展会吸引了来自世界各国的IT厂商产占，其中智能手机、平板电脑和多点触控的平板电脑最受各界关注，在会场上也展出了很多智能手机，下面我们就来看看到底有哪些手机亮相了本次会展。
+    在台北举行的会展，当然是台湾厂商更加如鱼得水一些，Acer在本次展会上展示了数款手机，其中有两款新机，分别是Acer neoTouch P300、Acer neoTouch P400。Acer neoTouch P300采用了一块3.2英寸大的WQVGA触摸屏，搭载Acer自主研发的操作界面，并有QWERTY全键盘设计，采用了微软的Windows Mobile 6.5.3系统。硬件上，该机采用Qualcomm 7225 528MHz处理器。搭载一枚320万像素的摄像头，支持GPS、A-GPS、WiFi、3G网络、蓝牙等。
+    Acer neoTouch P400也一款采用微软Windows Mobile 6.5.3系统的智能手机，手机配置比Acer neoTouch P300略高，采用的是一块3.2英寸的WQVGA触摸屏，使用Qualcomm 7227 600MHz处理器，一枚320万像素的摄像头，支持GPS、A-GPS、WiFi、3G网络、蓝牙等，该机5月已经在国外上市。
+

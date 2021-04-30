@@ -1,0 +1,7 @@
+华为承建全球首个商用LTE网络接通
+　　新浪科技讯 北京时间6月4日18：30消息，华为宣布，其承建的全球首个LTE商用网络已成功Internet连接。
+　　2009年1月，华为与爱立信共同中标TeliaSonera的全球首个LTE商用网络合同，华为承建挪威首都奥斯陆，爱立信承建瑞典首都斯德哥尔摩。华为表示，其与Netcom在奥斯陆通过LTE modem实现了笔记本电脑接入Internet/Intranet网络，体验了高精度图片下载、音乐下载、电影下载和移动商务等Internet业务应用，接入速度远超现有固定宽带。
+　　全球首个基于LTE的移动宽带网络通信的成功，证明了使用基于LTE的移动设备的下载速度远远超过现有其他的移动技术。
+　　据悉，通过采用MIMO(Multiple Input Multiple Output)和OFDM(Orthogonal Frequency Division Multiplex)等关键LTE无线技术，华为LTE商用网络能在一个LTE小区、多用户接入的情况下提供高达150Mbps的峰值下载速率。
+
+

@@ -1,0 +1,125 @@
+托福考试语法指导：从属连词及真题要点解析
+　　托福考试语法指导：从属连词及真题要点解析
+　　复合句是TOEEL考题的基本句子结构，因而连接主句和从句的连接词就成为重要的命题焦点。TOEEL常考的从属连词分三类：(1)关系代词( that， which ，what who. Whose) (2) 关系副词(where when why how) (3) 状语从句连接词 (where， when， if， though， because…) 有关从属连词的试题大部分集中在Structure (1-15题中) 掌握命题规律，这类题目并不复杂。
+　　从属连词常考题型及解题要点
+　　1. 主句与从句之间必须有从属连词
+　　全真例题分析
+　　(1)The spiral threads of a spider*s web have a sticky substance on them ------- insects。
+　　(A) traps
+　　(B) trap its
+　　(C) which traps
+　　(D) which it traps (92.1)
+　　［答案］ C 定语从句关系代词which引导从句，且在从句中作主语。
+　　(2)Angiosperms inhabit relatively diverse environments and may be found ------- higher plants can survive。
+　　(A) there
+　　(B) wherever
+　　(C) somewhere
+　　(D) then (92.5)
+　　［答案］ B 空格前后为两个完整的句子，这里应填入连接词联系主从两句。四个选择只有wherever是连词，引导地点状语从句。
+　　(3)Duke Wellington was a composer. Conductor， and pianist ------ ranked as one of the greatest of all jazz figures。
+　　(A) him
+　　(B) although
+　　(C) or
+　　(D) who (92.10)
+　　［答案］ D 关系代词who引导定语从句，并作从句的主语。
+　　(4)-------。 Some of the Earth*s interior heat escapes to the surface。
+　　(A) A volcano erupts
+　　(B) A volcano whether erupts
+　　(C) A volcano erupts it
+　　(D) If a volcano erupts (93.5)
+　　［答案］ D 从属连词引导条件状语从句。
+　　2. 关系代词 who与which混淆错用
+　　解题要点：在written Expression (16-40题)中的四个选择答案中出现who 或者which，应确认它所指代的是人还是物。
+　　全直例题分析
+　　(1)Fossil remains indicate that squidlike creatures called belemnites swam in the sea who covered the North American continent 70 million years ago. (94.5)
+　　［答案］ C 关系代词who指代的是sea，因此应用指物的which或that。
+　　(2)Vaccines for some rare diseases are given only to persons which risk exposure to the disease. (93.1)
+　　［答案］ B 关系代词which指代前面的persons，应改为人称关系代词who。
+　　(3)Anne Elizabeth McDowell is best remembered for a weekly journal， the Woman*s Advocate， who she launched in January 1855. (91.8)
+　　［答案］ D 关系代词who指代杂志the woman*s Advocate，故应改为which。
+　　(4) The attorney general of the United States advises the President on any questions of law who may arise in the conduct of administrative affairs. (90.10)
+　　［答案］ B 关系代词who指代前文的questions of law，故应改为which或that。
+　　3. 介词＋关系代词which结构
+　　解题要点 介词＋which作用相当于一个关系副词，在从句作状语。可表示时间(＝when) ，地点(= where) ，原因(＝why)等等。
+　　全真例题分析
+　　(1) In reorganizing the curriculum of Mt. Holyoke College in the late 1800*s Elizabeth Mead laid the foundation ------- the modern college rests。
+　　(A) is which
+　　(B) on which
+　　(C) which is on
+　　(D) on it (91.1)
+　　［答案］ B on which 指代on the foundation ，作用相当于一个表示地点的关系副词。
+　　(2) A circuit may be defined as a closed path ------- electricity can How。
+　　(A) through it
+　　(B) through which
+　　(C) that is through
+　　(D) there goes through (93.3)
+　　［答案］ B through which 指代through the circuit， 作用相当于一个关系副词，而介词through才能准确地表达句子的含义。
+　　(3) The extent of the harmful effect of locoweeds on animals depends on the soil ------- the plants grow。
+　　(A) which
+　　(B) which in
+　　(C) in which
+　　(D) in (90.5)
+　　［答案］ C in which = where
+　　(4) Adhesives， such as glue， tape and gum， vary with the purpose ------- intended。
+　　(A) they were for
+　　(B) for they were
+　　(C) which were they
+　　(D) for which they were (93.10)
+　　［答案］ D for which指代for the purpose。
+　　4. What 引导的名词性从句
+　　解题要点：what兼先行词和关系代词双重身份，即what = the thing (things) that…。因此考生应特别注意，what既已包含先行词在 内，它的前面就不应该再出现先行中心名词。What 与that 的区分是TOEEL常考题目
+　　全真例题分析
+　　(1) During the eighteenth century， Little Turtle was chief of the Miami tribe whose territory became ------- is now Indiana and Ohio。
+　　(A) there
+　　(B) where
+　　(C) that
+　　(D) what (93.5)
+　　［答案］ D what = the area that。What所指代的是地点、位置。然而，此句却不可选择(B)where。因为关系副词where不能作从句的主语。只有what即是先行词又是关系代词。
+　　(2) The chief foods eaten in any country depend largely on ------- best in its climate and soil。
+　　(A) it grows
+　　(B) what grows
+　　(C) does it grow
+　　(D) what does grow (90.1)
+　　［答案］ B what grows = the thing that grows…另请注意：介词后面通常不能接that引导的从句，但可接what引导的名词性从句。
+　　(3) A hinge joint is ------- permits the forward and backward movement of a door。
+　　(A) the
+　　(B) what
+　　(C) those
+　　(D) whose (88.10)
+　　［答案］ B what = the thing that…
+　　(4) Essentially， a theory is an abstract. Symbolic representation of ------- reality。
+　　(A) what it is conceived
+　　(B) that is conceived
+　　(C) what is conceived to be
+　　(D) that is being conceived of (89.5)
+　　［答案］ C what = the thing that (is conceived to be…) 。答案(A)中的代词it是多余的，因为what本身即已包含了先行词(the thing ) 和关系代词(that) 。答案(B)中的关系代词that引导的从句不可以置于介词的后面。
+　　(5) Most of the food what elephants eat is brought to their mouths by their trunks. (93.10
+　　［答案］ B what应改为that。此句已含有先行词food，不能再用关系代词what。
+　　5. 主句和从句
+　　解题要点 主语从句是TOEEL常考而中国考生又较陌生英文文法结构。有关主语从句的命题几乎全部集中在structure (1-15题)中。主语从句的特点是读起来有种头重脚轻的感觉，而且有两个谓语动词。连词That 引导的主语从句应特别留意。因为That 在句中没有任何意义，它只具有引导出主语从句的功能，因而很容易被忽略。
+　　全真例题分析
+　　(1) ------- xenon could not from chemical compounds was once believed by scientists。
+　　(A) For
+　　(B) It was
+　　(C) That
+　　(D) While (91.1)
+　　［答案］ C That引导的主语从句。其中第一个谓语动词could from 是从句的谓语，第二个系动was是主句的谓语。
+　　(2) ------- to space travelers is high acceleration of deceleration forces。
+　　(A) Danger can be
+　　(B) They can be dangerous
+　　(C) What can be dangerous
+　　(D) While danger (93.1)
+　　［答案］ C what引导的主语从句。What既是从句的连词，又是从句的主语。
+　　(3) ------- has been a topic of continual geological research。
+　　(A) Did the continents originate
+　　(B) How did the continents originate
+　　(C) Have the continents originated
+　　(D) How the continents originated (91.1)
+　　［答案］ D How 引导的主语从句。
+　　(4) ------- progress helps to relieve scarcities is a fact accepted by economists。
+　　(A) Technological
+　　(B) That technological
+　　(C)Although technological
+　　(D)There is technological
+　　［答案］ B. That 引导的主语从句，当连续读到两个谓语动词(e.g. Helps…is)，而空格在句首，应首先考虑主语从句。这是主语从句典型的句子结构。
+

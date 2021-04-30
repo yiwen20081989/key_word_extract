@@ -1,0 +1,6 @@
+英特尔发布Sandy Bridge新款处理器
+　　根据国外媒体的报道，英特尔近日发布了新Sandy Bridge处理器，型号为奔腾B950。
+　　这款处理器和奔腾B940一样，采用双核心设计，具备2MB缓存。
+　　两处理器唯一区别在于主频，B950主频2.1GHz，比B940快0.1GHz。奔腾B950处理器的PassMark得分为1982。奔腾B940处理器的PassMark得分为1978。
+　　奔腾B950处理器已经在宏?Aspire AS5750Z-B954G50Mnkk和HP Pavilion dv4-4030us笔记本中使用。
+

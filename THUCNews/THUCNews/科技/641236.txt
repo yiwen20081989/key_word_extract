@@ -1,0 +1,4 @@
+外媒曝iOS 5暗藏玄机 修改设置即可全景拍摄
+　　中新网11月11日电 据英国《每日邮报》报道，日前，一名黑客发现iPhone最新操作系统iOS5内隐藏了苹果公司未公开的全景拍摄功能，但使用前需先“越狱”，或对iPhone进行少量的修改。据目前测试，该功能仅适用于iPhone 4/iPhone 4S、iPad及iPod touch。
+　　该黑客发现，只要将iOS设定文件com.mobileslideshow.plist中“EnableFirebreak”一项，设置成Yes，就可开启全景模式。然后在拍摄时从左向右移动iPhone，就可以全景拍摄。不过由于功能仍处于测试阶段，尚未正式开放，因此并非每部iPhone都能使用。 (中新网IT频道)
+

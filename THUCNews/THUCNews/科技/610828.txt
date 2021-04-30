@@ -1,0 +1,43 @@
+华硕在国外发布多款新本 最高配1TB硬盘
+    F6V香水笔记本
+　　根据国外媒体的报道，华硕公司近日公布了多款基于迅驰2平台的笔记本新品，包括F6V、F8Vr、B50A、G50V和G71V等型号。
+　　这些笔记本的外观设计个性时尚，其中的F6V是一款香水笔记本，在笔记本顶盖设计的时候，里面增加了一层内膜，使用热转印技术把设计图案加在顶盖里面，最后通过UV烘烤技术，把香精加入，香味可以在笔记本顶盖里面持续几个月，发出淡淡的香味。
+　　G50V和G71V则属于游戏型笔记本，采用了非常强悍的配置，其中的G71V笔记本最高可配置1TB硬盘，并配置四核处理器。
+　　注：以上的部分型号在中国市场上早已发布，这里不作过多介绍。
+　　F6V笔记本主要规格
+　　英特尔酷睿2 T9400/P8600/P8400处理器；
+　　Intel PM45 Express芯片组；
+　　Intel WiFi Link 5100AGN网络连接；
+　　Windows Vista(Ultimate/Business/Home Premium/Home basic)系统；
+　　DDRII-667/800 DRAM内存，最高4GB；
+　　13.3英寸WXGA显示屏；
+　　ATI Mobility Radeon HD3470显卡；
+　　SATA 120/160/250/320GB硬盘；
+　　外形大小为31.2 x 23.19 x 3.2-3.52cm。
+　　F8Vr笔记本采用了14.1英寸显示屏，外观同样有多种颜色可选择，适合商务人士使用，外出携带方便。采用的Express Gate技术只要8秒便可进行系统启动，并进入多媒体和网上操作。
+　　F8Vr笔记本主要规格
+　　英特尔酷睿2 T9400/P8600/P8400/P7350处理器；
+　　Intel PM 45 Express芯片组，搭配ICH9M北桥；
+　　Intel WiFi Link 5100无线网卡；
+　　Windows Vista (Ultimate/Business/Home Premium/Home basic)系统；
+　　DDR2 800 MHz内存，最高4GB；
+　　14.1英寸WXGA+/WXGA显示屏；
+　　ATI Mobility Radeon HD 3470显卡；
+　　SATA 160/200/250/320GB硬盘；
+　　130万像素240度旋转摄像头；
+　　外形大小34 x 24.4 x 3.72cm, 重量为2.6kg。
+　　B50A笔记本主要规格
+　　英特尔酷睿2 T9400/P8600/P8400/P7350/T5850/T5750处理器；
+　　Windows Vista (Ultimate/Business/Home Premium/Home basic)系统；
+　　Intel GM45 Express芯片组；
+　　DDR2 800MHz内存, 最高4GB；
+　　15.4英寸WXGA/WXGA+显示屏；
+　　Intel GMA X4500HD显示核心；
+　　SATA 120GB/160GB/250GB/320GB硬盘；
+　　DVD Super-Multi光驱；
+　　Intel Wireless Wi-Fi Link 5100无线网卡；
+　　130万像素摄像头；
+　　外形大小为36.3 x 26.3 x2.5-3.57 cm, 重量为2.7kg。
+　　G50V和G71V是两款游戏笔记本，作为新的ROG(Republic of Gamers)产品线的一部分，这两款笔记本在处理和图形方面提供了足够动力来在游戏中杀敌。华硕还提供了游戏套装，包括专业级别的1600dpi鼠标、耳机和ROG背包。
+
+

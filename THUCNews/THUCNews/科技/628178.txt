@@ -1,0 +1,13 @@
+在WCDMA网络中平滑引入HSDPA
+　　在信息高速发展的今天，数据业务成为整个电信行业的一个有力增长点。在移动通信领域，传统的基本话音业务已不能满足人们互联互通的需求，数据业务正逐渐演变成移动通信领域增长的强势力量。在R99阶段，WCDMA对数据业务提供了高达384kbps的支持能力，为了进一步更好地满足Internet的无线延伸需求，3GPP组织制定了HSDPA标准，进一步使下行的数据业务速率增至13.9Mbps。与cdma2000 1xEV-DO的革新不同，HSDPA技术不影响语音与数据业务的并发，成为WCDMA/TD-SCDMA增强型下一步演进的共同目标。
+　　如何在WCDMA网络系统中平滑地引入HSDPA呢？为了达到提高下行分组数据速率和减少时延的目的，HSDPA的整体设计参考了HRPD空中接口设计过程中“速率控制为主、功率控制为辅”的基本理念，引入了HRPD中围绕速率控制机制为核心的相应配套技术，如自适应的编码和调制ACM(Adaptive Modulationand Coding)、物理层HARQ(Hybrid-Automatic RepeatreQuest)和NodeB上以2ms为周期的快速调度机制等。出于本身频谱的带宽优势和兼容性考虑，使得这种专门面向数据类业务的演进设计在WCDMA系统中获得了更大的速率优势和更好的用户体验。
+　　作为空中接口的增强，HSDPA的引入保持了WCDMAR99/R4UTRAN侧的总体网络结构与协议层次。只是在NodeB的MAC层新增了MAC-hs实体，专门负责HARQ操作以及相应的调度，并在物理层引入以下三种新的信道：HS-PDSCH(High Speed Physical Downlink Shared Channel)、HS-DSCH(High Speed Shared Control Channel)和HS-DPCCH(Uplink High Speed Dedicated Physical Control Channel)，以传输高速业务的用户数据及其控制信息。
+　　高速下行物理共享信道HS-PDSCH专门负责下行链路用户数据的传输(R6版本中的HS-PDSCH也可用于信令传输)。HS-PDSCH用来承载高速下行共享传输信道HS-DSCH。一个HS-PDSCH对应一个固定SF=16的扩频码，来自于为HS-DSCH传输准备的扩频码集合。HS-PDSCH信道的共享支持CDM和TDM两种方式，并允许多码传输，根据UE的能力支持情况，在同一HS-PDSCH子帧中分配给一个UE多个信道化码。实际组网中可根据无线环境和用户行为的情况灵活配置15个码道。HS-PDSCH还可以使用QPSK或者16QAM来进行调制。所有相关层1信令都由附属的HS-SCCH传递，HS-PDSCH不携带任何层1信令。
+　　高速共享控制信道HS-SCCH用于下行链路，负责传输对HS-DSCH信道解码所必需的控制信息的物理层控制信道，如码道信息、HARQ相关RV(Redundancy Version)参数等。HS-SCCH采用固定SF=128的扩频码，恒定码率为60kbps，用来承载与HS-DSCH有关的下行信令。HS-SCCH一般提前HS-PDSCH两个时隙发送，供UE做好选择、解调和接收数据的准备。
+　　高速专用物理控制信道HS-DPCCH用于上行链路，负责传输必要的控制信息。HS-DPCCH携带了有关下行HS-DSCH传输的反馈信令，反馈信令包括HARQ的ACK和信道质量指示CQI。一般一条无线链路上有一条HS-DPCCH，必须与某个上行DPCCH同时存在。
+　　另外，每个使用HSDPA业务的用户还必须分配下行和上行R99的DPCH/DCH信道，用于传输层3信令以及其它非HS信道的功率控制信息。这类DCH信道通常被称为伴随DCH信道(A-DCH)。
+　　在R6阶段，HSDPA又新增下行的F-DPCH(Fractional DPCH)。该信道可由多用户共享，通过功率控制的方式有效减少码资源的浪费。同时，HS-DPCCH上引入的Pre-amble和Post-amble机制，也有效降低了上行ACK/NAK的功率，减少了上行干扰，为HSUPA的顺利引入进行了良好的铺垫。
+　　根据GSA(Global mobile Suppliers Association)2006年7月正式公布的数据，目前全球已经投入使用及正在筹建的HSDPA网络高达108个，已经投入运营的HSDPA网络有34个。
+　　(北京邮电大学网络管理研究中心 朱凯 人民邮电报) 
+
+

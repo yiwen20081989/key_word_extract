@@ -1,0 +1,17 @@
+微软收购Skype五大问题：继续支持非微软平台
+　　导语：美国知名IT网站PCWorld周二撰文指出，微软在收购Skype后，并不会放弃iOS、Android及其他平台上Skype客户端的研发；Skype有可能与Xbox Live和Windows Phone等产品进行整合，但尚不清楚是否会取代Live Messenger。
+　　以下为文章主要内容：
+　　微软宣布以85亿美元收购互联网语音通话服务提供商Skype，并称会将Skype与微软现有产品和服务进行整合。微软还表示会维持Skype的独立地位，成为公司旗下一个独立业务部门。ebay过去一段时间一直在积极兜售Skype，据传思科、谷歌和Facebook等多家公司都对其感兴趣。
+　　ebay在2005年斥资26亿美元收购了Skype，但在2009年又以19亿美元的价格将Skype大部分股权卖给了一个以银湖为首的投资财团。很多分析师对Skype作为微软旗下独立业务部门的盈利能力表示质疑，但不可否认的是，Skype的服务深受用户欢迎，全球活跃用户达1.7亿，2010年用户语音和视频电话通话时间达到2070亿分钟。
+　　以下即是有关微软收购Skype交易的五个问题解答：
+　　Skype独立应用不复存在？
+　　不会，至少到目前为止不会。微软表示将继续投资和支持Skype在非微软平台上的发展。Skype目前向Mac OS X、Linux、Windows、Android、Blackberry、iOS和Symbian等平台的设备提供应用。
+　　微软会如何运作Skype？
+　　微软表示，计划将Skype技术整合到Xbox、Kinect和Windows Phone等设备中。微软还透露，会将“Skype用户”与Outlook、Xbox LIVE和Lync联系起来。微软已经向Xbox和Kinect用户提供了一项名为Video Kinect的视频聊天服务。Skype或许会被用于支持Xbox现有服务，但目前尚不清楚微软的具体打算。
+　　Skype怎样与Xbox LIVE进行整合？
+　　另外，还不清楚微软是否计划会让Skype像Netflix、Hulu Plus和Facebook一样，作为存在于Xbox LIVE平台上的一项服务推向市场。微软或许还会将Skype作为Xbox LIVE游戏内聊天的主要技术。
+　　Windows Live Messenger就此消失？
+　　微软迄今并未透露是否会将Skype技术整合到Windows Live Messenger桌面和Web应用，或是干脆取代Messenger。
+　　交易对Facebook有何影响？
+　　业界盛传Facebook也早早加入争夺Skype的行列，两家公司以前就曾合作过。微软与Facebook的关系也不错。2007年，微软斥资2.4亿美元购买了Facebook 1.6%股权。此后，两家公司在Docs for Facebook、必应搜索整合等项目上合作过。所以，如果Skype出现在Facebook聊天功能或类似产品中，并不会令人感到吃惊。但微软尚未正式宣布任何与在Skype项目与Facebook进行合作的计划。(皓岳)
+

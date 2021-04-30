@@ -1,0 +1,7 @@
+GSMWiMax双模 HTC全新发布MAX 4G手机
+　　正当世人都翘首期盼年度智能王HTC Touch HD早日上市之时，日前，HTC又再次与俄罗斯WiMax运营商Scartel合作，携手推出了全球第一款GSM/WiMax双模4G手机HTC MAX 4G。
+　　全新发布的HTC MAX 4G最大的特点就是支持号称4G网络的WiMAX技术。这种全称World Interoperability for Microwave Access（全球微波接入互操作性）的WiMAX是一项基于IEEE802.16标准的宽带无线接入城域网(WMAN)技术，是针对微波和毫米波频段提出的一种空中接口标准。早在去年10月，国际电信联盟(ITU)就将WiMAX网络正式列为全球四大3G标准之一。而HTC MAX 4G的强大并不仅仅是因为其支持WiMAX技术，诸如Yota Mobile WiMAX、VoIP通话、GPRS/EDGE和Wi-Fi都被HTC Max 4G一一加以支持。
+　　功能配置方面，HTC MAX 4G延续了Touch HD高端的配置，加入了对3.8英寸480×800像素（WVGA级别）65536色TFT屏幕、TouchFLO 3D触控界面、方向感应器、320万像素自动对焦摄像头、GPS/A-GPS功能的支持。身为一款智能手机，HTC MAX 4G搭载Windows Mobile 6.1操作系统的同时，还内建了528MHz主频的Qualcomm MSM7201A处理器，并拥有288MB RAM和256MB ROM的内存容量，借助microSDHC存储卡还能对内存空间进行扩展。
+　　据悉，拥有113.5mm×63.1mm×13.9mm/151g三围重量的HTC MAX 4G随机将配备1500mAh大容量锂电池，在GSM网络环境下能获得420分钟通话时间或者350小时的待机时间。HTC MAX 4G计划于今年12月率先在俄罗斯上市，而售价则高达840欧元（折合人民币7280元左右）。 
+
+

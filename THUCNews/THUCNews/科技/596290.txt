@@ -1,0 +1,7 @@
+Windows 8或内置Windows Store应用商店
+　　新浪科技讯 北京时间5月3日凌晨消息，多家网站近日报道，微软下一代操作系统Windows 8将集成Windows应用商店，类似于苹果的Mac App Store应用商店。
+　　据WinRumors网站报道，在Windows 8 build 7955版本中发现Windows Store服务。很明显，该服务允许Windows用户下载免费应用或付费购买应用，如同当前的苹果Mac App Store应用商店。
+　　报道还称，Windows Store将基于HTML5，直接从微软的Azure Cloud服务向用户桌面提供应用程序。来自Windows Store的应用还可以与任何一台有Windows Live连接的PC同步，允许用户漫游应用，跨平台设置。
+　　如果消息属实，微软是希望效仿苹果应用商店所取得的巨大成功。但遗憾的是，随后Windows爱好者网站Windows 8 Center报道称，WinRumors和其他网站所提供的截图是通过第三方软件修改的虚假图片。
+　　有分析人士称，在真正的产品发布前，还要对相关传闻持谨慎态度。尽管目前还没有Windows 8上市的确切日期，但有报道称，微软将在9月的开发人员大会上展示Windows 8早期版本。(李明)
+

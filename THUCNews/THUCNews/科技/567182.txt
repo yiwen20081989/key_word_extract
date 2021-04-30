@@ -1,0 +1,6 @@
+美国政府查封一家BT搜索网站域名
+　　新浪科技讯 北京时间11月26日晚间消息，美国政府日前查封了BT搜索网站Torrent-Finder.com的域名。
+　　当前，访问Torrent-Finder.com网站时，页面会给出提示，称该域名已经被美国国土安全部下属的美国移民和海关执法局(以下简称“ICE”)查封，但备用域名Torrent-Finder.info仍可正常访问。
+　　对此，Torrent-Finder.com域名所有者表示气愤，称：“在查封之前并未接到任何相关通知。”Torrent-Finder.com域名所有者还称：“我第一感觉是DNS故障，于是便联系GoDaddy，发现DNS已经被更改。Godaddy也不知道发生了什么，只是称问题源自ICANN。”
+　　近日，ICE大举查封域名，音乐网站RapGodFathers、OnSmash.com和DaJaz1.com均被查封。此外，被ICE查封的域名还包括2009jerseys.com、nfljerseysupply.com、throwbackguy.com、cartoon77.com、lifetimereplicas.com、handbag9.com、handbagcom.com和dvdprostore.com。(李明)
+

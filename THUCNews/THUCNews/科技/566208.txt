@@ -1,0 +1,7 @@
+微软Hotmail支持默认加密连接
+　　新浪科技讯 北京时间11月10日早间消息，据国外媒体报道，微软周二宣布，其Hotmail电子邮件服务将支持默认的HTTPS加密连接。
+　　如果希望使用HTTPS加密连接，用户可以直接通过https://hotmail.com来访问Hotmail服务，或是通过https://account.live.com/ManageSSL网址，设置电子邮件、日程表和联系人列表默认使用HTTPS连接。微软发言人表示，此前所有通过SSL加密连接的访问都是一次性的，而目前可以在用户访问服务的过程中一直启用。
+　　从周二开始，微软的SkyDrive、照片、文档和Devices等服务将自动使用SSL加密连接来提供服务。不过Windows Live Hotmail集团项目经理迪克·克拉多克(Dick Craddock)在官方博客中表示，启用HTTPS连接意味着Outlook Hotmail Connector、Windows Live Mail、针对Windows Mobile的其他Windows Live应用，以及Symbian手机将无法访问Hotmail服务。
+　　谷歌此前已经提供通过HTTPS加密连接访问Gmail的方式，并从今年1月开始将其设为默认方式。谷歌文档等应用也可以通过加密连接来访问。
+　　微软于今年9月为一系列服务增加了新的安全功能，提供默认加密连接是这一系列举措中最新的一步。加密连接使电子邮箱更难被黑客攻击，在遭到攻击时更容易恢复。(张楠)
+

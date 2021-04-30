@@ -1,0 +1,8 @@
+Twitter Places位置标签功能将正式上线
+　　新浪科技讯 北京时间6月15日下午消息，据国外媒体报道，Twitter周一在官方博客上宣布，Twitter Places功能将正式上线，Twitter用户将可以在消息中加入位置标签，标明发布者所在的具体位置，而人们可以搜索来自某个地点的所有Twitter消息。
+　　Twitter的创始人一向表示，发展出帮助人们更方便地找到与自己最相关的消息的功能非常重要，Twittter Places看起来是实现这一目标的有力步伐。比方说，如果某人发现附近的宾馆门口停着一辆救护车，而又不知道发生了什么事情，只需要搜索来自该宾馆的Twitter消息即可。
+　　Twitter联合创始人及首席执行官埃文·威廉姆斯(Evan Williams)四月份在出席Twitter开发者大会Chirp时，曾表示：“你所在的位置反映了你的兴趣”，在该会议上他首次宣布将为Twitter添加基于地理位置的服务。位置信息还可能帮助营销人员更精准地针对居住在某商家附近的Twitter用户进行促销。
+　　威廉姆斯四月份还表示，Twitter无意复制Foursquare和Gowalla式的基于地理位置社交网络。事实上，Twitter将这两种服务整合入Twitter Places内，如果用户点击某个特定的餐馆，他们不仅会看到发自此处的Twitter消息，还能看到Foursquare和Gowalla用户的“报到”信息。
+　　希望使用位置标签的用户可在撰写Twitter消息时点击 “添加你的位置”链接，随后可从周围地区的数据库中选择具体位置，也可自行撰写位置信息。
+　　Twitter Places功能将首先在Twitter.com和手机站点上线，随后Twitter将向其他软件开发商提供该功能，而Twitter的手机应用稍后也会添加此功能。下周起，Twitter将通过与卫星导航公司TomTom和本地搜索网站Localeze合作，在65个国家推出此项服务。(曾牧)
+

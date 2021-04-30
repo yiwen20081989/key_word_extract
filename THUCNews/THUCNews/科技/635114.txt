@@ -1,0 +1,9 @@
+黑客成功在iPhone手机运行Android系统
+　　CNET科技资讯网4月26日国际报道 在苹果iPhone手机上执行Google的Android操作系统？这听起来是不可思议的事，但黑客办到了。
+　　David Wang是破解iPhone的黑客团体iPhone开发团队(iPhone Dev Team)的成员，他上周贴出一部视频，示范如何在iPhone上使用Android。
+　　视频中显示完整的开机过程--可见到Tux Linux吉祥物--以及Wang如何用Android浏览、接收短信、接电话、播放音乐。这部iPhone被他设定成双重开机模式，而视频一开始时的确显示手机执行的是iPhone OS。
+　　Wang在视频里说：这还不到可以生产的品质，现在只能说是alpha品质。但几乎各项功能都可运作。
+　　让iPhone跑Android，可说是黑客的一大技术壮举，虽然不可能改变整个产业或主流消费者的使用习惯，但显示即便苹果极力维持自家手机的封闭性，仍阻挡不了黑客的破解。
+　　根据他的博客，Wang自从2008年以来就设法在iPhone上用Linux开机。视频中使用的是第一代的iPhone，但相同的作法应该也可套用在较新的机型上，例如iPhone 3G，只是可能需要多费一些功夫。
+　　他说：希望打下基础后，我们可以让Android真正成为iPhone使用者的替代或补充的选择。也许我们终于能用Flash了。
+

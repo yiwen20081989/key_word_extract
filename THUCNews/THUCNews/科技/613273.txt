@@ -1,0 +1,19 @@
+Intel计划32nm Atom 2011年进军智能手机
+　　Intel日前举行了一次投资人会议，由公司主管超便携产品部门的高级副总裁Anand Chandrasekher向投资者介绍了Intel在掌上设备市场的发展规划。此次会议的演示文稿显示，Intel计划在2011年，让32nm的第三代Atom平台“Medfield”进军智能手机市场。
+　　根据Intel的规划，现有的Menlow平台Atom主要针对UMPC、MID和上网本，而今年底、明年发布的Moorestown平台可将处理器的待机功耗降低为现有功耗的1/50，更加适合MID产品。而到了2011年，升级32nm的Medfield Atom功耗更低、体积更小，已经可以推广进入智能手机市场。
+　　按照Intel的分析，智能手机对处理器的要求有以下几点：
+　　峰值功耗 1.5到2W
+　　典型功耗 300mW
+　　续航时间 至少8小时
+　　随时在线 无线宽带网络、电话网络
+　　性能 高于3000DMIPS
+　　兼容性 低开发成本，软件兼容性，代码复用性
+　　现有的Menlow平台Atom仅能满足性能和兼容性的要求。Moorestown平台除典型功耗的要求外，其他都可满足。而Medfield则可以满足智能手机处理器的全面要求。
+　　在这一页演示中可以更清楚的看到，Moorestown已经有机会被高端智能手机采用，全球市场容量超过400万台。而Medfield则可以进入主流智能手机市场。
+　　Intel在演示中还首次详细介绍了代号Moorestown的第二代低功耗IA(LPIA)架构。该平台包括代号Lincroft的SoC处理器和代号Langwell的IOH芯片。其中Lincroft集成了45nm Atom处理器核心、图形核心、视频控制器、内存控制器以及硬件视频加速模块。Langwell则源于ICH7南桥芯片，包括集成声卡Codec、NAND控制器以及各种输入输出接口。
+　　三代Atom MID平台对比：
+　　Menlows主板面积8500平方毫米，待机功耗1.6W。
+　　Moorestown主板面积减小一半(信用卡大小)，待机功耗表现提升50倍。
+　　Medfield主板面积和功耗继续进化。
+
+

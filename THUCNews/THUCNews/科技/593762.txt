@@ -1,0 +1,7 @@
+Adobe遭创业公司起诉 PhotoShop或涉嫌剽窃
+　　新浪科技讯 北京时间9月22日凌晨消息，据国外媒体报道，美国一家名为EveryScape的创业公司起诉Adobe，称其将该公司创始人Byong Mok Oh开发的一款插件用于Photoshop，并将该技术据为己有。
+　　Byong Mok Oh于2002年创立了EveryScape，计划提供专用于企业名录的街道及商店内部的高清图像。在街道图像方面，谷歌用街景服务将其打败；从那时起，EveryScape将重点放在了商店内部的3D虚拟游览上。EveryScape目前拥有50名雇员，计划增加一倍。
+　　EveryScape及Byong Mok Oh在起诉中称，Adobe侵犯了该公司拥有的两项版权。这两项版权分别于2008年和2009年授予，涉及一种被称为“结构保留克隆刷”(structure preserving clone brush)的图像编辑技术。
+　　Byong Mok Oh在麻省理工学院攻读博士学位期间开发了这种技术，并从2005年起开始通过他成立的另一家公司——Mok3销售这种PhotoShop插件。他在起诉中称，在他开始销售该插件不久后，Adobe就在新版PhotoShop中整合了一个名为“消失点”(Vanishing Point)的新功能。他表示，“消失点”抄袭了他的插件技术。
+　　Byong Mok Oh和Adobe均尚未就此发表评论。(彦飞)
+

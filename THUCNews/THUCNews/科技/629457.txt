@@ -1,0 +1,8 @@
+Facebook Connect服务遭隐私质疑
+　　新浪科技讯 北京时间11月5日消息，据国外媒体报道，Facebook Connect服务于今年5月份推出，如今却遭到了隐私方面的质疑。
+　　今年5月，Facebook推出了Connect服务，允许用户从外部网站访问Facebook数据，如用户在Facebook的身份、好友及隐私设定等等。
+　　从积极方面讲，该服务可能打破人们与社交网站互动的方式。但从另一面讲，该服务又允许Facebook了解用户与其他社交网站的互动信息。
+　　当前，支持Facebook Connect服务的网站不是很多，但Facebook已经表示，将来会允许更多网站支持该服务。
+　　对此，有分析师称：“通过与Facebook Connect无缝连接，其他网站可以访问用户Facebook的帐户信息、好友列表，在Facebook上拷贝数据等。”(李明)
+
+

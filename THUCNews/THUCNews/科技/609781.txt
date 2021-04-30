@@ -1,0 +1,6 @@
+HTC推出Bootloader解锁工具 Sensation先行
+　　和之前承诺的一样，HTC放出了官方的Bootloader解锁工具，首先获益的是HTC Sensation(参数 报价 图片 论坛 软件)，所有操作都将通过HTCDev.com进行。不单是消费者需要从这里解开Bootloader锁，开发者也需要通过这里下载开发工具，例如HTC S3D SDK以及Pen SDK，从而开发出更棒的应用程序。
+　　早在六月份，HTC就宣称要解锁Bootloader，现在相关的web工具终于放出，HTCDev将成为今后HTC设备Bootloader解锁的根据地。如果登录HTCDev，你会发现欧版HTC Sensation的下方多了“开始解锁Bootloader”的选项。其他民间社区也提供了类似的非官方解锁工具，供那些暂时无法通过官方途径解锁Bootloader的用户使用。
+　　值得注意的是，我们发现HTC EVO 3D和Sensation 4G(T-Mobile版)呈灰色字样，这也许是一个预兆，有人猜测这两款机型也将在8月份之内获得Bootloader解锁服务。
+　　如果你希望为你的爱机解锁Bootloader的话，只需完成上方的步骤即可。解锁后的HTC手机将丧失保修服务，但换来的是大量优秀的民间ROM，孰重孰轻还要用户自己衡量。
+

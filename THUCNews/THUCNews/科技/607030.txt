@@ -1,0 +1,6 @@
+双系统普及 iPhone成功运行Android 2.2
+　　作者/窦辉 
+　　随着智能手机深度玩家的不断钻研，现今很多高端智能手机产品已可以安装运行双系统，为用户带来更多的玩机乐趣。此前，iPhone与iPhone 3G(参数 报价 图片 论坛 软件)已经能够成功运行Android 2.1版本系统，而近日有国外媒体再次放出了iPhone与iPhone 3G成功安装Android 2.2版本系统的消息。
+　　与此前安装Android 2.1版本系统不同，此次iPhone与iPhone 3G安装Android 2.2版本系统将无需再与电脑连接，而是在3G网络或Wi-Fi环境中即可轻松完成。据悉，在确保iPhone与iPhone 3G已经成功越狱后，用户仅需下载Bootlace软件，并根据提示安装运行OpeniBoot等步骤，就能够在自己的iPhone与iPhone 3G中成功运行Android 2.2版本系统。
+　　此外，该媒体称不久之后就连苹果公司另一款非常受消费者喜爱的产品——iPod Touch也将能够安装并运行Android智能操作系统。
+

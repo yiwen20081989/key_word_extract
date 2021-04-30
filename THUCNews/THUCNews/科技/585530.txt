@@ -1,0 +1,8 @@
+NBC抛弃微软Silverlight重新启用Flash
+　　新浪科技讯 北京时间9月7日消息，据国外媒体报道，在北京奥运会期间，NBC采用了微软的Silverlight视频技术，但在日前的“《橄榄球之夜》(Sunday Night Football)”节目中，NBC又重新启用了Adobe的Flash技术。
+　　在北京奥运会期间，NBC与微软合作，利用微软的Silverlight视频技术提供网络视频服务。但与Adobe的Flash视频技术相比，Silverlight用户群相对薄弱。
+　　据Adobe称，98%的网民都安装了Flash播放器，几乎是所有Web视频采用的标准格式。而据微软的数字显示，北京奥运会期间，访问NBCOlympics.com网站的用户中有4000万并未安装Silverlight。
+　　有分析人士指出，对于微软而言，NBC的奥运赛事网播提供了一个推广Silverlight的机会，但对于NBC而言，由于Silverlight装机量少，影响了访问量，是一次失败的技术尝试。
+　　微软Silverlight视频技术被誉为“Flash杀手”，早在2003年底就有消息称微软在开发Silverlight，直至2005年微软才证实该消息。去年9月，微软正式推出Silverlight 1.0版。(李明)
+
+

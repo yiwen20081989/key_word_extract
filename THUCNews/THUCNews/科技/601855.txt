@@ -1,0 +1,9 @@
+苹果一代iPhone升级固件实现彩信收发(图)
+　　苹果iPhone一代可以实现原生的彩信收发啦！经过国内外黑客的努力，将彩信功能提取出来，只要是升级为3.0固件的一代iPhone，经过简单的步骤，即可实现彩信收发。笔者在第一时间内进行体验，可以完美地与多普达S910进行彩信收发。
+　　具体步骤为：下载破解文件http://download.cnmo.com/11/10179.html，压缩包包含三个文件。使用win scp或91手机助手（最新版支持3.0固件），将三个文件传入相应的文件夹，全部进行覆盖操作，权限设定为777。
+　　1.m68ap.plist文件拷贝到System\Library\CoreServices\SpringBoard.app文件夹
+　　2.CommCenter文件拷贝到System\Library\PrivateFrameworks\CoreTelephony.framework\Support文件夹
+　　3.carrier.plist拷贝到var\mobile\Library\Carrier Bundle.bundle文件夹。然后重启手机，打开设置-短信，即可发现彩信选项啦。
+　　
+　　另外需要注意的是，在完成以上操作后，在苹果iPhone的数据蜂窝设置中，会出现彩信的相关内容。但是由于权限问题，无法输入cmwap。不过，次破解文件已经包含了中国移动彩信的相关设置，只需点击恢复网络，即可完成相关的彩信设置，不必手动调节。
+

@@ -1,0 +1,10 @@
+微软发布官方Windows Phone解锁工具
+　　对待Windows Phone的破解，微软的态度绝对是值得大家赞赏的。今年年初，微软宣布与Windows Phone 7破解团队ChevronWP7合作，共同开发官方版WP7解锁工具。如今Windows Phone 7.5芒果也已经面向全球发布，WP7官方解锁工具在经过了多月的开发后终于正式发布了。
+　　ChevronWP7团队今天宣布，Windows Phone解锁工具正式发布，该工具能帮助用户解锁自己的WP手机，安装、运行、调试来自Windows Phone Marketplace之外的应用程序。
+　　这款工具使得所有人都能参与Windows Phone的开发，各个国家、各种水平的用户、开发人员只需花费9美元就可以获取Windows Phone解锁服务(限一台机器)，安装自制程序(homebrew)。
+　　获取解锁工具步骤如下：
+　　1、使用Windows Live ID登录http://labs.chevronwp7.com/；
+　　2、花费9美元购买解锁凭证；
+　　3、下载安装定制的解锁工具；
+　　4、Windows Phone设备解锁后可以安装自定制XAPs和自制应用程序。
+

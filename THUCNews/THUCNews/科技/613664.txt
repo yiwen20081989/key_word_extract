@@ -1,0 +1,8 @@
+AMD计划九月发布下代笔记本平台Tigris
+　　AMD在Computex 2009上发布了大量处理器新品，但传说中的下一代笔记本平台“Tigris”却并未露面。来自笔记本厂商的最新消息称，新平台将在今年9月份正式发布。
+　　规格方面还没有更多消息。根据此前的说法，Tigris将由45nm Caspian双核心处理器、RS880M整合芯片组、M9X独立显卡（可选）、第三方无线网卡的那个几个部分组成，面向14寸或更大屏幕的传统笔记本领域。
+　　AMD还将同时宣布新的开放式平台策略“AMD Vision Technology”，取代现有的“Better by Design”，并根据笔记本的处理器和显卡规格将其分为AMD Vision Ultimate、AMD Vision Premium、AMD Vision三个类别，而且每台Tigris平台笔记本上都会贴上相应的标签，方便消费者选购。
+ 
+ 
+　　2006年年中收购ATI后，AMD于次年初提出了“Better by Design”策略，旨在联合OEM厂商挑战Intel的迅驰平台，并根据处理器性能将笔记本分为四个等级，现在则增加了显卡因素，并简化为三类。
+

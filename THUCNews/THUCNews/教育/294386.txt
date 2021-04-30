@@ -1,0 +1,80 @@
+高考英语语法辅导：非谓语动词
+　　南开中学 李士明
+　　非谓语动词做定语
+　　直接修饰名词的成分称为定语，一般由形容词或名词担当，也可以分别由不定式、分词或动名词等非谓语动词来担当。那么如何区别并正确使用非谓语动词呢？
+　　NON-FINITES
+　　1. 现在分词与过去分词的区别
+　　我们知道非谓语动词都源于及物和不及物两种谓语动词，要了解现在分词与过去分词的区别就要从谓语动词的基本属性开始。
+　　1)及物动词 (v.t.)
+　　及物动词的主语我们称为动作的发出者(sender)，宾语称为动作的承受者(receiver)。
+　　例如： 
+　　The news surprised
+　　动词+ing (发出者) 及物动词v.t.
+　　the students.
+　　动词+ed (承受者)
+　　Surprise是及物动词， 在使用surprise这个动词的非谓语分词形式时，修饰动作发出者news用现在分词形式(动词+ing)，修饰动作的承受者用过去分词形式(动词+ed)。
+　　●They are talking about the surprising news. (surprising做定语修饰发出者news)
+　　The news is surprising. (surprising做表语修饰发出者news)
+　　They are talking about the surprised students. (surprised做定语修饰承受者students)
+　　The students are surprised. (surprised做表语修饰承受者students)
+　　再来看几个例子：
+　　●exciting games激烈精彩的比赛, excited spectators激情振奋的观众
+　　●disappointing results令人沮丧的结果, disappointed people大失所望的人们
+　　●exhausting work令人疲惫不堪的工作, exhausted workers筋疲力尽的工人
+　　●moving stories感人肺腑的故事, moved students感激涕零的学生
+　　从以上例子可见，现在分词和过去分词都可以用作形容词来修饰名词，修饰动作发出者用现在分词，修饰动作承受者用过去分词。要特别注意的是，依据被修饰的名词是人还是物来判断现在分词和过去分词的用法是不准确的。
+　　例如： They complicated the situation by introducing some more restriction.
+　　他们采用了一些更多的限制把形势复杂化了。
+　　及物动词complicate的发出者是人they, 而承受者是物。因此，“复杂恶化的形势”应译为the complicated situation，“形势是令人棘手的” 应译为The situation is complicated.
+　　从这个例子可以清楚地看出，如果根据中文，很容易将“令人棘手的形势”错误地理解为 “complicating situation”。
+　　再比如我们常用的：
+　　a broken cup 一个破杯子; spoken English英语口语;exported products出口产品。
+　　因此，准确了解所修饰的名词与及物动词的关系，是正确使用及物动词的现在分词和过去分词的关键。
+　　2) 不及物动词(v.i.)
+　　不及物动词只有动作的发出者，不存在动作的承受者。因此，不及物动词的现在分词源于进行时，表示动作正在进行，而过去分词则源于完成时，表示动作已完成。
+　　例如：
+　　●He looked at the leaves which are falling in the air.(从句用进行时修饰名词the leaves)
+　　他看着空气中飘然下落的叶子。
+　　=He looked at the leaves falling in the air.(现在分词短语修饰名词the leaves表示进行)
+　　=He looked at the falling leaves in the air. (现在分词修饰名词the leaves表示进行)
+　　●He walked on the leaves which had fallen on the ground.(从句用完成时修饰名词the leaves) 他走在地面的落叶上。
+　　He walked on the leaves fallen on the ground.(过去分词短语修饰名词leaves表示过去)
+　　He walked on the fallen leaves on the ground. (过去分词修饰名词leaves表示过去)
+　　●the rising sun. = the sun that is rising. 冉冉升起的太阳
+　　the risen sun = the sun that has risen. 已经升在天空的太阳
+　　●boiling water = water which is boiling. 沸腾的水
+　　boiled water = water which has boiled 开过的水
+　　2. 不同形式不定式做定语的区别
+　　动词不定式的一般式可以用做形容词，担当名词的定语, 表示将要发生的动作，不定式的进行式和完成式都不可以用作定语。
+　　1)及物动词不定式一般式主动to do sth和被动to be done 两种形式的区别。
+　　例如：
+　　●Have you anything to send? = Have you anything that you will send?
+　　你有什么东西要(自己)寄吗？(主动含义，动作由you自己去完成) 
+　　(to send做定语, 源于定语从句that you will send, 修饰先行词anything, 表示将来。)
+　　●Have you anything to be sent (by others)?=Have you anything that will be sent(by others)?
+　　你有什么东西要(我或别人)寄吗？(被动含义，动作由他人others去完成)
+　　(to be sent做定语, 源于定语从句that will be sent, 修饰先行词anything, 表示将来。)
+　　从以上两个例子可以看出，不定式的主动形式to send来源于主动语态的定语从句。
+　　而不定式的被动形式to be sent来源于被动语态的定语从句, 不能错误地认为to send 是主动形式表示被动，准确地讲应该牢记主动形式的不定式源于主动语态的从句，被动形式的不定式则源于被动语态的从句，两者绝不可以混淆。
+　　●I have some books for you to read. = I have some books that you should read. 
+　　我有几本书希望你读一读。
+　　(for you to read做定语, 源于定语从句that you should read, 修饰先行词books, 表示将来。原从句的主语you在不定式的前面以for you 的形式出现，担当不定式的逻辑主语。)
+　　2)不及物动词不定式一般式做定语
+　　当不及物动词做定语时, 后面必须有相应的介词与前面所修饰的名词相呼应, 从汉语角度理解，而忽略了必要的介词是不及物动词做定语时常见的错误。
+　　例如：
+　　●He is looking for a room to live in.= He is looking for a room which he will live in.
+　　他现在正在找房间住。
+　　(to live in做定语, 源于定语从句which he will live in, 修饰先行词room, 表示将来。)
+　　●Would you like to have another pen to write with? ( to write with the pen)
+　　你需要再准备一支笔用吗？
+　　●Smith is a good man to work with. ( to work with the man)
+　　与史密斯一起工作是再好不过了。
+　　●Lei Feng is a brilliant example for us to learn from. ( to learn from the example)
+　　雷锋是我们学习的光辉榜样。
+　　●Can you lend me a chair to sit on?
+　　您可以借给我一把椅子坐吗？
+　　●Global Financial Crisis is a hot topic to talk about today. ( to talk about the topic)
+　　全球性金融危机是当前人们谈论的热点话题。 
+　　更多高考信息请访问：新浪高考频道 高考论坛 高考博客圈 高考贴吧
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

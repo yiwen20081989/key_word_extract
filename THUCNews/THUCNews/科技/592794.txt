@@ -1,0 +1,7 @@
+微软发布公测版Windows 7 SP1
+　　新浪科技讯 北京时间7月13日上午消息，据国外媒体报道，微软Windows & Windows Live部门副总裁裁塔米·瑞勒(Tami Reller)周一在微软全球合作伙伴大会上正式发布了Windows 7 SP1的首个公测版本。
+　　微软上月在Tech-Ed大会上公布了Windows 7 SP1和Windows Server 2008 R2 SP1的发布计划。Windows 7 SP1将包含一些常规补丁，而Windows Server 2008 R2 SP1提供的全新虚拟化工具则可以为云计算做好准备。Windows 7 SP1还将包含RemoteFX，从而为远程用户提供丰富的3D图形体验。此前通过Windows Update发布的一系列补丁也都将包含在Windows 7 SP1和Windows Server 2008 R2 SP1中。
+　　RemoteFX是对RDP的远程图形功能的一个补充。该功能使得用户可以获得完整的远程体验，包括多显示器、Aero以及向各类客户端设备提供多媒体流。RemoteFX通过一种以托管为基础的渲染技术来实现这一功能的。
+　　Windows 7 SP1的早期版本于今年4月在互联网上传播开来。有传言称，Windows 7 SP1将包含对USB 3.0的支持，并可以提升蓝牙和Wi-Fi功能，但微软尚未对此予以证实。
+　　微软曾于本月早些时候面向测试者发布了Windows 7 SP1测试版，该软件大小为1.22GB，Build号为7601.16562.100603-1800，编译日期为6月3日。微软通过TechNet Evaluation Center提供公测版Windows 7 SP1的下载，网址为：http://down.tech.sina.com.cn/content/47499.html。(书聿)
+

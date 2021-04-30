@@ -1,0 +1,9 @@
+连闪更准确 尼康发布SB-900最新固件
+    1.在i-TTL模式下连闪拍摄，则其中可能出现曝光不准确的照片
+    2.用户指定的TTL模式可能在重新连接相机后丢失设定信息
+
+　　据尼康公司表示，对SB-900的固件更新可以直接通过尼康D3、D700、D300或者D90数码单反进行，但是对于D3和D300来说，前者的固件版本必须在Ver 2.00以上，后者的固件版本必须在Ver 1.10以上。
+    有需要的读者可以进入尼康官方网站下载：
+    WINDOWS：https://support.nikonimaging.com/cgi-bin/nikonimaging.cfg/php/enduser/std_adp.php?p_faqid=10145    MAC：https://support.nikonimaging.com/cgi-bin/nikonimaging.cfg/php/enduser/std_adp.php?p_faqid=10146
+
+

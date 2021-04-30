@@ -1,0 +1,6 @@
+LG在韩发售新纤薄型独显笔记本
+ 
+    上周末，LG电子在大本营韩国本土市场发售了纤薄型号的"Blade"系列13英寸笔记本电脑新品X-Note P330。产品跟随Ultrabook的潮流，使用了SSD+HDD混合存储解决方案，但从配置来看更接近苹果的MacBook Pro。
+　　LG X-Note P330采用的Blade Display屏幕与LG Display给诸Ultrabook ODM厂商提供的产品类似，屏幕厚度仅4.5mm，边框厚度仅8mm，整机重量约1.7kg。
+　　配置方面，X-Note P330采用的混合存储系统可使启动时间缩短到19秒左右，采用NVIDIA GeForce GT 555M 1GB显卡，支持Optimus集显切换技术，具备USB 3.0与HDMI接口，搭载6芯90W锂电池。具体型号的配置与官方推荐售价如下：
+

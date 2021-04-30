@@ -1,0 +1,10 @@
+微软拟从Windows 7剥离部分功能
+　　CNET科技资讯网9月24日国际报道 CNET获悉，微软已经决定Windows 7将不包括内置的电子邮件、照片编辑和电影制作软件。
+　　微软曾在Vista中内置Windows Photo Gallery、Windows Mail和Windows Movie Maker，但后来选择提供可供用户独立下载的相应Windows Live软件。Windows Live软件能够连接到微软和其它厂商的网络服务上。
+　　微软本周一晚些时候向CNET News表示，该公司已经决定从Windows 7中删除这些功能，而只提供相应的Windows Live版本供用户免费下载。周一早些时候，微软曾拒绝披露相关资料。
+　　Windows Vista项目总经理布赖恩·霍尔在周一接受采访时说，微软不在Windows 7中提供这些工具有多个原因，其中包括希望以比以往更快的速度发布新版操作系统，此举还消除了由提供和支持同一类工具的两种不同版本带来的不便。霍尔表示，这使得Windows 7更简洁了。
+　　霍尔指出，将Windows Live完全从操作系统中分离出来为微软与特定合作伙伴的合作铺平了道路。他说，“我们可以与特定合作伙伴合作，向用户提供更好的体验，这些体验是Windows很难提供的。”
+　　微软上周发布了“Wave 3”版Windows Live软件，新增添了Windows Live Movie Maker。霍尔表示，目前判断“Wave 4”版Windows Live软件的发布时间领先于Windows 7，还是与Windows 7同步还为时过早。微软曾表示Windows 7计划2010年1月份上市销售，CEO史蒂夫·鲍尔默则声称Windows 7可能明年上市销售。
+　　微软如何在Windows 7 PC中发布Windows Live软件尚有待观察。微软可能与计算机厂商或零售商达成预装Windows Live软件，或在PC中包含指向该软件的链接的协议。
+
+

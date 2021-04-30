@@ -1,0 +1,91 @@
+2010职称英语常考语法解析之被动语态
+　　语态是动词的一种形式，它表示主语和谓语的关系。语态有两种：主动语态和被动语态。如果主语是动作的执行者，或者是说动作是由主语完成的，要用主动语态；如果主语是动作的承受者，或者是说动作不是由主语而是由其他人完成的，则用被动语态。
+　　新东方在线网络课堂职称英语辅导团队现将职称英语考试中被动语态的知识点、考点等总结如下，希望考生能达到全面熟悉和熟练运用，以帮助大家提高考试成绩。
+　　一、被动语态考点聚焦
+　　(一)被动语态的概念：
+　　不知道或没必要提到动作的执行者是谁时用被动语态。强调或突出动作的承受者常用被动语态(by短语有时可以省略)。
+　　(二)被动语态的构成方式：
+　　be + 过去分词，口语只也有用get / become + 过去分词表示。
+　　(三)被动语态的基本用法：
+　　(1)使用被动语态时应注意的几个问题。
+　　①主动变化被动时双宾语的变化。看下列例句。
+　　My friend gave me an interesting book on my birthday。
+　　An interesting book was given to me(by my friend)on my birthday。
+　　I was given an interesting book (by my friend)on my birthday。
+　　②主动变被动时，宾补成主补(位置不变)；(作补语的)不定式前需加to。
+　　The boss made him work all day long。
+　　He was made to work all day long(by the boss)
+　　③短语动词变被动语态时，勿要掉“尾巴”。
+　　The children were taken good care of (by her)。
+　　Your pronunciation and spelling should be paid attention to。
+　　④情态动词和be going to、be to、be sure to、used to、have to、had better等结构变被动语态，   只需将它们后面的动词原形变为be +过去分词。
+　　⑤当句子的谓语为say、believe、expect、think、know、write、consider、report等时，被动语态有两种形式：(A)谓语动词用被动语态，动词不定式作主补。(B)用it作形式主语，真正的主语在后面用主语在后面用主语从句来表示。如：
+　　People say he is a smart boy。
+　　It is said that he is a smart boy。
+　　He is said to be a smart boy。
+　　People know paper was made in China first。
+　　It is known that paper was made in China first。
+　　Paper was known to be made in China first。
+　　类似句型有：It is said / known / suggested / believed / hoped/ thought that …
+　　(2)不能用被动语态的几种情况。
+　　①所有的不及物动词或不及物动词词组不能用于被动语态之中。
+　　②表示状态的谓语动词，如：last、hold、benefit、contain、equal、fit、join、mean、last、look like、consist to等。
+　　③表示归属的动词，如have、own、belong to等。
+　　④表示“希望、意图”的动词，如：wish、want、hope、like、love、hate等。
+　　⑤宾语是反身代词或相互代词时谓语动词用主动语态，不能用被动语态。
+　　⑥宾语是同源宾语，不定式、动名词等谓语动词不用被动语态。
+　　⑦有些动词以其主动形式表示被动意义，特别是当主语是物时，常见的动词有sell、write、wash、open、lock等。
+　　(3)主动形式表被动意义。
+　　①当feel、look、smell、taste、sound等后面接形容词时；当cut、read、sell、wear、write等词带状语修饰语时；当动词表示“开始、结束、关、停、转、启动”等意义时。
+　　This kind of cloth washes easily。这种布易洗。
+　　These novels won’t sell well。这些小说不畅销。
+　　My pen writes smoothly。我的钢笔写起来很流畅。
+　　The door won’t lock。门锁不上。
+　　The fish smells good。鱼闻起来香。
+　　②当break out、take place、shut off、turn off、work out等动词表示“发生、关闭、制定”等意思时。
+　　The plan worked out successfully。
+　　The lamps on the wall turn off。
+　　③want, require, need后面的动名词用主动表示被动含义。
+　　④be worth doing用主动形式表示被动含义。
+　　⑤在“be + 形容词 + to do”中，不定式的逻辑宾语是句子的主语，用主动代被动。
+　　This kind of water isn’t fit to drink。
+　　The girl isn’t easy to get along with。
+　　另外：be to blame(受谴责)，be to rent(出租)也用主动形式表被动。
+　　(4)被动形式表示主动意义的几种情况。
+　　①be seated坐着
+　　He is seated on a bench。(He seats himself on a bench。)坐在凳子上。
+　　②be hidden躲藏
+　　He was hidden behind the door。(He hid himself behind the door。)他藏在门后。
+　　③be lost迷路
+　　④be drunk喝醉
+　　⑤be dressed穿着
+　　The girl was dressed in a red short skirt。
+　　(5)被动语态与系表结构的区别
+　　被动语态强调动作；系表结构表主语的特点或状态。如：
+　　The book was sold by a certain bookstore。(被动语态)
+　　The book is well sold。(系表结构)
+　　二、精典名题导解
+　　1. “Do you like the material？” “Yes, it _____ very soft。”
+　　A. is feeling           B. felt    C. feels          D. is felt
+　　【解析】此题正确答案为C，因为 feel 在此为连系动词，而连系动词均为不及物动词，不能用于被动语态，尽管有时其汉语意思有被动意味。
+　　2. He was angry _____ your work. He said that he _____ at all。
+　　A. at, didn’t satisfy             B. to, didn’t satisfy  
+　　C. at, wasn’t satisfied          D. to, wasn’t satisfied
+　　【解析】最佳答案为C. be angry at (about) sth 意为“对某事生气”，许多同学常按汉语意思将其中的介词 at (about) 换成 to，这是错误的。另外，许多同学将汉语的“不满意”直译为 not satisfy，这是是不对的，因为，satisfy在现代英语中只用作及物动词，其意不是“满意”而是“使(人)满意”，所以其后不能没有宾语，除非本身是被动语态(或是系表结构)。
+　　3. If you want to sell your product you must _____ it。
+　　A. advertise                  B. advertise for    C. advertise on               D. advertise to
+　　【解析】事实上，正确答案为A.  advertise 可用作及物和不及物动词：用作及物动词时，其意为“为……做广告”、“登广告宣传”；用作不及物动词时，其意为“做广告”、“登广告”，此时通常后接介词 for，表示“做广告征求”。比较：
+　　advertise for sth (sb) 登广告征求或寻找某物或某人 (此时 advertise 不及物)
+　　advertise sth 为……登广告，登广告宣传……(此时 advertise 是及物动词，其后要直接跟被宣传的东西作宾语)
+　　People advertise things that they wish to sell. 人们为要卖的东西登广告。
+　　The manager wants to advertise for a new secretary. 经理想登广告招聘一位新秘书。
+　　再比较以下用例：
+　　advertise jobs 登广告招人
+　　advertise for jobs 登广告求职
+　　4. “I love traveling. I hope to go with you this time。” “But does your mother _____ you to go？”
+　　A. let               B. agree         C. allow        D. promise
+　　【解析】最佳答案为C. 不能选A是因为 let 后用作宾语补足语的不定式不能带 to；不能选B是因为动词 agree 习惯上不用于 agree sb to do sth 这一句式；不能选D是因为在 promise sb to do sth 这一句式中，to do sth 的逻辑主语是 promise 的主语而不其是宾语，比如 He promised me to go 的意思是“他答应我，他去”，而不是“他答应我让我去”。之所以能选C，是因为 allow sb to do sth(允许某人做某事)与上文语境刚好吻合。
+　　5. “Do your parents agree to your doing that？” “Yes, of course. In fact, they always ______ me to try something new。”
+　　A. hope          B. suggest        C. support       D. encourage
+　　【解析】此题的正解答案是D. 因为在以上四个选项中，只有encourage 可后接不定式的复合结构作宾语，即可用于 encourage sb to do sth，而其余三者均不可后接不定式的复合结构作宾语，即英语中习惯上不说 hope sb to do sth, suggest sb to do sth, support sb to do sth。
+

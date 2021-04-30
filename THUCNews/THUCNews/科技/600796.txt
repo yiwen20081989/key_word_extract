@@ -1,0 +1,6 @@
+Acer推自家软件商店 或与WM6.5冲突
+　　作者：臧智渊
+　　北京时间2009年3月8日，在MWC 2009上发布四款Windows Mobile智能手机的传统PC厂商Acer也宣布了要推出“App Store”的消息。看来软件商店已经成为了目前世界上各大厂商关注的焦点，想通过这样来复制iPhone(手机上网)的成功。
+　　目前宣布推出官方软件商店了除了最早的苹果之外，还有Google/Android、RIM、Microsoft(Windows Mobile 6.5内嵌)、三星、诺基亚甚至是iPhone上的“山寨软件商店”Cydia。Acer目前推出的全是Windows Mobile智能手机，而微软的Windows Mobile 6.5是内置官方软件商店的，所有这两者的冲突是不可避免的，Acer应该会料到这点。
+
+

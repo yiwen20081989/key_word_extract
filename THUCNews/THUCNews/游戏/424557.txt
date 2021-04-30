@@ -1,0 +1,138 @@
+手把手教你用PSP玩WOW 附按键设置
+　　必备硬件：
+　　一台可以运行WOW的电脑 (宽屏最好，可以很好的配合PSP的屏幕)
+　　一台PSP,必须是安装了自制系统的 (PSP3000或没破解的PSP2000继续看MP4吧，不用往下看了，这没你的事。)
+　　一个无线路由( 没无线路由用USB线也可以，但貌似这样没什么意义，USB线最多2米，2米的距离就是电脑，还不如直接在电脑上玩)
+　　推荐加配硬件：无线耳麦(理由同无线路由)
+　　好啦，只有PSP没电脑的可以不用往下看了，因为只有PSP是不可能运行WOW的，只有电脑没PSP的也不用浪费时间看了，因为我不相信你们看了这篇文章后会去买个PSP来玩WOW。
+　　OK，继续看下去的应该都有以上配备了吧？那我们就开始在PSP上“玩”WOW!
+　　首先，去下载PSPdisp这个软件，点击进入下载PSPdisp v0.4汉化版。
+　　PSPdisp是什么东东？它其实就是一款让PSP显示电脑画面的插件。通过USB线或WIFI将电脑与PSP连接，程序可以将电脑屏幕上的画面传送到PSP上。软件还支持模拟鼠标及键盘操作，远程遥控电脑也将成为可能。
+　　看到这里我想大家都明白了吧？没错，我只是把PC运行的WOW显示到PSP上，而通过PSP的10个键玩WOW而已。
+　　搞定PSPdisp后，把WOW用窗口模式显示，拉动窗口到适合PSP玩的大小，就可以玩了。
+　　详细效果见下图：
+　　好了，通过PSPdisp在PSP上玩WOW，缺点如下：
+　　1.PSP跟PC之间画面有延迟，可以调整，但不能彻底解决。
+　　2.除了摇杆和方向键，只有8个按键可以用。键位太少，玩WOW的效果不好。。但是你经常1212划水的完全没问题。
+　　3.不能打字(也不是完全不能，只是非常非常麻烦，只有几个键能打什么字。)上面推荐无线耳麦的用途就是语音用的。但是你用语音就进团，进团的话就是去RAID啦，去RAID用PSP。嗯，别让你们RL知道你划水就可以了，放心吧，我不会告诉他那个今晚除了打1234就没别的话的人是用PSP的。
+　　4.屏幕太小，就算画质调到最高，还是基本看不清人家的聊天，放大镜是推荐配置。
+　　其实在PSP上玩DNF还是可以的，其他游戏大家也可以试试，至于WOW，嗯，还是那句，别让你们RL知道就可以了。
+　　1.按键可以通过用记事本修改PSPdisp\bin\app下的 *.control 文件设置。软件本身附带mouse.control re4.control，可以通过另存来新建一个WOW.control。修改按键请先查看PSPdisp_help.html(典型的机器翻译。不过还看得懂)，相关Scancode。
+　　2.关于画面延迟个人推荐更新间隔设置为50MS，质量为较高或最高都可(个人感觉差距不大)，屏幕->显示尺寸->960X544。
+　　3.附上效果图
+　　发一下我的按键设置
+　　十字键 WSAD
+　　摇杆 鼠标
+　　LR 鼠标左右键
+　　4个按键 1234
+　　HOME SHIFT
+　　START ESC
+　　SELECT 空格
+　　详细设置如下，可复制内容到空白的文本文件，保存为后把文本文件的后辍改为control，放到PSPdisp下就OK。
+　　[Info]
+　　Version=0.2.0.0
+　　[General]
+　　Name=WOW
+　　MapAnalogToDPad=0
+　　AnalogDeadZone=70
+　　[TRIANGLE]
+　　Event=Keyboard
+　　Scancode=02
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[CIRCLE]
+　　Event=Keyboard
+　　Scancode=03
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[CROSS]
+　　Event=Keyboard
+　　Scancode=04
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[SQUARE]
+　　Event=Keyboard
+　　Scancode=05
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[SELECT]
+　　Event=Keyboard
+　　Scancode=39
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[START]
+　　Event=Keyboard
+　　Scancode=01
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[HOME]
+　　Event=Keyboard
+　　Scancode=2A
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[ANALOG_UP]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=1
+　　Button=MouseMoveUp
+　　MoveByPixels=8
+　　[ANALOG_RIGHT]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=1
+　　Button=MouseMoveRight
+　　MoveByPixels=8
+　　[ANALOG_DOWN]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=1
+　　Button=MouseMoveDown
+　　MoveByPixels=8
+　　[ANALOG_LEFT]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=1
+　　Button=MouseMoveLeft
+　　MoveByPixels=8
+　　[DPAD_UP]
+　　Event=Keyboard
+　　Scancode=11
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[DPAD_RIGHT]
+　　Event=Keyboard
+　　Scancode=20
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[DPAD_DOWN]
+　　Event=Keyboard
+　　Scancode=1F
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[DPAD_LEFT]
+　　Event=Keyboard
+　　Scancode=1E
+　　Typematic=0
+　　Button=
+　　MoveByPixels=
+　　[LEFT_TRIGGER]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=
+　　Button=Left
+　　[RIGHT_TRIGGER]
+　　Event=Mouse
+　　Scancode=
+　　Typematic=
+　　Button=Right
+

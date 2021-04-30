@@ -1,0 +1,9 @@
+戴尔Inspiron M301z新本配置AMD新双核
+作者：徐文广
+　　戴尔官方网站上正式登出Inspiron M301z型号新本，首次搭配AMD Nile双核处理器。产品重量控制在2千克以内，厚度不到1英寸，集成了ATI Mobility Radeon图形核心。
+　　目前，戴尔Inspiron M301z系列共登出四个型号，最低售价999美元，最高为1199美元。四个型号中内存，光驱和处理器配置略有不同，其他配置大致相同。
+　　999美元版本Inspiron M301z型号采用2GB内存和320GB硬盘，搭配AMD Nile Athlon II Neo K325处理器。
+　　1099美元版本Inspiron M301z型号采用2GB内存和320GB硬盘，搭配AMD Nile Turion II Neo K625处理器。
+　　1099美元版本Inspiron M301z型号采用4GB内存和320GB硬盘，搭配AMD Nile Athlon II Neo K325处理器。
+　　1199美元版本Inspiron M301z型号采用4GB内存和320GB硬盘，搭配AMD Nile Athlon II Neo K325处理器，配置外置光驱。
+

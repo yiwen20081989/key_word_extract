@@ -1,0 +1,29 @@
+考研翻译出题规律破译及破题方式
+　　前言
+　　It is a fundamental rule of human life that, if the approach is good, the response is good
+　　---Jawaharlal Nehru  (Indian Prime Minister. 1889-1964)
+　　不抛弃，不放弃
+　　---许三多
+　　考研翻译分值不大，只有10分，很多同学在具体的做题中只关注阅读，写作，完型，而忽视了翻译的重要性，事实上理解翻译的出题规律，做题方式对做好其他部分，提升分数是大有裨益的。
+　　每年的考研翻译，一篇文章，五个划线句子，那么为什么是这五个句子，而不是其他，答曰：这五个句子长，而且难。那么通过分析历年的考研翻译长难句，总结其规律，结果发现，所有的长句或难句都遵循以下三个规律。
+　　一. 对名词进行解释
+　　英文是一种静态语言，名词在句中占据重要位置，句子的重心往往是名字，而且位置靠前，几乎大部分的修饰或解释成分全部后置。总结大学语法发现对名词进行修饰或解释的语法在考研翻译中有这样一些：定语从句，分词后置，介词短语后置(尤其是of)，同位语从句，不定式，冒号，破折号。因此在具体做题时需要迅速判断对名词的解释部分，并且格外注意连接词的翻译
+　　连接词的翻译技巧
+　　例： Behaviorists, in contrast, say that differences in scores are due to the fact that blacks are often deprived of many of the educational and other environmental advantages that whites enjoy。
+　　处理上述句子，需关注三个“that”第一个为宾语从句引导词，可以对其“视而不见”第二个为同位语从句引导词，可译为“即”，第三个为定语从句引导词，可以把先行词再说一遍。
+　　参考译文：相反的，行为学家认为，分数上的差异是由于这个事实，即：黑人常常被剥夺了许多教育和其他环境方面的优势，而这些优势，白人享有。
+　　例： He believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations。(2008年46题)
+　　这道题的破题点仍然在对名词的解释上，这里关注介词“of”，如果其后跟一个长句，那么“of”不理解为“…的”，而理解为一个字“即”或是“：”
+　　参考译文：达尔文相信，正是这个困难可能具有补偿性的优势，即，迫使他长时间认真地思考每一个句子，因此使得他发现在推理和在自己观察中的错误。
+　　二. 对动词进行修饰
+　　英文中对动词的修饰有这样几种语法：副词介词结构，分词结构，状语从句。在具体翻译时修饰部分要前置，理解对动词的修饰决定了翻译后句子的通顺，因此需要格外关注
+　　例： Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society。(2004-64)
+　　本题中出现典型的分词作状语的成分，修饰“developed”翻译时要前置，再者，本句中出现对名词的解释部分“that”解释“idea”，翻译时可参照前面讲过的第一点
+　　参考译文：Whorf对语言与思维的关系很感兴趣，他逐渐形成了这样一种观念：在一个社会里，语言的结构决定了习惯思维的结构。
+　　三. 句中的分割结构
+　　英文里为什么会出现分割结构，我们可以理解成：因为对名词做了解释，对动词作了修饰，所以出现主谓分割或者谓宾分割。具体翻译时注意一点：见到名词找动词，见到动词找名词。
+　　例： His function is analogous to that of a judge, who must accept the obligation of revealing in as obvious a manner as possible the course of reasoning which led him to his decision。(2006-47)
+　　首先请大家注意对名词的解释部分“of”，其次“revealing”是动词，其宾语是“the course”，中间“in as obvious a manner as possible”对动词“revealing”进行了修饰，理解为“以一种…的方式”
+　　参考译文：他的职责与法官相似，必须承担这样的责任：用尽可能明了的方式来展示自己做出决定的推理过程。
+　　理解上述三个规律，对考生正确理解翻译，做对翻译，拿到高分是非常需要而且必要的，由翻译出发，可以正确理解阅读中的长难句，甚至写出长难句，对考研英语分数的整体提升是有帮助的。一位哲人说过“When it comes to the future, there are three kinds of people: those who let it happen, those who make it happen, those who wonder what happened。” 我们需要选择做第二种人，让考上自己理想大学的研究生这个事实在自己身上发生。
+

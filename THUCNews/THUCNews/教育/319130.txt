@@ -1,0 +1,59 @@
+权威比较：新旧GRE考试的词汇考查方式
+　　新GRE考试词汇部分的变革
+　　改革前的GRE Verbal部分由填空、类比、阅读、反义词四种类型的题目组成。其中类比与反义词这两种题型是对考生词汇能力最直接的考查；填空是在一定的语境下考查学生的词汇能力与分析能力；而阅读则更侧重于考查考生的分析能力。在现行GRE考试(笔考)Verbal部分的38道题目中，仅词汇题就占到了20个，足见词汇题的重要性。因此备考GRE的考生在考前一定要大量记忆单词。
+　　改革后的GRE考试弱化了对词汇的考查。在ETS给出的样题中，Verbal部分取消了原有的类比与反义词题目的测试，填空与阅读部分也进行了一定的调整。总的来看，改革后的题目较以往题目的难度有所下降。
+　　新GRE考试样题分析
+　　这里，我们通过研究ETS公布的GRE样题，来比较一下改革前后GRE词汇题的考查方式，并给出将来复习词汇时的建议。样题中前五题(Verbal部分的新题型)的题目说明如下：
+　　For the following questions, select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning。
+　　题目要求从备选答案中选出两个选项，这两个选项填到句子中保证句意通顺，并且意思相近。下面我们给出公布的两个样题，并通过这两个样题看一下新GRE是如何考查词汇的。
+　　1. International financial issues are typically by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics。
+　　A. neglected 被忽视的
+　　B. slighted 被忽视的
+　　C. overrated 被高估的
+　　D. hidden 被隐藏的
+　　E. criticized 被批评的
+　　F. repudiated 被拒绝的
+　　样题的前五道题目是原有填空题的变体。尽管选项由原有的五项增至六项，看似难度增加，但不过是考查基础词汇及简单的逻辑关系。按传统的填空题的解题思路，先看题目再选答案是可以顺利完成这些题目的。但是这种新题的备选答案为我们解这些题目提供了更好的途径。事实上这种题目更偏重于对词汇的考查。对于这种题型的部分题目，词汇基础较好的同学是可以脱离给出的语言环境，直接选出选项中的一对近义词最为答案。在考场上，对于这种题目的解题步骤不妨按下面两步走：
+　　按照上面介绍的解题步骤，由于选项中只有一对近义词，可以直接将答案选出。如果按照填空题的思路来做，可以根据and前后的too technical(过于专业)和too inaccessible(难以理解)推出答案。笔者让刚刚参加过2009年10月份GRE考试的考生来解答此题，采用传统填空思路的同学最快完成时间为11秒，而采用直接看选项完成此题的最快速度为2秒。可见词汇的准确把握对于完成这种新题至关重要。我们再看下面一题。
+　　2. While in many ways their personalities could not have been more different — she was ebullient where he was glum, relaxed where he was awkward, garrulous where he was — they were surprisingly well suited。
+　　A. solicitous 挂念的
+　　B. munificent 慷慨的
+　　C. irresolute 犹豫不决的
+　　D. laconic 言简意赅的
+　　E. fastidious 谨小慎微的，挑剔的
+　　F. taciturn 沉默寡言的
+　　这道题目的答案laconic和taciturn尽管不是同义词，但是表示的意思相近，都表示说话少。填到句中的空格可以和garrulous(饶舌的)构成一对对立的概念(对立由题目中的different看出)。对于上过新东方词汇课的同学来说，看到laconic, taciturn和garrulous这三个词也不应该陌生。他们都是现行GRE考试的高频词汇。在GRE类比反义教程(新东方05寒假版，以下称作教程)中的第62页的反义词18曾经考查过“饶舌的”与“说话简短的”这对反义词搭配。下面为原题：
+　　LACONIC 言简意赅的
+　　(A) blithe 愉快的
+　　(B) incapable 无能的
+　　(C) flagrant 臭名昭著的
+　　(D) garrulous 饶舌的
+　　(E) intransigent 不妥协的
+　　笔者在课上讲解词汇的时候曾经将laconic, taciturn和garrulous这三个词给同学们做过总结，并给出了garrulous的一个同义词loquacious，它也是一个GRE考试的高频词。在教程的94页15题给出了loquacious的反义词考法，答案选的是taciturn。
+　　LOQUACIOUS 饶舌的
+　　(A) tranquil 安静的
+　　(B) skeptical 怀疑的
+　　(C) morose 郁闷的
+　　(D) taciturn 沉默寡言的
+　　(E) witty 机智的，诙谐的
+　　事实上，上面的第二题选项里是还有另外一对同义词，这对同义词考生没有看出来并不影响选出答案。而且只要是熟悉上面的“饶舌的”与“说话简短的”这对反义词的同学也会坚信自己选的是正确答案。选项中的另一对同义词是solicitous和fastidious。solicitous在现行的GRE考试中只考查“挂念的”这层含义，但是它在另一个层面上和fastidious意思相同，即都等于meticulous，即谨小慎微的。因此这道题目的规范做法应该是，先判断出两对同义词，在依据题目中的different做出同义词的筛选。
+　　由上面的两个题目，我们会发现牢固的词汇基础不仅可以提高解答这部分题目的正确率，还可以加快考生做题的速度。准备GRE的考生应该时刻明确在考场上是一个争分夺秒的过程，平时复习一定要提高解题速度。
+　　下面再看一下样题中阅读题是如何对词汇进行考查的。
+　　Questions 9 and 10 are based on the following reading passage。
+　　Scholarship on political newspapers and their editors is dominated by the view that as the United States grew, the increasing influence of the press led, ultimately, to the neutral reporting from which we benefit today. Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors disingenuously stated that they aimed to tell all sides of a story. Rather, the intensely partisan ideologies represented in newspapers of the early republic led to a clear demarcation between traditional and republican values. The editors responsible for the papers' content — especially those with republican agendas — began to see themselves as central figures in the development of political consciousness in the United States。
+　　9. Consider each of the choices separately and select all that apply。
+　　The passage suggests that Pasley would agree with which of the following statements about the political role of newspapers?
+　　A. Newspapers today are in many cases much less neutral in their political reporting than is commonly held by scholars。
+　　B. Newspapers in the early United States normally declared quite openly their refusal to tell all sides of most political stories。
+　　C. The editorial policies of some early United States newspapers became a counterweight to proponents of traditional values。
+　　10. In the context in which it appears, "disingenuously" most nearly means
+　　A. insincerely
+　　B. guilelessly
+　　C. obliquely
+　　D. resolutely
+　　E. pertinaciously
+　　在阅读中出现词汇题，这是GRE考试有史以来第一次。可以看出ETS对于词汇题还是难以割舍的。词汇题在这里的命题初衷是希望考生通过上下文的逻辑关系推断出单词的含义。但是对于词汇把握好的考生来说，完全可以脱离上下文快速选出答案。而且这道词汇题考查的单词不管是题干还是选项的词汇都是词汇考试中的高频词。在词汇课的讲义里我们总结了大量“狡猾”以及“真诚”的同义词。
+　　对GRE考试的影响
+　　通过分析上面几道样题可以发现，尽管新题中取消了类比反义，但是那些曾经在类比反义中出现的高频词仍然会是GRE新题的重要命题来源。同时，类比反义题目的删除也屏蔽了只能在这两种题型中考到的部分单词，减轻了考生在准备GRE时记忆单词的负担。但这并不意味着考生可以将词汇书搁置一旁，不再进行单词记忆的工作。从ETS公布的样题可以预测，改革后的GRE考试对有特征的词汇将继续保持极大的偏爱。这些词汇从词性来看主要是形容词和动词，而名词性名词(如arachnid蛛形纲动物)的考查几乎不再会出现。另外以前的词汇题对同学们加深对单词的理解大有裨益，尤其是类比题。在类比的讲解中我们将类比题按照关系进行分类，其中某些关系的题目考查的重点就是那些有特征的单词。这些关系包括：同义词关系，反义词关系，程度类比关系，褒贬关系，正面特征关系，反面特征关系和特殊与一般关系。而组成关系与种属关系因为更喜欢考查名词性名词，所以这些题目中涉及到的单词在新GRE考试中出现的可能性不大。
+　　总之，改革后的GRE考试在词汇方面的要求较之以往有所降低。但是还是希望同学们在备考阶段能够认认真真记忆单词，不仅为了出国考试，也为将来的学业奠定一个好的语言基础。
+

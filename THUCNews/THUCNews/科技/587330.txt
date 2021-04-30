@@ -1,0 +1,8 @@
+微软拟下调部分软件许可费
+　　新浪科技讯 北京时间3月14日上午消息，据国外媒体报道，Microsoft Incentives网站上的消息称，购买SQL Server、SharePoint、微软其他软件产品，以及签订Open Value协议的企业客户可以享受更低的价格。
+　　根据一项名为“简化和节约”的优惠措施，将至少两项许可协议合并为Open Value协议的企业客户可以节省15%的支出。微软称，客户在3年许可协议有效期内都可以享受这一优惠措施。
+　　根据另一项优惠措施，Exchange Server、Office Communications Server、SQL Server、Office SharePoint Server、Visual Studio、Office Project、微软其他软件的许可价格和Software Assurance价格将降低15%-25%。
+　　Microsoft Office Project Assurance Pack的价格下调了25%，Microsoft Project Server 2007的价格也下调了25%左右。
+　　市场研究公司Freeform Dynamics分析师托尼·洛克(Tony Lock)称，微软对优惠措施的宣传力度不够，“优惠措施对用户有好处，微软应当加大宣传力度。Software Assurance并没有受到广泛认可，微软应当让更多用户了解这类优惠措施。微软产品的市场份额应当比现在更高一些。”(志翔) 
+
+

@@ -1,0 +1,6 @@
+苹果iOS 4.2.1遭完美破解 Windows版软件放出
+　　新浪科技讯 2月6日午间消息，iPhone破解团队Chronic Dev刚刚同步推出了Windows和Linux版本的“greenpois0n”软件(http://greenpois0n.com/)，可完美越狱苹果iOS 4.2.1版本系统。
+　　2月4日，该破解团队首先发布了Mac版的“greenpois0n”软件。Greenpois0n RC5无需备份SHSH或其他破解前准备，破解后用户可修改主题，安装未授权软件等。
+　　本周二，苹果面向开发人员发布了iOS 4.3 Beta 3，已经修复了该漏洞。因此，此次推出的Greenpois0n RC5并适用于iOS 4.3。苹果预计在未来几周发布iOS 4.3正式版。(木木)
+　　附：windows版Greenposin0m下载地址
+

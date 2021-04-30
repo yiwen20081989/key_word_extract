@@ -1,0 +1,7 @@
+GSM制式逐渐一家独大 CDMA威胁不再
+　　拥有Cingular Wireless、中国移动、Orange和其它使用GSM制式移动网络电信运营商的GSM协会(GSM Association)现正考虑接收使用其它网络制式的公司成为会员。这一举动表明GSM协会已经成为全球最主要的移动网络协会，这也意味着CDMA技术将不再成为GSM的潜在竞争对手。GSM协会商务部主任Bill Gajda表示协会正考虑接纳CDMA，TD-SCDMA ,WiMAX网络的运营商加入协会，同时，协会还欢迎内容、移动支付服务提供商等非运营商加入该组织。
+　　由美国高通公司研发的CDMA制式网络的市场占有率一直未能达到与GSM制式网络相抗衡的水平。据伦敦的市场调查公司The Mobile World的数据显示，全球共有3.56亿用户使用CDMA网络，其中北美占了1.3亿。与此相比，全球85%的手机用户(28.4亿)选择使用GSM或3GSM网络。
+　　The Mobile World公司首席分析师John Tysoe表示世界上除美国外绝大部分运营商已经不再对CDMA感冒。拉丁美洲几乎所有的CDMA网络都在向GSM网络转变。巴西运营商Vivo在经历了几年内市场份额由超过50%跌至30%的痛苦经历后，决定放弃CDMA，转而使用GSM。中国的联通公司在提供CDMA网络服务外，现也提供GSM网络服务。
+　　在两个星期前，GSM协会重新命名了两个重量级展会。手机业界全球最大的展会3GSM世界大会(3GSM World Congress)现已更名为全球移动大会(Mobile World Congress)。其亚洲的展会也更名为亚洲移动大会(Mobile Asia Congress)。 
+
+

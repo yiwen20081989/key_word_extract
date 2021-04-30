@@ -1,0 +1,26 @@
+名师解读：GRE考试阅读部分改革
+　　GRE考试作为ETS招牌的考试，一直是美国大学研究生(论坛) 院入学的重要标准。ETS考试提供方，也在一直不遗余力地证明GRE考试高分同研究生阶段取得良好成绩的相关性。
+　　今年ETS终于公布了GRE改型计划，确认GRE考试将于2011年进行改革，并且给出了时间表。GRE考试中，语文难度最大，在新GRE取消了原来的词汇项目之后，语文部分的难点变成了阅读。新GRE阅读部分产生了怎样的变化，应该如何应对？记者采访了哈尔滨新东方国外考试部主管，哈尔滨新东方前途出国有限公司经理李春亮老师。
+　　李春亮老师就以上两个问题，给出了自己的见解：
+　　GRE考试阅读部分的变化主要体现在加大了对于逻辑思维能力的考察的力度。
+　　众所周知，对于北美研究生而言，最重要的基本能力就是学术期刊阅读能力。如何有效地从学术期刊内获得所需信息，是北美研究生取得学生上的成功地关键。在以往的GRE考试中，ETS采取的命题策略是情境模拟，即摘选出北美研究生可能遇到的阅读文章，并且人为制造出较高的阅读压力，以求测量出考生的潜力。又由于考生往往来自于不同背景，出于公平性原则考量，GRE考试的阅读文章，既要来自于真实的学术环境，具有相当的难度，又不能牵扯到只有具有相关背景知识才能解决的问题。这就给命题和考试公平性评估带来了巨大的困难。这也是ETS对GRE进行改革最大动因。
+　　2007年，ETS曾经宣布过进行GRE改革，但是因为题目数量不足，准备不够充分，后来取消了。通过对旧有GRE考题和两次改革后的样题比较，我们可以很清楚地发现，GRE阅读的文字内容，复杂程度有所降低，而逻辑复杂程度持续增加。这反映了ETS对于影响研究生阶段学术成功的基本能力的更为深入的把握。实际上现行GRE考试阅读文章难度，略高于北美研究生所需阅读文章难度，采用这种形式的文章，主要目的是模拟较高难度下研究生阅读的情景，以期能够测出学生的潜力，这个思路有点类似于我们常说的压力面试。而ETS在多年的跟踪研究后，也意识到，恰当准确把握文章内部的复杂逻辑的能力，同研究生阶段的成绩关系更大些。加之旧有的`文章形式命题难度大，劳民伤财，所以ETS开始推出新的GRE阅读考试。
+　　下面，我们以一篇样题为例看一下ETS是如何考察文章内部的复杂逻辑：
+　　Policymakers must confront the dilemma that fossil fuels continue to be an indispensable source of energy even though burning them produces atmospheric accumulations of carbon dioxide that increase the likelihood of potentially disastrous global climate change. Currently, technology that would capture carbon dioxide emitted by power plants and sequester it harmlessly underground or undersea instead of releasing it into the atmosphere might double the cost of generating electricity. But because sequestration does not affect the cost of electricity transmission and distribution, delivered prices will rise less, by no more than 50 percent. Research into better technologies for capturing carbon dioxide will undoubtedly lead to lowered costs。
+　　1. The passage implies which of the following about the current cost of generating electricity?
+　　It is higher than it would be if better technologies for capturing carbon dioxide were available。
+　　It is somewhat less than the cost of electricity transmission and distribution。
+　　It constitutes at most half of the delivered price of electricity。
+　　It is dwelt on by policymakers to the exclusion of other costs associated with electricity delivery。
+　　It is not fully recovered by the prices charged directly to electricity consumers。
+　　对黑色部分文字的逻辑进行提炼我们发现，得出这样一个逻辑推理链条：
+　　环保技术(technology that would capture carbon dioxide emitted by power plants and sequester it harmlessly underground or undersea instead of releasing it into the atmosphere)增加一倍发电成本(double the cost of generating electricity)。环保技术不改变传输成本(the cost of electricity transmission and distribution)。最终价格(delivered prices)增加不超过50%。
+　　最终价格=发电成本+传输成本
+　　使用环保技术后，发电成本增加了原来的一倍，但是最终价格增长不超过50%，可以得出结论，发电成本，最多占最终价格的50%。
+　　以上文字同传统GRE考试文章比起来，语言难度不大。难度来自于逻辑复杂，尤其是在有较大的时间压力的情况下，能够快速清晰的得出结论，并不容易。
+　　针对新GRE的准备思路
+　　国内大学生，在逻辑思维方面训练不多，新GRE的考试正好考到了学生的弱点。如果准备新GRE考试，建议加强两方面训练。
+　　1 英文阅读过程中，快速归纳逻辑链条的能力。很多学生阅读仍然停留在翻译的阶段，这在新GRE中会带来很大麻烦。
+　　2 增强逻辑思维训练，GRE本质来讲，是对英语(论坛)为母语者的能力考试。考察逻辑思维的敏捷程度，严谨程度，是这个考试的本质。
+　　从对考试的适应程度，了解的深入程度来看，中国学生目前对老GRE了解更多些，如果时间准许，还是建议学生考老GRE比较方便。
+

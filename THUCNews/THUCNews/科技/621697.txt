@@ -1,0 +1,3 @@
+英特尔即将发低电压Sandy Bridge芯片
+　　来自Fudzilla的报道，英特尔即将公布其低电压Sandy Bridge芯片产品，首批发布的型号有1.6GHz的旗舰产品Core i7 2657M，缓存4MB，它可以在Turbo Boost模式下自动超频到2.7GHz，此外还有1.4GHz的Core i5 2537M，它的Turbo Boost增强幅度较低，且缓存只有3MB。这两款芯片将在5月31日的台北Computex上被展示。
+

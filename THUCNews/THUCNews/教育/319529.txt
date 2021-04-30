@@ -1,0 +1,41 @@
+职称英语阅读新增文章及参考答案之理工类
+　　阅读第二篇：世界原油产量可能提前十年达到峰值
+　　World Crude Oil Production May Peak a Decade Earlier Than Some Predict                   
+　　In a finding that may speed efforts to conserve oil, scientists in Kuwait predict that world conventional crude oil production will peak in 2014. This prediction is almost a decade earlier than some other predictions. Their study is in ACS' Energy & Fuels1.
+　　Ibrahim Nashawi and colleagues point out that rapid growth in global oil consumption has sparked a growing interest in predicting "peak oil". "Peak oil" is the point where oil production reaches a maximum and then declines. Scientists have developed several models to forecast this point, and some put the date at 2020 or later. One of the most famous forecast models is called the Hubbert model2. It assumes that global oil production will follow a bell shaped curve3. A related concept is that4 of "Peak Oil." The term "Peak Oil" indicates the moment in which world wide production will peak, afterwards to start on irreversible decline。
+　　The Hubbert model accurately predicted that oil production would peak in the United States in1970. The model has since gained in popularity and has been used to forecast oil production worldwide。
+　　However, recent studies show that the model is insufficient to account for5 more complex oil production cycles of some countries. Those cycles can be heavily influenced by technology changes, politics, and other factors, the scientists say。
+　　The new study describes development of a new version of the Hubbert model that provides a more realistic and accurate oil production forecast. Using the new model, the scientists evaluated the oil production trends of 47 major oil-producing countries, which supply most of the world's conventional crude oil6. They estimated that worldwide conventional crude oil production will peak in 2014, years earlier than anticipated. The scientists also showed that the world's oil reserves7 are being reduced at a rate of 2.1 percent a year. The new model could help inform energy-related decisions and public policy debate, they-suggest。
+　　练习：
+　　1. Which of the following is closest in meaning to the word "sparked" appearing in paragraph 2?
+　　A. flashed
+　　B. stimulated
+　　C. changed
+　　D. ended
+　　2. The term "a bell shaped curve" appearing in paragraph 2 indicates that global oil production will
+　　A. take the shape of a flat curve。
+　　B. keep growing。
+　　C. keep declining。
+　　D. start to decline after global oil production peaks。
+　　3. Which of the following is NOT true of the Hubbert model?
+　　A. It successfully predicted that oil production peaked in the U. S. in 1970.
+　　B. It has been used to predict oil production in many countries。
+　　C It is insufficient to explain oil production cycles in some countries。
+　　D. It provides a very realistic and accurate oil production。
+　　4. What is the major achievement of the new study mentioned in the last paragraph?
+　　A. It predicts global oil production will peak in 2014。。
+　　B. It predicts oil production will decline in 47 countries。
+　　C. It confirms further the effectiveness of the Hubbert model。
+　　D. It discovers a new trend of worldwide oil production。
+　　5. Who develop the new version of the Hubbert mode!?
+　　A. American scientists。
+　　B. Kuwaiti scientists。
+　　C. British scientists。
+　　D. Scientists of 47 major oil-producing countries。
+　　译文：
+　　科威特科学家预测世界常规原油产量将在2014年达到峰值，这一发现可能会促进储存石油的努力。这一预测比其他预测提前了将近十年，已经发表在美国化学学会《能量与燃料》杂志上。
+　　伊布赫姆·纳夏威和同事们指出，全球石油消耗的快速增长使人们对“石油峰值”预测的兴趣越来越浓。“石油峰值”指的是石油产量达到最大值后开始下降的时间点。科学家已经构建了几个模型来预测这一时间，有些模型认为这一时间在2020年或更晚。其中最著名的预测模型之一是赫伯特模型。赫伯特模型认为世界石油产量呈钟形曲线，与此相关的概念是“石油峰值”。这一术语指的是世界石油产量达到峰值的那一刻，之后将呈现无法逆转的下降趋势。
+　　赫伯特模型精确地预测到美国石油产量于1970年达到峰值。这一模型从此受到欢迎，已经用于预测世界石油生产。
+　　但是，最近研究表明，这一模型不足以解释某些国家更加复杂的石油生产周期。科学家称，这些生产周期受到技术变化、政策和其他因素的很大影响。
+　　最近研究描述了赫伯特模型的新版本，提供了更加实际、更加准确的石油生产预测。科学家使用新模型评估了47个主要产油国家的石油生产趋势，这47个国家是世界常规原油的主要提供者。科学家预计全球常规原油产量将于2014年达到峰值，比之前预计的要早很多年。科学家还指出，世界石油储量正在以2.1%的速度逐年减少，他们认为新模型会帮助做出与能源相关的决定，帮助进行国家政策辩论。
+

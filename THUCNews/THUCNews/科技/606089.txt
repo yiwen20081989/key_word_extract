@@ -1,0 +1,6 @@
+可720P摄录 18日HTC Incredible升2.2
+作者/蔡鑫
+　　HTC Droid Incredible是HTC今年4月份推出的一款谷歌Android旗舰级智能手机，这款手机凭借独特的非对称外观设计和堪称顶级的硬件配置而受到不少 玩家的追捧。在谷歌发布Android 2.2之后，Nexus One、Droid、Droid X相继升级至Android 2.2，在这方面一向比较迟缓的HTC也终于公布了这款HTC Droid Incredible的升级消息。
+　　HTC Droid Incredible配备3.7英寸480×800的AMOLED电容触控屏、主频1GHz的高通snapdragon QSD8650处理器、512MB ROM+512MB RAM的内存组合、800万像素+双LED的摄像头(不支持720P摄录)，搭载谷歌Android 2.1操作系统。虽说这款HTC Droid Incredible支持的是CDMA2000 1x EV-DO这种3G制式，在国内使用只能通过烧号的方式，但是还是有不少玩家对这款高配的智能手机情有独钟。
+　　好消息传来，HTC刚刚发布了这款HTC Droid Incredible的Android 2.2源代码，据称这款手机将于8月18日获得官方Android 2.2升级。或许有些朋友会说，HTC手机系统升级跳票是经常的，8月18日真的会升级吗？这样的考虑不无道理，只是即便到时候HTC跳票了，你还可以享 受到用HTC Droid Incredible拍摄720P视频。
+

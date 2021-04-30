@@ -1,0 +1,7 @@
+iPhone版Skype即将支持视频通话
+　　作者/永辉
+　　Skype之前已经声称将会在CES 2011年国际消费电子展中发布相关视频服务的公告，但是具体支持哪些设备还不得而知，现在从Skype内部曝光的一张教程文档中出现了关于iPhone版本视频通话服务的相关信息。
+　　之前Skype已经支持唯一一款使用Maemo系统的诺基亚N900进行视频通话，如果Skype启动移动平台的视频通话支持，应该不会仅仅只有iOS平台版本，其他主要的移动系统都将获得Skype视频通话。
+　　iPhone的Skype视频通话需要iPhone 4、iPhone 3GS、第三代第四代iPod touch、iPad的支持，要求iOS 4.0以上的系统。对方则需要安装Windows版Skype 4.2+、Mac版Skype 2.8+、iPhone版Skype 3.0+，视频质量会受网络影响，有前置摄像头的设备可以支持两个摄像头随时切换使用。
+　　从Skype官方网站暂时还未发现其他系统如Android、Symbian等等平台的视频通话帮助文档，不过在一周之后的CES 2011中将会有详细的展示和试用。
+

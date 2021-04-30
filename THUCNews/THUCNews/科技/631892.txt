@@ -1,0 +1,7 @@
+Rapid Repair拆解剖析iPhone 3G S(图)
+　　新浪科技讯 北京时间6月19日下午消息，据国外媒体报道，电子产品维修中心Rapid Repair周四晚表示，已拆解了苹果最新发布的iPhone(手机上网) 3G S。
+　　Rapid Repair透露，该手机采用了基于ARM Cortex A8设计的三星600MHz处理器，还整合了Imagination Technologies的PowerVR SGX图形芯片，苹果上一代iPhone 3G所采用的处理器采用了旧版ARM设计，仅有400MHz，图形芯片也是上一代产品。
+　　苹果表示，最新一代iPhone 3G S运行应用速度更为快速，上网速度也明显提高。该公司还宣称：“性能的改善和更新的3G图像处理为用户提供了难以置信的游戏体验。”CNET网站已证实了苹果的说法，称：“对于大多数不需要依赖移动网络或Wi-Fi连接的本地应用而言，iPhone 3G S的速度一致较快。”此外，“该产品打开iPod播放器的速度提高了5秒，且在调用部分显著较慢的程序时速度也明显改善。例如，iPhone 3G调用《钻石情迷2》(Bejewled 2)需要12秒钟，而新版iPhone 3G S则只需要5秒钟。”
+　　CNET还指出：“iPhone 3G S的启动速度也有所提高，与iPhone 3G长达50秒的启动速度相比，新款手机仅需26秒。”
+　　Palm Pre也采用了与新款iPhone 3G S相同的处理器和图形芯片。(肖恩)
+

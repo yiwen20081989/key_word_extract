@@ -1,0 +1,7 @@
+微软发布Windows Phone 7开发工具正式版
+　　新浪科技讯 北京时间9月17日凌晨消息，据国外媒体报道，微软在官方博客中表示，微软正式发布了Windows Phone 7开发工具最终版。
+　　开发者可以利用该开发工具开发应用并在“10月初”上传至Windows Phone Marketplace应用程序商店。
+　　微软移动通信业务部门总监布兰顿·沃森(Brandon Watson)在博客中写道，“开发者如果想要上传应用至Marketplace，就必须下载正式版的开发者工具，使用之前版本的工具开发的应用将不能通过Marketplace的验证。”
+　　Windows Phone 7开发工具套件包括Visual Studio 2010 Express for Windows Phone、Windows Phone模拟器、Expression Blend 4 for Windows Phone、XNA Game Studio 4.0和新增加的必应地图SDK。
+　　据称，正式版的Windows Phone 7开发工具将能够自动按需下载组件，开发者已有的Visual Studio 2010和Expression Blend 4将不必重复下载、安装。(张和)
+

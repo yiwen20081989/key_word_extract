@@ -1,0 +1,7 @@
+英特尔收购英国移动Linux开发商
+　　新浪科技讯 北京时间8月30日消息，据国外媒体报道，英特尔已收购英国移动Linux开发商Opened Hand公司。
+　　收购完成后，Opened Hand将加入Moblin软件平台社区，该社区主要为英特尔凌动(Atom)处理器开发Linux软件，这些软件将针对低功耗的上网本和移动上网设备进行优化。
+　　英特尔将继续支持Opened Hand的现有项目，其中包括用于创建图形用户界面(GUI)的软件库Clutter等。这些项目将成为Moblin项目的一部分。
+　　Opened Hand的客户包括诺基亚Internet tablet、非营利性组织“每个儿童一台电脑”(One Laptop Per Child)等。(肖恩) 
+
+

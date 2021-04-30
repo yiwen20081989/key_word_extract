@@ -1,0 +1,27 @@
+分析称Gartner预测Windows Phone将超iOS有猫腻
+　　导语：国外媒体周六发表文章称，美国权威调研机构Gartner本周预计，2015年微软Windows Phone操作系统市场将超越苹果iOS，成为继Android之后的全球第二大智能手机平台。但业内人士称，该预测似乎只是为了某种利益而在捏造数据，而且Gartner此前也有过前科。
+　　以下为文章内容摘要：
+　　Gartner近日调整了全球智能手机市场预期，与2009年的预期相比相去甚远，似乎意味着Gartner此前的预测并没有远见。
+　　Gartner本周预计，2012年谷歌Android操作系统的市场份额将达到49%，2015年微软Windows Phone系统将超越苹果iOS成为全球第二大智能手机平台。
+　　09年预测并不准确
+　　就在一年半之前，Gartner曾对智能手机市场进行过大胆预测，称微软智能手机操作系统份额将显著提高。事实上，Gartner 2009年的预测和今年的预测仅有一个相同之处，那就是到2012年微软智能手机销量将达到6800万部，约占整体智能手机销量的12%。
+　　在过去的一年半中，智能手机市场发生了翻天覆地的变化。Gartner 2009年预计，2012年诺基亚Symbian操作系统将占智能手机市场绝大部分份额。但由于诺基亚已经选择微软Windows Phone并逐渐放弃Symbian，Symbian最终将被淘汰。
+　　Gartner 2009年还预计，2012年Android将与苹果、微软和RIM平起平坐，各占约13%的市场份额，彼此相差不会超过一个百分点。但Gartner现预计，2012年Android市场份额将达到49%，苹果iPhone市场份额将会达到19%，而不是此前预测的13%。
+　　Gartner还调整了对RIM的预测，现认为2012年黑莓市场份额下降的幅度比2009年预测的小。此外，由于Gartner认为WebOS、Linux和其他移动操作系统的增长将微乎其微，现把这些操作系统都归为一类，并将市场份额削减一半。
+　　预测逻辑令人费解
+　　Gartner最新预测数据表明，18个月前Gartner对于智能手机的未来发展趋势根本没有任何概念。Gartner 2009年的预测表明，全球智能手机操作系统市场只有苹果、RIM和Palm这三个主要竞争对手。至于认为Symbian市场份额将出现增长，可能是因为看好诺基亚把Symbian作为一个开源项目来发展。
+　　Gartner当时预测，在从2009年到2012年的三年内，Android销量将增长10倍，这主要是因为Android当时刚刚崭露头角，美国电信运营商Verizon也计划从RIM黑莓平台向Android平台过渡。
+　　然而，最令人费解的还是Gartner对微软Windows Mobile(Windows Phone前身)的预测。自苹果2007年推出iPhone后，微软Windows Mobile平台就失去了发展动力，销售业绩也平淡无奇。但Gartner 2009年仍坚称，在未来三年内，Windows Mobile手机销量将增至4.5倍。
+　　但事实并不像Gartner所预计，在整个2010年，尽管微软高调宣布将与LG合作，但Windows Mobile平台的销量继续下滑。后来推出Windows Mobile升级产品Windows phone 7后，销量更是一落千丈。
+　　Gartner 2009年的预测基本上就是一场赌注，认为开源操作系统将占据大部分市场份额，而苹果和RIM的市场份额只会缓慢增长。如今看来Gartner只是猜对了Android将赢得较大市场份额，而认为微软和诺基亚市场份额大幅增长则是个错误。
+　　由于Android、Symbian和Windows Mobile争夺的是同样的数量有限的手机制造商群体，Gartner预测这三个平台都会出现爆炸式增长，且超过苹果和RIM的涨幅，就显得不合逻辑。最终的结果是，Gartner在2009年对智能手机市场发展趋势作出的三个大胆预测，有两个是完全错误的，还有一个不够胆大。很明显，Gartner低估了苹果和RIM的潜力。
+　　大幅度调整预测
+　　如今，Gartner对2009年的预测进行了一系列调整，首当其冲的是Symbian系统。由于诺基亚已选择微软移动平台，不再支持Symbian系统，Gartner现预计Symbian份额将一泻千里。
+　　第二个重大调整是关于Android系统，Gartner现预计Android将会继续呈爆炸式增长，涨幅与2010年相当。此外Gartner还调整了对iPhone的预期，现认为iPhone今年销量将近翻一番，从4700万部增至9100万部。2012年销量将增加2800万部，2013年到2015年每年还将递增3500万部。
+　　值得注意点是，这一次Gartne的预测不再是未来三年的趋势，而是未来五年的走势。在未来五年内，Gartne预计微软Windows Phone手机销量将超出苹果iPhone 3500万部，从而成为Android之后的第二大移动操作系统。
+　　Gartner预计，2015年Windows Phone销量将超越iPhone，涨幅将超越Android，这可能是Windows Phone绝无仅有的好消息。如果Gartner 2009年的预测能够稍微准确一些，人们可能就不会认为它只是为了某种利益而在捏造数据。
+　　捏造数据
+　　其实Gartner也并不是首次这样做，据微软泄露的一份机密备忘录显示，微软曾向Gartner支付了数十万美元游说后者更改其预测数据，以美化Windows NT操作系统，并贬低竞争对手。
+　　2005年，Gartner分析师又预测，Windows Mobile 5将对Symbian构成威胁，事实上这是从未发生过的事情。2009年，Windows Mobile的状况依旧糟糕，连Gartner都不愿说在未来三年内能超越iPhone。在过去的一年半中，微软在该市场的处境每况愈下，与诺基亚的合作几乎没有得到业界好评。
+　　在最新的预测中，Gartner认为微软Windows Phone未来五年的销量涨幅将达到1790%，远高于Android和iPhone涨幅，甚至超出了2009年对Windows Mobile作出的错误预测涨幅。(李明)
+

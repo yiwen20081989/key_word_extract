@@ -1,0 +1,6 @@
+Novell将展示iPhone移植Xb360游戏
+　　微软Windows Phone 7的一大卖点就是与Xbox Live平台整合，让手机运行Xbox360游戏。不过Windows Phone 7要到今年年底才会推出，而竞争对手平台苹果iPhone现在就要做到了。
+　　PCWorld报道称，Novell公司将在今天晚些时候展示由Xbox 360游戏移植至iPhone的成果。未来他们还有可能将Xbox360游戏一直到Android手机平台。事实上，这些移植还要部分依仗微软的力量。
+　　微软Windows Phone 7之所以能够运行Xbox Live游戏，根本原因在于它支持微软的XNA 4.0架构，而XNA实际上是基于.NET。不过，Novell公司的Mono跨平台开源.NET开发架构中就有一项技术名为MonoTouch，可以将.NET代码转换为iPhone原生程序，由此才有了XNA游戏的iPhone移植可能。有趣的是，虽然微软不可能去支持XNA游戏移植iPhone，但Mono项目却是得到微软支持的。换句话说，Novell只是在做微软能做，但不愿意做的事情。
+　　据悉，Novell将展示的iPhone移植Xbox游戏实际上就是微软之前曾展示的那款Windows、Windows Phone 7、Xbox360跨平台游戏的开源修改版本。除了iPhone平台外，MonoTouch未来还将支持Android平台，只是目前还处在早期开发阶段。如果iPhone真的能够抢在Windows Phone之前支持Xbox，不知微软该做何感想。
+

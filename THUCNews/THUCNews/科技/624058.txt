@@ -1,0 +1,6 @@
+融合安卓 RIM发布PlayBook 2.0测试版
+　　在BlackBerry Devcon 2011(黑莓开发者大会)上，RIM发布了PlayBook 2.0开发测试版，PlayBook 2.0开发测试版中增加了BlackBerry Runtime for Android Apps和BlackBerry Plug-In for Android开发工具，让开发者可以轻松的把Android应用“移植”到PlayBook平板电脑上。
+　　PlayBook 2.0开发测试版还增加了对Adobe AIR 3，Flash Player 11和WebGL的支持，以及无需额外的软件即可在浏览器中实现3D图形处理硬件加速的新技术，PlayBook 2.0开发测试版在今天放出。
+　　在BlackBerry Devcon 2011(黑莓开发者大会)上，RIM发布了PlayBook 2.0开发测试版，PlayBook 2.0开发测试版中增加了BlackBerry Runtime for Android Apps和BlackBerry Plug-In for Android开发工具，让开发者可以轻松的把Android应用“移植”到PlayBook平板电脑上。
+　　PlayBook 2.0开发测试版还增加了对Adobe AIR 3，Flash Player 11和WebGL的支持，以及无需额外的软件即可在浏览器中实现3D图形处理硬件加速的新技术，PlayBook 2.0开发测试版在今天放出。
+

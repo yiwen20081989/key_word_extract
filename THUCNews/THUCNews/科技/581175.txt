@@ -1,0 +1,8 @@
+Google+ API发布还需数月
+　　新浪科技讯 北京时间9月7日上午消息，据美国科技博客网站TechCrunch报道，谷歌社交网络Google+应用程序编程接口(以下简称“API”)的发布可能还需要数月时间。
+　　此消息是一名Google+的开发人员告诉该网站的，目前关于Google+ API的发布时间仍不确定，但至少需要数月。
+　　Google+ API的发布时间延后将大大打击Google+研发人员的积极性，因为缺失Google+ API的话，Google+众多独特功能，例如Circles、Hangouts、Sparks以及Huddles都将无法实现。
+　　上个月，Teens in Tech Labs的创意总监、萨利创意(Sully Creative)创始人兼CEO 萨利•泰勒(Sully Taylor)发布了一款Mac用户能够使用的Google+基础性应用程序。泰勒还发文说他已经进入Google+的私人API。此消息立即引起了广泛关注，因此就有人预计谷歌官方即将发布Google+ API。
+　　但随后应谷歌的要求，泰勒删除了这条消息，并说此消息具有误导性。此外，谷歌也宣布没有研发人员拥有私人API入口。
+　　至于Google+ API的发布时间，现在还有一种说法，Google+是今年6月28日发布的，大约整整六个月后，也差不多是今年年底的时候，Google+ API才有可能发布。(彪赫)
+

@@ -1,0 +1,58 @@
+名师解析：2009雅思听力单选题出题特点
+　　名师解析雅思听力单选题出题特点
+　　朗阁海外考试研究中心/杭州朗阁  周韵
+　　版权所有，转载请注名作者与出处及相关链接，否则将依法追究其责任！
+　　选择题是在听力考试中最常见也是比较受考生欢迎的一种题型，主要考察学生的判断能力。考生不必思考单词的拼写，只需根据录音判断选项的正确性。在雅思听力考试中，选择题型主要是单选题和多选题，虽然在考试中选择题比例并不是最高的，但对这一类传统题型的把握显然是非常重要的。以下是单选题的一些出题特点。
+　　一、以问句形式出现的单选题
+　　此类单选题以WH QUESTION(who, when, what, where, why, how等)形式出现，由于选择对象明确，此类题目相对容易做，在做题过程中应注意干扰方向。
+　　例1：Cambridge 4 Test 2 Section 1 Question 3
+　　Who did Peter talk to at the bank?
+　　A.     an old friend
+　　B.      an American man
+　　C.      a German man
+　　解析：通过读题干可得知选择对象是某个人，并且出现了地点状语at the bank，由此圈定事件的发生地。由选项可得知答案可能出现人物的国籍干扰因素。原文为He is a tourist, from New York. 由此可判断选择B选项。
+　　例2：Cambridge 4 Test 3 Section 2 Question 11
+　　When is this year’s festival being held?
+　　A.     1-13 January
+　　B.      5-17 January
+　　C.      25-31 January
+　　解析：通过读题干可得知选择对象是时间，并且明显是时间段。this year’s festival限定了选择对象的时间范围，所以在文中可能出现时间上的干扰。原文中首先提到在过去几年中时间都是定在5日到17日左右，因此可排除B选项，接着说this year, they’ve put it at the end of the month, 尽管没有提到具体时间，但显然应该选择C选项。
+　　例3：Cambridge 4 Test 3 Section 2 Question 12
+　　What will the reviewer concentrate on today?
+　　A.     theatre
+　　B.      dance
+　　C.      exhibition
+　　解析：通过读题干可得知选择对象是一个事物，时间状语today的出现说明题目中可能存在时间上的干扰，我们要选择的是评论家当天要介绍的，而不是其他时间要讲的。原文中三个选项同时出现了，但随后的信息中又提到in today’s report, I’m looking at some of the theatrical events that you might like to see. 由theatrical events可得知应选择A选项。                                                                 
+　　二、非问句形式出现的单选题
+　　此类选择题相对复杂一些，选择对象不明显，需根据题目和选项意思寻找题目思路。此类选择题选项也相对来说也比较长，比较复杂，容易受干扰因素影响。这类题目雅思常考的主要有以下几类：
+　　1.       概念解释：考试中常常会就文中提到的某些概念或名词作一些解释，这些概念通常是不熟悉的，或者很容易产生误解的。此类题目通常会以从句的形式出现，如…is who…/…is when…./…is that…./being…is…。或者以一个简单句sth be…/sth do…出现
+　　例1：Cambridge 3 Test 1 Section 4 Question 36
+　　Being overweight
+　　A.     is a major source of back pain
+　　B.      worsens existing back pain
+　　C.      reduces the effectiveness of exercise。
+　　解析：结合题干和选项，本题要求对超重作一个解释，是一个简单句，并且AB选项都和back pain有关，C选项则和exercise有关。原文中提到back pain时说到：the weight will increase the strain and make things worse，因此B选项为正确答案。
+　　例2：Cambridge 4 Test 2 Section 4 Question 31
+　　Corporate crime is generally committed
+　　A.     against individual
+　　B.      by groups
+　　C.      for companies
+　　解析：题目要求对corporate crime进行解释，是一个简单句，补充的为一个介词短语，三个选项都和犯罪主体或对象有关。原文用be defined as来引出定义：crime which is committed for the corporate organization-the company-not against it。几乎和原题是一样的表达方式，因此答案为C。
+　　例3：Cambridge 4 Test 2 Section 2 Question 18
+　　Loans are also available to students who
+　　A.     can’t pay their rent
+　　B.      need to buy furniture
+　　C.      can’t cover their living expenses
+　　解析：该题为一个复杂句，补充的是一个定语从句来解释哪种学生能得到贷款，并且从选项中可以发现这种贷款和生活有关。原文中提到：when you move into a new flat, starting up expenses including furniture for it can be covered by a loan。因此B为正确选项。
+　　2. 个人，机构的看法，建议，喜好：在这类选择题中通常能看到advise, suggest, recommend, like, think, according to等表示意见建议及喜好的单词和词组。在做题的过程中必须先搞清楚题目要求弄清的是谁的想法，是站在哪方的角度上考虑的，否则就很容易出错了。
+　　例1：Cambridge 3 Test 1 Section 4 Question 32
+　　According to the speaker, the main cause of back pain in women is
+　　A.     pregnancy
+　　B.      osteoporosis
+　　C.      lack of exercise
+　　解析：题目要求找出女性背痛的一个主要原因，并且是说话人的一个个人想法。三个选项在原文中都有出现，当提到osteoporosis时说到：which I personally believe to be the major cause of problem for women，表达了自己的意见，因此答案为B。
+　　3。表原因，结果，条件：这类考题也是非常多见的，题干的句末通常是because, because of, be caused by, if 等表示原因、结果、条件的词。
+　　例1：Cambridge 4 Test 2 Section 2 Question 14
+    更多信息请访问：新浪雅思频道 雅思论坛 雅思博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

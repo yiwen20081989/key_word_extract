@@ -1,0 +1,5 @@
+创业企业Big Switch Networks融资1375万美元
+　　新浪科技讯 北京时间4月22日晚间消息，虚拟企业网平台开发商Big Switch Networks已经完成了总额1375万美元的第一轮融资。该公司此轮融资由投资公司Index Ventures和Khosla Ventures牵头。
+　　Big Switch Networks的产品基于OpenFlow标准。该公司同时宣布，已经加入新成立的Open Networking基金会。这一基金会旨在推广OpenFlow和其他软件定义网络(SDN)技术的发展，以加速行业的创新。
+　　Big Switch Networks于去年创立，该公司的目标是成为“私有云网络的VMware”。而Open Networking基金会由6家运营着大型网络的公司共同成立，这6家公司分别为德国电信、Facebook、谷歌、微软、Verizon和雅虎。(维金)
+

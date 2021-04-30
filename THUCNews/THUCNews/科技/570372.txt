@@ -1,0 +1,6 @@
+iOS 4.3新社交功能Media Stream或威胁Facebook
+　　新浪科技讯 北京时间1月20日晚间消息，有业内人士日前发现，苹果iOS 4.3 beta 2新版系统中增加了一项秘密的新功能“Media Stream”(媒体流)。
+　　“Media Stream”中包含了“Photo Streams”(图片流)和"Find My Friends"(查找好友)功能，前者可用来分享和订阅图片，而后者类似于Foursquare的社交定位服务。
+　　分析人士认为，苹果此举将直接与Facebook形成竞争，因为“Media Stream”与Facebook的新闻、活动、照片和签到推动功能十分相似。另外，与iPhone图片社交应用Instagram也颇为相近。
+　　分析人士称，将来苹果还会推出更多社交功能，与Facebook的竞争也将日益激励。除了Facebook，苹果还可能对其他更多企业构成威胁。(李明)
+

@@ -1,0 +1,162 @@
+郭庆民考研英语阅读第一篇及译文与疑难解析
+　　郭庆民阅读理解第一篇及译文与疑难长句注解和题解
+　　It would be enormously convenient to have a single, generally accepted index of the economic and social welfare of the people of the United States. A glance at it would tell us how much better or worse off we had become each year, and we would judge the desirability of any proposed action by asking whether it would raise or lower this index. Some recent discussion implies that such an index could be constructed. Articles in the popular press even criticize the Gross National Production because it is not such a complete index of welfare, ignoring, on the one hand, that it was never intended to be, and suggesting, on the other hand, that with appropriate changes it could be converted into one.
+　　The output available to satisfy our wants and needs is one important determinant of welfare. Whatever want, need, or social problem engages our attention, we ordinarily can more easily find resources to deal with it when output is large and growing than when it is not. GNP measures output fairly well, but to evaluate welfare we would need additional measures which would be far more difficult to construct. We would need an index of real costs incurred in production, because we are better off if we get the same output at less cost. Use of just man?hours for welfare evaluation would unreasonably imply that to increase total hours by raising the hours of eight women from 60 to 65 a week imposes no more burden than raising the hours of eight men from 40 to 45 a week, or even than hiring one involuntarily unemployed person for 40 hours a week. A measure of real costs of labor would also have to consider working conditions. Most of us spend almost half our waking hours on the job and our welfare is vitally affected by the circumstances in which we spend those hours.
+　　To measure welfare we would need a measure of changes in the need our output must satisfy. One aspect, population change, is now handled by converting output to a per capita basis on the assumption that, other things equal, twice as many people need twice as many goods and services to be equally well off. But an index of needs would also account for differences in the requirements for living as the population becomes more urbanized and suburbanized; for the changes in national defense requirements; and for changes in the effect of weather on our needs. The index would have to tell us the cost of meeting our needs in a base year compared with the cost of meeting them equally well under the circumstances prevailing in every other year.
+　　Measures of “needs” shade into measure of the human and physical environment in which we live. We all are enormously affected by the people around us. Can we go where we like without fear of attack? We are also affected by the physical environment—purity of water and air, accessibility of park land and other conditions. To measure this requires accurate data, but such data are generally deficient. Moreover, weighting is required: to combine robberies and murders in a crime index; to combine pollution of the Potomac and pollution of Lake Erie into a water pollution index; and then to combine crime and water pollution into some general index. But there is no basis for weighting these beyond individual preference.
+　　There are further problems. To measure welfare we would need an index of the “goodness” of the distribution of income. There is surely consensus that given the same total income and output, a distribution with fewer families in poverty would be the better, but what is the ideal distribution? Even if we could construct indexes of output, real costs, needs, state of the environment, we could not compute a welfare index because we have no system of weights to combine them.
+　　1. The author?s primary concern is to .
+　　［A］ refute arguments for a position［B］ make a proposal and defend it
+　　［C］ show defects in a proposal   ［D］ review literature relevant to a problem
+　　2. The author implies that man?hours is not an appropriate measure of real cost because it .
+　　［A］ ignores the conditions under which the output is generated  
+　　［B］ fails to take into consideration the environmental costs of production
+　　［C］ is not an effective method for reducing unemployment
+　　［D］ was never intended to be a general measure of welfare
+　　3. The most important reason why a single index of welfare cannot be designed is that .
+　　［A］ the cost associated with producing the index would be prohibitive
+　　［B］ considerable empirical research would have to be done regarding output and needs
+　　［C］ any weighting of various measures into a general index would be inherently subjective
+　　［D］ accurate statistics on crime and pollution are not yet available
+　　4. An adequate measure of need must take into account all of the following EXCEPT .
+　　［A］ change effects on people of the weather
+　　［B］ differences in needs of urban and suburban populations
+　　［C］ changing requirements for governmental programs such as defense
+　　［D］ accessibility of park land and other premises  
+　　5. The author regards the idea of a general index of welfare as .
+　　［A］ an unrealistic dream
+　　［B］ an important contribution
+　　［C］ a future necessity
+　　［D］ a desirable change
+　　1.index     n.指数
+　　2.welfare ?n.福利
+　　3.well off   富裕的，顺利的
+　　4.construct   vt.构造，创立
+　　5.press  n.报刊；通讯社
+　　6.Gross National Product(ion)     国民生产总值(GNP)
+　　7.convert    vt.转换；使改变信仰
+　　8.evaluate    vt.评价，评估
+　　9.incur    vt.招致，引起，惹起
+　　10.aspect    n.方面
+　　11.handle    vt.处理，运用
+　　12.per capita    每人的，人均的
+　　13.assumption    n.假定，设想；承担
+　　14.other things equal    假定其他情况不变的话
+　　15.account for    说明；占
+　　16.prevail    vi.盛行；胜过，占优势
+　　17.accessibility    n.可接近性，获得的可能性
+　　18.deficient    a.缺乏的；不完善的
+　　19.robbery    n.抢劫，盗窃
+　　20.distribution    n.分配，分发；销售
+　　21.consensus    n.一致意见，共识
+　　22.compute    vt.计算，估计
+　　1.enormously非常，巨大地
+　　2.desirability愿望，希求
+　　3.determinant决定因素
+　　4.real cost实际成本
+　　5.involuntarily不情愿地，无意地
+　　6.vitally极为，生死攸关地
+　　7.urbanize使都市化
+　　8.suburbanize使市郊化
+　　9.shade into逐渐变为
+　　1.A glance at it would … index.(第一段)
+　　better off是well off(富裕的，处境好的)的比较级形式，worse off与之意思相反。
+　　2.Articles in the popular … into one.(第一段)
+　　press指the collecting and publishing or broadcasting of news; journalism in general(新闻事业，新闻的收集、出版或播送；新闻业的总称)。ignoring … to be和suggesting … into one 是两个分词短语，逻辑主语都是articles in the popular press。
+　　3.Whatever want … it is not.(第二段)
+　　when it is not是when it is not large and growing的省略形式，其中，it指output。比较级的翻译对考生来说是难点，请仔细研究本句的译文处理方式。
+　　4.To measure welfare … satisfy.(第三段)
+　　measure此处意为“测量标准，尺度”。our output must satisfy是一个定语从句，修饰the need。
+　　5.One aspect … well off.(第三段)
+　　handle根据上一句应该理解为“测量(……的变化)”。that引导的从句作assumption的同位语。other things (being) equal是一个习语，意为“在其他各方面因素保持不变的情况下”。
+　　6.Moreover, weighting is … general index.(第四段)
+　　波拖马可河是美国的一条河流，伊利湖是介于美国和加拿大之间的五大湖之一。
+　　7.There is surely consensus … distribution?(第五段)
+　　that引导的从句作consensus的同位语，given表示假设。
+　　如果有一个单一的、普遍接受的指标，用以衡量美国人的经济和社会福利，那将是极其方便的。只要看一下这个指标，就知道我们的状况每年是变得更好还是变得更坏，通过询问某项措施将会提高还是降低这个指标，我们就可以判定这个被提出的措施的好坏。最近的某些讨论认为，这种指标是可以设计出来的。流行的新闻报刊甚至载文批评将国民生产总值当做指数，认为它不是一个完全反映福利状况的指数，但是，这些批评一方面忽视了人们从来也没有想把它当做一个这样的指数，另一方面，这些批评似乎又认为：经过合理修正以后，它可以被用做这样一个指数。
+　　可用来满足我们需求的产量是决定福利的一个重要因素。无论我们关注哪些需要、需求或社会问题，如果产量大而且在不断增长，我们通常能够更容易地找到资源来满足或解决它们，否则就不容易。国民生产总值(GNP)是测量产量的很好的尺度，但要测量福利，我们还需要其他尺度，而建立这样的尺度要难得多。我们需要一个指数，用于测量生产涉及的实际成本，因为如果我们用较低成本获取同样的产值，这说明我们更富有。用工时来衡量福利状况是不合理的，这意味着：将8名妇女每周的总工时从60小时提高到65小时，与将8个男人每周的工时从40小时提高到45小时，或甚至雇用一个非自愿失业的人每周工作40小时，增加的负担是一样的。要计算实际的劳动力成本，还要考虑工作条件。我们绝大多数人把约一半醒着的时间用在工作上，因此，我们花费这些时间的环境对我们的福利有重大影响。
+　　为了测量福利状况，我们需要一个尺度，测量产量必须满足的需求的变化。其中一个方面——人口变化——通过将产量换算为人均占有量加以测量，这种做法基于如下假设：假定其他条件不变，如果人口增长一倍，所需要的产品和服务也应该增长一倍，才能保障生活在同样水平上。但测量“需求”要考虑下列因素：随着人口的城市化和市郊化，人们对生活的不同要求；国防需要的变化；天气变化对我们的需求的影响。这项指数必须告诉我们在某个基年满足我们的需求所花费的成本，然后再与其他各年份的环境下同样满足我们需求的成本作比较。
+　　测量“需求”最终会转化为测量我们生活的人类环境和自然环境。我们都在极大程度上受到周围人的影响。我们可以不用害怕受到攻击而去任何自己想去的地方吗？自然环境也影响着我们——水和空气的纯净、公园用地和其他条件的可获得性等，测量这些东西需要准确数据，但是这些数据通常是不充分的。而且，还需要权衡各种因素，例如，在犯罪指标中将盗窃与凶杀做综合考虑；在水污染指标中将波特马可河和伊利湖的污染做综合考虑；然后，我们再将犯罪和污染合并为某个综合指数。但是，这些测算结果除个人的偏好以外没有其他基础。
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+　　郭庆民阅读理解第一篇及译文与疑难长句注解和题解
+　　It would be enormously convenient to have a single, generally accepted index of the economic and social welfare of the people of the United States. A glance at it would tell us how much better or worse off we had become each year, and we would judge the desirability of any proposed action by asking whether it would raise or lower this index. Some recent discussion implies that such an index could be constructed. Articles in the popular press even criticize the Gross National Production because it is not such a complete index of welfare, ignoring, on the one hand, that it was never intended to be, and suggesting, on the other hand, that with appropriate changes it could be converted into one.
+　　The output available to satisfy our wants and needs is one important determinant of welfare. Whatever want, need, or social problem engages our attention, we ordinarily can more easily find resources to deal with it when output is large and growing than when it is not. GNP measures output fairly well, but to evaluate welfare we would need additional measures which would be far more difficult to construct. We would need an index of real costs incurred in production, because we are better off if we get the same output at less cost. Use of just man?hours for welfare evaluation would unreasonably imply that to increase total hours by raising the hours of eight women from 60 to 65 a week imposes no more burden than raising the hours of eight men from 40 to 45 a week, or even than hiring one involuntarily unemployed person for 40 hours a week. A measure of real costs of labor would also have to consider working conditions. Most of us spend almost half our waking hours on the job and our welfare is vitally affected by the circumstances in which we spend those hours.
+　　To measure welfare we would need a measure of changes in the need our output must satisfy. One aspect, population change, is now handled by converting output to a per capita basis on the assumption that, other things equal, twice as many people need twice as many goods and services to be equally well off. But an index of needs would also account for differences in the requirements for living as the population becomes more urbanized and suburbanized; for the changes in national defense requirements; and for changes in the effect of weather on our needs. The index would have to tell us the cost of meeting our needs in a base year compared with the cost of meeting them equally well under the circumstances prevailing in every other year.
+　　Measures of “needs” shade into measure of the human and physical environment in which we live. We all are enormously affected by the people around us. Can we go where we like without fear of attack? We are also affected by the physical environment—purity of water and air, accessibility of park land and other conditions. To measure this requires accurate data, but such data are generally deficient. Moreover, weighting is required: to combine robberies and murders in a crime index; to combine pollution of the Potomac and pollution of Lake Erie into a water pollution index; and then to combine crime and water pollution into some general index. But there is no basis for weighting these beyond individual preference.
+　　There are further problems. To measure welfare we would need an index of the “goodness” of the distribution of income. There is surely consensus that given the same total income and output, a distribution with fewer families in poverty would be the better, but what is the ideal distribution? Even if we could construct indexes of output, real costs, needs, state of the environment, we could not compute a welfare index because we have no system of weights to combine them.
+　　1. The author?s primary concern is to .
+　　［A］ refute arguments for a position［B］ make a proposal and defend it
+　　［C］ show defects in a proposal   ［D］ review literature relevant to a problem
+　　2. The author implies that man?hours is not an appropriate measure of real cost because it .
+　　［A］ ignores the conditions under which the output is generated  
+　　［B］ fails to take into consideration the environmental costs of production
+　　［C］ is not an effective method for reducing unemployment
+　　［D］ was never intended to be a general measure of welfare
+　　3. The most important reason why a single index of welfare cannot be designed is that .
+　　［A］ the cost associated with producing the index would be prohibitive
+　　［B］ considerable empirical research would have to be done regarding output and needs
+　　［C］ any weighting of various measures into a general index would be inherently subjective
+　　［D］ accurate statistics on crime and pollution are not yet available
+　　4. An adequate measure of need must take into account all of the following EXCEPT .
+　　［A］ change effects on people of the weather
+　　［B］ differences in needs of urban and suburban populations
+　　［C］ changing requirements for governmental programs such as defense
+　　［D］ accessibility of park land and other premises  
+　　5. The author regards the idea of a general index of welfare as .
+　　［A］ an unrealistic dream
+　　［B］ an important contribution
+　　［C］ a future necessity
+　　［D］ a desirable change
+　　1.index     n.指数
+　　2.welfare ?n.福利
+　　3.well off   富裕的，顺利的
+　　4.construct   vt.构造，创立
+　　5.press  n.报刊；通讯社
+　　6.Gross National Product(ion)     国民生产总值(GNP)
+　　7.convert    vt.转换；使改变信仰
+　　8.evaluate    vt.评价，评估
+　　9.incur    vt.招致，引起，惹起
+　　10.aspect    n.方面
+　　11.handle    vt.处理，运用
+　　12.per capita    每人的，人均的
+　　13.assumption    n.假定，设想；承担
+　　14.other things equal    假定其他情况不变的话
+　　15.account for    说明；占
+　　16.prevail    vi.盛行；胜过，占优势
+　　17.accessibility    n.可接近性，获得的可能性
+　　18.deficient    a.缺乏的；不完善的
+　　19.robbery    n.抢劫，盗窃
+　　20.distribution    n.分配，分发；销售
+　　21.consensus    n.一致意见，共识
+　　22.compute    vt.计算，估计
+　　1.enormously非常，巨大地
+　　2.desirability愿望，希求
+　　3.determinant决定因素
+　　4.real cost实际成本
+　　5.involuntarily不情愿地，无意地
+　　6.vitally极为，生死攸关地
+　　7.urbanize使都市化
+　　8.suburbanize使市郊化
+　　9.shade into逐渐变为
+　　1.A glance at it would … index.(第一段)
+　　better off是well off(富裕的，处境好的)的比较级形式，worse off与之意思相反。
+　　2.Articles in the popular … into one.(第一段)
+　　press指the collecting and publishing or broadcasting of news; journalism in general(新闻事业，新闻的收集、出版或播送；新闻业的总称)。ignoring … to be和suggesting … into one 是两个分词短语，逻辑主语都是articles in the popular press。
+　　3.Whatever want … it is not.(第二段)
+　　when it is not是when it is not large and growing的省略形式，其中，it指output。比较级的翻译对考生来说是难点，请仔细研究本句的译文处理方式。
+　　4.To measure welfare … satisfy.(第三段)
+　　measure此处意为“测量标准，尺度”。our output must satisfy是一个定语从句，修饰the need。
+　　5.One aspect … well off.(第三段)
+　　handle根据上一句应该理解为“测量(……的变化)”。that引导的从句作assumption的同位语。other things (being) equal是一个习语，意为“在其他各方面因素保持不变的情况下”。
+　　6.Moreover, weighting is … general index.(第四段)
+　　波拖马可河是美国的一条河流，伊利湖是介于美国和加拿大之间的五大湖之一。
+　　7.There is surely consensus … distribution?(第五段)
+　　that引导的从句作consensus的同位语，given表示假设。
+　　如果有一个单一的、普遍接受的指标，用以衡量美国人的经济和社会福利，那将是极其方便的。只要看一下这个指标，就知道我们的状况每年是变得更好还是变得更坏，通过询问某项措施将会提高还是降低这个指标，我们就可以判定这个被提出的措施的好坏。最近的某些讨论认为，这种指标是可以设计出来的。流行的新闻报刊甚至载文批评将国民生产总值当做指数，认为它不是一个完全反映福利状况的指数，但是，这些批评一方面忽视了人们从来也没有想把它当做一个这样的指数，另一方面，这些批评似乎又认为：经过合理修正以后，它可以被用做这样一个指数。
+　　可用来满足我们需求的产量是决定福利的一个重要因素。无论我们关注哪些需要、需求或社会问题，如果产量大而且在不断增长，我们通常能够更容易地找到资源来满足或解决它们，否则就不容易。国民生产总值(GNP)是测量产量的很好的尺度，但要测量福利，我们还需要其他尺度，而建立这样的尺度要难得多。我们需要一个指数，用于测量生产涉及的实际成本，因为如果我们用较低成本获取同样的产值，这说明我们更富有。用工时来衡量福利状况是不合理的，这意味着：将8名妇女每周的总工时从60小时提高到65小时，与将8个男人每周的工时从40小时提高到45小时，或甚至雇用一个非自愿失业的人每周工作40小时，增加的负担是一样的。要计算实际的劳动力成本，还要考虑工作条件。我们绝大多数人把约一半醒着的时间用在工作上，因此，我们花费这些时间的环境对我们的福利有重大影响。
+　　为了测量福利状况，我们需要一个尺度，测量产量必须满足的需求的变化。其中一个方面——人口变化——通过将产量换算为人均占有量加以测量，这种做法基于如下假设：假定其他条件不变，如果人口增长一倍，所需要的产品和服务也应该增长一倍，才能保障生活在同样水平上。但测量“需求”要考虑下列因素：随着人口的城市化和市郊化，人们对生活的不同要求；国防需要的变化；天气变化对我们的需求的影响。这项指数必须告诉我们在某个基年满足我们的需求所花费的成本，然后再与其他各年份的环境下同样满足我们需求的成本作比较。
+　　测量“需求”最终会转化为测量我们生活的人类环境和自然环境。我们都在极大程度上受到周围人的影响。我们可以不用害怕受到攻击而去任何自己想去的地方吗？自然环境也影响着我们——水和空气的纯净、公园用地和其他条件的可获得性等，测量这些东西需要准确数据，但是这些数据通常是不充分的。而且，还需要权衡各种因素，例如，在犯罪指标中将盗窃与凶杀做综合考虑；在水污染指标中将波特马可河和伊利湖的污染做综合考虑；然后，我们再将犯罪和污染合并为某个综合指数。但是，这些测算结果除个人的偏好以外没有其他基础。
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

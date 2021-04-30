@@ -1,0 +1,8 @@
+美程序员破解iPhone：成功安装Android系统
+　　新浪科技讯  北京时间4月23日上午消息，据国外媒体昨日报道，一位.Net和Android应用开发者成功将谷歌(Google)Android手机系统安装到苹果iPhone上，并能正常进行网络浏览、收发短信和接打电话等普通操作。
+　　这位名为大卫·王(David Wong)的美国程序员在一段视频里展示了整个破解过程。他使用一款被称作“OpeniBoot”的程序执行双重引导操作，使iPhone在重启后能加载并运行Android系统。视频里用来演示破解是的第一代iPhone，不过他表示把“OpeniBoot”迁移至iPhone 3G也非常简单。但想在iPhone 3GS上运行这款程序则稍显困难。他说：“事实上iPhone能同时设置iPhone OS系统和Android系统的双重引导，所以即使安装了Android系统iPhone还是能正常使用。”
+　　在这段视频里，王将运行着iPhone OS系统的iPhone关机，随后加载了OpeniBoot软件。只有“越狱版”iPhone才能使用这款软件，“越狱”是iPhone盛行后出现的一个术语，指破解iPhone使之能运行那些未经签名和授权的应用软件。OpeniBoot加载成功后长按iPhone的“Home”键就能启动Android系统。视频里演示了整个破解过程，由于破解软件仍处于开发初期，因此整个启动过程非常慢。
+　　王开发了一些驱动程序，使Android能与iPhone硬件互动，比如输入内容等。由于iPhone没有物理键盘，王将iPhone的音量增减键重新编程，使之分别对应Android系统的“呼叫”和“Home”键。他在视频里指出，由于驱动程序还不完善，因此现在提供的功能并不多。他说：“目前破解还不够完善，只能算是alpha测试版，不过大部分功能都能正常使用。”
+　　安装运营商Rogers提供的预付费SIM手机卡后，运行着Android系统的iPhone接收到了手机信号，成功连上了Wi-Fi网络，并Android网络浏览器上了网，接收到了短信和一通电话。王使用屏幕上的虚拟键盘打开了网页，并使用触摸屏进行导航操作。他认为使用体验尚可接受。不过，在播放音乐时iPhone还是出现了硬件问题，因为Android系统会在SD卡上搜寻文件，而iPhone并未配备这种存储卡。
+　　早在2008年，iPhone破解社区就有成员在iPhone、iPhone 3G和iPod Touch上成功运行了Linux系统。(晓彬)
+

@@ -1,0 +1,6 @@
+中移动将面向个人推低价黑莓网络服务BIS
+　　新浪科技讯 12月8日中午消息，在联合RIM公司宣布要推出黑莓手机的同时，中国移动总裁王建宙表示，将针对BlackBerry智能手机及业务的个人用户和中小企业客户，提供BlackBerry Internet Service以满足他们的需求。
+    BIS的全称是BlackBerry Internet Service，即黑莓网络服务，是RIM公司针对于个人用户或不能部署BES服务器的企业开展的邮件推入服务(Push-Mail)。BES的全称是BlackBerry Enterprise Service，即黑莓企业解决方案，必须工作在BES服务器上。
+    目前，大陆市场只有中国移动提供有BES服务，针对于个人和企业开通。费用是398元(限50MB GPRS流量)和598元(限400MB GPRS流量、含2M国际漫游)。并且中国移动的黑莓终端也只有两款旧机型，即8700和7290。新浪科技于11月22日凌晨独家曝光了中国移动BIS服务的注册页面（https://bis.ap.blackberry.com/html?brand=chinamobile），据传中国移动BIS服务的费用为68元每月。
+　　另外，中国移动目前对所有TD手机都进行补贴，对TD版的黑莓手机进行补贴是正常的。(银刀)
+

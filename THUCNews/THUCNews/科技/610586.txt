@@ -1,0 +1,4 @@
+Android 4.0 ICS内置键盘主题
+　　归功于开发者 Beezy 我们现在已经可以在 Nexus S 上把玩 Ice Cream Sandwich。目前有用户在其中发现了原生的 Android 键盘主题。ICS 中内建了一个键盘主题引擎并带有六种主题。
+　　虽然自带的键盘应用并不一定适合所有人，不过对于一部分人来说应该还是很不错的。而且看起来这貌似为第三方主题敞开了大门，可能以后会在 Android Market 看到第三方主题的出现。(文/谷奥 via androidcentral)
+

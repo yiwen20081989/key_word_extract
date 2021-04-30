@@ -1,0 +1,4 @@
+Android下一代产品开发代号为Jelly Bean
+　　Andorid各大版本的命名都非常的有意思，全部都会以小甜点作为内部开发代号。在即Ice Cream Sanwich之后Google下一代的开发代号将会是Jelly Beam。
+　　Andorid系统版本一致都是Google内部的小甜点命名，在经历了Cupcake、Dounts、Elcair、Froyo、 Gingerbread、Honeycomb、Icecream Samwichi之后，国外媒体报道下一代版本内部开发代号已经确认为Jelly Bean。Jelly Bean是一种软糖果，相信有不少人小时候都吃过，不过目前Google并没有透露具体的开发细节。
+

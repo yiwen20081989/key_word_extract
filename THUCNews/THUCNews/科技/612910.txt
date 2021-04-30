@@ -1,0 +1,8 @@
+NVIDIA推首款Tegra核心上网本
+
+NVIDIA推首款Tegra核心上网本 Atom如何应对？
+　　2009年美国无线通信展(CTIA)在内华达州拉斯维加斯隆重举行，展会上，NVIDIA展示了其首款采用Tegre处理器的上网本，大有叫板ATOM上网本的势头。　　据悉，NVIDIA的Tegra处理器基于ARM11 MP Core核心，支持16/32-bit LP-DDR内存和NAND闪存，集成超低功耗GeForce图形核心，可处理720p H.264编码和1080p H.264/VC-1解码，以及AAC/AMR/WMA/MP3音频格式等单视频文件。
+　　首款采用NVDIA Tegra平台的上网本原型是HP的mini 1000系列，当然从泄露的图片看外观确实是mini 1000没错，但实际上NVIDIA对其内部结构进行了全面的改造，除了抛弃英特尔ATOM平台组件换上Tegra以外，其操作系统也换成了Windows CE操作系统。
+　　编辑观点：我们知道，Tegra是基于ARM架构，无法支持目前主流的Windows XP/Vista/Win7等操作系统，所以与现在上网本应该不会形成一种冲突，也因此我们估计NVDIA Tegra平台产品并不大可能会取代ATOM上网本或造成威胁。我们把NVDIA Tegra的产品看成是一种MID产品或许更为恰当。
+
+

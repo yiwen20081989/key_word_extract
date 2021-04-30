@@ -1,0 +1,12 @@
+暴雪急招工程师 《暗黑3》将登陆PS3
+　　通常情况下，招聘职位似乎可以有多种解读方式，但这次这个似乎相当的直接而明确。暴雪正在为暗黑3团队招聘“特别针对PS3主机平台的高级软件工程师”。(官方网站地址：http://us.blizzard.com/en-us/company/careers/posting.html?id=1100059)
+　　“该职位是负责监管PS3构架设计，”职位描述中解释道，“以及其他PS3游戏的代码开发使其最优化。”，以下是招聘部分原文：
+　　Senior Software Engineer, Console—Playstation 3 Specialist
+　　Blizzard Entertainment is seeking an enthusiastic senior software engineer to be a key contributor on the Diablo team. This position is responsible for overseeing Playstation 3 (PS3) architecture design as well as other PS3-specific game code development to maximize platform performance。
+　　Responsibilities
+　　Design, implement, and maintain game systems to work on the Playstation 3.
+　　Identify previously unknown issues and offer solutions。
+　　Be responsible for various systems including the game engine, audio, physics, tools pipeline, etc。
+　　Work closely with game design to ensure a great player experience。
+　　尽管这看起来就像是预告暗黑3的PS3版本即将到来，当然，标准的免责声明仍然是适用的。这最终可能只会是一个研究性的相关工作，而不是推出任何主机版本暗黑3，它可能仅仅是该公司正在进行的“调研”中的一部分而已。如果会有一家公司可以在项目上烧钱而不会把它变成零售版游戏的话，这家公司的名字就叫暴雪。
+

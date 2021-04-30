@@ -1,0 +1,7 @@
+微软11月发布公测版SharePoint 2010
+　　新浪科技讯 北京时间10月20日凌晨消息，据国外媒体报道，微软CEO史蒂夫·鲍尔默(Steve Ballmer)今天在微软的SharePoint Conference大会上宣布，该公司将在11月份发布公测版的Microsoft SharePoint Server 2010和Microsoft Office 2010，并首次公布了Microsoft SharePoint Server 2010的部分新功能。
+　　鲍尔默称：“Microsoft SharePoint 2010是截至目前为止最大和最重要的SharePoint服务器版本。在与Microsoft Office 2010结合后，SharePoint 2010将可在单一的企业协作平台上把公司员工联系在一起，从而改善工作效率。”
+　　SharePoint服务器是微软历史上增长最快的产品之一，这项业务的营收超过13亿美元，较去年同期增长20%。据市场研究公司IDC称，微软2008年在协作内容工作区市场上取得了重大份额，其Office SharePoint服务器的增长率在各大软件厂商中名列首位。
+　　微软SharePoint 2010是下一波Microsoft Office相关产品的组成部分，其他产品还包括Microsoft Office 2010、Microsoft Project 2010、Microsoft Exchange Server 2010和Microsoft Visio 2010等。
+　　鲍尔默称，微软将在11月份发布公测版的Microsoft SharePoint Server 2010、Office 2010、Project 2010和Visio 2010，并将在2010年上半年发布Microsoft SharePoint Server 2010。(唐风)
+

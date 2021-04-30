@@ -1,0 +1,5 @@
+Verizon CFO：下一代iPhone同时支持G网C网
+　　新浪科技讯 北京时间5月20日上午消息，Verizon CFO弗兰·桑莫(Fran Shammo)日前表示，下一代iPhone将同时面向AT&T和 Verizon两大移动运营商发售。
+　　这就意味着苹果新一代iPhone将同时支持GSM、CDMA网络，并且有可能使用同样的高通双模芯片组，该芯片组已经用于Verizon的CDMA版iPhone 4。尽管GSM基带现在还无法用于目前版本的Verizon iPhone 4，但苹果新一代机型将有望成为一款全球性手机，它可以凭借GSM网络在众多国家上市。
+　　桑莫表示，尽管他对CDMA版iPhone 4的销量感到高兴，但是一些消费者已经推迟了购买计划，原因是等待运行Verizon LTE网络的4G设备。桑莫对于下一代iPhone可能不支持LTE并不担心，他表示Verizon有充足的高速替代品来满足用户，相比之下，苹果将会更加担忧缺乏LTE支持的问题。(晓明)
+

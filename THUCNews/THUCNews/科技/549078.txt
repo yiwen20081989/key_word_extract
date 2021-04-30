@@ -1,0 +1,8 @@
+eBay掌门多纳霍承认创新不足：更看好PayPal
+　　新浪科技讯 北京时间11月4日上午消息，据国外媒体报道，eBay CEO约翰·多纳霍(John Donahoe)今天在“PayPal Innovate X 2009”大会上发言时表示，eBay在创新方面不如PayPal，PayPal蕴藏着更大的商机。
+　　多纳霍称，向开发者开放PayPal X平台是eBay历史上具有里程碑意义的事件，eBay将与开发者合作，推动支付技术的发展。多纳霍说，PayPal在招聘人才、开发创新性技术方面的预算“没有限制”。
+　　网络支付只占全球支付市场的5%。多纳霍认为，这一比例应当超过20%，未来数年消费者的支付行为将发生很大变化。今年，eBay的iPhone(手机上网)应用将完成5亿美元交易，其中集成有PayPal支付服务。多纳霍称，随着时间推移，PayPal规模将超过eBay。他希望未来2年PayPal用户能翻一番。
+　　PayPal已经在与创业公司Payvment、FundRazr、Lottay和TwitPay合作，测试PayPal X平台。PayPal今天正式向开发者开放了这一平台并发布了API(应用编程接口)。PayPal在近200个国际市场上有逾7800万活跃账户。
+　　PayPal总裁斯科特·汤姆森(Scott Thompson)表示，该公司获得成功的原因在于，其安全的网络支付方式满足了用户需求。他指出，手机领域还蕴藏着巨大商机，特别是印度。
+　　PayPal平台业务副总裁奥萨马·贝迪尔(Osama Bedier)表示，PayPal将完成700亿美元的交易量，并将引进新的API和价格模式。(志翔)
+

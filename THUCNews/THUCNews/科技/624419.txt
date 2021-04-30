@@ -1,0 +1,9 @@
+沃达丰HTC Magic智能手机陆续发现载有恶意软件
+　　CNET科技资讯网3月19日国际报道 本月初，Panda Security在一部全新的沃达丰HTC Magic智能手机内，发现载有恶意软件。当时沃达丰宣称这仅是“独立个案”。
+　　现在PandaLabs又发现第二部同款手机藏有恶意软件，其中包括一种程序，能把受害手机变成Mariposa信用卡与银行资料盗用网络的僵尸机。
+　　听说PandaLabs发现的信息后，另一家西班牙安全厂商S21Sec的一名员工，立刻检查他最近购买的HTC Magic，也发现当中藏有Mariposa恶意软件。
+　　PandaLabs员工Pedro Bustamante在公司博客写道：“这个人和我的同事一样，也直接从沃达丰的官网买了一部HTC Magic。他尚未把手机连上他的PC，但他一听到消息就赶回家，用USB插入手机，再以MalwareBytes和AVG Free扫瞄其内存卡。不久之后，Mariposa再次现身，就和我最初发现的状况一模一样。”
+　　Bustamante将那位S21Sec员工的microSD内存卡连上他的PC，发现恶意软件载入的日期是3月1日，早在他收到这部手机的一周以前。
+　　Bustamante写道：“这个Mariposa僵尸网络客户端软件，也被载入隐藏的NADFOLDER目录中，别名AUTORUN.EXE。它会在手机连结Windows主机时自动执行，除非你事先关闭自动执行(可下载USB Vaccine关闭自动执行)。”
+　　他表示：“这个Mariposa僵尸网络客户端软件本身，与上周曝光的东西完全一样，有同样的别名和相同的管控(C&C)服务器。除Mariposa之外，内存卡中还有其他恶意软件。我也发现一个Win32/AutoRun蠕虫。“。
+

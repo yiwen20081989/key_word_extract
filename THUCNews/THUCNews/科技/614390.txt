@@ -1,0 +1,7 @@
+夏普推首台5寸触摸屏3G版便携电脑
+　　夏普昨日刚刚公布了一款名为NetWalker PC-Z1的UMID。UMID的定位介乎MID和智能本之间，结合手机和上网本的便携性及功能，提供上网、email，电子书及流动办公室等。
+　　它采用了5寸1024 x600 TFT触摸屏，体积为6.35" x 4.28" x 0.78" (161.4 x 108.7 x 19.7 ~ 24.8mm) 仅有 409g 重，外形如同翻盖型的电子辞典。
+　　据日本媒akihabaranews的报道，NetWalker PC-Z1为首台内置3G的UMID，它配备了 i.MX515 Freescale 800MHz处理器(支持720p高清的Cortex-A8 ARM处理系统)，512 MB RAM，4GB内存，2个USB及支持16GmicroSDHC卡。有Wi-fi b/g连线设备及68键QWERTY键盘。
+　　NetWalker PC-Z1提供了3秒快速开机，还预装了Ubuntu Linux操作系统，10小时续航能力(JEITA标准，即可有月7小时实际续航能力)。
+　　NetWalker PC-Z1预订价为44800日元(约3275元人民币)，它将于9月25日在日本正式上市。
+

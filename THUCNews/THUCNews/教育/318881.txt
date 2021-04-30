@@ -1,0 +1,30 @@
+GRE考试的真相：单词与逻辑的游戏
+　　北京新航道学校GRE首席主讲  李传伟
+　　申请赴美攻读研究生学位的学生，除了就读商学院与法学院的以外，一般都必须参加GRE考试。但是每年因GRE成绩偏低而无法实现留学梦想的考生数量巨大。GRE成绩偏低主要体现于GRE考试的verbal(语文)部分与作文部分(analytical writing)。究其原因，一是不够努力，二是努力的方向不对，其中“努力的方向不对”是一个更严重的问题。鉴于此，本文拟以GRE考试的语文部分为例，揭露GRE考试的真相，使GRE考生找准努力的方向，以优异的GRE成绩圆自己的留学之梦。
+　　简而言之，GRE语文的考试就是单词与逻辑的游戏。首先，GRE考试要求掌握的词汇多而复杂。就数量而言，GRE要求掌握的词汇在12，000－15，000，远多于托福与雅思所要求掌握的词汇(7，000－8，000)，更多于六级所要求掌握的词汇(5，500)。其次，这些词汇比较复杂，属于较难的学术词汇甚至是专业词汇。例如，
+　　anomaly(异常)，assuage(减轻)， enigma(谜)，equivocal(支支吾吾的)，
+　　erudite(博学的)，  fervid (狂热的)， lucid(清晰的)， opaque(模糊的)， placate (安抚)，precipitate(促使)，  prodigal(大量的)，  zeal(热情)
+　　上面是GRE考试中出现频率最高的12个词汇，你全部认识吗？如果认识其中一半的词汇，就说明词汇量非常大。
+　　对于词汇的考查涉及GRE语文(包含句子填空、类比、阅读、反义词)的各个部分，其中阅读部分要求很大的词汇量，句子填空部分要求很好地理解词汇之间的正向与反向关系，类比部分与反义词部分更是纯粹考查对词汇的掌握。根据GRE分数换算表，只要将全部的类比与反义词的试题做对(共40题，每个section20道，在每个section的38题中占一半以上)，语文部分就能得430分左右(满分为800分)，由此可见词汇在GRE考试中的重要性。
+　　当然，GRE词汇有其独特的记忆方法。例如，必须对同义词进行归类总结。不过，这类总结并非像某些书那样巨细靡遗地罗列各种词汇分类，因为这些书中的所谓分类很多属于无效分类，考试中根本不涉及。真正有用的分类应该像Kaplan GRE教程所总结的那样，是参考GRE真题所做的总结。例如，表示“顽固”意义的GRE词汇主要有：stubborn, implacable, inexorable, intractable, intransigent, obdurate, obstinate, recalcitrant, refractory等。如果能根据其同义关系记住上面的词汇，那么无论是做类比题，还是做反义词题，都能举一反三，因为类比题与反义词题中有很大一部分只是将有些问题中的词汇换成其同义词而再次出现。又如，表示“一群”的GRE词汇很多：brood(一窝)，bevy(一群少女)，clientele(一群顾客)，galaxy(星系)， gaggle(鹅群)， pack(狼群)，archipelago(群岛)等。如果知道这些词涉及的逻辑关系是“组成关系”，即一群girl组成bevy，一群goose(鹅)组成gaggle，一群wolf组成pack等，那么就能很快确定它们与school(鱼群)涉及类似关系(组成关系，即一群fish组成school)。在类比题中，如果题干是school: fish(鱼群：鱼)，那么包含上述同义词的选项就可能是正确答案。
+　　GRE除了玩弄单词的游戏以外，也玩弄逻辑的游戏。“让步逻辑”遍布GRE语文的各个部分。以阅读为例，其中的文章词汇量大，句子复杂，涉及美国人行文的许多逻辑，包括以“让步语气”出现的“让步逻辑”。例如，作者以强调的语气表达本不用强调的内容时，表示让步，说明这不是作者真正想说的内容，后面通常会做转折，表达作者真正要说的东西。请看下文：
+　　…At least so argues E. Pessen in his iconoclastic study of the very rich in the United States between1825 and 1850.
+　　Pessen does present a quantity of examples, together with some refreshingly intelligible statistics, to establish the existence of an inordinately wealthy class… Although these observations are true, Pessen overestimates their importance by concluding from them that…and that …
+　　上文的第一段指出：“至少，E·佩森(P)在其对1825至1850年间的美国巨富进行的打破传统的研究中就是这么论述的。”由“打破传统的(iconoclastic)”一词，可知作者对于P持正评价。
+　　第二段对Pessen(P)的观点进行解释。段首指出：“佩森确实(does)列举了大量的实例，连同一些令人耳目一新、清晰易懂的统计数字，从而证实了当时存在一个极度富有的阶层。” 注意句中的does这个助动词，它在这里表示强调时不是真强调，是让步，预示后文有转折：转向对P的一个方面的批评。 后面的although提示将出现转折，后半句中的转折与段落开始的让步相呼应：“尽管(although)佩森观察到的这些现象确凿无误，但他过高估计了它们的重要性，因为他从中得出以下两个结论……”由此可见，作者对P基本上持正评价，但也指出他的不足之处：结论有些绝对化。
+　　又如，
+　　Roger Rosenblatt’s book Black Fiction, in attempting to apply literary rather than sociopolitical criteria to its subject, successfully alters the approach taken by most previous studies…
+　　…
+　　Black Fiction does leave some aesthetic questions open. Rosenblatt’s thematic analysis permits considerable objectivity; he even explicitly states that it is not his intention to judge the merit of the various works—yet his reluctance seems misplaced, especially since an attempt to appraise might have led to interesting results…
+　　In spite of such omissions, what Rosenblatt does include in his discussion makes for an astute and worthwhile study…
+　　文章首句指出：“罗杰·罗森布拉特(R R)的著作《黑人小说》(B F)，试图运用文学的而不是社会政治的标准来研究其题材，结果成功地改变了以前大多数研究所采用的方法。”由此可见作者对RR持正评价。首句是一个结论，有结论就有解释，那么本文的结构属于结论——解释型。
+　　……
+　　第四段首句指出：“《黑人小说》对某些美学问题确实未作回答。”注意这句话中的does表示让步，因为作者在文章首句的结论中已经对RR持正评价，所以不可能将他全部否定。有让步就有转折，注意后文的转折。第二句开始解释RR的缺点：“罗森布拉特的主题分析体现出相当大的客观性；他甚至还直言不讳地声称，自己无意对各种作品的优劣做出评判——然而，他的这种不情愿似乎显得不合时宜，尤其是因为假如他果真作出一番评判努力的话，就会带来某些饶有兴趣的结果……”
+　　针对上一段开始部分的让步(指出RR的小缺点)，这一段开始转折——回到对RR的正评价上来：虽然存在这样的疏漏，但罗森布拉特在其探讨中确已涉及的内容足以成为一种精僻敏锐而又颇具价值的研究……
+　　阅读中还有一种“让步逻辑”：文章中刚开始提到一个理论或现象时就使用“无疑”( no doubt, undoubtedly, without doubt)的说法，也常常是一种让步语气，后面会跟上一个转折词，引出相反的评价。
+　　The success of fluoride in combating dental decay is well established and, without a doubt, socially beneficial. However, fluoride's toxic properties have been known for a century. In humans excessive intake ( for adults, over 4 milligrams per day) over many
+　　years can lead to skeletal fluorosis, a well-defined skeletal disorder, and in some plant species, fluoride is more toxic than ozone, sulfur dioxide, or pesticides。
+　　文章开始说“氟在抗牙腐蚀方面的功效是众所周知的，并且毫无疑问(without a doubt)是有其社会益处的”，由without a doubt可知这是让步，所以后面马上作出转折，提到它的毒性，“但是，氟的毒性为人们所知已有一个世纪之久了”，这才是文章的重点。
+　　由此可见，有让步就有转折。那么如何应对阅读中的这种“让步逻辑”呢？首先要注意：在“让步——转折”结构中，转折之后是重点，应该多加关注，而让步部分是铺垫，可以速读。
+　　综上所述，GRE考试不过是单词与逻辑的游戏而已。如上所示，谁理解了游戏规则并遵循这些规则备考，谁就将获得理想的分数。
+

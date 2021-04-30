@@ -1,0 +1,6 @@
+微软完成Windows XP Mode开发工作
+　　新浪科技讯 北京时间10月2日早间消息，据国外媒体昨日报道，微软周四称，该公司已经完成了虚拟版Windows XP的开发工作，Windows 7用户能使用这一版本运行不会在Windows 7上运行的程序。
+　　微软发表声明称，该公司已经完成了免费版“XP Mode”操作系统的代码开发工作，这款软件将在10月22日上市，与微软发布Windows 7同日。微软称，PC厂商也可将Windows XP Mode用于其产品。
+　　微软曾在4月份表示将提供XP Mode，其主要目标为小型企业，旨在帮助用户顺利完成过渡阶段，来运行那些不能在Windows 7或Windows Vista上正常运行的程序，前提是首先运行Windows 7 Professional、Windows 7 Enterprise或Windows 7 Ultimate系统。
+　　此外，用户还需一台拥有芯片级虚拟化支持功能的PC，且开启这种功能。XP Mode的核心组成部分是Windows Virtual PC引擎和Windows XP Service Pack 3的授权拷贝，微软将提供该引擎及授权拷贝的下载。(唐风)
+

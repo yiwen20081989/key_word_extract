@@ -1,0 +1,10 @@
+USB3.0接口 华硕N82G73游戏本评测
+　　华硕在推出USB3.0 N60Ja和N82Jv笔记本之后，华硕再次亮出终极利器G73Jh游戏笔记本，其不仅支持NVIDIA Optimus 显卡自动切换技术，而且在配置上高的让人惊叹。G73Jh采用英特尔i7-720M处理器，标配8GB内存和1TB超大硬盘，同时配备ATI HD 5870顶级显卡，内置蓝光光驱，当然价格也是非常惊人，目前产品报价约19000元RMB。
+ 　　第二款USB3.0笔记本：华硕N82J  　　14寸的N82Jv是华硕第二款配备USB 3.0 产品，有着不错的棕色花纹上盖和巧克力键盘，配置采用 Intel Core i5-520M 处理器 (频率2.4 GHz，可Turbo Boost 到 2.93 GHz)，标配2GB DDR3内存和500GB 7200转高速硬盘，配备NVIDIA GeForce GT335 独立显卡，同时支持NVIDIA Optimus 技术，售价约10550元RMB。
+ 　　14寸N82Jv，搭载 NVIDIA GeForce GT335高端显卡。
+ 　　用户可以根据自己需要，来选购配有USB3.0接口的外接设备，体验更高传输速率。  　　华硕 N82Jv规格参数：  　　·机身尺寸：345x243x33-35mm 　　·电池： 2.4 kg（含8芯锂电池） 　　·操作系统：Windows 7 Home Premium  　　·屏幕：14寸 1366x768分辨率屏幕 　　·处理器：Intel Core i5-520M处理器(频率2.4GHz，可Turbo Boost到2.93GHz) 　　·芯片组：Intel HM555  　　·内存：2GB DDR3 1066内存 (最大支持8GB) 　　·显卡：NVIDIA GeForce GT335 独显 (1024MB显存) 　　·Intel GMA HD 集成显卡 　　·硬盘：500GB (7200rpm) 硬盘 　　·光驱：DVD Super Multi 光驱 　　·摄像头：200W像素摄像头 　　·无线网络：IEEE 802.11 b/g/n无线网络 　　·蓝牙：蓝牙2.1+EDR 　　·接口部分：USBx3、HDMI、e-SATA、耳机孔、 麦克风插孔、RJ-45、VGA、8合1 读卡器
+　　华硕N82J外观赏析
+ 　　棕色花纹上盖设计
+ 　　采用巧克力键盘，以及不沾指纹的雾面手托区。
+ 　　触控板同上盖一样采用棕色花纹设计
+

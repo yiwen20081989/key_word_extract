@@ -1,0 +1,14 @@
+从刷机到中文输入 WP7手机芒果升级体验
+　　最近编辑部似乎掀起一股微软Windows Phone 7之风，大家都对这个曾经又喜欢又有点怨恨的系统产生了浓烈的兴趣。这一切原因就归结于：WP7 Mango更新了！支持中文输入了！同样的硬件配置，Android要比WP7手机贵出至少五百元，现在芒果系统测试版已经放出，现在是入手最后时机。今天小编给大家带来的就是：从刷机到中文输入 WP7手机芒果升级体验。
+　　刷机必备三个更新文件：
+　　MangoB2-ZuneClient.zip(必须)
+　　MangoB2-UpdateWP.zip(必须)
+　　MangoB2-DevRetailUpdate.zip(必须)
+　　HTC查询手机产地销售地区方法：
+　　1.填写表格并以E-mail方式发送到HTC客服。(当天可回复)
+　　http://www.htc.com/cn/CS_Mail.aspx
+　　2.HTC在线客服直接询问。(服务时间：周一至周日 9:00 ? 21:00)
+　　http://www.htc.com/cn/support/online_service.html
+　　3.服务 热线询问。(400-821-8998 服务时间：周一至周日 9:00 ? 21:00)
+　　从刷机到中文输入 WP7芒果升级体验(一)
+

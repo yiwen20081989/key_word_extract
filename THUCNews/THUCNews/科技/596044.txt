@@ -1,0 +1,5 @@
+欧特克绘图软件AutoCAD登陆Android平台
+　　新浪科技讯 北京时间4月13日上午消息，软件公司欧特克周二宣布，将在Android智能手机和平板电脑上推出AutoCAD绘图软件。
+　　欧特克已经发布了iOS版AutoCAD WS软件。该软件在发布之后的下载量已经达到100多万次，欧特克还随后发布了网页版的AutoCAD WS。
+　　欧特克称，在iPhone版本发布之后，很多消费者请求该公司支持Android平台。Android版AutoCAD将不仅支持Android手机，还支持三星Galaxy Tab和摩托罗拉Xoom等平板电脑。该公司称，曾在15个不同的Android设备上进行大量测试，才最终完成Android版软件。(张和)
+

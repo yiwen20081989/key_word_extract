@@ -1,0 +1,8 @@
+支持A77NEX-5N Adobe发RAW插件6.5版本
+　　在经历了超长时间的等待之后，Abode终于发布了全新的RAW插件Adobe Camera RAW 6.5以及对应软件Lightroom 3.5。此次的新版RAW插件一下子升级了多达23款相机，今年秋季发布的绝大多数新品都涵盖其中，万众瞩目的索尼A77和NEX-5N自然少不了。
+　　首先来看看更新的产品都有什么
+　　富士：FinePix F600EXR　　哈苏：H4D-60　　利图：Aptus II 12、Aptus II 12R　　尼康：Coolpix P7100　　奥林巴斯：E-P3、E-PL3、E-PM1　　松下：DMC-FZ150、DMC-G3、DMC-GF3　　宾得：Q　　飞思：IQ140、IQ160、IQ180、P40+、P65+　　理光：GXR MOUNT A12　　索尼：Alpha NEX-C3、Alpha NEX-5N、SLT-A35、SLT-A65、SLT-A77
+　　所有产品支持总表请点击这里下载
+　　RAW插件下载地址
+　　Camera RAW 6.5 Windows　　Camera RAW 6.5 Mac　　Lightroom 3.5 Windows　　Lightroom 3.5 MAC
+

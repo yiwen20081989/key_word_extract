@@ -1,0 +1,4 @@
+Facebook推出Java应用 支持2500多款功能手机
+　　新浪科技讯 北京时间7月13日凌晨消息，Facebook发布面向2500多款功能手机开发的Java应用“Facebook for Every Phone”。应用包含一个轻量信息流页面、Facebook消息收件箱以及手机上传分享照片功能。
+　　为吸引用户使用，Facebook将在前90天支付由此应用产生的流量费。目前Facebook拥有2.5亿移动用户。(新铁)
+

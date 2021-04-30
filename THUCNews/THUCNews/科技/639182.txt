@@ -1,0 +1,7 @@
+诺基亚首款Windows Phone手机采用高通芯片组
+　　新浪科技讯 北京时间5月20日晚间消息，诺基亚周五表示，首款Windows Phone手机将采用高通芯片组。
+　　诺基亚今年2月宣布，旗下智能手机将全部改用微软的Windows Phone操作系统。诺基亚发言人周五称：“诺基亚首款Windows Phone手机将采用高通芯片组。”
+　　当前Windows Phone手机全部采用高通芯片，但诺基亚周五表示，除了使用高通的芯片组，诺基亚正与其他芯片组供应商谈判，希望在将来的Windows Phone手机中使用他们的产品。
+　　诺基亚发言人称：“我们的目标是围绕诺基亚和Windows Phone打造一个强有力的生态系统，因此我们正与其他芯片组供应商谈判，希望在将来的Windows Phone手机中使用他们的产品。”
+　　另据意法半导体CEO卡罗·伯佐提(Carlo Bozotti)透露，诺基亚至少将有几款Windows Phone手机使用ST-Ericsson的芯片组。(李明)
+

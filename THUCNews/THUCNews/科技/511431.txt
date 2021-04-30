@@ -1,0 +1,5 @@
+支持3款新品 佳能已发布RAW Codec 1.8
+　　日本佳能公司在最近发布消息，针对Windows  Vista、win7系统以及自家的RAW格式文件发布了最新的佳能RAW Codec 1.8软件，从而让用户可以在该系统下直接浏览的.cr2的数字文件。
+　　据悉，该软件提供了对佳能EOS60D、佳能Powershot G12以及佳能Powershot S95。其安装于Windows Vista  (包括 SP1)/Windows XP SP2 和 Windows XP SP3(Windows XP 下需要安装Microsoft Windows Live  Photo Gallery之类图像显示程序)等系统之下。
+　　点击此处下载佳能RAW Codec 1.8软件
+

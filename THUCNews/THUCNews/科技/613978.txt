@@ -1,0 +1,14 @@
+微软公布Windows 7 RTM推出具体日期
+　　昨日，微软Windows的官方博客宣布Windows 7 RTM版已经完成，并将于近日抢，而获取Win 7 RTM版本的日期具体取决于你的身份。
+　　1、微软合作伙伴和OEM厂商：
+　　微软ISV（独立软件供应商）和IHV（独立硬件供应商）合作伙伴自8月6日起可以从Microsoft Connect或MSDN网站上下载Windows 7 RTM版本。微软合作伙伴项目黄金/认证会员（Microsoft Partner Program Gold/Certified Members）自8月16日起可以通过Microsoft Partn Network（MPN）入口下载Windows 7 RTM的英文版本，其他语言版本要等到10月1日。微软Action Pack订阅用户自8月23日起可以下载Windows 7 RTM英文版本，其他语言版本要等到10月1日。
+　　OEM厂商将在微软正式宣布RTM的约两天后获得Windows 7 RTM软件镜像，因为向厂商们发送镜像需要一点时间。
+　　2、企业用户：
+　　如果你是拥有SA（Software Assurance）授权的VL（批量授权）客户，那么从8月7日起就可以通过Volume License Service Center（VLSC）下载Windows 7 RTM英文版，其他语言版本将在几周后提供。没有获得SA授权的VL客户自9月1日起可以通过Volume Licensing购买Windows 7。
+　　3、IT专业人士：
+　　订阅TechNet的IT专业人士自8月6日起就可以下载英文版Windows RTM，其他语言版本要到10月1日。
+　　4、开发人员：
+　　订阅MSDN的开发人员8月6日起就可以下载英文版Windows RTM，其他语言版本要到10月1日。
+　　5、普通消费者：
+　　Windows 7普通消费者自10月22日起可以到零售商店购买Windows 7或是购买预装Windows 7的PC机，如果你预定了Windows 7，那么根据零售商的计划你可以在10月22日之前一段时间获得Windows 7。
+

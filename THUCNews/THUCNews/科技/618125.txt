@@ -1,0 +1,6 @@
+新款Mac Mini发布 外形配置均升级 
+　　苹果发布新款Mac Mini产品. 最重要的改变就是机身高度降低了40%之多。
+　　新版的 Mac Mini 在外观上和其它苹果家族的成员达成了一致，都是 Unibody 的设计，长宽仅 19.7 公分，高 3.6 公分。硬件方面采用了 2.4 或 2.66GHz 的 Core 2 Duo 处理器(不是 Core i )、NVIDIA GeForce 320M 显示芯片、2GB / 4GB 的内存、和 320GB / 500GB 的硬盘。光驱则是 8x 的 SuperDrive。
+　　在连接的部分，Mac Mini 提供了一个 Firewire 800、四个 USB 2.0、一个 Mini DisplayPort、一个 HDMI 槽、DVI(用 HDMI 转)和 VGA(用 Mini DisplayPort 转，转接器另购)和一个 Gigabit Lan Port。内置的无线网络是 802.11n 的，蓝牙 2.1 +EDR 当然也没落下。
+　　新的 Mac Mini 有两个版本，一个是配备 2.4GHz Core 2 Duo CPU、2GB 内存、光驱和 320GB 硬盘的“普通版”，售价699美元，另一个则是配备 2.66GHz Core 2 Duo CPU、4GB 内存、双 500GB 硬盘(但牺牲掉了光驱)的“Mac Mini with Snow Leopard Server”，运行的是 Snow Leopard 的 Server 版，售价999美元。
+

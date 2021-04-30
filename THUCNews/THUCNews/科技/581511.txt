@@ -1,0 +1,8 @@
+Twitter面向出版商发布网络流量分析平台
+　　新浪科技讯 北京时间9月14日午间消息，据美国科技博客网站TechCrunch报道，Twitter周二在TechCrunch Disrupt大会上推出了网络分析平台Twitter Web Analytics，旨在帮助出版商跟踪Twitter为其网站带来的流量。
+　　Twitter网络商业开发部门主管艾普莉·安德伍德(April Underwood)在大会上介绍了这款新工具。尽管这个平台目前尚在进行内部测试，但Twitter称不久就将公开发布。Twitter目前的活跃用户数达1亿，每天Twitter消息发送量2.3亿条，该公司正在努力推动用户在Twitter上面的互动分享活动。
+　　安德伍德称，目前有超过300万家网站使用能轻易嵌入任何一家网站的Tweet按钮。据悉，用户每天在Twitter上面点击搜索其他网站的数量达1亿次，其中，Twitter上面95%的链接采用网址缩短服务t.co。由于进站和出站流量一目了然，Twitter目前正在吸引大量网站选择其服务。
+　　许多第三方应用都试图向出版社提供其在Twitter的流量数据，但最佳分析方法始终来自于消息源。这款面向出版商的新产品将破译和分析所有经Tweet按钮和相关链接来自出版商网站的进站和出站流量。
+　　Twitter还将向用户展示所有通过Tweet按钮发送的Twitter消息，及通过用户网站入站链接发送的Twitter消息。通过Twitter Web Analytics平台，用户可以转推Twitter消息，对这些用户的需要及时做出回应。
+　　当然，许多用户以前也可以通过谷歌Analytics和其他平台对Twitter、Facebook等社交网站的流量进行分析。Twitter将针对Twitter Web Analytics发布一个API，届时用户就可以对这些深度Twitter分析数据与其优选平台进行整合。这项服务将免费向出版商提供，目前还有一些出版商已在参与对该平台的测试。(圣栎)
+

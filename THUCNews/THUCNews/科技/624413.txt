@@ -1,0 +1,10 @@
+Mozilla推第一版移动Firefox浏览器
+　　CNET科技资讯网2月2日国际报道 Mozilla悄悄地完成了移动版Firefox。上周五（1月29日），为Nokia Maemo制作的Firefox 1.0（开发代号Fennec）终于问世。
+　　为Maemo 5平台特制的Firefox有几项异于其他移动浏览器（如Opera Mobile和Opera Mini）的有趣特色。Mozilla要利用其成功的要素—独特性（第三方、定制化浏览器延伸程序），夺取移动市场。毕竟，帮助Firefox在桌面浏览器领域成功抢滩的正是附加程序。
+　　为凸显附加程序对移动版Firefox的重要性，Mozilla上周五也同时为桌面版和移动版Firefox，推出其书签和浏览历史同步延伸软件Weave Sync 1.0。
+　　外界对Mozilla完成的移动版Firefox评价不一，原因不仅是Maemo是知名度相对较低的平台。Nokia的开源Linux作业操作Maemo，仅在两项产品（N900和N810）上支持移动版Firefox。
+　　更不利的是，就在两天前，Mozilla发布的第三个候选版，临时决定抽掉内建的Adobe Flash附加软件的完整支持，主要理由是他们不满意整体的品质。这显然是再次击中Adobe的痛处，因为苹果新发布的iPad，也没有加入Flash支持。
+　　但使用者若不能观赏视频，或正常浏览极度依赖Flash的网站，Firefox移动版还会有人用吗？为补救这一点，Mozilla已发布一个附加软件，名为YouTube enabler，使用者安装后便可观赏YouTube视频。Mozilla希望找出其他解决方法，让那些不太想安装Flash附加程序的人仍能观赏部分Flash内容。
+　　所幸，上述两种Nokia兼容设备的使用者，仍只占极少数的智能手机人口，Mozilla有充裕的时间，在其他的移动平台调整并推动Firefox。
+　　Windows Mobile将是下一个目标，接下来是Android。
+

@@ -1,0 +1,6 @@
+谷歌秘密测试新存储产品Cloud Picker
+　　新浪科技讯 北京时间12月3日晚间消息，知情人士透露，谷歌正在测试新的在线存储工具Google Cloud Picker。
+　　Cloud Picker似乎与Google Apps、Google Docs和Google Sites相关联，当用户试图在Google Sites中插入文件或图片时，就会弹出Cloud Picker窗口，然后要求用户登录谷歌帐户。
+　　据用户反馈，目前Cloud Picker不支持任何Google Apps帐户户。当使用普通的Gmail帐户时，Cloud Picker会将用户带入一个新页面，顶部是“个人信息”和“个人设置”，底部是“我的产品”。
+　　根据用户提供的截图显示，Cloud Picker应该是一款存储产品，允许用户组织和搜索图片、文档、视频和其他存储在远程服务器上的内容。此外，该款产品似乎针对个人消费者而开发，而不是企业用户。(李明)
+

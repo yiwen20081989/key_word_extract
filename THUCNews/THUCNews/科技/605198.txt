@@ -1,0 +1,19 @@
+谷歌发布 Android 2.2 有多项重要改进 
+　　新浪科技讯 谷歌于北京时间5月20日晚上10:30点在旧金山Moscone会展中心举办Google I/O  2010大会第二天的会议，Google正式发布了代号是“froyo 冻酸奶”的Android操作系统2.2版。下面是Android  2.2版本的改进和提升：
+　　1.速度提升
+　　Google介绍Android  2.2时，将速度放在了第一位。Google在2.2中加入了Just-In-Time(JIT)，可以使程序运行速度提高2-5倍。演示运行在2.1下 的Nexus One游戏帧数为29，而2.2为41。
+　　2.企业功能增加
+　　Android  2.2增加了超过20项企业功能，包括新的员工Exchange支持，设备管理员API等。看来Android也开始重视苹果早已重视的企业市场，RIM 的日子更不好过了。
+　　3.推入消息和网络共享
+　　新加入的Cloud-to-Device Messaging  API可以使用户向Android手机推入各种消息，现场还进行了将导航信息推入Nexus  One的演示。此外，2.2加入了传闻已久的Tethering(网络共享)服务，还出现了iPad利用Android手机Tethering上网的画 面。
+　　4.浏览器提升
+　　Google称Android  2.2内置的浏览器是世界上最快的移动设备浏览器，在Javascript性能上有2-3倍的提升。同时，Google地图的定位功能也可以在浏览器中使 用；新加入浏览器的API还有摄像头。最后，Google宣布浏览器支持Flash和Air。
+　　5.电子市场Market改进
+　　在Android  2.2的软件商店Market上，也有了多项提升：比如大家期望已久的App2SD(以程序挪入SD卡方式实现)；自动更新已经安装的应用程序；应用程序 bug举报，此外最大的改进就是Google公布了一个网页版的软件商店，用户可以方便的从桌面浏览器浏览并购买应用、歌曲专辑等。
+　　还有，借助于Simplify  Media的服务，用户可以方便的将桌面电脑的歌曲传入Android手机，Android也有“iTunes”了。
+　　移动广告服务：
+　　最后，Google介绍了Android上的广告服务，Adsense for mobile apps -- ADFMA  ，和苹果的iAd有些类似，根据内容相关性推入形式各异的广告。
+　　由此可见，Android  2.2的改进和提升还是很大的，方便了用户的使用，当然也有一些“学习”苹果iPhone的嫌疑。不过Flash是乔布斯确定已经放弃的功能。(智渊)
+附：Google I/O大会第二日实录
+系统截图 Android 2.1对比Android 2.2  
+

@@ -1,0 +1,28 @@
+十大IT英雄：苹果电脑发明人和Linux之父上榜
+　　导读：vnunet.com继3月底评出十大IT“恶棍”后，前天又评出了十大IT英雄以及两名荣誉奖获得者，这些人对IT市场的良好发展做出了持续、无私的奉献。苹果电脑发明人、苹果联合创始人史蒂夫·沃兹尼亚克(Steve Wozniak)和Linux之父李纳斯·托沃兹(LinusTorvalds)等纷纷上榜。
+　　十大IT英雄：
+　　苹果联合创始人，他是Apple I和Apple II电脑发明者。他后来回到学校完成学位，并开始执教生涯。他是典型的IT英雄，他不仅是令人尊敬的科学家和发明家，还是好相处的诚实正直的人。
+　　2. 理查德·马修·斯托曼(Richard Matthew Stallman)
+　　美国自由软件运动的精神领袖、GNU计划以及自由软件基金会创立者。
+　　3. 李纳斯·托沃兹(Linus Torvalds)
+　　Linux之父，是软件开源领域的英雄。
+　　4. 艾伦·所罗门(Alan Solomon)
+　　所罗门是反病毒领域的大师，最早采用偏移量与特征匹配相相结合的方式，让杀毒软件从极其笨拙的全对象特征匹配中解脱。
+　　5. 肖恩·范宁(Shawn Fanning)
+　　著名音乐共享网站Napster创始人。
+　　6. 约翰·凯默尼(John George Kemeny)和托马斯·库茨(Thomas Eugene Kurtz)
+　　发明BASIC语言，使计算机语言易于学习，从而将投资者吸引到计算机领域，促使IT业成就了现在的繁荣。
+　　7. 米切尔·卡普尔(Mitch Kapor)
+　　1982年创办Lotus公司，但这并不是他上榜的理由。他此后与约翰·佩里·巴洛(John Perry Barlow)和约翰·吉尔摩尔(John Gilmore)创立了电子前沿基金会(Electronic Frontier Foundation，EFF)，保护民众的网络自由；此外，他还向Mozilla基金会(Mozilla Foundation)投入了很多资金，该基金会发明了备受欢迎的火狐浏览器，促进了软件开源。
+　　8. 杰克·戈德曼(Jack Goldman)、乔治·帕克(George Pake)和鲍勃·泰勒(Bob Taylor)
+　　戈德曼提出创建施乐帕洛阿尔托研究中心(Xerox Palo Alto Research Facility，PARC)的想法，帕克是PARC的负责人，而泰勒PARC全盛时期计算机科学实验室的主管。
+　　9. Adblock
+　　Adblock是Mozilla Firefox和Mozilla Application Suite网页浏览器所使用的扩展。Adblock允许用户拦截广告在内的各种页面元素，并使这些内容不被下载和显示。
+　　10. 克莱夫·辛克莱爵士(Sir Clive Sinclair)
+　　英国著名发明家，发明了消费者能够买得起的家用电脑，仅100英镑。后来，辛克莱又转而研发电动汽车，提倡绿色交通，并支持教育计划。
+　　荣誉奖：前美国总统比尔·克林顿(Bill Clinton)
+　　与以往政府相比，克林顿政府最支持互联网等新技术。1990年代晚期，克林顿在处理和利用互联网方面做得很好，他所领导的美国政府设立了很多主要政府机构的网页并对公众开放这些网页。他还决定，联邦政府不对网络销售过度监管或者过度征税，最终促使第一轮网络公司繁荣。
+　　荣誉奖：前美国总统罗纳德·里根(Ronald Reagan)
+　　从IT角度来看，总统里根确实做得非常好，他获得此项荣誉奖是实至名归。1983年，在一架韩国飞机误入前苏联领空被击落后，当时的美国总统里根决定将美国军方全球定位系统(Global Positioning System)扩展到民用领域，我们都必须感谢里根的这一决定。(宁弦)
+
+

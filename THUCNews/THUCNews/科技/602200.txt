@@ -1,0 +1,5 @@
+微软Windows Mobile7将支持多点触摸
+　　据有关媒体称，微软公司即将在9月份上市Windows Mobile 6.5，随即Windows Mobile 7也将在明年（2010年）上市。届时，微软的Windows Mobile 6.5与Windows Mobile 7共存，Windows Mobile 7将主战高端手机市场。
+　　据悉，下一代移动操作系统Windows Mobile 7将会支持多点触摸功能，并且将以包括苹果iPhone(手机上网)和其它Android手机在内的高端手机为主要竞争目标。据微软称，多点触摸将是Windows Mobile 7的核心功能，微软有望借此新平台进行更多新合作。微软坦诚Windows Mobile 7系统定位高端，微软发言人表示，命名中的“7”即代表了高端，并且Windows Mobile 7将与Windows Mobile 6.5并存，也就是说Windows Mobile 7的出炉并不意味着Windows Mobile 6.5将被取代。
+　　虽然，微软势头来势汹汹，然而，Windows Mobile 7的推广工作必将成为一个棘手的问题。目前的6.5版本还没有推广开，Windows Mobile 7被定位为与Windows Mobile 6.5同时存在的高低端产品搭配，而用户对Windows Mobile各个版本之间的认知会带来困难。
+

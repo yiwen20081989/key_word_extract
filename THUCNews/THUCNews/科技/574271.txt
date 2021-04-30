@@ -1,0 +1,6 @@
+施密特旗下风投投资在线教育企业Instructure
+　　新浪科技讯 北京时间4月15日晚间消息，创业企业Instructure近期完成了总额800万美元的第二轮融资，该公司主要开发开源的在线学习管理系统。
+　　Instructure此轮融资由OpenView Venture Partners、EPIC Ventures、谷歌前CEO埃里克·施密特(Eric Schmidt)旗下的Tomorrow Ventures，以及蒂姆·德拉珀(Tim Draper)等牵头。完成这笔融资后，Instructure的融资总额达到950万美元。
+　　相对Blackboard等竞争对手，Instructure的软件Canvas能提供更加流畅的在线课程管理功能。作为一款软件即服务解决方案，Canvas提供了成绩单、评估工具、讨论工具和在线聊天等多项功能。该软件还支持拖拽式文件上传、HTML视频和自动的语音文本转换，此外还集成了谷歌文档和Facebook。
+　　今年2月，Instructure宣布将Canvas作为一款开源软件产品推出。该公司目前为超过30个教育机构服务，其中大部分此前都使用Blackboard软件。(维金)
+

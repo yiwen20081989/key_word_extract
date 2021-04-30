@@ -1,0 +1,6 @@
+科幻界面 能玩魔兽世界的ELSE系统演示
+　　昨天Emblaze Mobile公司在伦敦发布了Else操作系统，这是基于Access Linux Platform 3.0操作系统核心。日本Access公司在收购Palm Source后，将Palm OS结合Linux后发展为现在的“Access Linux Platform”即ALP。Emblaze Mobile在这套系统的基础上开发了一套颇具颠覆意义的用户界面，最终成果就是现在的Else Intuition。
+　　ELSE的用户界面“sPlay”同样基 于触摸操作，菜单项目从屏幕右端呈放射状排列，再加上屏幕右侧的触摸按键，菜单操作都可用右手大拇指通过、触摸滑动完成。其他诸如选择项固定在屏幕中央放大的功能，各种软件界面等也都颇具特色。
+　　首款ELSE系统手机就叫做“The First ELSE”，搭载ARM Cortex-A8架构的德州仪器OMAP 3430处理器，256MB RAM，3.5寸854x480分辨率电容式触摸屏，500万像素摄像头，支持480p 30FPS摄像，1450mAh电池（号称续航能力至少比iPhone 3GS高一小时），16GB/32GB闪存，内置蓝牙、WiFi、GPS，支持HSDPA/EDGE（WCDMA/GSM）网络。
+　　看过视频之后是不是对这款手机以及ELSE操作系统更感兴趣了？不过目前还没有这款手机的具体上市日期以及价格方面的信息，不过笔者预测这款手机将会在2010年夏天上市。Maemo、WM7、ELSE等多款智能操作系统的加入，将会为智能手机市场注入新的活力。
+

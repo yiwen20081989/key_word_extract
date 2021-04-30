@@ -1,0 +1,10 @@
+微软MSN可直接向Facebook联系人发送信息
+　　新浪科技讯 北京时间8月18日午间消息，据国外媒体报道，微软Windows Liver Messenger(即MSN)周二正式开始兼容Facebook Chat聊天服务。
+　　Windows Liver Messenger是首个直接与Facebook Chat整合的主要即时通讯服务。微软此前就希望将Windows Liver Messenger从一款单纯的即时通讯服务打造成一个汇集活动反馈、视频聊天和其他服务的社交枢纽。
+　　微软是在新版Windows Live Messenger的测试版中增加这一最新功能的，但最初只面向美国、英国、法国、德国、俄罗斯和巴西用户开放。
+　　微软还对其他一些重要程序进行了更新，包括Winodws Live Photo Gallery、Writer、Movie Maker、Sync和Family Safety。
+　　微软最早于今年6月公布了Windows Live Messenger Wave 4，并在其中增加了面部识别等新功能。
+　　随着圣诞购物季的临近，微软计划借助Windows Live的升级进一步提升Windows 7的重要性。
+　　除此之外，微软还对漏洞进行了修复。Movie Maker用户现在可以将图片上传到Flickr，而Photo Gallery用户则可以在必应地图上借助地理标签对图片进行标记。
+　　微软表示，这款新产品将于周二晚些时候正式提供下载，最终版本有望在未来几个月内发布。(鼎宏)
+

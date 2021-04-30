@@ -1,0 +1,7 @@
+微软麻省地方实验室负责人离职
+　　新浪科技讯 北京时间10月9日凌晨消息，据国外媒体昨日报道，微软旗下麻萨诸塞州剑桥Startup Labs实验室的董事总经理里德·斯特蒂文特(Reed Sturtevant)已经离职。
+　　微软将把Startup Labs与其他两家地方实验室进行合并，在华盛顿州的雷德蒙德成立名为“Future Social Experiences Labs”(以下简称“FUSE Labs”)的新实验室，斯特蒂文特因此离职。这家新实验室将集中致力于社会化计算，由其中一家地方实验室MSR Creative Systems的负责人Lili Cheng担任总经理。
+　　FUSE Labs的团队将负责开发新的社交、实时和富媒体应用及服务。微软首席软件架构师雷·奥兹(Ray Ozzie)称，由上述三个地方实验室合并而成的FUSE Labs将更加全面和集中化，因此能获得更大的影响。
+　　微软发言人称，斯特蒂文特将离开微软谋求其他职位。微软东部地区的公共关系经理凯瑟琳·考林斯(Catherine Collins)称，除了管理层改组以外，Startup Labs的业务运营几乎不会发生变化。考林斯表示：“Startups Labs的成员将继续留任，由Lili Cheng负责管理。”
+　　在加入微软以前，斯特蒂文特担任SNS网站Eons的首席技术官，该网站由前Monster.com创始人杰夫·泰勒(Jeff Taylor) 创办。(唐风)
+

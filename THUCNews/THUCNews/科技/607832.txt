@@ -1,0 +1,10 @@
+谷歌Android 3.0 Honeycomb系统发布会实录
+    新浪科技讯 北京时间2月3日凌晨消息，谷歌今日在其总部(美国加州山景城)举办发布会，正式发布Android 3.0系统。
+    以下为发布会文字实录(均为北京时间)：
+    1:55：媒体记者已经入场，本次发布会Google透露会有深度的Android 3.0 Honeycomb体验、Android操作系统生态链新动向和亲自上手体验的机会。     发布会即将开始，在会场外可以看到谷歌Android 3.0的新图腾——紫黑相间的小蜜蜂。
+    1:58：媒体记者被要求关闭WiFi路由器，可能Google考虑到会影响演示设备的3G网络使用。
+    02:02AM：Andy Rubin登台，宣布将使用两台连接HDMI接口的摩托罗拉XOOM平板来演示Android 3.0。
+    02:03AM 在Honeycomb发布后，我们会发布一些Android Market新的有意思的新特性。
+    02:05AM Andy Rubin和Hugo Barra登台直奔主题，开始介绍Android 3.0为平板电脑重新适配过的应用程序。
+    02:07AM 从HOME界面上的Widgets开始，画面上显示了日程表和Gmail的Widget。
+

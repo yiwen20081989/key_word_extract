@@ -1,0 +1,10 @@
+Adobe计划十月展示3D Flash技术
+　　新浪科技讯 北京时间7月10日下午消息，据国外媒体报道，Adobe已经开始研发3D Flash技术，并将在10月的开发者大会上展示这一技术。
+　　Adobe Max 2010开发者大会将于10月23日至27日在美国洛杉矶举行。大会日程显示，Adobe将通过一个名为“Flash播放器3D未来”(Flash Player 3D Future)的板块来介绍具备3D播放功能的Flash技术。
+　　大会日程显示，这个板块“将对未来的Flash播放器中的下一代3D API(应用编程接口)进行深入探讨”。Flash播放器是一款浏览器插件，用户可以借此玩游戏或者浏览多媒体内容。谷歌YouTube使用的就是Flash技术。
+　　Flash产品经理英伯特·蒂波特(Imbert Thibault)表示：“如果你想要开发3D游戏、增强现实(augmented reality)技术或者像网站这样的互动元素，就不应该错过这个板块。”
+　　Adobe并未透露3D Flash播放器的具体发布日期。
+　　Adobe已经为Flash提供了3D动画工具，但新的平台可以提供更为丰富的3D体验。由于游戏和视频领域逐渐开始向3D领域发展，因此这一技术对Adobe而言非常重要。
+　　在上个月的台北国际电脑展(Computex)上，显示芯片厂商Nvidia展示了一种通过微软Silverlight平台传送3D互联网流媒体视频的方法。
+　　由于苹果在iPhone和iPad上封杀Flash，因此Adobe此前与苹果纠纷不断。苹果更倾向于通过HTML5技术来提供视频和多媒体内容，该公司CEO史蒂夫·乔布斯(Steve Jobs)还曾公开批评Flash漏洞过多、耗电量太大而且运行速度缓慢。(鼎宏)
+

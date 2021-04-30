@@ -1,0 +1,83 @@
+英语四级精细阅读做到有详有略
+　　说明：精读在四六级考试中占20%，共计十题，均为选择题。
+　　精细阅读基本解答方法：审题—看文章—解题。
+　　1、  审题，勾画出题干中的重要信息，以作为关键词回到原文中寻找定位。
+　　2、  看文章，有详有略，重点读懂全文开头以及每段开头抓出文章主题结构，同时标记关键词和一些重点出题的特殊语言形式，如因果、转折、比较等。
+　　3、  解题，贯彻“对应”的原则，把有关键词定位的原文与选项相对应，对原文信息完整同义改写的选项既为答案。
+　　例题：请在18分钟内完成，请勿使用任何词典类工具书。
+　　Passage One
+　　Questions 1 to 5 are based on the following passage。
+　　People living on parts of the south coast of England face a serious problem. In 1993, the owners of a large hotel and of several houses discovered, to their horror, that their gardens had disappeared overnight. 1The sea had eaten into the soft limestone cliffs on which they had been built. While experts were studying the problem, the hotel and several houses disappeared altogether, sliding down the cliff and into the sea。
+　　2Erosion (侵蚀) of the white cliffs along the south coast of England has always been a problem but it has become more serious in recent years. Dozens of homes have had to be abandoned as the sea has crept farther and farther inland. 3Experts have studied the areas most affected and have drawn up a map for local people, forecasting the year in which their homes will be swallowed up by the hungry sea。
+　　Angry owners have called on the Government to erect 4sea defenses to protect their homes. Government surveyors have pointed out that in most cases, this is impossible. New sea walls would 1cost hundreds of millions of pounds and would merely 2make the waves and currents go further along the coast, shifting the problem from one area to another. The danger is likely to continue, they say, until the waves reach an inland area of hard rock which will not be eaten as limestone is. Meanwhile, if you want to 5buy a cheap house with an uncertain future, apply to a house agent in one of the threatened areas on the south coast of England. You can get a house for a knockdown price but it may turn out to be a knockdown home。
+　　1.     What is the cause of the problem that people living on parts of the south coast of England face?
+　　A) The rising of the sea level。
+　　B) The experts’ lack of knowledge。
+　　C) The washing-away of limestone cliffs。
+　　D) The disappearance of hotels, houses and gardens。(D)
+　　2.     The erosion of the white cliffs in the south of England ________。
+　　A) will soon become a problem for people living in central England
+　　B) has now become a threat to the local residents
+　　C) can be stopped if proper measures are taken
+　　D) is quickly changing the map of England(B)
+　　3.     The experts’ study on the problem of erosion can ________。
+　　A) warn people whose homes are in danger(D)
+　　B) provide an effective way to slow it down
+　　C) help to prevent it from worsening
+　　D) lead to its eventual solution
+　　4.     It is not feasible to build sea defenses to protect against erosion because ________。
+　　A) house agents along the coast do not support the idea
+　　B) it is too costly and will endanger neighboring areas
+　　C) the government is too slow in taking action
+　　D) they will be easily knocked down by waves and currents(A)
+　　5.     According to the author, when buying a house along the south coast of England, people should ________。
+　　A) take the quality of the house into consideration
+　　B) guard against being cheated by the house agent
+　　C) examine the house carefully before making a decision
+　　D) be aware of the potential danger involved(A)
+　　答案：CBABD
+　　文章分析：典型问题解答型文章，提出问题、分析问题、解决问题各成一段。
+　　第1题针对问题成因发问，一段前两句交代问题本身，有现象就会有解释，第三句解释原因，C选项的washing-away对应原文的eaten into。
+　　第3题针对experts’ study发问，也就是分析问题，对应在二段三行找到定位，A选项的warn对应原文的forecasting。BCD都同时找到了有效的方案，原文仅仅forecast无方案，故排除。
+　　第4题针对sea defenses这个解决方案发问，对应在三段开头，题干not feasible对应原文impossible，有观点就会有原因，为什么不可行，原因就在impossible后面，原因有12两点，对应B选项。
+　　Passage Two
+　　Questions 6 to 10are based on the following passage。
+　　Long after the 1998 World Cup was won, disappointed fans were still cursing the disputed refereeing (裁判) decisions that denied victory to their team. A researcher 6was appointed to study the performance of some top referees。
+　　The researcher organized an experimental tournament (锦标赛) involving four youth teams. Each match lasted an hour, divided into three periods of 20 minutes during which different referees were in charge。
+　　Observers noted down the referees’ errors, of which there were 61 over the tournament. Converted to a standard match of 90 minutes, each referee made almost 23 mistakes, a remarkably high number7.
+　　The researcher then studied the videotapes to analyze the matches in detail. Surprisingly,8 he found that 1errors were more likely when the referees were close to the incident. When the officials got it right, they were, on average, 17 meters away from the action. The average distance in the case of errors was 12 meters. The research shows2 the optimum (最佳的) distance is about 20 meters。
+　　There also seemed to be3 an optimum speed. Correct decisions came when the referees were moving at a speed of about 2 meters per second. The average speed for errors was 4 meters per second。
+　　If FIFA, football’s international ruling body, wants to improve the standard of refereeing at the next World Cup, it should encourage referees to keep their eyes on the action from a distance, rather than rushing to keep up with the ball, the researcher argues。
+　　10He also says that FIFA’s insistence that referees should retire at age 45 may be misguided. If keeping up with the action is not so important, their physical condition is less critical。
+　　6.     The experiment conducted by the researcher was meant to ________。
+　　A) review the decisions of referees at the 1998 World Cup
+　　B) analyze the causes of errors made by football referees
+　　C) set a standard for football refereeing
+　　D) reexamine the rules for football refereeing(B)
+　　7.     The number of refereeing errors in the experimental matches was ________。
+　　A) slightly above average
+　　B) higher than in the 1998 World Cup
+　　C) quite unexpected
+　　D) as high as in a standard match(C)
+　　8.     The findings of the experiment show that ________。
+　　A) errors are more likely when a referee keeps close to the ball
+　　B) the farther the referee is from the incident, the fewer the errors
+　　C) the more slowly the referee runs, the more likely will errors occur
+　　D) errors are less likely when a referee stays in one spot(A)
+　　9.     The word “officials” (Line 2, Para. 4) most probably refers to ________。
+　　A) the researchers involved in the experiment
+　　B) the inspectors of the football tournament
+　　C) the referees of the football tournament
+　　D) the observers at the site of the experiment(C)
+　　10.   What is one of the possible conclusions of the experiment?
+　　A) The ideal retirement age for an experienced football referee is 45.
+　　B) Age should not be the chief consideration in choosing a football referee。
+　　C) A football referee should be as young and energetic as possible。
+　　D) An experienced football referee can do well even when in poor physical condition。(B)
+　　答案：BCACB
+　　文章分析：典型实验型文章，包含五大要素：目的、原理、方法、数据、结论。其中，实验原理过于专业几乎不考，实验方法、数据等细节性描写，属于次要信息很少考到，重点关注实验的目的与结论。
+　　第6题针对mean to目的发问，对应文章开头目的性表达。
+　　第7题针对number数据发问，注意数据本身不重要，数据前或后的结论才重要，a remarkably high number是三段唯一值得关注的有效信息，high而不是higher说明原文没有比较，是一个绝对高的数字，选项A(above)B(higher)D(as…as)都包含了比较，故排除。
+　　第8题针对findings结论发问，按照出题顺序，对应在文章中间的四、五段，分别由found、show引导出12两个结论关于distance，同时由一个并列连词also引出3第三个结论关于speed。因为原文提及出optimum (最佳的)，因此既不能过近或过远也不能过快或过慢，故BC排除。
+　　第10题针对conclusions结论发问，按顺序对应在最后，末段结论45退休misguided，故A排除。原文physical condition is less critical(critical：the most important)，故C排除。D中poor physical condition的poor含义过于宽泛，意味physical condition无所谓不重要，只要有经验就可以，而原文less critical虽非最重要，但绝对意义上仍然重要不能忽视，故D排除。(北京新东方学校   尹延)
+

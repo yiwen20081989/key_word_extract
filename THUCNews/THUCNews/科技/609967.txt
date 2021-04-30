@@ -1,0 +1,6 @@
+1GHz主频支持LTE 泛泰Breakout获FCC认证
+文/马千里
+　　摩托罗拉DROID Bionic，三星Stratosphere，还有LG Revolution 2，它们有一个共同的特点就是都支持LTE网络。从2010年下半年开始，Verizon就已经在美国市场部署LTE网络了，到现在差不多一年的时间，Verizon旗下支持LTE网络的产品增加了很多，近日，一款型号为Pantech（泛泰） Breakout的产品也加入到这一阵营当中。
+　　现在，泛泰Breakout已经通过了FCC的认证，北美市场上市代号可能会是Apache（阿帕奇），非常霸气的一个名称，和美国陆军航空兵主力装备AH-64 Apache战斗直升机是一个名字，这似乎也暗藏着泛泰对这款产品的期望。
+　　在硬件配置方面，泛泰Breakout和HTC Thunderbolt以及三星DROID Charge处于同一个级别，它配有一块4英寸的WVGA分辨率屏幕，搭载有1GHz处理器，内存为512MB（RAM），机身背部配有一枚500万像素摄像头，还配有前置摄像头，借助LTE网络，这款产品在充当Wi-Fi热点时最多可以支持10台设备同时使用。据了解，这款产品的上市型号可能是SCH-i110，至于这款产品的售价以及上市时间，目前还没有准确的消息。
+

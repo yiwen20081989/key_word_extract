@@ -1,0 +1,42 @@
+变化更多 苹果新款iPod功能全面解析
+　　作者：胡振伟
+　　今天苹果发布新品其产品变化程度在这几年当中算是最大的，回归的iPod shuffle 4，有了触控屏被“腰斩”的nano 6以及，采用全新系统touch 4。苹果的产品线再一次产生的翻天覆地的变化。
+　　从这些产品的变化中我们可以看到，不同系列iPod功能角色的改变。shuffle 4完全蜕变为廉价播放器的角色，388港币的售价，相信大多数人都能接受。而nano 6采用了触控屏，虽然功能没有什么太多改变，但是便携性已经取代了shuffle的地位。而touch 4更加强调了多功能以及互联的特性，对于网络人与人之间的交流，与其说是没有手机功能的iPhone还不如说是变小了的iPad。我相信为iPad块头所累的人，对于新款iPod touch必将爱不释手。更何况其售价最低仅为1788港币，而且处理器没有版本之分。
+　　下面我们就详细了解一下这三款产品。
+　　缩小的iPad第四代iPod touch
+　　第四代iPod touch体积为111*58.9*7.2毫米，重101克。采用3.5英寸960 x 640 像素Multi-Touch 宽屏显示。支持Wifi，蓝牙以及Nike+iPod无线连接，内置三轴陀螺仪；方向感应器；环境光线感应器。
+　　前部摄像头可以拍摄高达每秒 30 帧 (fps) 带声音的 HD (720p) 视频，或者摄静态照片 (960 x 720像素) 。前置摄像头可以拍摄 VGA 照片和高达每秒 30 帧 (fps) 的视频 。轻点控制拍摄视频或照片的曝光。能够使用 WLAN 的照片和视频地理标记功能
+　　支持音频格式：AAC (8 至 320 Kbps)、受保护 AAC (来自 iTunes Store)、HE-AAC、MP3 (8 至 320 Kbps)、MP3 VBR、Audible (2、3、4 类格式 Audible Enhanced Audio、AAX 和 AAX+)、Apple Lossless、AIFF 以及 WAV 。
+　　支持视频格式：
+　　H.264 视频，高达 720p，每秒 30 帧，Main Profile level 3.1 采用 AAC-LC 音频，高达 160 Kbps，48kHz，立体声音频为 .m4v、.mp4、和 .mov 文件格式。
+　　MPEG-4 视频，高达 2.5 Mbps，640 x 480 像素，每秒 30 帧，Simple Profile 采用 AAC-LC 音频，各通道高达 160 Kbps，48kHz，立体声音频为 .m4v、.mp4 和 .mov 文件格式。
+　　Motion JPEG (M-JPEG)，高达 35 Mbps，1280 x 720 像素，每秒 30 帧，ulaw 格式音频，.avi 文件格式 PCM 立体声音频。
+　　支持 1024 x 768 像素，Dock Connector to VGA Adapter，576p 和 480p，Apple Component AV 线缆，576i 和 480i，Apple Composite AV 线缆 (线缆需单独购买) 。
+　　内置可充电式锂电池，音乐播放时间：电池充满时最长 40 小时，视频播放时间：电池充满时最长 7 小时 。
+　　FaceTime：iPod touch 上的 FaceTime 让你以全新方式与朋友相处、聊天叙旧和打发时间。只需轻点一下，你就能真切地看到朋友们在做什么。通过 WLAN 连接两部全新 iPod touch 或一部 iPod touch 和 iPhone 4 就能实现。要开始使用此功能，你只需要一个 Apple ID 和一个电邮账户。你可以选择已有的电邮账户，如果你愿意，也可以设立一个新账户。
+　　iPod touch 配有两个摄像头：一个位于机身正面，用来拍摄自己；另一个在背面，可拍摄你面前的一切。FaceTime 让你视频通话时可在两个摄像头之间随时切换，操作只需轻点按钮。
+　　Retina 显示屏：迄今分辨率最高的 iPod 屏幕，像素数量是前代 iPod 机型的 4 倍达到960x640 像素分辨率。事实上，它的超高像素密度已超过肉眼能分辨的范围，让图形、画质和文字都极度清晰锐利，可与印刷品媲美。
+　　高清摄像与剪辑：有了 iPod touch，你就拥有了一部时时相伴的出色高清摄像机。假如你正在参加聚会，看到有人在跳街舞，你随时可用 720p 的高清视频记录这一精彩时刻。由于拥有先进的机背照度传感器，即使在弱光环境下也能拍摄。你还可使用 Apple 的 iMovie 应用程序，借助其中的主题、标题和过渡效果，直接在 iPod touch 上剪辑并创造你自己的迷你大片。即将在 App Store 有售。
+　　Game Center：iPod touch 上的 Game Center 应用程序可让你邀请更多玩家加入你的游戏网络。
+　　音乐：有了 iPod touch，你不只能播放音乐，还能以耳目一新的方式聆听和观看。让 Genius 搜索你的资料库并自动创建混合曲目；或试一试 Genius 播放列表，它会根据你的一首至爱金曲，帮你在资料库中找到与之风格相近的其他歌曲。你还可用 Cover Flow 浏览专辑封面，或摇一摇 iPod touch 随机换曲，赋予你的乐曲新感觉。
+　　视频：你现可在地铁或飞机上近距离欣赏喜爱的视频。更可享受效果惊艳的 3.5 英寸 Retina 宽显示屏。
+　　支持的视频格式：
+　　H.264 视频，高达 720p，每秒 30 帧，Main Profile level 3.1 采用 AAC-LC 音频，高达 160 Kbps，48kHz，立体声音频为 .m4v、.mp4、和 .mov 文件格式。
+　　MPEG-4 视频，高达 2.5 Mbps，640 x 480 像素，每秒 30 帧，Simple Profile 采用 AAC-LC 音频，各通道高达 160 Kbps，48kHz，立体声音频为 .m4v、.mp4 和 .mov 文件格式。
+　　Motion JPEG (M-JPEG)，高达 35 Mbps，1280 x 720 像素，每秒 30 帧，ulaw 格式音频，.avi 文件格式 PCM 立体声音频
+　　支持 1024 x 768 像素，Dock Connector to VGA Adapter，576p 和 480p，Apple Component AV 线缆，576i 和 480i，Apple Composite AV 线缆 (线缆需单独购买)
+　　其他功能：
+　　App Store：将应用程序直接下载到 iPod touch。
+　　iBooks：免费下载的 iBooks，是阅读电子书的神奇工具。
+　　iMovie：剪辑视频、添加主题和音乐，还可以分享你的影片。即将在 App Store 有售。
+　　Mail：使用你的 Gmail 或其他电邮账户发送邮件并查看附件。
+　　Safari 网页浏览器：访问你喜爱的网站，你只需要使用 iPod touch 和 WLAN 网络。
+　　照片：将你的照片随身携带，用电邮与别人分享，或将最爱的照片用作 iPod touch 墙纸。
+　　语音控制：使用语音命令控制 iPod touch 上的音乐播放。
+　　主屏幕：用 iTunes 在多个主屏幕之间自定义排列你的应用程序。
+　　Nike + iPod：用内置于 iPod touch 的 Nike + iPod 支持实现你的健身目标。
+　　语音备忘录：录制备忘录、随想遐思、待办事项、朋友的即兴模仿和你所需的任何音频内容。
+　　辅助功能：iPod touch 拥有屏幕阅读技术和其他辅助功能。
+　　更多功能：使用 iOS 4 软件的全部精彩功能，比如多任务处理和文件夹，开箱即得。
+　　售价：8GB 1798元人民币；32GB 2398元人民币；64GB 3198元人民币。
+

@@ -1,0 +1,6 @@
+仅重635g 索尼信封式超便携PC正式发布
+    经过多次的网络预告，索尼的Atom平台超便携本VAIO P系列日前终于在CES展会上正式发布。尽管业界普遍预期这将是索尼的首款NetBook上网本，但实际上，该机采用的是Intel针对UMPC市场，代号“Menlow”的Atom平台，归类为UMPC或超便携PC更为合理。索尼为它给出的概念则叫做“Pocket Style”口袋风格PC。
+    该机全名为VAIO P Series lifestyle PC，整机尺寸仅有245x120x19.8mm，可以真正装进直投广告用信封中，最简化构成的便携重量仅有635g。配置方面和之前的传言区别不大，使用Intel Atom Z520 1.33GHz处理器，Poulsbo SCH芯片组，8英寸1600x768分辨率超宽屏幕，硬盘可选择HDD或SSD。内置802.11n WiFi、3G WWAN、蓝牙、GPS。除Vista系统外，还提供了即时开机的Xross Media Bar系统（类似于PSP或PS3的操作界面）。电池续航时间4小时。
+    VAIO P将于2月份上市，共有4种色彩选择，售价900美元左右。
+
+

@@ -1,0 +1,20 @@
+Clearwire因WiMAX难获德国电信青睐
+　　C114讯 北京时间9月28日早间消息(蒋均牧) T-Mobile美国的母公司德国电信正在与Clearwire及MetroPCS洽谈合作事宜，希望能够获得其控制的无线频段以供T-Mobile在美国拓展4G。
+　　但据国外媒体分析称，德国电信最有可能与MetroPCS合作，原因是Clearwire所运营的网络基于WiMAX技术，与T-Mobile美国未来所期望部署的LTE并不相符。
+　　Clearwire因WiMAX难获德国电信青睐
+　　对T-Mobile美国而言，最佳的合作模式将是使用Clearwire及MetroPCS的无线频谱，但如果由其自己来部署LTE，将使得合作成本非常昂贵。这使得Clearwire获得德国电信青睐的难度颇大。
+　　Clearwire是世界上少数几家选择WiMAX来提供移动宽带服务的大运营商之一。T-Mobile、Verizon和AT&T在内的大多数移动运营商则选择使用WiMAX的竞争技术LTE，两种4G技术的交锋，LTE更具优势。
+　　若T-Mobile美国与Clearwire合作，它将使用Clearwire所拥有的频谱，因为T-Mobile美国的频谱有限而且更高密度的市场更需要频谱。在过去6个季度中T-Mobile美国的用户增长变缓，与此同时，强大竞争对手Verizon和AT&T已开始升级其系统。据称，德国电信可能会向Clearwire提供资金以换取频谱的使用。
+　　然而国外媒体分析称，像T-Mobile这样的GSM运营商接受WiMAX的可能性不大，除非Clearwire改变其无线接入技术到LTE(它似乎并未完全放弃考虑这个)并取得重要成果。否则Clearwire对德国电信的吸引力将大大降低。
+　　此外，Sprint Nextel对Clearwire的所有权不容忽视，不论它是否允许竞争对手T-Mobile美国获得频谱，都具有对任何类型的交易造成重要障碍的潜在可能。
+　　Sprint Nextel持有Clearwire 51%股份，有知情人士称它也参加了与德国电信的谈判，不久前还传出了德国电信正考虑斥资收购Sprint Nextel的传闻。
+　　Clearwire：未来可能拥抱LTE
+　　如果事实真的如此，这对Clearwire可能是个糟糕的消息。今年8月，Clearwire曾表示需要在年底前获得20亿美元完成WiMAX网络升级，但由于用户增长情况令人失望，谷歌和英特尔等已经取消了对Clearwire公司数十亿美元的投资。
+　　不过Clearwire也并未把通向LTE的大门堵死。Clearwire首席执行官比尔·莫罗(Bill Morrow)本月早些时候表示过，如果LTE成为4G的主导技术，成为未来手机和软件开发的重点关注，那么Clearwire会应势而变，充分利用它的规模经济和其他利益。
+　　这已经不是Clearwire第一次做类似公开表态。去年12月，Clearwire当时的首席执行官本·沃尔夫(Ben Wolff)就在电话会议上称：“如果需要，Clearwire在未来几年内会考虑利用LTE提供宽带服务。”
+　　据C114了解，目前采用WiMAX组网的大多为新型运营商，比例超过70%。欧美发达电信市场上的运营商们都以LTE为演进方向。
+　　虽然金融危机导致部分运营商延缓了LTE的商用计划，但据全球移动设备供应商协会(GSA)宣布有31家运营商正致力于LTE网络部署，预计到2010年，有12家运营商的LTE网络将商用。
+　　除了运营商对LTE的支持，设备商方面的动作也令WiMAX面临艰难的可能性无限放大。比如阿尔卡特朗讯、爱立信已经在利用CDMA向LTE的演进技术为Verizon部署LTE网络，爱立信对北电无线资产的收购将鼓励北美CDMA运营商向LTE演进，华为近期也在德克萨斯州的理查森设立了一个LTE实验室。
+　　以英特尔、三星电子为代表的IT厂商进军电信业，他们的梦想何时照进现实？WiMAX无线宽带何时迎来爆发拐点？
+　　“2009全球WiMAX高峰会议”将于2009年10月22日-23日在北京举行，带来相关解读。美国Clearwire、日本UQ、印度Tata、俄罗斯Yota、马来西亚P1等WiMAX运营商，以及英特尔、华为、中兴、摩托罗拉等WiMAX设备商将聚集一堂，分享WiMAX的全球部署案例和最新应用。C114中国通信网为本届会议的独家通信网站直播，将予全程报道，敬请关注。
+

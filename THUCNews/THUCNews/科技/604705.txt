@@ -1,0 +1,5 @@
+微软重命名“Windows Phone 7系列”
+　　在2月份的巴塞罗那MWC 2010全球移动大会上，微软首席执行官史蒂夫·鲍尔默(Steve Ballmer)宣布了新一代智能手机操作系统平台Windows Phone 7 Series(Windows Phone 7系列)，而不是Windows Phone 7。虽然在Windows Phone 7系列发布之前及之后，大家都称其为Windows Phone 7，但这并不是微软对它的官方称呼。
+　　或许是出于多方面原因，微软今天宣布，Windows Phone 7系列今后将命名为Windows Phone 7，放弃Series。这一决定是微软Windows Phone团队通过官方Twitter页面宣布的，只是这里并没有给出任何关于做出这一决策的官方解释。
+　　对于一款操作系统来说，Windows Phone 7 Series确实显得臃肿，Windows Phone 7更加符合Windows Mobile以及Windows桌面的命名传统。Windows Phone 7将在今年的圣诞购物季正式发布，届时也会有众多手机厂商的新款Windows Phone 7手机一同上市。
+

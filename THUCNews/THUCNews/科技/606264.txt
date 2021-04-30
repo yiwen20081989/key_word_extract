@@ -1,0 +1,4 @@
+黑客公布越狱失败临时解决方案
+　　作者/ 刘宇航
+　　就在Dev-Team公布了超级简单的iOS 4越狱方法jailbreakme之后，全世界的iPhone用户似乎都想体验一下这种异常简单的方法来破解自己的iPhone产品。不过在近日用于破解iPhone 4的网站jailbreakme.com却出现了一定程度的访问故障，就连Dev-Team的成员也不知道出现了怎样的问题。不过Dev-Team还是给出了临时的解决办法，那就是登陆jailbreakme.ca这个镜像网站，接下来的事情就和以前没有太大的区别了。
+

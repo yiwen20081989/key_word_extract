@@ -1,0 +1,9 @@
+谷歌发布Android手机NDK第三代版本
+　　【赛迪网讯】3月9日消息，据国外媒体报道，3月8日，谷歌公司发布Android本机开发程序包(Native Developer Kit，简称NDK)第三代版本。该版本NDK的发布，使得第三方程序员可以直接研发提高Android手机图像处理能力的程序。
+　　Android手机的应用程序一般都是在Java程序环境下集成，Java应用程序可以便利于第三方开发的手机应用程序在不同的硬件系统中转移。而谷歌公司推出的NDK交互界面可以使得这些应用程序绕过Java层直接和硬件相联系。在谷歌公司发布的第三代NDK版本(简称为r3)，支持标准图像接口OpenGL ES。谷歌Android 2.0版本上安装NDK r3后就可以直接支持标准图像接口OpenGL ES。在苹果公司推出的iPhone(手机上网) 3GS同样带有类似的功能。
+　　Android手机程序开发者大卫·特纳(David Turner)声称：“NDK r3的推出，可以使得Android 2.0或更高版本的Android手机具有直接访问OpenGL ES 2.0的功能。”
+　　谷歌公司通过发布NDKr3便利于第三方游戏开发者利用该程序包为Android手机设计画面及功能更好的手机游戏。但NDKr3给Android手机带来的便利性远不止于此，火狐公司同样利用NDK为Android手机提供火狐浏览器移动版本。火狐公司的程序员Vladimir Vukicevic对NDKr3可以使得Android手机直接访问OpenGL ES表示赞许。
+　　Vladimir Vukicevic声称：“谷歌公司推出NDKr3使得Android手机可以直接支持GL ES 2.0接口的功能非常有趣。我们正在计划使得Android手机可以直接使用开放图形语言，而NDKr3支持GL ES 2.0接口的功能可以加速我们计划的实施。现在ES 2.0成为Android 2.0手机的核心部分，这使得我们可以依靠ES 2.0为大家提供更多的优秀程序。”另外，Vladimir Vukicevic指出，目前火狐移动版本仅在部分手机上可以使用。支持GL ES 2.0接口可以帮助WebGL可以在Android手机上使用。WebGL可以提供3D界面Web应用程序在浏览器上使用。
+　　(责任编辑：跋陀罗尊者)
+　　作者：文良
+

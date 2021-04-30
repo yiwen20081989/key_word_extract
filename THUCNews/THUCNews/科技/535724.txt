@@ -1,0 +1,8 @@
+WordPress收购留言插件提供商
+　　新浪科技讯 北京时间9月24日消息，据国外媒体报道，美国著名博客平台WordPress的母公司Automattic近日收购了IntenseDebate公司，后者的博客留言插件被广泛地应用于几乎所有的博客平台。
+　　这也是继2007年收购Gravatar、2008年初收购BuddyPress以来，Automattic的第三大收购。双方此次没有披露收购价格。
+　　值得注意的是，IntenseDebate绝不仅是简单的留言系统，其服务还包括留言者资料管理以及反垃圾信息控制，这些功能有望与Wordpress自身的产品很好地整合在一起。
+　　目前，IntenseDebate的竞争者包括JS-Kit、SezWho、Disqus等，他们提供的功能极为相似，因此对这一收购的反应值得期待，特别是Automattic已经宣布，要在WordPress 2.7中植入IntenseDebate的部分功能，如通过邮件回复、评论回复(threaded comment)等。
+　　由于WordPress.com已经托管了数百万博客，一旦IntenseDebate与其整合，将成为博客留言服务的事实标准。(王旭）
+
+

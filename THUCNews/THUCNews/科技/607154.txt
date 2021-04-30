@@ -1,0 +1,19 @@
+苹果iOS 4.2.1正式版越狱教程
+    新浪数码讯 北京时间11月24日凌晨消息，iPhone Dev Team刚刚在其官方网站放出了Redsn0w 0.9.6b4(国内俗称“红雪”)，成功为所有iOS 4.2.1设备实现越狱，运行Cydia和MobileSubstrate。此次越狱距苹果正式推出最新iOS 4.2版本操作系统仅24小时不到。
+　　苹果周一正式推出最新的iOS 4.2版本操作系统，供iPad、iPhone和iPod touch用户下载。与iOS 4.0和4.1版本系统相比，iOS 4.2新增100多项功能，其中包括多任务处理、文件夹、统一收件箱、游戏中心、AirPlay和AirPrint等。
+　　Redsn0w 0.9.6b4基于知名黑客Geohot的Limera1n(俗称“绿雨”)使用的bootrom漏洞。唯一的问题是，此次放出的越狱软件对于新设备只能实现非完美越狱，用户必须在每次重启的时候将设备载入至“越狱状态”，包括iPhone 3GS(新bootrom)、iPhone 4、iPad、iPod touch二代(MC Model)、iPod touch三代和iPod touch四代。老设备如iPhone 3GS(旧bootrom)、iPhone 3G和iPod touch二代(非MC Model)使用这个版本的Redsn0w已经可以实现完美越狱。
+　　除非Comex of Spirit和JailbreakMe能够为iOS 4.2.1带来另一种越狱方法，新款设备的越狱只能是非完美的。
+　　以下为使用Redsn0w 0.9.6b4为iOS 4.2.1越狱教程：
+　　注：需要解锁的用户请勿使用Redsn0w或升级iOS 4.2.1。
+　　第一步：下载你的设备对应的iOS 4.2.1 IPSW文件。
+　　第二步：使用刚刚从iTunes 10.1下载到的IPSW文件将设备升级/还原至iOS 4.2.1。
+　　第三步：启动Redsn0w 0.9.6b4软件，在软件中选择iOS 4.2.1固件IPSW文件。
+　　第四步：选择“Install Cydia”，单击“Next”。
+　　第五步：确保设备关机并已经插入电脑，然后点击“Next”。
+　　此时，屏幕指示用户按住电源键，然后在按住电源键的同时，按住Home键。几秒钟之后，松开电源键，但仍然按住Home键，直到安装过程开始。
+　　第六步：喝杯咖啡等待一会儿，redsn0w将完成剩余的工作。一旦完成，你的iPhone或iPod touch将自动重启，设备已经在最新的iOS 4.2.1上完成越狱。
+　　以下步骤仅用于iPhone 4、3GS(新Bootrom)、iPod touch四代/三代/二代和iPad：
+　　第七步：现在，在你想做任何与越狱有关的操作如SSHing或运行Cydia之前，你必须在每次重启的时候，使用Redsn0w的“Just boot tethered right now”选项(如图所示)，将你的设备进入到所谓的“越狱状态”。
+补充：
+    第一次“Install Cydia”之后进系统，Cydia是打不开的。 需要再次关机，连线，打开redsn0w, 选中4.2.1固件，然后勾选第三项"Just boot tethered right now" , 二次进入恢复模式，等一会儿进系统，Cydia才能能开。
+

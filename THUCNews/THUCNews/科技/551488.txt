@@ -1,0 +1,18 @@
+Facebook今年5大预测：进一步整合FriendFeed
+　　导读：美国科技博客Mashable昨天撰文，对Facebook在2010的一些发展进行了预测，进一步整合FriendFeed的功能有望成为2010年的重点计划。
+　　以下为文章概要：
+　　1、Facebook的未来始于FriendFeed
+　　2009年8月10日，Facebook收购实时社交服务FriendFeed。Facebook此前已经复制了FriendFeed的一些新颖功能，但是本次并购却是Facebook向全新方向发展的第一步。
+　　FriendFeed的员工和管理层都被Facebook招致麾下，但FriendFeed网站仍然前途未卜。目前为止，该网站仍在运营，但其功能却被逐步整合到Facebook中。2010年，Facebook将吸收更多FriendFeed的功能。
+　　2、着力发展实时网络
+　　就在收购FriendFeed的同一天，Facebook发布了实时搜索引擎，可以索引用户过去30天的状态更新等信息。Facebook的“新闻递送”(News Feed)目前也已经附带了实时功能。这很难说是一种巧合，Facebook的目的已经非常明确：由于实时网络的兴起，谷歌在搜索领域的主导地位岌岌可危，而Facebook则希望借此异军突起。Facebook将于2010年进一步整合FriendFeed的实时功能。
+　　3、进一步与整个互联网整合
+　　Facebook收购FriendFeed明显是要与Twitter展开正面竞争。收购FriendFeed后，Facebook不仅能够提供更多实时信息，而且更为开放。推出通用登录服务Facebook Connect后，Facebook已经向开放网络迈出了第一步，之后还允许部分内容被搜索引擎索引。
+　　Facebook Connect允许用户使用Facebook的用户名和密码登录其他网站，经用户同意后，还允许签约网站访问用户的资料和相关信息，并向用户的好友发送相关反馈。例如，用户在Netflix上对电影给出的评级就可以借助Facebook Connect反馈给好友。虽然谷歌、Twitter和MySpace都推出了类似的通用登录服务，但Facebook Connect的普及率远超竞争对手。Facebook希望在2010年成为用户通向其他网络世界的一扇窗口。
+　　Facebook在2009年对隐私策略进行了一些更改，取消了区域性网络，开放对象也不仅限于好友和好友的好友，而是可以在用户允许的情况下向搜索引擎开放。微软必应(Bing)也首度开始索引Facebook的信息。实时网络搜索引擎将成为Facebook和其他许多网站2010年的重要流量来源。
+　　4、Facebook将拓展到更多地区
+　　宽带尚未普及到全球，某些区域仍在使用拨号网络。Facebook今年9月推出了简化版的Facebook Lite。这一服务明显是在挑战Twitter，但却可以让更多网速较慢的用户得以更好地享受到Facebook的服务。
+　　尽管Facebook已经在多数发达国家占据主导地位，但仍然存有例外。例如，谷歌Orkut就在巴西占据领先地位。Facebook正在努力改善这种状况，并且已经开始帮助用户通过Facebook来寻找Orkut的好友。Facebook 2010年还将开展更多类似的措施，以便将触角拓展到更多区域。
+　　5、推出虚拟货币
+　　去年3月就有消息称Facebook准备推出虚拟货币平台。将类似于PayPal的平台与Facebook Connect整合到一起的确是明智之举，Facebook可以为Facebook Connect的数千个独立站点提供支付服务，并从每笔交易中获得一定的分成。虽然该服务目前还未推出，但2010年有望成型。(书聿)
+

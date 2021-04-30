@@ -1,0 +1,7 @@
+Twitter：我们并未积极开发Mac版官方客户端
+　　新浪科技讯 北京时间10月19日上午消息，据国外媒体今日报道，Twitter表示，该公司并没有积极开发官方Twitter客户端Tweetie for Mac。
+　　该消息最早由Twitter联合创始人埃文·威廉姆斯(Evan Williams)透露。他在回答网友提问时说：“Tweetie for Mac并不是我们当前积极投入的对象。”威廉姆斯此前刚刚卸任Twitter CEO一职，并将注意力放在产品战略上。
+　　随后，Twitter发言人卡罗琳·潘奈尔(Carolyn Penner)也证实了这一消息，她表示：“我们并没有积极制定Tweetie for Mac 2的计划，但是我们将为现有用户维护该应用。例如，今年夏天，我们对该客户端进行了升级，使之可以使用OAuth，并改进了对MagicMouse的支持。我们还将免费提供这款应用。”
+　　Tweetie for Mac是由洛伦·布里切特(Loren Brichter)的Atebits Software公司开发的一款产品，而iPhone版Tweetie今年4月已经成为Twitter的官方iPhone客户端。
+　　但是从威廉姆斯和潘奈尔的表态来看，这款原本非常有创意的Mac版Twitter客户端的发展速度将会放缓。尽管现有产品仍将可以使用，但却缺乏对“转推”和“列表”等新功能的支持。(书聿)
+

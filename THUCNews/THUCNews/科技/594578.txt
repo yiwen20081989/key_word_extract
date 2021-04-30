@@ -1,0 +1,9 @@
+Salesforce将进军数据库市场挑战甲骨文
+　　新浪科技讯 北京时间12月7日晚间消息，云计算软件公司Salesforce将进军数据库软件市场。这一市场目前每年价值达210亿美元，而Salesforce将需要挑战市场的领先者甲骨文。
+　　Salesforce目前是全球最大的云计算软件公司，该公司周二宣布推出新的Database.com服务。Salesforce正在寻求使软件业务的营收多样化。长期以来，Salesforce的软件主要为了满足企业在销售和营销活动中的需求。不过，为了推动营收的增长，Salesforce正在涉足其他一些领域。
+　　Database.com与Salesforce的现有产品采用同样的云计算模式。Salesforce将运营这一数据库，而客户将可以通过基于互联网的安全连接来访问数据库。Salesforce的收费主要包含软件成本、主机成本和数据存储成本。
+　　Database.com将于明年正式上线，能够存储Facebook、Twitter，以及iPhone、iPad和Android应用的数据。该数据库服务也适用于运行在亚马逊、谷歌和微软云计算操作系统之上的应用。
+　　甲骨文、微软和IBM等领先的数据库厂商通常要求企业首先购买数据库软件，安装在自己的计算机中，并雇佣专门的人员来维护这些系统。Gartner分析师多纳德·费恩伯格(Donald Feinberg)表示：“这是一种不同的发布方式，在某些情况下可能很有用。”
+　　费恩伯格表示，Database.com是市场上第二款基于云计算的数据库管理软件系统，第一款是微软的SQL Azure。他认为，Salesforce进军这一市场将推动此类服务的普及，因为Salesforce在服务的可靠性和数据的安全性方面有良好口碑。
+　　Salesforce CEO马克·贝尼奥夫(Mark Benioff)将于周二在旧金山的一次会议上发布该服务。(李慧)
+

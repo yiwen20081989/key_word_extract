@@ -1,0 +1,6 @@
+配置都不太高 HTC SAGEMotion参数曝光
+文/andy921
+    HTC的新机最近曝光很多，日前，在国内一家博客上再次曝光了两款从未曝光过的新机的参数，两款机型分别是HTC SAGE和HTC Motion，两款机型在配置上都不是很高。
+    先来看看HTC SAGE，这款机型是一款采用Windows Mobile 6.5系统的机型，该机采用的是Qualcomm MSM7625的处理器，主频为528MHz，被配备了512MB的ROM和384MB的RAM，并搭载了一枚500万像素的摄像头，支持自动对焦和闪光灯，唯一比较悲剧的是该机只有一块3.2英寸大的QVGA分辨率屏幕。
+    另外一款被称为HTC Motion的机型比较神秘，HTC Motion仅仅采用了Qualcomm MSM6290处理器，主频只有300MHz，配备的ROM也只有256MB，RAM只有128MB，屏幕也是一块3.2英寸大的WQVGA分辨率屏，电池容量为1000mAh，支持HSDPA 3.6Mbps。这样的低端的配置在现在的HTC机型中很少见，不过也并不是没有，不知道大家还记得一款名为HTC Smart的机型，该机是HTC与高通合作生产的首款采用Brew MP系统的机型，该机的配置与这款HTC Motion十分类似，处理器也是300MHz的Qualcomm MSM6290，我们可以大胆猜测，这款HTC Motion将会是HTC第二款采用Brew MP系统的新机。
+

@@ -1,0 +1,6 @@
+微软计划今春为Kinect发布Windows SDK
+　　新浪科技讯 北京时间2月22日上午消息，微软宣布计划在今年春天为Kinect推出免费的 Windows SDK(软件开发工具包)，微软此举意在为Kinect营造一个更为丰富的研发体验，以吸引更多的应用开发者。
+　　微软CEO史蒂夫·鲍尔默（Steve Ballmer）此前曾不断重申微软将在Windows系统中引入Kinect。Kinect Windows SDK便是由微软研究中心与微软互动娱乐部门(Interactive Entertainment Business)联合研发推出的，它将于今年春天开放免费下载。
+　　微软透露，Kinect Windows SDK使开发者能够访问Kinect系统，包括声音、API以及直接控制Kinect。微软还计划推出付费版的Kinect Windows SDK。
+　　Kinect Windows SDK很明显秉承了微软的自然用户界面(Natural User Interfaces)系列的理念，它包括Kinect for Xbox 360、Windows Phone 7、Microsoft Surface 2.0、Bing for Mobile以及Office 2010 Mini Translator。(建林)
+

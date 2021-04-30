@@ -1,0 +1,5 @@
+大儿子失宠 Nexus One无法升Android4.0
+　　Nexus系列机型一直被誉为谷歌“亲儿子”系列，此中足见谷歌对它们提供的强有力支持，但现在看来Nexus One(参数 报价 图片 论坛 软件)用户要失掉恩宠了——谷歌刚刚官方宣布Nexus One将无法升级到Andorid4.0。
+　　其实并不是谷歌不想为Nexus One提供Android 4.0升级支持，而是Nexus One的硬件已经无法满足Android4.0的基本需求，但是作为其后续机型，Nexus S将能够获得谷歌官方的Android4.0升级。 
+　　不过Nexus One用户也不必过于担心，因为第三方团队已经将Android4.0固件移植到了这款机器身上，不过如果你希望有更好的体验的话，还是换一台最新的Android机器吧。
+

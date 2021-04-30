@@ -1,0 +1,5 @@
+谷歌将免费提供声音识别软件Voice Action
+　　新浪科技讯 北京时间8月19日早间消息，据国外媒体报道，谷歌在上周举行的Voice Action和Chrome to Phone发布会上宣布，将免费提供一款声音识别软件Voice Action。
+　　上周的发布会上，谷歌首先演示了近年来手机计算能力的发展，随后开始展示谷歌产品，其中包括Voice Action和Chrome to Phone这样的新产品。其中，Voice Action是一款声音识别软件，由谷歌免费提供；而用户借助Chrome to Phone就能将应用和歌曲等从电脑传输至手机。当今年秋季谷歌推出谷歌电视时，Chrome to Phone功能也将附带其中。
+　　需要指出的是，上述两款应用只能在Android 2.2及以上版本操作系统使用。(子云)
+

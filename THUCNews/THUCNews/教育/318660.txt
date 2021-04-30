@@ -1,0 +1,24 @@
+GRE阅读之漫谈：学G万事不绝对
+　　到新东方最早接触的就是GRE阅读，个人对其有深刻的感情。日思夜想，魂牵梦萦的的后果，即对它有一些自己的想法，零碎点点总结成小文一篇，望能对考生能有些许启发。
+　　GRE阅读之结构套路
+　　GRE 阅读虽然在难度，篇幅上“骇人不浅”，但好在这样的学术文章，有其严格的写作结构套路。前人曾把其总结为：现象解释，新老观点，结论解释，问题解答。实则也即议论文的两大文体：立论与驳论。搞清了这一点，也即搞清了G阅读中的孰轻孰重：态度与观点重于一切。考生若能作到对此成竹在胸，即可拿到大多数G阅读中的基本分。很多语言功底很强的人，初次接触G阅读的时候，会冷汗频频，手脚同抖的原因就是在于对G阅读的专业学术论文的本质不了解。这在新东方课堂上已有详细讲解，在此不再赘述。
+　　GRE阅读之逻辑不“逻辑”
+　　虽然新G在中国大陆登场的时候，取消了逻辑部分，ETS并宣称已将这一部分融入了阅读和写作当中，但笔者个人认为，G阅读中出现的逻辑题实在少之又少，如果写作中的argument勉强算为逻辑题的话，那阅读中的所谓WAS(weaken, assumption, support)对于逻辑功夫超强的中国考生实在不能算逻辑，只能算小把戏 。所以过去称GRE阅读考的是逻辑，个人认为比较牵强。
+　　笔者认为G阅读其实本质上还是对中国考生的语言功底和理解能力有更高的要求。08年10G的开篇阅读第一句中be at issue with sb’s opinion。若认识该短语，即明白，某人的观点与某人相反，不认识，靠上下文去猜，固然也可以，但又可能浪费一定的时间，而G考试的时间是何其地宝贵，对心理上也会造成不小的压力。作者对某一事物是认可还是让步地认可，一个by and large(很大程度上)，即明白。若能抓住G阅读的结构套路，则能抓住基本分，即500到600分。但是要想往更高处爬，需要深厚的语言功底和理解力。
+　　众所周知，G阅读的答案一般来讲一定是文中原话的改写，也即我们称为叫作paraphrase。而这paraphrase是要功底的：先要理解原文，然后要理解选项，再作配对。很多考生之所以想定位，但未遂，其中一个重要因素就是对文中的语句理解有严重的偏差。上课听老师说和分析觉得很有道理，一旦自己看了，又不知所措。试看几例。 　　
+　　Eg.1 文中说：carry with them information about the cite and circumstances of their production.。
+　　就是选项里的：carry information about their history with them 　
+　　E.g.2文中说：For a similarly convincing re-creation of such families’ emotions and responses，the English novel had wait 60 years for the early writing of D.H. Lawrence。
+　　题干里问，English and the early novels of D.H. Lawrence share which of the following。
+　　文中的similar对应选项里的share. 定位到了就是答案。 　
+　　E.g.3文中说minimal bases，选项里对应sufficient ground。
+　　这些语句的理解是对考生的考生的理解能力与语言功底的考核，和逻辑关系并不太大。语言功底也包括字词理解的问题，不可否认，对阅读肯定有致命的影响。比如rather，并不能单纯地理解为“相反”。表示“相反”固然可以，可以说The desks are not white, but rather a sort of dirty。(桌子不是白的，而是灰不溜楸的)。但是它也可以表示“更确切地说”，通常跟在or后，此时就表示递进而不再是转折，可以说They were enjoying themselves, or rather, they appeared to be enjoying themselves(他们玩得很开心，或者更确切地说，他们装得玩地很开心)。是转折还是递进，要根据上下文来理解。而转折和递进若是判断错误，一般是致命的理解失误。再比如，detached。不能笼统地说这个词在态度题里出现就一定错。detached有两种意思，一个表示“冷漠的，没有感情的，超然的”。这个意义在态度题里面一般是错误的，因为作者写这个文章即表示“关注”，不大会“冷漠”。但是它还有一个意思是“公正的，客观的”。a detached view解释为“客观的观点”，这个时候，这个选项就很可能对。再比如critic，中国学生比较熟悉的意思是“批评家”，那么如果表示此意思，则“批评家的观点”是不同的观点。但该词也表“评论家 ”，显然意义是不同的。
+　　这样的例子数不胜数，中国同学对学术文章的不熟悉，对一些抽象词的理解失败，对整个语言上的理解能力的限制，导致了G阅读成了考试中的绊脚石。在此笔者认为，尽管语言功底的提高不是一蹴而就的，但可以靠强化训练，提高不少。最好的材料，也即GRE阅读本身。考生平时在做阅读题练习时要遵循三个步骤。
+　　首先先掐时间，按照考场要求去完成文章阅读和题目，尽可能去理解。第二步，对答案，并把理解有误区的，或者不认识的对通篇文章理解有重要作用的单词进行查阅。第三步，也是最重要的一步，要反复读文章(有时甚至可以采取出声阅读)，体会文章的语义，深层含义，体会你作为一个第二语言学习者，因为时间仓促读第一遍时没有读出的内容。这一个步骤是能帮助你真正提高成绩的。中国考生，往往做到第二步就止住了，殊不知，相同的或类似的错误不再犯的前提，是要对错误有一个全面认识的。
+　　再有，考生若有足够的时间准备GRE，比方说两年，是可以在头一年的时候，多读一些学术作品的，比如像本专业的一本进口书籍，以加强语感，加深语言功底，为适应GRE阅读做好铺垫。
+　　GRE阅读之阅读与issue一家亲
+　　有人曾说，G阅读枯糙乏味，只有考试的意义，没有仔细阅读或记诵的必要。对此，笔者认同一半。G阅读枯糙是事实。学术文章不可能具有很强的趣味性。但是再反过来看，这不正是issue所需要的吗？中国学生写issue最大的困难，没例子，没话说，文章布局不知如何安排，不知从何下手。何不看看现成的GRE阅读材料。G阅读在论证上很少采用通篇对某一事件持绝对态度，正反论证，让步说理，尽管有些观点从专业学术角度是错误的，但让读者在看的时候无不佩服作者论证的到位，歪理也歪地有理。Issue的写作也是一样，除个别题外，正反或多角度考虑问题通常更有说服力。再有，G阅读中，有大量的例子，做题时当然一般不用关注，但重读时何不做一个积累。G文章里有谈到艺术的，人文的，科学的，有很多的文章并不像别人所形容的那样“不堪入目”，静下心来，很多的好的句子可以做一个积累。类似于像 Whether or not a composition establishes a new principle in the history of music has little bearing on its aesthetic value. Because they embody a new principle of organization, some musical works, such as the operas of the Florentine Camerata, are of signal historical importance, but few listeners or musicologists would include these among the great works of music. On the other hand, Mozart’s the Marriage of Figaro is surely among the masterpieces of music even though its modest innovations are confined to extending existing means。(是否一个作品建立了在音乐史上的新的体系和美感是没有什么联系的。由于有一些音乐作品体现了一种新的结构原则，比方说像佛罗伦萨乐团的歌剧，是具有重要的历史意义的。但是没有什么聆听者或音乐研究人员会把这些作品说成是伟大的音乐作品。另一方面，莫扎特的音乐被归为大师之作，尽管作品受延伸现存手法的限制，只有轻微的改变)这样的句子，不管是例证，还是说理都很到位，值得学习记诵。而一个例子通常可以在多篇文章中进行修改使用，何乐而不为？
+　
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

@@ -1,0 +1,11 @@
+统计表明IE的浏览器市场份额在持续下滑
+　　根据互联网分析企业Net Applications的资料，12月里各大网站访问者中使用微软Internet Explorer浏览器的比例在下降，而使用苹果Safari、Mozilla的Firefox和Google的Chrome浏览器的比例在上升。
+　　根据Net Applications上周五在其Hitslink网站上提供的初步统计数字显示，12月中监控到的网络冲浪者有68.15%使用Internet Explorer，低于11月时的69.77%和10月时的71.27%。IE的市场份额在2008年初时还有大约75%，之后就不断下滑。
+　　Safari、Firefox和Chrome都从IE的这种逐渐失宠中获益，其中Firefox的市场份额从11月的20.78%上升到21.34%，而Safari则从10月时的6.57%上升到11月时的7.13%后，继续攀升到12月的7.93%。
+　　在Net Applications的统计里，Google的Chrome浏览器市场份额突破了1%的关口，达到1.04%，10月和11月时分别只有0.74%和0.83%。
+　　Opera的市占率仍然维持在0.71%的水平。
+　　Net Applications提醒说，12月份中互联网在办公室的使用量减少可能会造成结果出现一些偏差。“12月是假日档期，造成家用比商用更有优势，这将导致Mac、Firefox、Safari和其他家庭使用率相对较高的产品的使用比例有所上升，”它说。
+　　尽管如此，Net Applications的数字表明，Internet Explorer的市场份额12月时的下滑速度实际上要比11月时慢。
+　　Net Applications提供的操作系统统计数字显示，Macintosh电脑用户对于操作系统供应商所提供的浏览器的忠诚度比Windows用户更高。Mac OS的市场份额从11月的8.87%轻微上升到12月时的9.73%，相当于Safari的使用率也有同比例的增长。互联网冲浪者中使用Linux桌面系统的比例稳定在0.85%，而在11月时是0.83%。Windows使用率从11月时的89.62%下滑到88.68%，比IE使用率的下滑幅度要小得多。
+
+

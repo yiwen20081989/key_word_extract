@@ -1,0 +1,6 @@
+Skype发布Android 2.0版支持视频通话
+　　新浪科技讯 北京时间6月30日晚间消息，Skype今日发布了最新的Android 2.0版Skype ，允许用户通过Wi-Fi和3G网络进行视频通话。
+　　要使用视频通话功能，智能手机的操作系统要求是Android Version 2.3或更高版本，并配备前置摄像头，当前支持该功能的手机包括HTC Desire S、索尼爱立信Xperia neo和Xperia pro，以及Google Nexus S。
+　　Skype表示，不久以后会有更多手机支持视频通话功能。安装Android 2.0版Skype后，用户将可以通过其Android手机与iPhone、Mac、Windows PC和一些电视机上的Skype好友进行视频通话。
+　　除了视频通话功能，新版Skype还增加了其他一些功能，如低价拨打世界各地的座机和手机，或发送短信等。新版Skype对界面进行了全新设计，应用菜单顶部增加了信息对话框，允许用户与好友分享自己的状态。(李明)
+

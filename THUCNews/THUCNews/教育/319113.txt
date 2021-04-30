@@ -1,0 +1,6 @@
+托福作文评分重大改革 采用E-Rater电脑评分
+　　从2010年1月开始，iBT的写作评分系统出现重大调整。由原来的2篇文章各2个评分员评分，取4个人评分的算术平均分作为raw score原始分，改为2篇文章各1个评分员和1个电脑评分系统(e-Rater)评分，取2个人和2个e-Rater的算术平均分作为原始分。ETS研究发现，1人1机的correlation评分相关性要好于两个人的评分相关性，所以做出此项更改。
+　　这是一个由ETS自主开发的作文评分系统。首先这个E-Rater评分系统首先被使用在iBT新托福考试的“独立作文”(independent writing task)之中，也就是国内所说的“大作文”之中。至于何时在综合作文之中采用，ETS并没有给出明确的说法。
+　　这个E-Rater评分系统，对于GRE考试来说，并不会感到陌生，因为这个评分系统被ETS首先用在GRE考试，它可以有效地从逻辑性、词汇准确性上对于作文做出整体的判断。当然就和GRE考试一样，这次ETS在独立作文上对于E-Rater的使用也是仅仅局限在Linguistic features(语言因素)上，仅仅用Linguistic这个单词来解释显得过于单一了，我们还是来看看韦氏词典对于“语言学”Linguistics的解释：the study of language in general and of particular languages, their structure, grammar, and history。从这里我们可以很明显地看到，所谓语言学，也就是从语法、结构等几个方面来进行判断。
+　　在这里特别强调：在使用E-Rater电脑评分的同时，ETS将继续采用人工评分。这里的人工评分，并不是说由人工评分一次，然后再由E-Rater电脑评分一次，最后取平均值，而是E-Rater负责Linguistic的部分，然后人工负责内容和含义的理解，最后再将两个部分的分数相加，得到考生的作文分数。用ETS的话说，这样得到的分数，将是“难以匹敌的准确”！
+

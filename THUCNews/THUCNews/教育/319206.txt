@@ -1,0 +1,97 @@
+名师详解：新托福听力主旨题答题技巧
+　　新托福听力考试总共有六大技巧的测试与考核。与这六大技巧相对，ETS有六大题型的测试，分别是：主旨题、细节题、句子功能题、态度题、结构题和推论题。而托福官方指南将这六大考题细归类为B, P, C三部分(Basic Comprehension Question, Pragmatic Comprehension Question, Connecting Information Question)。B部分包括：主旨题和细节题；P部分包括句子功能题和态度题；C部分又包括结构题和推论题。
+　　在这六大题型中，出镜率最高、几乎每篇文章(我们知道托福听力考试涉及的文章有两种：conversation和lecture)都会涉及到的题目就是主旨题。把握好主旨题同样又是解答其他题目的关键。什么是主旨题呢？ETS官方给出的解释是：对话和讲座的大概意思，即文章主要涉及的是什么内容！关于主旨题，其实很多学生发现它是所有题型中最简单的一道题目。可是往往我们如果不掌握一定的解题技巧和关键策略的话这道题同样可能丢分。所以，把握好主旨题是解题的重中之重。
+　　下面我就如何解答主旨题做一下总结与点评：
+　　1、主旨题在原文和题目中的位置
+　　首先，大家要明确托福听力考试的一大特色就是题目顺序与文章的行文顺序相一致。所以，同学们要明确的是主旨题出现在文章的开头部分，绝对不会出现在文章的中间部分。其中需要注意的一点是，在结尾部分同样可能会出现帮助解答主旨题的解题内容。因为老师很可能对文章内容进行概括和总结。那么，结尾部分就可能出现主旨题的答案！但是，这种情况比较少见！所以按照文章的行文顺序，主旨题题目一般只会出现于第一道题。所以通常，不管是conversation还是lecture，主旨题都会出现于首道题目。明确了题目的位置之后，我们来看一下主旨题的分类。
+　　2、主旨题题型分类及典型问法
+　　主旨题分为目的主旨和内容主旨。
+　　目的主旨： 考查对话目的而非内容，即两个说话者的对话目的和教授讲这篇文章的目的。目的主旨一般出现于conversation中。
+　　目的主旨典型问法：Why does the student visit the professor?
+　　Why does the student visit the registrar’s office?
+　　Why did the professor ask to see the student?
+　　Why does the professor explain X?
+　　内容主旨： 要求考生理解讲座或对话的主旨大意。材料有时会明确提出主旨，有时会很含蓄。 要求学生对听到的信息进行归纳总结。
+　　内容主旨典型问法：What problem does the man have?
+　　What are the speakers talking about?
+　　What is the main ideaof the lecture?
+　　What aspect of X does the professor mainly discuss?
+　　3、主旨题解题技巧
+　　关于解题技巧大家应该首先注意的是这两种题型与大家词汇量的多少无关。也就是说，词汇量即使很少也不会给这两种题型的解题造成障碍。首先要听准开头；特别是开头句型，之后找出对话目的；如果开头没有把握准，那么要注意全文重复词汇；最后要听准关键词并对实义词(名词、动词、形容词)足够敏感。那么，如何听准开头呢？在conversation和lecture的开头中，有的文章会出现寒暄部分。
+　　比如，在conversation中两个说话者的在开头部分都会出现互相问好的寒暄语：
+　　e.g.1 A : Hey, how is everything going?
+　　B: Well, everything is going fine。
+　　e.g.2 A: Hi, are you Paula?
+　　B: Oh, hi, Jim. Nice to see you!
+　　在这些寒暄之后说话人A说Do you need some tutoring in English? 说话人B说：yes, I am taking English composition and my English is not very good. 这才是文章的真正内容，也就是文章的主旨！所以选项的相应部分选择的是：She needs a tutoring appointment!
+　　在lecture中，有时教授上来不会直接切入正题，而是先会寒暄几句。
+　　例1： 有个教授上来先说I am sorry that I didn’t bring your paper, and it took longer to grade than I thought. So I will bring you the paper next class. Today, I want to continue our topic about Renaissance. 所以 “I am sorry that I didn’t bring your paper, and it took longer to grade than I thought. So I will bring you the paper next class。” 这句话都是在说与文章主旨无关紧要的话。而真正与文章主旨有关的是以today开头的这句话！所以，显而易见，这篇文章的主要内容就是Renaissance(文艺复兴)。
+　　例2： In the last class, we discussed the Jazz music history. But today, I am going to talk about the development of the jazz music. 那么很显然，In the last class, we discussed the Jazz music history。这是上节课讲的内容。在强转折but之后，老师紧接着说I am going to talk about the development of the jazz music. 那么，文章的主旨也就很明确了。
+　　在了解了如何在文章的开头抓主旨以后，我们再来看一下引导文章主旨的信号标志词，以便我们更好地定位选项。
+　　4、主旨题的信号标志词
+　　Lecture引导主旨题信号标志词总结
+　　1) 总结口语词后的动词词组：
+　　• today we will talk about.。.
+　　• today we will discuss.。.
+　　• today we will look at.。.
+　　• today we will tell.。.
+　　2) 旧托福：
+　　• today we will spend several minutes in.。.
+　　• today we will focus on.。.
+　　• today we will concentrate on.。.
+　　3) 动词时态
+　　• 've, -ed
+　　• will, be going to
+　　4) 介词 ：
+　　• about
+　　注意点：在第三条中，动词过去式和过去分词后面引导的都是上节课涉及到的内容，所以即使大家听到了discuss这个词也可以放弃这部分内容。而只要听好并把握准today后面要讲的内容即可，也就是be going to/will 后面引导的内容！那么，about就是一个经常引导主要内容的一个介词。这个词很关键，要求听准其后面的宾语是什么！因为这个宾语就是解题的关键。
+　　Conversation 引导主旨题信号标志词总结
+　　1. wonder (e.g. I was wondering,…)
+　　2. think (e.g. I am thinking, I was thinking,…。)
+　　3. hope (I was hoping,…)
+　　4. need (Do you need, I need…。)
+　　5. figure out, work out, sort out,
+　　conversation的主要内容，一般情况下都是以上的这些词引导的。常用句型已在后面括号中标注出来。请同学们谨记在心。
+　　5、主旨题的选项特征
+　　在选择选项的时候，大家一定要避免选择如下选项：1) 范围小－细节进入主旨题(最常见)；2) 范围大－没锁定主旨；3)不正确选项(即文章中根本没有涉及到的内容)
+　　正确选项特征如下：( 以下是比较典型的主旨题的选项特征 )
+　　1)长的名词结构：(技巧：先定位比较of和that前面的词，在原文中找同意替换。之后确定of和that后面的宾语是否符合原文)
+　　a) …of…。
+　　b) …that…
+　　e.g. Script
+　　So, I wanted to discuss a few other terms here…actually, some, uh some ideas about how we manage our resources. Let’s talk about what that…what that means. If we take a resource like water…well,
+　　Q: What is the talk mainly about?
+　　A. A common method of managing water supply。
+　　B. The formation of underground water systems。
+　　C. Natural processes that renew water supplies。
+　　D. Maintaining the purity of underground water system。
+　　文章中的这句话 “I wanted to discuss a few other terms here…some ideas about”很明确的点出了文章的内容主旨。根据上面的讲解，我们很容易把握discuss和about这两个词！所以，about后面的“how we manage our resources”就是文章的主旨了！所以根据同义替换，我们可以将“how”这个词替换为A选项的method而且of 后面的宾语(managing water supply)也同原文内容(how we manage our resources)一致！正确答案为A.。
+　　2). 以how, what, why开头
+　　e.g. Script
+　　…so the Earth’s surface is made up of these huge segments, these tectonic plates. And these plates move, right? But how can, uh, motion of plates, do you think, influence climate on the Earth? Again, all of you probably read this section in the book, I hope, but, uh, uh, how— how can just motion of the plates impact the climate?
+　　Q: What is the main topic of the talk?
+　　A. The differences in climate that occur in different countries。
+　　B. How movement of the Earth’s plates can affect climate。
+　　C. Why the ocean has less effect on climate than previously thought。
+　　D. The history of the climate of the region where the college is located
+　　这道题可以明显根据部分文章重复找出答案！重复句式为“But how can, uh, motion of plates, do you think, influence climate on the Earth?”去掉其中的插入语，我们可以提炼出“how can motion of plates influence climate on the Earth”。与这句话一致的是B选项！其中，可以找到原文与选项的同义替换是motion=movement、effect= impact/ influence。从这道题目可以看出：特殊疑问词也是主旨题正确选项的一大特征！
+　　3) To do
+　　e.g. Script (lecture)
+　　Ok. Another ancient Greek philosopher we need to discuss is Aristotle? Aristotle’s ethical theory. What Aristotle’s theory is all about is this: he is trying to show you how to be happy—what true happiness is。
+　　Q: What is the main purpose of the lecture?
+　　A. To illustrate the importance of extrinsic values
+　　B. To explain Aristotle’s views about the importance of teaching
+　　C. To explain why people change what they value
+　　D. To discuss Aristotle’s views about human happiness
+　　“To do”结构在主旨题中出镜率很高，目的主旨的选项大部分以to do结构开头。那么，解题的宗旨就是比较动词do的形式和用词！如果原文中用到的动词与选项一致，同学可以首先定位此选项，再比较后面的宾语即可。 “Ok. Another ancient Greek philosopher we need to discuss is Aristotle? Aristotle’s ethical theory。”从原文中可以看到discuss这个词，那么这个词正好与D选项中的discuss相吻合，而其后的宾语“human happiness”也一致！所以答案无可厚非为D。若选项中 “do”的形式与原文不一致，那么我们需要做的就是同义替换。请看下面的例子：
+　　e.g. Script (conversation)
+　　• S: I was hoping you could look over my note cards for my presentation…just to see what you think of it。
+　　• P: Okay, so refresh my memory: what’s your presentation about?
+　　Q: Why does the student visit the professor?
+　　A. To get some note cards for his presentation
+　　B. To show her some examples of common errors in research
+　　C. To review the notes for his presentation with her
+　　D. To ask for help in finding a topic for his presentation。
+　　在这篇文章中，引导conversation主旨题的标志词是I was hoping， 在其之后出现的动词关键词是look over。名词关键词为：note cards for my presentation。所以，与原文一致的选项应该找look over的同义替换，即review！所以应该选择C选项。
+　　以上就是主旨题需要注意的细节信息和解题技巧，希望能对大家在准备托福听力考试的过程中起到指引作用。
+

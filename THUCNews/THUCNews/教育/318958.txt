@@ -1,0 +1,69 @@
+名师指导：SAT语法中的逻辑主语问题
+　　逻辑主语问题是SAT语法部分的一个常见问题，对于句子修改题(Improving Sentences)而言更是如此。为了帮助SAT考生迅速理解这个问题并掌握解决办法，本文拟从它的常见形式与修改方法两个方面进行阐述。
+　　一、常见形式
+　　逻辑主语问题的常见形式有下列几种：
+　　1. 句子以现在分词开始
+　　例如，
+　　Lacking good instruction, my mistakes in creating a graph to illustrate historical trends were numerous. ( 句子以现在分词lacking开始)
+　　(A) my mistakes in creating a graph to illustrate historical trends were numerous
+　　(B) I made numerous mistakes in creating a graph to illustrate historical trends
+　　(C) there were numerous mistakes in the graph I created to illustrate historical trends
+　　(D) I created a graph to illustrate historical trends with numerous mistakes
+　　(E) The graph I made for illustrating historical trends had numerous mistakes
+　　2. 句子以过去分词开始
+　　例如，
+　　Carried by the strong, dry winds of the stratosphere, the 1980 eruption of Mount Saint Helens caused dust that crossed the United States in three days and circled the globe in two weeks. (句子以过去分词carried开始)
+　　(A) the 1980 eruption of Mount Saint Helens caused dust that
+　　(B) Mount Saint Helens’ eruption in 1980 caused dust that
+　　(C) dust from the 1980 eruption of Mount Saint Helens
+　　(D) dust from the 1980 eruption of Mount Saint Helens that
+　　(E) there was dust from the 1980 eruption of Mount Saint Helens and it
+　　3. 句子以介词加动名词开始
+　　例如，
+　　By simply entering an internet website or calling a toll-free number, a catalog order can be placed for almost anything from cheesecakes to fully equipped desktop computers. (句子以介词by加动名词entering…or calling…开始)
+　　(A) a catalog order can be placed
+　　(B) by placing a catalog order
+　　(C) they will place your catalog order
+　　(D) you can place a catalog order
+　　(E) your catalog order can be placed
+　　4. 句子以连词加分词或形容词开始
+　　例如，
+　　While driving down the road, the house with the large yard and small pond attracted the family’s attention. (句子以连词while加分词driving down…开始)
+　　(A) the house with the large yard and small pond attracted the family’s attention
+　　(B) the house having the large yard and a small pond attracted the attention of the family
+　　(C) the house with the yard and small pond was attractive to the family’s attention
+　　(D) the family’s attention was attracted by the house with the large yard and small pond
+　　(E) the family was attracted to the house with the large yard and small pond
+　　二、修改方法
+　　从语法上而言，如果句子开始是分词结构，那么它的逻辑主语必须是整个句子的主语。在修改句子题中，却往往相反，即句子的主语不是分词结构的逻辑主语。修改的方法是“一步必杀”法：将句子的主语替换为分词结构的逻辑主语(一般藏在句子中)。正确答案通常就是以分词结构的逻辑主语为句子主语的选项。根据“一步必杀”法，上述句子修改如下。
+　　1. Lacking good instruction, my mistakes in creating a graph to illustrate historical trends were numerous。
+　　(A) my mistakes in creating a graph to illustrate historical trends were numerous
+　　(B) I made numerous mistakes in creating a graph to illustrate historical trends
+　　(C) there were numerous mistakes in the graph I created to illustrate historical trends
+　　(D) I created a graph to illustrate historical trends with numerous mistakes
+　　(E) The graph I made for illustrating historical trends had numerous mistakes
+　　现在分词lacking的逻辑主语，即整个句子的主语应该是“I”，而实际上却是“my mistakes”。修改时只需要将句子的主语改为“I”就可以了。符合这个要求的有(B)与(D)两个选项，其中(D)选项将numerous mistakes放错了位置，使得整个句子意思荒谬。因此(B)为正确答案。这也告诉考生，正确答案只要改正原句的主要错误就可以了，而无须做太多额外的修改，因为与原句相比，这么做将使改后的句子变得面目全非。
+　　2. Carried by the strong, dry winds of the stratosphere, the 1980 eruption of Mount Saint Helens caused dust that crossed the United States in three days and circled the globe in two weeks. (句子以过去分词carried开始)
+　　(A) the 1980 eruption of Mount Saint Helens caused dust that
+　　(B) Mount Saint Helens’ eruption in 1980 caused dust that
+　　(C) dust from the 1980 eruption of Mount Saint Helens
+　　(D) dust from the 1980 eruption of Mount Saint Helens that
+　　(E) there was dust from the 1980 eruption of Mount Saint Helens and it
+　　过去分词carried的逻辑主语，即整个句子的主语应该是“dust”(dust 被winds吹走)，而实际上却是“eruption”。修改时只需要将句子的主语改为“dust”就可以了。符合这个要求的有(C)与(D)两个选项，其中(D)选项保留了原句的that，使得that之后的crossed成了that引导的从句的谓语，也使得整个句子没有谓语，因此(D)为干扰选项， (C)为正确答案。
+　　3. By simply entering an internet website or calling a toll-free number, a catalog order can be placed for almost anything from cheesecakes to fully equipped desktop computers. (句子以介词by加动名词entering…or calling…开始)
+　　(A) a catalog order can be placed
+　　(B) by placing a catalog order
+　　(C) they will place your catalog order
+　　(D) you can place a catalog order
+　　(E) your catalog order can be placed
+　　介词by之后的动名词entering与calling的逻辑主语，即整个句子的主语应该是人，例如you、one等，而实际上却是“a catalog order”。修改时只需要将句子的主语改为人就可以了。符合这个要求的有(C)与(D)两个选项，其中(C)选项存在代词混用的情况(they与your无法协调) ，因此(C)为干扰选项， (D)为正确答案。
+　　4. While driving down the road, the house with the large yard and small pond attracted the family’s attention. (句子以连词while加分词driving down…开始)
+　　(A) the house with the large yard and small pond attracted the family’s attention
+　　(B) the house having the large yard and a small pond attracted the attention of the family
+　　(C) the house with the yard and small pond was attractive to the family’s attention
+　　(D) the family’s attention was attracted by the house with the large yard and small pond
+　　(E) the family was attracted to the house with the large yard and small pond
+　　连词while之后的现在分词driving down的逻辑主语，即整个句子的主语应该是人，也就是句中的family，而实际上却是“the house”。修改时只需要将句子的主语改为family就可以了。符合这个要求的只有(E)选项，因此 (E)为正确答案。(D)选项 的主语是attention，而不是family，因此是干扰选项 。
+　　由此可见，对于SAT语法部分的问题，只要理解了其性质，都能找到快捷高效的处理办法。这也正是SAT教师业务的精髓所在。
+　　作者简介：新航道国际教育集团总裁助理，著名英语教学与测试专家，哈佛才子、剑桥大学硕士，北京新航道学校SAT语法/托福写作/GRE首席主讲。早期担任新东方研发中心负责人期间，组织并参与编写第一本中国自主研发的GRE试题集，创立《新东方英语》、四级阅读与雅思词汇课，同时主讲GRE阅读。2004年加盟新航道，成为创业团队核心成员之一，曾任北京新航道学校副校长。多年来培训数十万人，学员遍及海内外，现已出版多部各类英语考试方面的权威著作。
+

@@ -1,0 +1,10 @@
+谷歌关闭10项边缘业务 覆盖桌面软件等领域
+　　新浪科技讯 北京时间9月3日早间消息，谷歌周五关闭10项边缘业务，覆盖社交搜索、桌面软件和网页安全等多个领域。
+　　自从今年1月谷歌联合创始人拉里·佩奇(Larry Page)接替埃里克·施密特(Eric Schmidt)，成为谷歌新任CEO以来，他一直致力于精简公司运营，退出那些细分业务，专注于最重要的领域。
+　　在宣布这一消息时，谷歌高级副总裁阿兰·尤斯塔斯(Alan Eustace)称这是一场“秋季大扫除”，反映了佩奇的战略思维。尤斯塔斯说：“这将大大简化产品结构，提升整体用户体验。我们将可以把更多资源投入到重要产品中。”
+　　他表示，这些遭到关闭的业务的全体雇员将被转移至谷歌内部的其他职位上。
+　　其中一些业务是谷歌通过收购获得的，如谷歌2010年以5000万美元收购的社交搜索引擎Aardvark，以及2007年通过收购Postini部分业务而成立的Google Web Security。
+　　另一些业务则一度被谷歌大肆鼓吹。其中包括网页报刊阅读应用Fast Flip，它是由谷歌美女副总裁玛丽莎·梅耶尔(Marissa Mayer)在2009年的TechCrunch50大会上隆重推出的；还包括PC文件搜索应用Google Desktop，当谷歌在2004年推出这一服务时，盛赞其表现比Windows XP的原生搜索功能更强。
+　　谷歌即将关闭的业务还包括：Google Pack，一个可供下载的软件工具集合；Google Image Labeler，用户可以用它标记图片，改善谷歌图片搜索结果；Google Notebook，使用户可以将经过缩减的URL与个人笔记结合起来；网络内容评价应用Sidewiki；搜索结果定制工具Subscribed Links；Google Maps API for Flash，方便ActionScript开发者将谷歌地图整合到自己的应用中。
+　　今年6月，谷歌宣布关闭Google Health、Google PowerMeter Services和Google Labs。上周，谷歌又关闭了照片分享服务Photovine。佩奇治下的谷歌正在不断“瘦身”。(彦飞)
+

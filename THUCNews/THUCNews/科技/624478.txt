@@ -1,0 +1,14 @@
+PROMISE将于2011Computex展出磁盘阵列存储产品
+　　云存储、企业数据中心、安全监控、行业视频剪辑及采用Thunderbolt的存储产品
+　　磁盘阵列领导厂商PROMISE Technology  Inc即将于5月31至6月4日，台湾台北举行的Computex展中，展出全系列的磁盘阵列存储解决方案。PROMISE展出主题包括云存储及数据中 心、数字多媒体剪辑、采用Thunderbolt技术的存储设备、数字安全监控、虚拟化应用及中小企业网络备份等多样化存储解决方案。
+　　Computex为全球第二大信息展，规模仅次于德国汉诺威举办的CeBIT展。Computex  2011预计超过一千八百个厂商参展，吸引超过三万六千名参观者，包括买主、产业分析师、传媒等。各家厂商将在Computex展中精锐尽出，展出最新的 科技，形塑明日世界的科技。
+　　“PROMISE于15年前即开始参加Computex展，见证了Computex发展成全球第二大展的历史。今年PROMISE 的摊位将会是存储产品区最大的展示区，将为各位来宾展出PROMISE最新的产品，以及和合作伙伴共同开发的解决方案。”PROMISE董事长暨总经理李 志恩表示。“我们诚挚的邀请通路伙伴、技术第三方以及所以的参观者，前来PROMISE摊位参观全方位、针对各种垂直应用的磁盘阵列存储产品。”
+　　PROMISE于Computex 2011展出重点
+　　云存储及数据中心解决方案 ?  针对云服务业者及企业数据中心，PROMISE提供了高效能、高可用性及高性价比的存储解决方案。VTrak  S3000产品提供了数据中心多种数据服务，例如远程灾难备援、精简存储配置、快照等功能，优化磁盘阵列存储系统的使用效率。VTrak  x30系列产品则是新一代的高可用性、高效能存储系统，采用Intel Xeon C3500处理器及8G  FC光纤信道接口的支持，可提供较前一代产品四倍的效能，适合对效能又高度需求的数据中心建置使用。
+　　与资策会共同研发云端贮存应用 ? PROMISE将和资策会 (财团法人信息工业策进会) 展出共同研发的企业云端贮存装置  (Cloud Object Storage Appliance)，该服务是基于PROMISE x86 平台的 SmartStor NSx700 及  VessAPP  产品开发，提供企业用户即插即用、快速导入的在线文件共享平台。企业云端贮存装置可支持多种个人计算机、工作站操作系统以及行动装置，透过专用软件或网页 浏览器进行档案分享。
+　　多媒体/数字后制解决方案 - VTrak x30系列为通过苹果Mac OS X认可的存储产品，提供Mac OS X、XSAN或Final Cut PRO的数字多媒体制作环境高效能、高可用性的存储解决方案，加速多媒体、数字后制的制作效率。
+　　采用Thunderbolt技术的存储设备 ?  Thunderbolt技术为Intel开发的新一代高速I/O技术，PROMISE的Pegasus产品为业界首款采用Thunderbolt接口的外 接式硬件磁盘阵列，提供超过800MB/s的传输速度。另外针对新一代Macbook  Pro和iMac用户，PROMISE的SANLink光纤转换器，提供用户透过Thunderbolt端口，连接至光纤存储区网(FC  SAN)的应用环境。
+　　数字安全监控存储 ?  PROMISE将展出和多个NVR/DVR或监控软件厂商合作的安全监控解决方案。PROMISEVessRAID  1000i系列提供了8/12/16等多种硬盘数目的iSCSI外接式存储，并可透过JBOD扩充至最高112个硬盘。针对有大容量存储需求数字化、高画 质的安全监控来说，是极佳的解决方案。PROMISE另外展出VessApp  1810i产品，采用x86平台，可提供安全监控业者快速导入安全监控软件，担当中小型监控的网络监控服务器使用。
+　　虚拟化解决方案 ? PROMISEVessRAID 1000系列产品均通过”VMWare Ready”及”CITRIX Ready”等主流虚拟化平台认证，可快速融入企业现有的虚拟化环境使用。
+　　中小企业NAS备份 ? 针对中小企业用户，PROMISE推出的SmartStor  NSx700系列产品，提供了高达210MB/s的高效能的iSCSI速度，满足中小企业用户所需。此外，SmartStor  NSx700系列亦提供多种备份解决方案，例如Amazon S3云端备份及Mac OS X Time Machine的支持。SmartStor  NSx700系列出货亦随付Acronis Backup &Recovery软件，可提供多组Windows计算机、服务器的自动备份。
+

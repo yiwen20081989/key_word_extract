@@ -1,0 +1,77 @@
+考研英语翻译技巧之名词性从句
+　　一、主语从句
+　　(一)以what, whatever, whoever, whether, when, where, how, why等词引导的主语从句，在翻译的时候，一般可以按照英语原文顺序来翻译。
+　　What he told me was only half-truth。
+　　他告诉我的只是些半真半假的东西而已。
+　　Whatever is worth doing should be done well。
+　　任何值得做的事情都应该做好。
+　　Whether he comes or not makes no difference。
+　　他来不来都没有关系。
+　　When we can begin the expedition is still a question。
+　　我们何时才能开始这次考察仍然是悬而未决。
+　　How he is going to do it is a mystery。
+　　他准备怎么做这个事情是个迷。
+　　(二)用it作形式主语的主语从句，可以把主语从句放到汉语句子最前面去翻译。为了强调起见，it一般可以译出来；如果不需要强调，it也可以不译出来。
+　　It doesn’t make much difference whether he attends the meeting or not。
+　　他参加不参加会议没有多大关系。(It没有翻译)
+　　It seemed inconceivable that the pilot could have survived the crash。
+　　驾驶员在飞机坠毁之后，竟然还能活着，这看来是不可想象的。(It翻译为“这”)
+　　有时候，如果主语从句仍然按照英语原来的顺序翻译的话，it一般不需要译出来。在汉语译文的开始，一般可以用“.。.的是，.。.”这样的结构来翻译。
+　　It is strange that she should have failed to see her own shortcomings。
+　　真奇怪，她竟然没有看出自己的缺点。(It不用翻译，还可以用“奇怪的是.。.”这样的结构来翻译)
+　　二、宾语从句
+　　(一)用that, what, how, when, which, why, whether, if 等引起的宾语从句，翻译成汉语的时候，一般不需要改变它在原句中的顺序。
+　　I told him that because of the last condition, I’d have to turn it down。
+　　我告诉他，由于那最后一个条件，我只得谢绝。
+　　Can you hear what I say?
+　　你听得到我所讲的吗？
+　　I don’t know that he swam across the river。
+　　我不知道他游过了那条河。
+　　I don’t know how he swam across the river。
+　　我不知道他是怎么游过那条河的。
+　　He has informed me when they are to discuss my proposal。
+　　他已经通知我他们将在什么时候谈论我的建议。
+　　有时可加“说”字，再接下去翻译译英语原文宾语从句的内容。
+　　Smith replied that he was sorry。
+　　斯密斯回答说，他感到遗憾。
+　　He would remind people again that it was decided not only by himself but by lots of others。
+　　他再三提醒大家说，决定这件事的不只是他一个人，还有其他许多人。
+　　(二)用it 作形式宾语的句子，在翻译的时候，that所引导的宾语从句一般可按英语原文顺序翻译；it有时候可以不用翻译。
+　　I made it clear to them that they must hand in their papers before 10 o’clock in the morning。
+　　我向他们讲清楚了的，他们必须在上午十时前交卷。(it没有翻译)
+　　I heard it said that he had gone abroad。
+　　听说他已经出国了。(it没有翻译)
+　　但有时候，也可以在译文中将that引导的宾语从句提前到句子最前面翻译。
+　　I regard it as an honor that I am chosen to attend the meeting。
+　　我被选参加会议，感到光荣。(it没有翻译)
+　　We consider it absolutely necessary that we should open our door to the outside world。
+　　打开国门，实行开放，我们认为这是绝对必要的。(it翻译为“这”)
+　　三、表语从句
+　　It seems that it is going to snow。
+　　看起来要下雪了。
+　　That is why Jack got scolded。
+　　这就是杰克受到训斥的原因。
+　　The question remains whether we can win the majority of the people。
+　　问题是我们能否赢得大多数人民群众的支持。
+　　His view of the press was that the reporters were either for him or against him。
+　　他对新闻界的看法是，记者们不是支持他，就是反对他。
+　　四、同位语从句
+　　能接同位语从句的名词主要有：belief(相信)，fact(事实)，hope(希望)， idea(想法，观点)，doubt(怀疑)，news(新闻，消息)，rumor(传闻)，conclusion(结论)，evidence(证据)，suggestion(建议)，problem(问题)，order(命令)，answer(回答)，decision(决定)，discovery(发现)，explanation(解释)，information(消息)，knowledge(知识)，law(法律)，opinion(意见，观点)，truth(真理，事实)，promise(承诺)，report(报告)，thought(思想)，statement(声明)，rule(规定)，possibility(可能)等。
+　　(一)一般来说，同位语从句可以直接翻译在主句后面。
+　　He expressed the hope that he would come over to visit China again。
+　　他表示希望再到中国来访问。
+　　There is a possibility that he is a spy。
+　　有可能他是一个间谍。
+　　(二)有时候在翻译同位语从句时，可以将其放在所修饰的名词前面，相当于前置的修饰语，但不一定使用定语的标志词“的”。这种情况下，同位语从句都是比较简单。
+　　We know the fact that bodies possess weight。
+　　我们都知道物体具有重量这一事实。
+　　The rumor that he was arrested was unfounded。
+　　关于他被捕的传闻是没有根据的。
+　　(三)增加“即”(或者“以为”)这样的词来连接，或用冒号、破折号直接分开主句和同位语从句。
+　　But this does not in any way alter the fact that they are now, from a practical point of view, irrational。
+　　但这却丝毫改变不了这样一个事实，即从实用的观点来看，他们今天仍是不合理的。
+　　We have reached the conclusion that practice is the criterion for testing truth。
+　　我们已经得出这样的结论：实践是检验真理的标准。
+　　Not long ago, the scientists made an exciting discovery that this waste material could be turned into plastics。
+　　不久前，科学家们获得一个令人振奋的发现——可以把这种废物变成塑料。
+

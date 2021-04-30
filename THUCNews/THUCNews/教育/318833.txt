@@ -1,0 +1,14 @@
+托福指导：浅析关系词对阅读的帮助
+　　潘文艳
+　　所谓的关系词，其实就是以某种逻辑关系来连接词语或句子的词或词组，比如我们都很熟悉的and，but，such as等。雅思阅读的文章以科普类的说明文或议论文为主，这类文章通常有着十分严密的逻辑结构，句子和句子、段落和段落之间有着严谨的逻辑关系，因此能够在这些文章当中看到关系词的大量使用。我们发现，也许是受到国内英语课堂上精讲教学模式的影响，很多学生总是习惯性的去试图理解甚至翻译他们所读到的每一个句子，而忘了考试的时间根本不允许这么做。对于雅思阅读来说，对文章结构的把握要比对文章内容的把握来得更重要，而掌握了文章里的关系词其实就更容易掌握住文章的结构。除了文章的结构之外，关系词对于雅思阅读的做题同样有着非常重要的帮助。
+　　关系词从逻辑功能的实现来分类的话，一般可以分为转折(but)、让步(although)、对比(unlike)、并列(and)、递进(moreover)、举例(for example)、因果(because)、类比(like)和总结(in general)这九类。而从所连接信息的方向来分的话，其实只有两类，第一类是改变方向，包括转折、让步和对比；其余剩下的都是第二类，维持方向。比如，如果听到某人说：“I’d love to go with you，but…”这时我们心里一定都会感觉到这人十有八九去不了了。而如果他说的是：“I’d love to go with you，and…”那么后面的话至少不会表达出不去的意愿。也就是说，维持方向的关系词连接的前后信息必须是同向的，而改变方向的关系词所连接的信息则应该是反向的。当我们在做题的时候，可能有些句子结构或单词不理解，如果句子中有关系词，那么至少可以帮助我们判断出句意的方向，而有些题目只需要判断出方向其实就能得出答案。下面举两个判断题的例子进行说明。
+　　原文：IPhone is gaining popularity, despite its cost。
+　　题目：IPhone is costly。
+　　题目要我们判断iPhone 是否昂贵，但原文并没有直接给出其价格的高低。可是我们注意到原文句子中含有一个关系词despite，它是属于改变方向的词，也就是说despite前后连接的这两个句子方向得相反。前面说iPhone越来越受欢迎，应该算是件好事，那么后面说到它的价格，显然是不能令人满意的，也就是比较贵，这样才符合句意的逻辑。因此我们马上就可以判断出该题的答案是TRUE。
+　　原文：Baekeland’s invention (Bakelite)， although treated with distain in its early years, went on to enjoy an unparalleled popularity which lasted throughout the first half of the twentieth century。
+　　题目：Bakelite was immediately welcomed as a practical and versatile material。
+　　这是剑5Test2的12题，题目要我们判断Bakelite是不是马上受到欢迎，原文提到它treated with distain in its early years，但麻烦的是可能会有相当部分的同学不认识distain 这个词，这样似乎就没办法判断出Bakelite在早年被如何对待。但是千万要注意这个句子有一个关系词although，它表示让步，属于改变方向，那么由它连接的两个句子句意得是相反的，这样我们可以试图从已知推未知。后面这句话我们从enjoy，popularity可以得出一个信息，就是Bakelite在20世纪的前半期一直是受欢迎的，方向是好的，那么前半句treated with distain in its early years必须就要表达出不好的信息，也就是在前几年受到不好的对待，这样才能符合句子逻辑。因此，我们马上就可以做出判断，既然在前几年受到不好的对待，那么Bakelite就不可能马上受到欢迎了，因此该题的答案是FALSE。这样，我们在考试时根本就不用具体去理解distain(指名誉受损)的真正含义，只用判断方向照样能够做对题目。
+　　除了判断题之外，关系词对Summary题也十分有用。Summary是文章或部分段落的缩写，有时候某些词同义替换的形式变化比较大，如果只用关键词去查找，很多时候并不容易定位。但是不管词怎么变，逻辑关系一般不变。如果题目中表达出因果关系或转折关系，那么所找到的原文一般也会表达出同样的逻辑关系。这样，我们就可以利用上关系词来帮助一起定位。
+　　比如剑5Test2的30~31题：In Britain, moreover, scientists worried that English had neither the 30________ nor the 31________ to express their ideas。这两道题用词去查找并不好定位。但我们也要注意到这两个空有一个关系词词组“neither…nor…”，它们表示并列，并且是否定的并列。通过这点在原文中很容易就注意到有一个信息是：“First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources…”其中，“First…, Second…”表达出了两样事物的并列，而lack(缺乏)这个单词则表达出了否定。这样就比较容易能够定位到这两句话并且得出答案是technical vocabulary和grammatical resources。
+　　相对浩瀚的英语单词词海来说，关系词要少得多，也相对容易掌握。而于单词或语法还没有相当纯熟的同学来说，关系词多少都可以弥补我们不足的地方。因此，建议大家在背单词的千秋大业开始的时候，最好把所有的关系词以及它们的用法先牢记，这份努力一定会为我们带来事半功倍的回报。
+

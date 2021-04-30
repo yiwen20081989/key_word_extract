@@ -1,0 +1,6 @@
+传华硕Transformer Prime四核平板推迟发布
+　　据台湾《电子时报》报道，来自上游供应链的消息称，原定于11月9日发布，运行Android 3.2操作系统的华硕Transformer Prime将推迟至12月上旬，因Google同意帮助华硕做最后调整，使这款"Kal-El"Tegra 3四核SoC平板直接搭载Android 4.0 Ice Cream Sandwich上市。
+　　消息来源同时指出，由于之前Google对帮助台系厂商从Android 3.0升级至Android 4.0的行动不太热情，这些公司可能会将目光更多投向明年即将面世的Windows 8。
+　　消息来源称，随着Google对升级系统提供帮助逐渐积极起来，这一姿态可能会帮助Google抵御微软Windows 8的压力，同时也可促使微软降低Windows 8授权费。
+　　目前对于Transformer Prime的真面目我们还只能从谍照一窥究竟……
+

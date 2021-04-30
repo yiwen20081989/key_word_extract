@@ -1,0 +1,6 @@
+Facebook从电子邮件供应商列表中删除Gmail
+　　新浪科技讯 北京时间11月21日上午消息，知情人士称，Facebook已经将谷歌Gmail从第三方电子邮件供应商列表中删除。
+　　据悉，Facebook正在把Gmail从“查找好友”(Find Friends)的第三方电子邮件供应商列表中删除。而就在几天前，Facebook用户还可以看到直接的链接，下载Gmail联系人信息。
+　　当前，如果使用Gmail帐户登录Facebook，则用户仍可以看到从Gmail添加好友的选项。但如果真正导入好友列表时，则系统会给出提示“该列表中的好友已经导入Facebook”。但事实并非如此，意味着该功能已经失效。
+　　如果使用非Gmail帐户登录，则用户根本看不到导入Gmail联系人选项。另外，Facebook旗下的Friendfeed墓前同样无法导入Gmail联系人。对此，谷歌表示，谷歌一方并未发生任何变化，而Facebook尚未发表评论。(李明)
+

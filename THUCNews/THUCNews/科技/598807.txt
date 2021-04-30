@@ -1,0 +1,9 @@
+消息称Silverlight将停止开发 微软未置可否
+　　新浪科技讯 北京时间11月11日晚间消息，有分析人士指出，在Adobe宣布放弃开发移动版Flash之后，微软(微博)最终也可能放弃开发Silverlight。
+　　Adobe周三宣布，将不再为移动浏览器开发Flash Player，公司未来的发展方向是桌面浏览器、移动应用和HTML5。
+　　对此有分析人士称，Adobe转向HTML5可能迫使微软放弃Silverlight富媒体平台，转而集中开发HTML5。微软于2007年推出Silverlight，旨在挑战Flash，但并未取得太大成功。
+　　Silverlight 5将于本月晚些时候推出，除了微软自己的IE浏览器，目前还不清楚是否支持其他浏览器。而Silverlight 6是否有机会面世还是个未知数。有知情人士称，Silverlight 5正式版仅支持IE，并不支持Mac OS平台或其他任何浏览器。
+　　最初，微软曾努力将Silverlight集成到自己产品中，如Zune HD、Windows Phone和Xbox 360等设备中。但由于Silverlight并未达到预期目标，微软有些泄气，并缩减了Silverlight团队规模。
+　　分析人士还称，微软停止开发Silverlight后，所使用的XAML标记语言、 C#、VB和.NET编程语言等技术将继续沿用。
+　　对此，微软发言人称：“Silverlight 5 RTW(ready to web，正式版)将按期发布，至于未来版本目前还没有相关消息发布。”(李明)
+

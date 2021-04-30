@@ -1,0 +1,7 @@
+ThinkPad本加入新技术 可同步黑莓邮件
+　　根据国外媒体的报道，联想公司近日和RIM公司达成了合作，ThinkPad笔记本将支持同BlackBerry(黑莓)智能手机进行邮件同步。
+　　联想将在ThinkPad笔记本加入Constant Connect技术，可向用户提供无与伦比的便利体验，并可实时进入企业邮件。Constant Connect技术允许笔记本同步在BlackBerry智能手机上接受到的企业邮件，通过蓝牙技术实现。这一技术允许ThinkPad笔记本在关闭下进行同步。
+　　联想希望通过新技术能够让经常在旅途中的ThinkPad商务用户拥有更好的移动处理和通讯体验。Constant Connect技术也极大地方便了用户通过ThinkPad笔记本进入邮件，同时大大减少了使用付费的Wi-Fi无线网络的次数。
+　　带有Constant Connect技术的ThinkPad笔记本将于今年的第二季度正式问世，全球市场有望在2009年后期全面推广。联想CEO杨元庆表示：随着越来越多的用户对黑莓手机和ThinkPad笔记本这两者的一老，联想认为让两者更好地结合非常必要，现在推出的Constant Connect解决方案只是迈向有价值和强力移动体验的第一步。
+
+

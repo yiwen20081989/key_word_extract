@@ -1,0 +1,42 @@
+GMAT考试之逻辑中的“削弱”
+　　本文选自新浪博客《广土润泽》的博文，点击查看原文>>
+　　削弱——被定义为逻辑的一种题型。是指在命题中给出一个推理，然后从选项中找出一个能够使得这个推理不成立，或者是使得命题中推理过程受到怀疑的题目类型。
+　　在命题中使用的语言有：
+　　undermine，
+　　weaken，
+　　the argument is flawed primarily because，
+　　which of the following，if true，most strongly indicates that the 　　logic of the ……is flawed?，
+　　which of the following，if ture，is most damaging to the position of ……?
+　　which of the following，if true，would cast the most serious doubt on the accuracy of ……
+　　The ……argument is flawed because it false to consider that……
+　　尽管不同命题使用的表达方法有轻微变化，但是考生通过对OG124道逻辑题目通读第二遍的时候，应该形成题型的概念，而且应该在第二遍解题之后，对削弱题型做出系统归纳。
+　　这里所谓的归纳，并不是说把所有逻辑题目中削弱题型堆积在一起，尽管这样做也比什么都不做有很多的帮助，这种做法只是在形式上完成了归纳。所谓的本质上归纳，是要理解命题的结构。既然是削弱，命题必然提供一个推理，这个推理的表现形式可以有万千变化，但其核心一定是：“因为A，所以B”而且命题中一般会有明确的逻辑标志词来划分推理的结论部分和前提部分。考生在解题中关键不是读懂题目的意思和题目要表达的事情本身，而是注意推理过程。
+　　“因为A，所以B”这个推理本身是无法成立的，需要一个大前提“只要有了A就必然有B”当然这个前提可以变化成上千种不同的表达方式，正如乔姆斯基所说，有限的语法结构可以产生无限的句子。比如，一种变化的大前提是：“所有的A都是B”，有了这样的前提才能是推理“因为A所以B”在逻辑上成立。至于A和B分别是什么，和我们解题几乎毫无关系。
+　　如果命题就是“因为A所以B”，哪个选项可能削弱推理呢？
+　　考生看下面的选项：
+　　A是非常昂贵的
+　　C并不是D
+　　有些人非常讨厌A
+　　大家可以看到这些都是毫无关系的选项， 明显对于推理毫无削弱的作用。
+　　但是看这个选项如何：
+　　“有很多情况下A出现的时候，都出现了C， 而C 被科学或者医学证明绝对不等于B的，这是因为C在基因组成的过程中……不拉不拉一堆你根本不懂的单词和医学术语。”但是这就是正确的选项了，因为这个选项本质就是“因为A并不导致B”这就是最有效的削弱。
+　　遗憾的是不少人被解释为什么C 不是B的命题陷阱所干扰捕获。
+　　如果我们能从这个方面明白什么叫做削弱，再解题就容易多了。
+　　请大家打开OG12版486页的逻辑第一题：
+　　“Life expectancy”is the average age at death of the entire live-born population。In the middle fo the nineteenth centurry，life expectancy in North America was 40 years，whereas now it is nearly 80 years。Thus，in those days，people must have been considered old at an age that we now consider the prime of life。
+　　which of he following，if ture，undermines the argument above?
+　　好了，题目看到这里，不需要看选项，我们先看到题干中的THUS这个标志词语，后面的就是结论B，而前面的所有内容都是A。
+　　第一句说 Life Expectancy (LE)是所有人口的从出生到死亡的年龄平均值。如果我们把一个人从生到死的年龄记为A1，另外一个人的年龄记为A2，依次类推第N个人的年龄记为An，那么
+　　LE = (A1 + A2 + A3 + …… + An) / N
+　　命题第二句说十九世纪的LE= 40，而今天的LE = 80，
+　　这能否得出结论说：今天还很年轻的人在十九世纪被认为很老呢？ (换成公式就是：19世纪的Ai小于今天的 Ai)也就是说并不能因为 LE提高了，就得出结论说任何一个An也提高了。换句话说，几个数的平均值增加了，不能说这每一个数值都增加了。
+　　怎样能削弱这个结论呢？ 你看五个选项：
+　　十九世纪中叶N很小，今天N 很大。
+　　过去150年内LE 的增长是因为刚出生就死亡的人数减少了。
+　　如果命题推理是：因为A所以B，而第二个选项就是说 B 是因为C，而C并不是A。这就是正确选项。
+　　注意第二个选项的措辞：
+　　most of the gains in life expectancy in the last 150 years have come from ……
+　　这就等于说 今天LE 比 十九世纪LE 大(命题的结论) 是因为……
+　　这种明显的答案应该引起考生高度关注。就是你判断选项是否正确，不是糊里糊涂地感觉，而是非常科学地推理分析，题目做多了，就能找到真正的解题规律。说穿了，我解题的所有技术并不是来自于什么书籍的分析，而是来自于自己不断的思考和无数次的解题。
+　　千万不要以为题目做了一遍知道答案就了事了，其实再做一遍，再做一遍，再做一遍的无数次重复一定有很丰富的收获。盛中国拉小提琴梁祝，他告诉记者自己练习了至少十万遍。请问你如果想把逻辑做到95%的正确，你是否要至少做个9遍呢？
+

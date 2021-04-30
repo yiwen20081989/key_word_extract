@@ -1,0 +1,5 @@
+Adobe CEO称iPhone缺少Flash错在苹果
+　　新浪科技讯 北京时间3月24日晚间消息，据国外媒体报道，Adobe CEO塔努·纳雷恩(Shantanu Narayen)周三在2010财年第一季分析师电话会议上表示，iPhone没有Flash是“苹果方面的问题”。
+　　1月份，苹果CEO史蒂夫·乔布斯(Steve Jobs)指责Adobe动作迟缓，并表示Adobe完全有能力做这个事情却不愿做。去年，两家公司均表示，正为iPhone平台上的Flash共同努力。但Adobe却为iPhone推出了一个独立的、不在浏览器中运行的Flash版本。2月底，乔布斯表示，Flash非常耗费CPU资源，最近他还指出，未来没有人会用Flash，世界会转向HTML5。
+　　Adobe对乔布斯的言论极为不满，针对iPhone版本Flash问题，纳雷恩周三表示：“Adobe一直都致力于将Flash推广到所有平台。(iPhone中没有Flash)这是苹果的问题，需要去问苹果。”(肖恩)
+

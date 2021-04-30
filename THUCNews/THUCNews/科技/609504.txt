@@ -1,0 +1,6 @@
+塞班+Win7双系统 富士通LOOX F-07C上市
+文/李晶
+    富士通LOOX F-07C终于于23日由日本运营商NTT DoCoMo展开销售，这款商务强机同时搭配了Symbian和Windows 7两款系统。
+    富士通LOOX F-07C硬件配置堪称豪华，采用了4英寸SVGA 屏幕，分辨率为1024x600像素， 1.2GHz Intel Atom Z600 CPU处理器，1GB LPDDR400 RAM内存，32GB eMMC SSD，一颗500万像素的主摄像头，另前置一颗VGA视频摄像头。在手机模式下，可待机长达600小时，通话时长为370分钟；Windows 7模式下，续航时间为2小时。
+    该机三围尺寸为125mmx61mmx19.8mm，重量为218克。
+

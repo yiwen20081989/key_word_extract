@@ -1,0 +1,7 @@
+Twitter每天消息量达2.3亿条 45%来自移动设备
+　　新浪科技讯 北京时间9月28日凌晨消息，据美国科技博客AllThingsD报道，Twitter工程副总裁迈克尔·阿尔伯特(Michael Abbott)周二表示，Twitter每天的消息量发送量达到2.3亿条，其中45%是来自移动设备。
+　　阿尔伯特在旧金山举行的GigaOM移动大会上表示，Twitter最早的SMS短信平台继续发挥作用，Twitter用户每天接收和发送40亿条短信。
+　　随着Windows Phone和苹果最新版iOS直接将Twitter应用集成到了系统中，Twitter还将从移动设备中获得更大收益。阿尔伯特希望Twitter能进一步提高竞争力，来挑战Facebook在验证应用(authenticating apps)上的统治地位。他说：“我想这对于网络来说是件好事。”
+　　阿尔伯特认为，随着Facebook进一步增加新功能，Twitter将会简化并统一用户体验，这和Twitter CEO迪克·科斯特洛(Dick Costolo)之前对于Twitter简洁性的评论不谋而合。
+　　阿尔伯特曾在Palm负责webOS的开发，对于惠普webOS买家的问题，阿尔伯特拒绝置评，只表示：“我不太确定，业界变革实在太快。”不过他也表示，webOS的通知和多任务创新功能将继续影响移动世界。(晓明)
+

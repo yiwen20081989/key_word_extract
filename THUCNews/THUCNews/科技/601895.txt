@@ -1,0 +1,6 @@
+独特魅力 俄罗斯曝光双屏Android手机
+    文/Lokia
+    自从Google推出免费授权的Android系统之后，一时间各个厂商均陆续推出采用Android系统的相关产品，甚至还出现了“山寨Android手机”。同时各个厂商为了避免功能上的过分同质化而在部分设置当中进行改动，例如三星i7500并没有随大流地使用轨迹球而是传统的导航键，并配置的LED补光灯和快门键。而这次曝光的Android手机Highscreen PP5420更是直接采用了前几年一度流行的双屏幕设计。
+    这款由俄罗斯Vobis Computer所推出的Highscreen PP5420有着较为怪异的双屏幕设计，下方的小型OLED屏除了可以显示信息之外，还能直接充当触控板或者鼠标等用途。然而Highscreen PP5420本身的主屏幕便以支持触控功能，再弄一个独立的触控板会不会显得多此一举呢？相信之下将原有屏幕面积增大估计会更受用户认可。
+    Highscreen PP5420硬件参数型号： Highscreen PP5420CPU：Qualcomm MSM7201ATM (528MHz)OS：Android OS 1.5通话系统：GSM 850/900/1800/1900；WCDMA/HSDPA 7.2Mbps/HSUPA内存：128MB无线：WiFi、蓝牙2.0+EDR屏幕：3寸，分辨率WQVGA，采触控相机：3百万像素，可AF储存：256MB ROM、microSD扩充其它：GPS、重力感应器、FM、TV-out、mini USB重量：120克（含电池）
+

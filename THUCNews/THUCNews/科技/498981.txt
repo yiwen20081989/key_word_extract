@@ -1,0 +1,24 @@
+2011年MWC HTC主打5款新机介绍、盘点
+    2011年的移动世界大会（简称MWC）各手机厂商展台几乎都被Android机器人所占领着，这个可爱的小家伙注定要火遍今年的手机市场。之前夏普天天嚷嚷的裸眼3D手机好像并没有像预期的那样与大家见面，反而是2010年在手机界黯然失色的LG变成了黑马，展会上LG展出的Optimus 3D手机无疑是火了一把，让不少手机玩家对这款“利器”充满了期盼。
+    提到Android大家自然而然想到的是HTC，对于国内市场来说HTC这个品牌如同Android系统的摇篮，正是因为HTC这个品牌，让不少人接触到了Android，体验过Android平台手机的人会更加去关注这个品牌，从而形成了一个良性循环。
+    HTC在国内水货市场中一直充当着高端智能机的领导者，随着Android系统平台的普及，HTC也把更多的市场投放在中端以及入门机型中。此次2011MWC上HTC总共展出了5款新手机。分别是Desire S、Wildfire S、ChaCha、Salsa、Incredible S，其中Wildfire S作为入门机型主打Android中低端市场，而Desire S和Incredible S作为新代旗舰统领高端市场，至于ChaCha和Salsa是专卖为facebook用户设计的，相信喜欢用手机聊天的朋友一定会对它俩爱不释手。
+    来张“全家福”看看他们的雄姿！~为了使大家更好的了解HTC在2011MWC上发布的5款手机，在每款机型的文字介绍下面都附有视频介绍连接，HTC粉丝们可以先过过眼瘾哈！~
+    HTC Desire S是HTC在2011年移动世界大会上发布的一款智能旗舰手机。这款手机搭载目前最新的Android 2.4版本系统以及HTC Sense UI。作为HTC Desire的后续产品，HTC Desire S采用了传统的直板造型，金属一体成型机身设计为这款手机带来了更为出色的质感。
+    硬件方面，HTC Desire S 拥有一块3.7英寸WVGA分辨率电容式触摸屏幕，采用了1GHz主频的高通Snapdragon MSM 8255处理器芯片组，同时这款手机的RAM则升级至768MB。在摄像头方面，HTC Desire S却仍然配备的是一枚500万像素摄像头。
+HTC Wildfire S
+    HTC Wildfire S是Wildfire的升级版，定位于中低端入门级智能手机，该机搭载Android 2.4系统版本，采用MSM 7227处理器，主频提升至600MHz。配3.2英寸的TFT材质屏幕，分辨率提升至320×480像素，改善了HTC Wildfire备受诟病的分辨率问题。
+    摄像头方面没有任何提升，依然是支持自动对焦的500万像素摄像头，在Wildfire S中加入了30万像素的前置摄像头，并且支持蓝牙3.0。
+    Wildfire S视频地址：点击即可收看
+HTC Incredible S
+    去年HTC联合运营商Verizon发布了Droid系列旗舰产品Incredible令我们印象深刻，今天Incredible的升级版正式亮相MWC，正式命名为HTC Incredible S。
+    HTC Incredible S从硬件配置有了不少的提升，屏幕HTC Incredible 3.7英寸提升到了4英寸，分别率达到了800x480，屏幕的上方设有一颗130万像素摄像头，支持视频通话，Incredible S采用了高通MSM8255 主频道1GHz的处理器，内置了768MB内存，机身的背面镶嵌了一颗800万像素的摄像头，配备了双LED闪光灯。支持自动对焦以及702P高清视频拍摄。
+    HTC Incredible S视频地址：点击即可收看
+HTC ChaCha
+    HTC ChaCha是专门为那些经常使用Facebook的用户而设计的,采用了高通MSM7227处理器，运行频率为600MHz，搭载的也是Android智能系统，机身内存为512MB RAM+512MB ROM，机身厚度仅为10.7毫米，总重为120克。
+    ChaCha采用了一块2.6英寸的触控屏幕，分辨率是480x320像素，支持WCDMA网络,新增加了GPS芯片，可以起到导航的作用。ChaCha同样采用了蓝牙3.0技术，机身背部搭载了一枚500万像素摄像头，支持自动对焦并配有LED补光灯
+    HTC ChaCha视频地址：点击即可收看
+HTC Salsa
+    HTC Salsa同样是针对facebook用户推出的一款网络社交手机。该机采用了一块3.4英寸触控屏幕，分辨率为480x320像素，机身为直板触控设计。
+    搭载高通MWS7227主频为600MHz的处理器，机身内存为512B RAM，同时它搭载了Android智能系统。Salasa的机身尺寸是109.1x58.9x12.3毫米，重120克。机身设有3.5毫米耳机接口以及micro USB数据接口，机身背部设有一枚500万像素摄像头，支持自动对焦并配有LED补光灯，随即配备1520毫安时电池一块。
+    HTC Salsa视频地址：点击即可收看
+

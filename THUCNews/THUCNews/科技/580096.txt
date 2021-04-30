@@ -1,0 +1,7 @@
+Facebook Messenger代码隐藏视频会议功能
+　　新浪科技讯 北京时间8月10日下午消息，Facebook最新推出的独立聊天应用的代码显示，该产品内隐藏了一项视频会议功能。
+　　Facebook周二公布了Facebook Messenger应用，不仅可以收发即时信息，还可以与Facebook的其他通讯功能进行整合。
+　　据美国科技博客9to5Mac透露，Facebook Messenger中隐藏的视频会议代码可以与Android和iPhone兼容，并且有可能与Facebook最近发布的Skype桌面视频会议功能有关。
+　　如果具备视频聊天功能，独立的Facebook Messenger应用将对谷歌Chat和苹果iMessenger等竞争对手构成更大的威胁。
+　　Facebook尚未对此置评。(鼎宏)
+

@@ -1,0 +1,8 @@
+完美变革之作 Windows Phone 7全解析
+文/孟滨
+    进入2010年以来，微软Windows Phone 7 Series操作系统成为最受手机用户关注的消息。在MWC 2010上率先发布了用户界面的Windows Phone 7系列，经过一系列的公布，特别是日前举行的MIX10大会上发布了软件开发工具以及应用程序商店之后，其细节正在逐渐走向清晰。
+    不过，由于采用Windows Phone 7操作系统的手机产品尚未面世，关于这一系统的认识也显得支离破碎，因此，我们希望通过本篇汇总让大家对它有个相对清晰的了解。
+    关于Windows Phone 7系列
+    从命名我们就可以看出微软Windows Phone 7系列将是微软手机操作系统的一次革命性改变。微软取消了此前Windows Mobile的命名规则，“Windows Phone 7 Series”听起来似乎更像Windows 7在手机平台的延续，未来微软或许真的会将Windows Phone系列的命名和桌面操作系统保持一致。
+    事实上，Windows Phone 7系列相比此前的Windows Mobile系列在系统基础上也有了改变，它的核心是Windows CE 6 kernel，而Windows Mobile系列则是建立在Windows CE 5之上。另外，Windows Phone 7还将融合微软旗下的Zune、XBOX核心组件。
+

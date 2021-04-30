@@ -1,0 +1,48 @@
+考研英语阅读理解PartA的命题思路和题型
+　　来源：太奇考研
+   最近看了美国《GMAT阅读理解题》，觉得回味无穷，深感美国对研究生入学英语阅读理解考试的要求除了理解细节之外还有如下特点：
+　　要求考生理解全文的主旨；
+　　要求考生理解全文的逻辑框架；
+　　要求考生理解段落与段落之间的逻辑关系；
+　　要求考生在理解段落细节以后，能够对其进行类比；
+　　要求考生在理解段落细节以后，能够对其进行推理判断；
+　　要求考生理解作者或某人物对所述事例的观点、态度和看法；
+　　要求考生理解段落内论点与论据、细节与主题之间的逻辑关系。
+　　美国《GMAT阅读理解题》 与 考研命题思路的 对比
+　　一、GMAT的阅读文章(一般有450字左右，紧接着7 ? 9道测试题)
+　　Historians have only recently begun to note the increase in demand for luxury goods and services that took place in eighteenth-century England. McKendrick has explored the Wedgwood firm’s remarkable success in marketing luxury pottery; Plumb has written about the rapid increase of provincial theaters, musical festivals, and children’s toys and books. While the fact of this consumer revolution is hardly in doubt, three key questions remain: Who were the consumers? What were their motives? And what were the effects of the new demand for luxuries?
+　　An answer to the first of these has been difficult to obtain. Although it has been possible to infer from the goods and services actually produced what manufacturers and servicing trades thought their customers wanted, only a study of relevant personal documents written by actual consumers will provide a precise picture of who wanted what. We still need to know how large this consumer market was and how far down the social scale the consumer demand for luxury goods penetrated. With regard to this last question, we might note in passing that Thompson, while rightly restoring laboring people to the stage of eighteenth-century English history, has probably exaggerated the opposition of these people to the sudden attacks of capitalist consumerism in general. For example, laboring people in eighteenth-century England readily shifted from home-brewed beer to standardized beer produced by huge, heavily capitalized urban breweries。
+　　To answer the question of why consumers became so eager to buy, some historians have pointed to the ability of manufacturers to advertise in a relatively uncensored press. This, however, hardly seems a sufficient answer. McKendrick favors a Veblen model of conspicuous consumption stimulated by competition for status. The “middling sort” bought goods and services because they wanted to follow fashions set by the rich. Again, we may wonder whether this explanation is sufficient. Do not people enjoy buying things as a form of self-gratification? If so, consumerism could be seen as a product of the rise of new concepts of individualism and materialism, but not necessarily of the frenzy for conspicuous competition。
+　　Finally, what were the consequences of this consumer demand for luxuries? McKendrick claims that it goes a long way toward explaining the coming of the Industrial Revolution. But does it? What, for example, does the production of high-quality pottery and toys have to do with the development of iron manufacture or textile mills? It is perfectly possible to have the psychology and reality of a consumer society without a heavy industrial sector. (414 words)
+　　1. In the first paragraph, the author mentions McKendrick and Plumb most probably to
+　　[A] compare their interest in luxury goods and in luxury services。
+　　[B] confirm key questions about 18th-century England consumerism。
+　　[C] contrast their views on luxury consumerism in 18th-century England。
+　　[D] exemplify historians who have proved the growing consumerism in 18th-century England。
+　　2. Which of the following items, if preserved from eighteenth-century England, would provide an example of the kind of documents mentioned in Paragraph 2?
+　　[A] A bargain stricken between a manufacturer and a consumer。
+　　[B] A theater ticket stamped with the date and name of a particular play。
+　　[C] A diary that mentions luxury goods and services purchased by its author。
+　　[D] A newspaper advertisement describing luxury goods and services available。
+　　3. In the third paragraph, the author is primarily concerned with
+　　[A] contrasting two theses and offering a compromise。
+　　[B] examining two theories and supporting one over the other。
+　　[C] raising several questions but implying that they cannot be answered。
+　　[D] questioning two explanations and proposing a possible alternative to them。
+　　4. The author would most probably agree that the Industrial Revolution
+　　[A] resulted from the growing demand for luxury goods and services. 
+　　[B] was not directly driven by a growing demand for luxury goods and services。
+　　[C] was closely bound up with the demands for luxury goods and services。
+　　[D] exploited the already existing demand for luxury goods and services。
+　　5. The title which best expresses the main idea of the text is
+　　[A] A Comment on Historians’ Study on Rising Demand for Luxuries in 18th-century England
+　　[B] The Impacts of Consumer Demand for Luxury Goods and Services in the 18th Century                         
+　　[C] The Ever-increasing Demand for Luxuries in Eighteenth-century England
+　　[D] Consumers’ Demand for Luxuries in the 18th Century and Their Motives
+　　第1题是逻辑结构题，答案[D]，要求考生理解段落内论点与论据之间的逻辑关系。
+　　第2题是类比推理题，答案[C]，要求考生在理解细节以后，进行逻辑上的类比推理。
+　　第3题是逻辑框架题，答案[D]，要求考生理解段落内容的逻辑框架。
+　　第4题是作者观点题，答案[B]，要求考生在理解段落内容后，能洞察出作者的相关观点。
+　　第5题是全文主旨题，答案[A]，要求考生理解全文的主题思想。
+　　从以上1、2、3题中我们可以清楚地感悟到命题专家对考生的理解要求 － 不但理解文章中的文字信息，而且要求透过文字信息理解信息之间的逻辑关系、信息之间的类比关系并对信息进行抽象概括。这三项要求体现出GMAT阅读理解题的超群之处；也正是在这三方面反映出GMAT试题对考生抽象思维能力的考察。浏览近年的GMAT阅读理解题，我们可以发现，逻辑结构题、类比推理题和逻辑框架题几乎出现在每篇阅读理解文章的后面。可见，本文后的这三道题不是偶然现象，而偶然中的必然。这就值得我们去深思了。
+

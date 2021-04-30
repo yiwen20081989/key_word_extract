@@ -1,0 +1,6 @@
+苹果担心零售店内iPhone遭破解屏蔽越狱网站
+　　新浪科技讯 北京时间8月9日晚间消息，据国外媒体报道，苹果日前在其零售店内通过店内Wi-Fi屏蔽了黑客组织网站Jailbreakme.com，原因是有人出于搞怪心理到苹果官方零售店内使用iPad和iPhone演示机访问该网站，轻松地将店内的iPad和iPhone越狱。
+　　然而，网友的智慧是无穷的。近日有国外网友在网上发布视频，演示了如何使用Google Nexus One手机的无线路由功能(Wi-Fi tethering)，绕开店内Wi-Fi限制从而越狱iPad。
+　　该破解方法的原理是利用了Android 2.2中的无线路由功能(Wi-Fi tethering)。首先用Google nexus one连接至苹果零售店内的Wi-Fi ，然后用该手机搭建出一个新的Wi-Fi 热点。用iPhone或iPad连接这个新的Wi-Fi 热点，就可以破解苹果的屏蔽，访问Jailbreakme.com并破解iOS设备。
+　　事实上，使用其他带Wi-Fi 功能的智能手机，装上特定的程序，均可达到视频中演示的效果。(张和)
+

@@ -1,0 +1,15 @@
+小幅升级 苹果新一代MacBook Pro配置曝光
+　　继之前国外媒体9to5Mac带来消息称，苹果可能在本周二到周四的时间内发布新款MacBook Pro笔记本的消息后，今天该媒体再次曝光了苹果新一代MacBook Pro的配置情况。
+　　新一代13英寸MacBook Pro：
+　　主频2.4 GHz双核心处理器，4GB RAM内存，500GB硬盘，SD卡插槽
+　　主频2.8 GHz双核心处理器，4GB RAM内存，750GB硬盘，SD卡插槽
+　　新一代15英寸MacBook Pro：
+　　主频2.2 GHz四核心处理器，4GB RAM内存，500GB硬盘，SD卡插槽
+　　主频2.4 GHz四核心处理器，4GB RAM内存，750GB硬盘，SD卡插槽
+　　新一代17英寸MacBook Pro：
+　　主频2.4 GHz四核心处理器，4GB RAM内存，750GB硬盘，SD卡插槽，Express Card插槽
+　　定制版MacBook Pro：
+　　15英寸：2.5GHz、4GB RAM、750GB硬盘(7200转)
+　　17英寸：2.5GHz、4GB RAM、750GB硬盘(7200转)
+　　根据此前的消息和内部泄露的代号来看，苹果新款MacBook Pro更新幅度并不大，价格也会与现在的持平，同时并有可能采用2.8GHz Core i7-2640M、2.4GHz Core i7-2760QM和2.5GHz Core i7-2860QM这三款处理器。
+

@@ -1,0 +1,11 @@
+N270与Z530的区别 Atom处理器型号释疑
+文/潜虫
+　　最近有不少网友来信问我们关于Atom处理器的问题，大家都发现Atom出现了好多型号，N230、N270、Z530等等之多，另外还有什么代号Silverthrone的东西，以及Menlow平台等，让人头脑一片混乱。究竟这些处理器型号和英文名称都是什么意思呢？本文将与大家一起理清一下思路。
+　　事实上，Atom只是英特尔处理器的一个品牌，中文名为凌动，与Celeron（赛扬）、Pentium（奔腾）、Core（酷睿）等是同一个意思。Atom与这些处理器相比最大的变化是采用了全新设计的精简核心，但同时在指令集上也与Core 2 Duo保持着完全兼容，图形部分支持DirectX 9和OpenGL，像素Shader速度达到400MPixel/s，支持720p、1080i硬件视频解码。
+以下是Atom处理器的技术参数：
+工作频率：800MHz～1.8GHz晶体管数：4700万个芯片面积：13mm×14mm×1.6mm（DIE核心面积25平方毫米7.8mm×3.1mm）指令集：MMX、SSE、SSE2、SSE3、SSSE3TDP值：0.6瓦～2.5瓦（纯处理器）FSB效能：400MT/s～533MT/s缓存速度：32KB L1、24KB L1、512KB L2制程技术：45纳米High-k CMOS制程技术，支持Metal Gate技术封装方式：441-ball uFCBGA8封装技术特性：Intel Virtualization Technology（VT虚拟化技术）、Intel Advanced Thermal Manager（高级散热管理技术）、Execute Disable Bit（EDB防毒技术）
+两种核心：Diamondville与Silverthorne
+　　Atom包括两种核心，代号分别是Diamondville与Silverthorne。Diamondville主打桌面型产品，主要产品型号有Atom N230/N270/N3xx，其中N230/N270是目前最常见的带HT技术的物理单核心处理器，N3XX则为带HT技术的物理双核心处理器，但至今仍未有实物上市。Silverthorne主打移动便携产品，产品型号有Z500（800MHz）、Z510（1.1GHz）、Z520（1.33GHz）、Z530（1.6GHz）、Z540（1.86GHz），其中Z500/Z510不支持HT超线程技术。
+　　值得注意的是，由于CPU-Z版本的原因，在前后我们对不同的Atom处理器使用CPU-Z检测，可能会出现不同的结果，有正确的有错误的，对此大家大可不必过于在意，以官方公布的数据和信息为准。
+
+

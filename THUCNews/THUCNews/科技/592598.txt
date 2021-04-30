@@ -1,0 +1,6 @@
+Adobe本周二将发布安全更新 修补重大安全漏洞
+　　CNET科技资讯网6月28日国际报道 Adobe上周宣布，本周二(29日)将发布 Reader和Acrobat安全更新，修补重大的安全漏洞，其中一项漏洞可能导致电脑遭黑客控制。
+　　三周前，Adobe即提醒使用者注意这项安全漏洞也影响到Flash Player，并已在10日先行修补Flash潜在的安全漏洞。
+　　本周二发布的安全更新，将适用于支持Windows、Mac和Unix的Adobe Reader 9.3.2，以及Windows、Mac和Unix版的Adobe Acrobat 9.3.2，和Windows与Mac版的Adobe Reader 8.2.2与Acrobat 8.2.2。
+　　Adobe说，这些更新将取代原订于7月13日下次每季例行发布的安全更新。
+

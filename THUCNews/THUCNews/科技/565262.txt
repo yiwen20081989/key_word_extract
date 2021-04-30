@@ -1,0 +1,6 @@
+电子支付厂商VeriFone与PayPal达成合作协议
+　　新浪科技讯 北京时间10月26日晚间消息，据国外媒体报道，电子支付解决方案厂商VeriFone今天宣布与PayPal达成合作协议，这将帮助VeriFone增强在移动支付方面的实力。
+　　VeriFone将整合传统信用卡支付和PayPal的移动支付服务。PayPal的移动应用将被集成至VeriFone的PAYware Mobile for iPhone应用中。这对于Twitter创始人杰克·多西(Jack Dorsey)新创立的移动支付企业Square来说不是好消息，PAYware Mobile是Square的主要竞争对手之一。
+　　PAYware Mobile应用还将支持PayPal的Bump技术。这将帮助iPhone用户将手机关联在一起，并在不同手机之间进行资金转移。
+　　通过这一合作，VeriFone将通过分销商渠道推广PayPal和Bump，而PayPal则将在自己的用户群中推广VeriFone的PAYware Mobile应用。整合后的功能预计将于明年推出。(邱越)
+

@@ -1,0 +1,13 @@
+视觉体验更优秀 AMD发布VISION技术
+　　新浪数码讯 2009年9月17日下午，AMD公司(NYSE:AMD)宣布一种新方法以帮助消费者选择最符合他们需求的PC。通过与零售商和PC厂商合作，AMD的VISION(视觉)技术一改往日的PC功能沟通模式。与传统方式只关注个别硬件组件的技术配置不同，VISION注重整个系统的价值，展示CPU和GPU的联合处理能力，从而为主流PC用户提供卓越的视觉体验。
+　　VISION(视觉)技术包括三个级别，随着级别的提高，PC系统的功能也随之增强。这三个级别是：VISION 基本版(Basic)、VISION 豪华版(Premium)和VISION至尊版(Ultimate)。
+　　AMD公司首席营销官Nigel Dessau表示：“当今的消费者更关心他们可以用PC做什么，而不关心PC里面有什么。他们希望在PC上获得由AMD CPU和GPU技术共同提供的丰富的高清娱乐体验，而不必知道千兆赫兹和千兆字节到底是什么意思。AMD VISION(视觉)技术反映了PC产业的营销理念走向成熟，以一种更富含意的方式沟通技术。”
+　　与微软的Windows® 7操作系统同步发布，预计采用AMD VISION(视觉)技术的笔记本电脑将在假日促销季中大量地摆上零售店和网上商店的货架。Windows 7支持DirectX 10、Direct X10.1和Direct X11，与AMD VISION(视觉)技术结合，能在游戏和其他媒体应用中实现更丰富的3D细节体验。此外，统一视频解码器(UVD)可减轻CPU的负担，给用户带来更卓越的视觉体验和更快的计算速度，同时还能够进行更多操作，如为手持设备转换视频。有了Windows 7的Drag and Drop(拖放)新功能，视频转换大大简化而且速度也比以前快很多。
+　　Acer的营销及品牌副总裁Gianpiero Morbello表示：“我们将研发和营销沟通的重点放在那些关注最前沿技术和创新产品，通过技术来简化生活的用户当中。AMD的VISION(视觉)技术代表了一种创新的PC应用，我们随时准备为客户提供更好的视觉体验，使他们获得卓越的高清视频娱乐享受。”
+　　AMD计划在2010年第一季度推出主要用于台式机的VISION技术的第四个级别：VISION 发烧友版(Black)，提供台式机发烧友追求的顶级性能。零售店和网上都有详尽的各VISION级别适用的应用模式说明，这样采购者就可以根据他们的需求，做出符合他们主要使用体验的正确选择。
+　　AMD还发布了新的Fusion Media Explorer软件和Fusion Utility for Mobility工具，进一步完善此次的VISION(视觉)技术发布。Fusion Media Explorer 通过以下方式展示了来自AMD的VISION 技术：
+　　•	一个用于管理媒体的3D界面
+　　•	上传和共享 Facebook和 Flickr上的照片的快捷方式
+　　•	用于音乐文件排队及其他应用的Auto DJ，以及更多的其它特性。
+　　Fusion Utility for Mobility 是一个用来关闭后台进程的软件工具，可以在移动中的延长电池使用寿命。
+

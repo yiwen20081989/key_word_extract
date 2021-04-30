@@ -1,0 +1,8 @@
+数据库提供商10gen再获2000万美元融资
+　　新浪科技讯 北京时间9月12日晚间消息，据美国科技博客TechCrunch报道，基于MongoDB技术的企业数据库提供商10gen已经获得2000万美元的融资。本轮融资是由红杉资本(Sequoia Capital)牵头，美国风险投资公司Flybridge Capital以及Union Square Ventures共同完成。本轮融资过后，10gen的现有资金将超过3000万美元。
+　　类似创业型开源软件管理公司Cloudera将Apache Hadoop技术商业化，10gen提供的是NoSQL产品平台MongoDB的商业版本。MongoDB是一个高性能的面向文件的开源数据存储项目。
+　　10gen以为企业扩容数据库以实现大量数据存储和处理为目标。10gen由广告技术公司DoubleClick创始人兼CTO德怀特•梅里曼(Dwight Merriman)和前DoubleClick工程师、购物搜索ShopWiki创始人兼CTO艾略特•霍洛维茨(Eliot Horowitz)共同创立。
+　　梅里曼说，许多公司目前都在使用甲骨文系统处理大量的数据，但若遇到需要扩容的情况，就不得不再购买更多的服务器。这样不仅花费高昂而且存在风险。
+　　目前，10gen正经历高速发展阶段，其客户包括移动通讯设备制造商Ericsson、美国媒体集团维亚康姆公司(Viacom)以及西班牙电信(Telefonica)等多家全球知名企业。
+　　本轮融资将用于聘请员工和公司的全球性扩张。(彪赫)
+

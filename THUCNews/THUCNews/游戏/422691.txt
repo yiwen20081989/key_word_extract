@@ -1,0 +1,9 @@
+Crytek更新免费CryENGINE3 SDK
+　　法兰克福(德国)， 2011年10月17日- Crytek GmbH(Crytek)今天发布了CryENGINE免费SDK V1.1版本，现在已可从其社区网站crydev.net下载。 V1.1版本给团队开发者们提供了更大的便捷，从此可以团队合作共同开发项目。与此同时，Crydev.net同时也推出了一个重大更新，推出全新的Project Database(项目资源库)，更方便开发者们在持续增长的社区里交流和分享彼此作品。与CryENGINE®3 Sandbox™ 编辑器的更新结合，Project Database可以使开发团队有效的组织、控制和发布他们的作品。
+　　“CryENGINE免费SDK将会定期更新，从而确保我们的免费社区能够共享到我们在CryENGINE3取得的进展” Carl Jones，CryENGINE全球商务总监说，"从免费版本的CryENGINE3发布以来，我们获得了颇多有价值的反馈，其中很多我们将会考虑整合到我们引擎未来版本的更新里去，同时我们亦被此版本推出之后所受到的高度关注，短期内涌现的大量丰富的项目，以及这些项目所体现的创意和进度所震撼。”
+　　Project Database在CryDev的推出可以让开发者们更好的整合和管理他们的作品、团队和内容。通过社区网站和免费SDK的持续更新，Crytek确信我们的社区平台将会涌现出更多精彩的作品。
+　　关于Crytek
+　　CryTek 是全球顶尖的互动娱乐公司，总部位于德国法兰克福，并且在匈牙利，乌克兰，韩国，以及英国设有工作室，在中国，美国和日本设有办公室。 CryTek致力于开发PC和次世代Console平台的高品质视频游戏，以及高端的3D游戏技术CryENGINE。
+　　从1999年成立以来，CryTek创建了多款屡获大奖的PC游戏，孤岛惊魂(Far Cry®,)，孤岛危机(Crysis®)分别荣获2007年度E3最佳PC游戏大奖，和2008年度游戏研发者精选大奖； 孤岛危机弹头(Crysis Warhead®)荣获2008 IGN最佳图像技术大奖；孤岛危机2(Crysis® 2)获2010年度E3和Gamescom最佳射击游戏大奖。
+　　Crytek，Crysis和CryENGINE是Crytek GmbH在美国，德国和其他国家的注册商标。所有其他商标和产权属其各自持有人所有。
+

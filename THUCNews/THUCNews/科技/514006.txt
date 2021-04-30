@@ -1,0 +1,17 @@
+微软发布系统直接预览RAW照片补丁！
+操作系统资源管理器直接预览RAW格式照片
+　　RAW的原意就是“未经加工”，可以理解为：RAW图像就是CMOS或者CCD图像感应器将捕捉到的光源信号转化为数字信号的原始数据。RAW文件是一种记录了数码相机传感器的原始信息，同时记录了由相机拍摄所产生的一些原数据（Metadata，如ISO的设置、快门速度、光圈值、白平衡等）的文件。RAW是未经处理、也未经压缩的格式，可以把RAW概念化为“原始图像编码数据”或更形象的称为“数字底片”。
+　　也就是说，这个原始的RAW格式其实是最重要的，从这个“底片”格式上可以再二次加工处理出更炫更酷等等你想要的效果来，例如 LOMO 等等。
+　　但是Win7、Vista 系统是无法在资源管理器中预览RAW文件，所幸微软今天更新了一个支持32和64位的Windows7 RAW支持包（Microsoft Camera Codec Pack 16.0.0652.0621），安装了Microsoft Camera Codec Pack 不但可以在资源管理其中预览RAW的缩略图，也可以让Windows Live照片库程序支持RAW格式文件。
+Microsoft Camera Codec Pack支持以下设备拍摄的图片格式：
+Canon: EOS 1000D (EOS Kiss F in Japan and the EOS Rebel XS in North America), EOS 10D, EOS 1D Mk2, EOS 1D Mk3, EOS 1D Mk4, EOS 1D Mk2 N, EOS 1Ds Mk2, EOS 1Ds Mk3, EOS 20D, EOS 300D (the Kiss Digital in Japan and the Digital Rebel in North America) , EOS 30D, EOS 350D (the Canon EOS Kiss Digital N in Japan and EOS Digital Rebel XT in North America), EOS 400D (the Kiss Digital X in Japan and the Digital Rebel XTi in North America), EOS 40D, EOS 450D (EOS Kiss X2 in Japan and the EOS Rebel XSi in North America), EOS 500D (EOS Kiss X3 in Japan and the EOS Rebel T1i in North America), EOS 550D (EOS Kiss X4 in Japan, and as the EOS Rebel T2i in North America), EOS 50D, EOS 5D, EOS 5D Mk2, EOS 7D, EOS D30, EOS D60, G2, G3, G5, G6, G9, G10, G11, Pro1, S90 
+Nikon: D100, D1H, D200, D2H, D2Hs, D2X, D2Xs, D3, D3s, D300, D3000, D300s, D3X, D40, D40x, D50, D5000, D60, D70, D700, D70s, D80, D90, P6000
+Sony: A100, A200, A230, A300, A330, A350, A380, A700, A850, A900, DSC-R1
+Olympus: C7070, C8080, E1, E10, E20, E3, E30, E300, E330, E400, E410, E420, E450, E500, E510, E520, E620, EP1
+Pentax (PEF formats only): K100D, K100D Super, K10D, K110D, K200D, K20D, K7, K-x, *ist D, *ist DL, *ist DS 
+Leica: Digilux 3, D-LUX4, M8, M9
+Minolta: DiMage A1, DiMage A2, Maxxum 7D (Dynax 7D in Europe, α-7 Digital in Japan)
+Epson: RD1
+Panasonic: G1, GH1, GF1, LX3
+ 
+

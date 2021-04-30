@@ -1,0 +1,34 @@
+考研英语完形填空解题步骤及案例分析
+　　从历年考研英语完形填空的统计中我们可以发现，完型填空的出题考察点集中在上下文的逻辑关系、词语辨析、语法考察、感情色彩等上，由于考察点比较多，而且出在一篇四百字左右的短文中，给广大考生的答题带来很大的难度。为使得考研学子能够在考场上用最快的速度取得最好的成绩，辅导专家总结一些答题技巧，供广大考生参考。
+　　完型填空的解题步骤
+　　第一步：先略读，掌握整篇文章的中心主线，或者文章大意。
+　　第二步：精读，首先，重点读文章的首句或首段。考研英语完形填空中，第一句话往往是没有空缺的，而第一句往往是全文的中心，或者能为全文的做题提供一个依据，因此考生一定不可放弃对第一句的把握。首句之后的第二句往往也很重要，也可能是总述句的范畴，建议根据情况重点读。第二，再重点读每一段的首句。最后找出空旁边的相关信息，进而推理出空的正确选项。
+　　以1995年考题为例。
+　　The purpose of non-REM sleep is even more __43__. Thenew experiments, such as those described for the first time at a recent meetingof the Society for Sleep Research in Minneapolis, suggest fascinatingexplanations __45__ of non-REM sleep. (95)
+　　43. A. subtle B. obvious C. mysterious D. doubtful
+　　45. A. in the light B. by virtue C. with the exceptionD. for the purpose
+　　分析：只要细心寻找即可发现，文章开头说的“the purpose ofnon-REM sleep”和结尾的“_of non-REM sleep。”遥相呼应。所以45填D。而在后文的fascinating就指示43应填与其同义的词，故43题选C，因为两者都表示“神秘的、为之着迷"的意思
+　　第三步：填空后，再进行整篇通读。
+　　完型的复习重点
+　　首先，词汇的辨析和固定搭配占到完型出题量的60% -70%左右，是最重的部分。所以，考前词汇的准备对于完型显得尤为重要。但最为有效地复习词汇的关键是要掌握完型对词汇考查的特点：完型考查的都是考研大纲所要求的词汇，在这些词汇中重点用来考完型的不过1500-1600个左右。
+　　Successful safety programs may _45_greatly in theemphasis placed on certain aspects of the program。
+　　A alter B differ C shift D distinguish
+　　第二，注意前后逻辑关系，做完型填空，需要把握各段落、句子之间的逻辑关系，这样才能加深对文章的全面理解，因此，应熟记表达各种不同逻辑关系的连词，这些逻辑关系词主要包括：
+　　表示列举的连词：first, second, third…;firstly,secondly, thirdly…; first, next, then…; in the first place, in the secondplace…; for one thing, for another thing…;to begin with, to conclude…
+　　表示原因的连词：because, since, as, now that…
+　　表示结果的连词：so, therefore, thus, hence,accordingly, consequently, as a result
+　　表示让步和转折的连词：however, nevertheless,nonetheless, still, though, yet, in spite of, at any rate, in any case,whoever, whatever
+　　表示对照的连词：on the contrary, in contrast, bycontrast, in comparison, by comparison, conversely
+　　表示补充的连词：also, further, furthermore,likewise, similarly, moreover, in addition, what’s more, too, either, neither,not…but…, not only…but also…
+　　表示时间顺序的连词：when, while, as, after,before, since, until, as soon as, once
+　　表示目的的连词：that, so that, in order that,lest, for fear that
+　　表示条件的连词：if, suppose (that)， supposing(that)， unless, in case, so (as) long as, so far as, on condition (that)，provided (that)， providing (that)
+　　例如：
+　　Getting enough vitamins is essential to life, althoughthe body has no nutritional use for excess vitamins. Many people ____ believein being on the "safe side" and thus take extra vitamins. (96)
+　　A. nevertheless B. therefore C. moreover D. meanwhile
+　　第三，复习语法。语法部分的测试是英语知识运用的主要内容之一。但是要求都不高，都是高考考点和热点，大家只要复习一下高考语法就可以。例如：
+　　They do not provide energy, __ do they construct orbuild any part of the body。
+　　A either B so C nor D never
+　　分析：本题考察有关倒装的语法知识，neither/nor 否定词+助动词， 表示：也不…
+　　高文婧
+

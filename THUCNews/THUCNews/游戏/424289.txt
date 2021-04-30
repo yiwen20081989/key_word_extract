@@ -1,0 +1,22 @@
+《极品飞车变速》发布DLC兼升级补丁
+　　EA今天发布了《极品飞车：变速》的最新升级包，集DLC和Patch 1.02补丁于一身。
+　　该升级包已经面向PC和X360玩家发放，后者进入游戏后即可看到提示，而PS3玩家还需要再稍等几天。
+　　DLC更新内容：
+　　1、五辆新车：
+　　1967 Shelby GT500
+　　1967 Chevrolet Corvette Stingray
+　　1969 Dodge Charger R/T
+　　1971 Dodge Challenger R/T
+　　1998 Toyota Supra Mk IV
+　　2、在线比赛玩家最大数量从8人增至12人。
+　　3、新的比赛模式“Team Racing”(团队竞速)，对阵双方分别为蓝队和红队，每队最多6人。
+　　注意：
+　　1、为避免作弊，今后PC玩家在线游戏必须首先安装此升级补丁。
+　　2、在STEAM平台上购买游戏的玩家请勿安装此升级包，否则会出现不兼容问题。
+　　3、如果你打过免CD补丁或者PhysX MOD物理包，也会导致问题，需要重新安装游戏。
+　　PC版升级包下载：
+　　北美英语：
+　　http://cdn.needforspeed.com/data/downloads/shift/SHIFTPCPATCHV1.02_NA.exe
+　　其他语言：
+　　http://cdn.needforspeed.com/data/downloads/shift/SHIFTPCPATCHV1.02_OTHER.exe
+

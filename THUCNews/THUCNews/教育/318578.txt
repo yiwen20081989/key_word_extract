@@ -1,0 +1,37 @@
+SAT填空归类总结：多义单词 变义单词
+　　SAT填空题从总体难度上来说是比较简单的，分类也比较少，解题方法也比较单一：即只要你找到了是取同还是取反，然后是对什么取同取反，剩下的就是你的单词功底了。当然这不是通用的解题方法，有时候你找不到对什么取同取反，这时候，你就把题干丢掉(如题干出现了paradoxically，contradiction等取反词，但是你找不到取反关键词)直接看选项即可；有时候两个空是连在一起的(如很多次出现的“___the ____”，这时候把两个空作为一个意群来对关键词取同取反即可。本篇文章不对SAT填空题的通用解法做过多归纳，而是对一类题目进行总结，以帮助同学们应考。
+　　每次SAT考试都会放出“新”单词，所谓“新”就是这些单词你以前从来没见过或者是熟词僻义，本篇文章无法预测未出现的单词，只对已经出现的熟词僻义进行稍微的总结。
+　　一、多义单词
+　　(1)OG-454-S2-5: Just as glass windows offer buildings both light and insulation, certain atmospheric gases___ incoming sunlight and___ heat radiated from the ground, preventing warmth from escaping. (正确答案：admit….. contain)
+　　(2)2008.01－S5－3：The attempts of epidemiologists to___ the infectious disease ultimately proved futile: as soon as they managed to___ it in one community, it would emerge somewhere else。(正确答案：contain…check)
+　　(3)Even though they tended to be___ strangers, fifteen-century Europeans did not automatically associate___ and danger. (正确答案：hostile to…foreignness)
+　　以上三题都是直接或者间接的考察了一些多义单词，因为一些单词不好用比喻义或者引申义来解释其本义(由前缀＋词根＋后缀构成的单词的直接意义)，所以我们把它列为多义单词，多义单词也是SAT填空部分放难题的地方，比如第一题和第二题的contain都是“抑制”的意思，第三题题干的associate是“支持”的意思，这些意思都不好从本义进行比喻或者引申，这样我们可以把这些多义单词放在一块来记忆，以下是笔者总结的多以单词，这些单词可能在SAT填空或者阅读的词汇题中出现：
+　　bear: 包含
+　　fashion: 形成
+　　deliberate: 深思熟虑
+　　address: 做演讲，指出
+　　appropriate: 挪用公款
+　　champion: 支持
+　　balloon: 上升
+　　flag: 削弱
+　　spring: 涌现
+　　smart: 折磨
+　　table: 列举
+　　sugar: 使赏心悦目
+　　legend: 虚假的事情
+　　crude: 粗鲁的
+　　assume: 承担
+　　consume: 消耗
+　　hatch: 沉思
+　　associate: 支持
+　　legitimize: 使…合理
+　　absolute:至高无上的 　　
+　　aggressive:程度要比一般程度要深的
+　　prevail: 战胜
+　　negotiate 挤出一条路
+　　capricious 风向不定的
+　　sweep 一系列重大的事件
+　　
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

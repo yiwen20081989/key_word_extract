@@ -1,0 +1,6 @@
+Flash导致MacBook Air续航时间缩短2小时
+　　新浪科技讯 北京时间11月7日上午消息，据国外媒体报道，最新测试结果显示，安装Adobe Flash后，苹果新版MacBook Air笔记本电池续航时间会缩短2个小时。
+　　上个月，苹果发布了两款新版MacBook Air笔记本，屏幕尺寸分别为11.6英寸和13.3英寸。这两款产品并未捆绑Adobe Flash软件，表面原因是用户可以下载最新版、更安全的Flash，但真正的原因很可能是为了提高电池续航时间。
+　　最新测试结果显示，11.6英寸MacBook Air在使用Safari浏览网页时，电池可续航整整6个小时。但一旦安装Adobe Flash后，在访问同样网站的情况下，电池只能续航4个小时。
+　　测试人员克里斯·福斯曼(Chris Foresman)称：“Flash广告总是保持CPU没有必要的运转。”Flash广告耗费掉了MacBook Air 33%的电池续航时间，难怪苹果iPad、iPod touch和iPhone不支持Flash。(李明)
+

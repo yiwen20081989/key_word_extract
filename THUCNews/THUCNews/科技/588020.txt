@@ -1,0 +1,9 @@
+Adobe发布Reader和Acrobat漏洞补丁
+　　【赛迪网讯】5月14日消息，据国外媒体报道，Adobe近日对Adobe Reader 和Adobe Acrobat进行了更新，以此修补一项影响Windows、Mac、Linux和Unix的严重的JavaScript漏洞。
+　　正如公司所承诺的那样，本周二对于软件漏洞给出了修补的安全性意见，并针对影响Unix的第二个漏洞进行了修补。安全公司Secunia认为该漏洞“相当关键”。
+　　Adobe认为，4月27日proof-of-concept代码开始针对这些漏洞进行流通，起初出现在Linux安全网站Packetstorm上。但本周二Adobe在一则博客帖子上表示并不知道基于此代码进行开发后的任何攻击。
+　　Adobe表示，通过一个特别制作的PDF文件可以利用所有的漏洞来攻击受感染程序，或者控制用户系统。第一个漏洞影响了很多平台，其中包括Reader和Acrobat读取JavaScript的方式"getAnnots()"，并以此破坏内存。
+　　第二个漏洞只影响Unix，包括读取"customDictionaryOpen()" JavaScript的方法。这些漏洞影响Reader 9.1 和Acrobat 9.1，以及Reader 9.1.1，8.1.5和7.1.2。对于无法实现更新的用户，公司建议关闭受影响程序的JavaScript。
+　　作者：李一静
+
+

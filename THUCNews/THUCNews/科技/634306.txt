@@ -1,0 +1,5 @@
+微软Windows Phone 7网站访问意外过多瘫痪
+　　新浪科技讯 北京时间2月16日晚间消息，据英国科技网站The Register今日报道，微软智能手机操作系统Windows Phone 7 Series的网站目前无法使用，当用户登陆该网站时，只能看到“服务不可用”(Service Unavailable)的信息。
+　　The Register称，该网站已向微软询问Windows Phone 7 Series网站发生了什么问题，但微软尚未回复。微软昨天宣布推出Windows Phone 7 Series，这是微软重新打造Windows Mobile品牌之后推出的一款产品，从外观到软件代码都有了很大的改动。
+　　保罗·莱特(Paul Wright)在今天早些时候称，Windows Phone 7 Series网站目前故障的原因是流量负担过重。他表示：“由于访问量意外过多的缘故，Windows phone 7 Series网站暂不可用，将尽可能快地恢复使用。”(唐风)
+

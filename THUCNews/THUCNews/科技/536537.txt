@@ -1,0 +1,7 @@
+Facebook开放Scribe应用源代码
+　　新浪科技讯 北京时间10月27日消息，据国外媒体报道，为履行开放更多源代码的承诺，Facebook近日开放了Scribe应用的源代码。
+　　长期以来，Facebook在开放产品源代码方面并不是很积极，为此还备受业界指责。但近日，Facebook履行了开放源代码的承诺，将Scribe应用的源代码公之于众。
+　　Scribe旨在帮助Facebook处理服务器上的大量数据，正像Scribe网页所述“如经常访问Facebook，请使用Scribe。”具体而言，Scribe就是一台服务器，实时收集用网站日志信息。
+　　对于Facebook而言，开放Scribe源代码可以改善Facebook封闭源代码的形象。目前，Facebook的活跃用户已超越1亿。(李明)
+
+

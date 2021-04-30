@@ -1,0 +1,8 @@
+3.6�大屏WM6.5系统 HTC三款新机齐曝光
+作者：中关村在线 李宽
+　　HTC公司的手机俨然已经分为Windows Mobile和Android两大阵营，而最近HTC的主要精力似乎都在Android手机上，不过Windows Mobile操作系统的用户不要担心，今天又有两款Verizon定制的WM手机效果图曝光，同时曝光的还有一款多普达Tachi。
+　　图中最左边的是CDMA版本的Touch Diamond 2，昵称叫做Whitestone（白石）。这款手机采用高通7600的处理器，主频为528MHz，搭配512MB ROM和256MB RAM，能够流畅的运行Windows Mobile 6.1 Professional操作系统。这款手机的屏幕高达3.6英寸，分辨率为WVGA级别并支持触摸。手机内置500万像素的摄像头，支持自动对焦与防抖功能，这已经是目前HTC手机中最强大的拍照功能了。这款手机支持GSM与CDMA网络，并且支持gpsOne，能够更精确的定位。
+　　据悉CDMA版的Touch Diamond 2将在今年9月份或者10月份发售，希望这款手机能够热卖。图中中间的手机就是HTC Mega，这款手机在外型上并不算非常出众，并且屏幕相比CDMA版的Touch Diamond 2也略小，但是这款手机采用的是Windows Mobile 6.5操作系统。
+　　HTC Mega手机是首次曝光，这款手机采用的是高通7225处理器，主频也为528MHz，搭配256MB ROM和256MBRAM，能够保证Windows Mobile 6.5的运行流畅。这款手机的屏幕为2.8英寸，比Touch Diamond 2小了0.8英寸，分辨率为QVGA级别。这款手机内置的摄像头仅为300万像素，但是支持自动对焦。CDMA版Touch Diamond 2相同的是，这款手机同样也支持gpsOne。
+　　最后一款手机是多普达Tachi，这款手机也是最近才有效果图曝光，将在中国大陆地区发售。这款手机采用Windows Mobile 6.1操作系统，2.8英寸分辨率为480×640像素，内置310万像素的摄像头并支持自动对焦，支持microSD卡拓展存储空间。这款手机是一款3G手机，配备前置摄像头，另外这款手机支持Wi-Fi，让我们对这款手机充满了期待。
+

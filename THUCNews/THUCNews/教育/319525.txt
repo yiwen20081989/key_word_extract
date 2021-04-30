@@ -1,0 +1,34 @@
+2011职称英语理工类之完型填空新增文章
+　　第一部分   完型填空文章
+　　阅读下面的短文。短文中有十五个空白，在文章的后面，每一个空白都列了四个备选答案。请根据文章的内容选择合适的词或短语填在空白处。
+　　理工类---C级
+　　What Is the Coolest Gas in the Universe?
+　　What is the coldest air temperature ever recorded on the Earth? Where was this low temperature recorded? The coldest recorded temperature on Earth was -91℃, which _1_ in Antarctica in 1983.
+　　We encounter an interesting situation when we discuss temperatures in _2__. Temperatures in Earth orbit actually range from about +120℃ to -120℃. The temperature depends upon _3__ you are in direct sunlight or shade. Obviously, -120 is colder than our body can safely endure. Thank NASA science for well-designed space __4_ that protect astronauts from these temperature extremes。
+　　The space temperatures just discussed affect only our area of the solar _5__. Obviously, it is hotter closer to the Sun and colder as we travel away from the Sun. Astronomers estimate temperatures at Pluto are about -120℃. How cold is the lowest estimated temperature in the entire universe? Again, it depends upon your _6__. We are taught it is supposedly _7__ to have a temperature below absolute zero, which is -273℃, at which atoms do not move. Two scientists, whose names are Cornell and Wieman, have successfully cooled down a gas to a temperature barely _8__ absolute zero. They won a Nobel Prize in Physics in 2001 for their work—not a discovery, in this case。
+　　Why is the two scientists’ work so important to science?
+　　In the 1920s, Satyendra Nath Bose was studying an interesting _9__ about special light particles we now call photons. Bose had trouble _10__ other scientists to believe his theory. _11__ he contacted Albert Einstein. Einstein’s calculations helped him theorize that atoms _12__ behave as Bose thought — but only at very cold temperatures。
+　　Scientists have also discovered that _13__ atoms can help them make the world’s atomic clocks even more accurate. These clocks are so accurate today they would only lose one second _14__ six million years! Such accuracy will help us travel in space because distance is velocity times time(d=v × t). With the long distances involved in space _15__, we need to know time as accurately as possible to get accurate distance。
+　　1. A opened                B occurred             C opposed             D operated
+　　2. A Earth                    B space                 C planet                D star
+　　3. A whether                 B where                C what                  D when
+　　4. A foods                    B beds                   C tools                 D suits
+　　5. A wind                            B energy               C system               D rays
+　　6. A education                     B status                 C knowledge          D location
+　　7. A reasonable             B wonderful          C impossible          D necessary
+　　8. A above                    B below                C within                D beyond
+　　9. A invention               B theory                C paper                 D experiment
+　　10. A convincing           B begging              C ordering             D forcing
+　　11. A and                            B though               C but                    D so
+　　12. A will                     B would                C must                  D can
+　　13. A ultra-small           B ultra-fast            C ultra-hot             D ultra-cold
+　　14. A any                            B each                   C every                 D some
+　　15. A travel                  B research             C walk                  D station
+　　译文：宇宙中哪种气体温度最低？       
+　　地球上记录到的最低温度是多少？出现在哪里？地球上最低的温度是-91℃。1983年出现在南极洲。
+　　我们讨论宇宙温度时会发现一种有趣的现象。地球轨道上的温度是介于+120℃至-120℃之间。温度的变化取决于是向阳还是背阳。很明显，-120℃远低于人体能忍受的安全温度。幸亏美国国家航空和航天管理局生产出一种装置，保护宇航员不受极端温度的侵害。
+　　刚才讨论是有关太阳系中环地球宇宙空间的温度。很明显，离太阳越近，温度越高，反之，温度越底。天文学家预测冥王星的温度大约是-210℃。整个宇宙的最低温度是多少呢？如前所述，这仍要取决于你的位置。原子在-273℃时就不再移动了，这就是所谓的绝对零度，我们都知道不可能再有比绝对零度更低的温度了。科学家Cornell 和 Wieman 成功地将气体的温度降到接近绝对零度，并因此获得了2001年诺贝尔物理学奖。在这一案例中，这两位科学家并不是因为重大的科学发现获奖的。
+　　那么，这两位科学家的工作为什么对科学界来说很重要呢？
+　　早在20世纪90年代，科学家Satyendra Nath Bose就在研究一种关于发光微粒的理论。这种微粒就是我们现在所说的光子。其他科学家不接受他的理论，Bose对此一筹莫展，只好求助于Albert Einstein。Einstein的计算从理论上证实原子确实能像Bose猜想的那样移动，但必须在超低的温度下。
+　　科学家还发现超低温度下的原子可以使原子表更精确。原子表精确之极，每600万年才慢一秒！如此精确的计时有利于人类的宇宙航行，因为航行距离等于速度乘以时间。从地球飞向其他星球的宇宙航程很长，计时越精确，测算宇宙飞行器的即时距离就越精确。
+

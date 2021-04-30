@@ -1,0 +1,8 @@
+全新外型新机 惠普CQ42开箱评测报告
+　　最近常常看到的话题，惠普CQ系列换新造型了，今天拿到了新败的一台CQ42-194TX，看到好多人都在索要开箱文，我就发一篇好了！ 让大家看看我家的”小银”，热腾腾的CQ42-194TX来?。首先，先看一下它的规格： 正版Windows 7家用基础版32-bit； Intel Core i5处理器，i5-430M，2.26 GHz；  Intel HM55芯片组； 标准2GB DDR3(2 x 1024 MB)内存； 内建500GB SATA硬盘，7200rpm； LightScribe SuperMulti DVD±RW双层刻录光驱； 14寸LED HP BrightView宽屏幕显示器； 显示器分辨率1366 x 768； ATI Mobility Radeon HD 5430显卡，512MB显存； 3个USB 2.0，1个HDMI，1个VGA，1个RJ45，1个耳机输出，1个麦克风输入； 多合一读卡器； 摄像头，搭配整合式麦克风； Altec Lansing音箱； 10/100BASE-T Ethernet LAN； 无线技术802.11 b/g/n； Bluetooth无线连线； 产品重量2.2 公斤。 看完规格，再下面就是看一下我的新伙伴了。
+　　型号：惠普CQ42-194TX，这是配置贴纸：
+　　全部的东西都在这了：
+　　整台机器的内侧外观：
+　　机器的外观，银色的超级金属质感，搭配鱼麟状的造型，整个看起来就是气派：
+　　Windows 7操作系统，i5的CPU，ATI显卡，支持DX11：
+

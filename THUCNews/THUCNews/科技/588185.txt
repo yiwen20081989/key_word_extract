@@ -1,0 +1,14 @@
+消息称Windows 7将内置多点触控软件包(图)
+Microsoft Surface Globe界面
+Microsoft Surface Collage界面
+　　新浪科技讯 北京时间5月28日上午消息，据国外媒体报道，微软今秋发布的下一代操作系统Windows 7将附带多点触控软件(Multitouch Software)包。
+　　多点数控软件已在苹果iPhone(手机上网)上大获成功，该软件可以实现对数码产品，特别是手持、精巧数码产品的便捷操控。微软一直看好触控技术，多年来一直在进行研发。2007年，微软发布了Microsoft Surface技术，采用这一技术的多点触控台式机有望在政府机构、教育部门和医疗网点有很好市场。一年前，微软展示了将添加至Windows 7的触控功能。
+　　微软为Windows 7推出的微软触控包(Microsoft Touch Pack) 是为多点触控电脑优化的含6款游戏和应用程序的组件，该触控包将将提供给电脑厂商，它们将为适用触控技术的电脑选择安装这一产品。该触控包内容如下：
+　　Microsoft Surface Globe：从微软的演示视频来看，该款应用程序看上去是该触控包中最好的一款产品。导航是触摸屏的必要性能，由于拥有虚拟地球3D引擎，Surface Globe可以实现对建筑物3D模型的旋转，比较而言，谷歌地图就相差甚远。业界认为，该产品有望推动Windows 7多点触控电脑的销量，并抢占谷歌搜索的市场。
+　　Microsoft Surface Collage：该产品用于调整数字图片大小，并对其进行管理，这也是触控技术的又一功能
+　　Microsoft Blackboard: 益智类游戏
+　　Microsoft Garden Pond：折纸游戏
+　　Microsoft Rebound: 推球游戏
+　　Microsoft Surface Lagoon：屏保(志伟)
+
+

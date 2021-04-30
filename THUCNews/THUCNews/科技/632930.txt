@@ -1,0 +1,7 @@
+Palm无视警告恢复Pre与iTunes同步
+　　【赛迪网讯】10月5日消息，据国外媒体报道，Palm无视行业组织USB实施者论坛(以下简称“USB-IF”)警告，与上周六再次恢复Palm Pre和iTunes的同步功能。
+　　今年6月，Palm推出了Pre智能手机，支持与苹果iTunes同步功能。7月，苹果升级了iTunes，封杀了Pre。一周后，Palm又发布了Pre操作系统升级包，恢复了对iTunes的访问。
+　　9月22日，行业组织USB-IF在一份声明中称，苹果可以阻止Palm Pre与iTunes同步。如果Palm仍企图使用iTunes音乐服务，那么将违背组织规定。
+　　尽管如此，Palm仍无视USB-IF警告，于本月3日恢复了Pre与iTunes的同步功能。
+　　作者：友亚
+

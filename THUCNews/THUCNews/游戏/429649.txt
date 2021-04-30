@@ -1,0 +1,11 @@
+GameClosure推出HTML5游戏跨平台SDK
+　　GameClosure的开发平台和SDK使得基于HTML5的游戏实现跨平台。
+　　一群斯坦福大学的学生成功开发出移动SDK，使得跨平台多人游戏成为可能。
+　　在本月17号斯坦福大学固体电子实验室(SSELabs)的“项目展示日”，GameClosure这个开发平台第一次在公众面前亮相；该SDK使得在HTML5游戏可以实现跨平台多人游戏功能，将首先支持iOS，Android和Facebook。该SDK的特点是无需安装任何插件，通过浏览器即可实现HTML5游戏跨平台。
+　　据报道，这组学生完全使用标准的HTML5API的Javascript语言编写出了SDK的系统代码。SDK不需要安装任何插件，只需要浏览器就可以编译，部署和加速游戏。
+　　加速是关键之处。GameClosure的MichaelCarter指出：虽然HTML5开发平台相对简单，但在手机上玩HTML5游戏时速度要比在网页上慢30倍。
+　　为了避免这种情况，在使用非浏览器设备如手机和图形输入板时，GameClosure的SDK可以利用APIs来为游戏创造一个本地应用程序，就像是使用OpenGL一样。
+　　尽管苹果公司长期以来拒绝在手机移动设置中安装Flash插件，很多人都相信HTML5会成为新一代跨平台移动开发标准。但HTML5本质上只是一个跨平台技术，和Flash比较像。
+　　关于GameClosure
+　　该项目团队由3人组成，MichaelCarter,TomFairfield,MartinHunt,Michael是W3C及HTML5标准组的一个成员之一，TOM是游戏开发程序员，Maritin目前还是斯坦福大学的学生。不过鉴于项目刚刚开始，经济条件较差，他们不得不搬到类似车库的简陋场所进行开发。
+

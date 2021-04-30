@@ -1,0 +1,7 @@
+谷歌称400万应用商店用户每人至少下载一款应用
+　　新浪科技讯 北京时间12月21日早间消息，谷歌称该公司旗下面对开发人员的应用商店Apps Marketplace的400万用户中，每位用户至少下载了1款谷歌应用。
+　　Apps Marketplace发布于今年3月，目的是通过一整套API，允许第三方应用程序与谷歌应用深度整合，并向生产力套装的用户免费或收费提供这些应用。谷歌提供了超过250款企业应用，用户包括Zoho、Socialwok、Aviary、Bantam Live等。
+　　谷歌称，Apps Marketplace中安装次数最多的应用类别包括项目管理、客户关系管理和财会。下载次数最多的十大应用依次是Manymoon、 Insightly、Zoho CRM、Aviary Design Suite、Mavenlink、Outright、MailChimp、RapidTask、Insync和myERP.com。
+　　外界对Apps Marketplace的评价褒贬不一。许多开发人员十分乐意与谷歌合作，但也有人指出，在Apps Marketplace发布后不久其下载功能就失效了。还有人抱怨，该商店中应用过多，难以甄选。
+　　尚不清楚开发人员能从该商店中获得多少收益。该商店中的一切应用均为免费；其中一部分会在应用的用户数量超过一定水平后收取费用。(彦飞)
+

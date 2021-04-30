@@ -1,0 +1,7 @@
+Sprint确认2013年推LTE-Advanced网络
+　　C114讯 北京时间10月26日下午消息(艾斯)根据国外媒体报道，在本周二于芝加哥举行的4G世界大会上，Sprint公司网络发展部门副总裁及工程师Iyad Tarazi确认，该公司将在2013年中期开始推出基于800MHz频谱的4G LTE-Advanced网络。
+　　LTE-Advanced较之第一代LTE技术，将提供更快的数据吞吐速度，Tarazi表示，Sprint的LTE-Advanced网络下行速率将可达到12-15Mbps。
+　　在Sprint十月份的战略更新会议上，该公司确认将会在2012年中期开始推出其首个4GL LTE网络，并在2013年底完成部署计划。
+　　最初的LTE网络将会在Sprint的1900Mhz频谱上进行部署，同时，最初这些LTE终端的语音呼叫仍将在其CDMA网络上实现。
+　　Tarazi同样表示，明年Sprint将会提供至少十二部LTE终端。
+

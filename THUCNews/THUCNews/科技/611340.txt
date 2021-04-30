@@ -1,0 +1,6 @@
+英特尔明年4月发布升级版迅驰2平台
+　　据报道，Intel将在2009年4月份发布迅驰2笔记本平台的升级版，代号“Montevina Refresh”。
+　　此次升级版主要更新处理器和芯片组两部分，其中处理器有Core 2 Duo T9900 3.06GHz和Core 2 Duo P8800 2.66GHz两款，都是高端型号。芯片组方面会在明年第一季度首先增加GM47，集成图形核心GMA 4500MHD，核心频率640MHz。到7月或8月份，还会有面向入门级笔记本的GL43和面向小型机的GS40加入。 
+　　在明年7-8月，下一代Calpella平台就将登场，使用Nehalem Clarksfield架构处理器和Ibex Peak-M 5系列芯片组，所以留给Montevina Refresh的时间非常短，只有三四个月。 
+
+

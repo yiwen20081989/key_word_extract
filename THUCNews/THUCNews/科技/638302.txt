@@ -1,0 +1,9 @@
+索尼爱立信游戏手机Xperia Play亮相美国
+　　新浪科技讯 北京时间3月2日晚间消息，索尼爱立信周二正式在美国展示了游戏型智能手机Xperia Play，旨在吸引开发人员的支持。
+　　在周二于旧金山召开的2011年游戏开发者大会(Game Developers Conference)上，索尼爱立信正式展示了Xperia Play，这是Xperia Play继上个月在移动通信世界大会(MWC)上展出后首次在美国市场亮相。
+　　Xperia Play基于谷歌Android操作系统，定位于游戏市场，支持索尼最新发布的PS验证标准，即支持PS游戏。为推广Xperia Play，索尼爱立信在此次大会上宣布与Unity和Havok两家公司合作，帮助开发人员开发Xperia Play游戏。通过Unity和Havok提供的工具，开发人员可以轻松地将当前游戏移植到Xperia Play平台上。
+　　当前索尼PSP游戏机拥有上千款游戏主题，而索尼爱立信周二并未提及如何利用这些资源。从理论上讲，Experia Play应该很容易支持PSP游戏，因为两款设备有许多共同之处，如屏幕尺寸和控制操作等。
+　　当被问及“为什么没有简单的方法将PSP游戏移植到Experia Play上”时，索尼爱立信北美营销主管彼得·法默(Peter Farmer)称：“那是索尼的事情。”
+　　法默表示，Experia Play运行Android系统，将面向开发社区开放，将来该平台上会有更多的休闲游戏。Experia Play上市时，索尼爱立信将同步推出50款游戏，而手机也会预装几款游戏，如《狂野飙车6》、《李小龙》、《皇牌飞虎队》、《模拟人生3》和《俄罗斯方块》等。
+　　Verizon今春将开售Experia Play，为宣传Experia Play，索尼爱立信周二还宣布了一项为期一年的赞助计划，Experia Play将成为美国竞技游戏联盟(Major League Gaming)的官方手机。(李明)
+

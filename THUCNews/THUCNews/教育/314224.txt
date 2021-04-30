@@ -1,0 +1,25 @@
+2010考研英语一翻译真题详解(新东方)
+　　花了三个小时，把真题，真题来源那本书的那一章仔细读了；一个字一个敲出了下面这些分析(太长了，我一贯的写作风格：?嗦！)。大家看看就好了。
+　　考完了，奋斗过了，经历过了。该歇会，收拾心情，准备下一次奋斗。
+　　北京新东方学校  唐静 上
+　　One basic weakness in a conservation system based wholly on economic motives is that most members of the land community have no economic value. Yet these creatures are members of the biotic community and, if its stability depends on its inteyrity, they are entitled to continuance。
+　　When one of these noneconomic categories is threatened and, if we happen to love it we invent excuses to give it economic importance. At the beginning of century songbiras were supposed to be disappearing. 46)Scientists jumped to the rescue with some distimctly shaky evidence to the effect that insects would eat us up of birds failed to control them. The evideuce had to be economic in order to be valid。
+　　It is pamful to read these round about accounts today.We have no land ethic yet, 47)but we have at least drawn near the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us。
+　　A parallel situation exists in respect of predatory mammals and fish-eating birds. 48)Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on “worthless species。
+　　Some species of tree have been read out of the party by economics-minded foresters because they grow too slowly or have too low a sale value to pay as timber crops. 49)In europe, where forestry is ecologically more advanced, the non-commercial tree species are recognized as members of native forest community, to be preserved as such ,within reason。
+　　To sum up:a system of conservation based solely on economic self-interest is hopelessly lopsided. 50)It tends to ignore, and thus eventually to eliminate, many elements in the land community that lack commercial value, but that are essential to its healthy functioning. It assumes, falsely, I think, that the economic parts of the biotic clock will function without the uneconomic parts, It tends to relegate to government many functions eventually too large, too complex, or too widely dispersed to be performed by government。
+　　46)Scientists jumped to the rescue with some distimctly shaky evidence to the effect that insects would eat us up of birds failed to control them。
+　　分析：
+　　1.整个句子的主干结构是scientists jumped to the rescue，这里有一个很生动的动词jumped，直接翻译的意思是“跳着”，引申为“赶紧，急忙，迅速采取行动”。Rescue是“救援，援助”的意思，所以，即使同学们不知道“to the rescue”本身是一个习惯用法也知道怎么翻译：科学家们急忙来挽救这种局面；或者翻译为，科学家们迅速赶来救援。
+　　2.With some distinctly shaky evidence是介词短语作状语，其中有一个比较核心的宾语词evidence(证据)，这个单词在考研翻译20来中考过两次，分别出现在95年73题和99年的73题。所以介词with应该翻译为“用，使用”，因为下文宾语是“证据”，所以是“使用证据”，最好不要翻译为“带着证据”。而evidence前面的修饰语distinctly这个词，是“清楚地，确实地，明显地”，这个单词在考研翻译2003年63题考过，在本句话中，它修饰形容词shaky。Shaky是动词shake(摇动)的形容词，意思是“不稳固的，摇晃的”，在本句话中它修饰“证据”，说明“证据站不住脚”。
+　　所以这个部分合起来可以翻译为：科学家们使用一些明显站不住脚的证据，急急忙忙赶来救援。或者也可以直接翻译为：科学家们迅速赶来挽救这种局面，他们使用的证据明显站不住脚。
+　　3.to the effect that... 这个短语是整个句子最难翻译的部分。Effect这个词倒不难，考研翻译考过了很多次，还考过这个单词的不同形式的词性，比如effective。但遗憾的是，大多数同学几乎没有掌握这个短语的意思是“with the meaning”，翻译成汉语就是：“大意是，意思是说.。。”这样的意思。
+　　4.insects would eat us up of birds failed to control them是to the effect that.。。所带的从句，本身也是一个复杂句，但是很好翻译，结构简单，意义清晰。但是必须要指出两点。其一，eat us up，可以直译为“把我们吃光”，因为汉语语言本身不具有逻辑，比如汉语我们可以说“他今天把我吃垮了——言下之意是：我请客，他今天吃得够猛，价格还很贵”；所以这个译文应该是正确的。但是“虫子是不能吃人的”，所以我以为最好翻译为：吃光一切东西。其二，fail这个词，千万不要翻译为“失败”，可以翻译为“不能做.。。”。当然，代词them术语第三人称代词，最好指代明确，它指的是前面的这些“虫子”。
+　　参考译文：
+　　科学家们迅速赶来挽救这种局面，他们使用的证据明显站不住脚，大意是说：如果鸟不能控制这些虫子，虫子就会吃光一切。
+　　47)but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us。
+　　分析：
+　　1.划线部分是整个句子的后半个并列句，前面还有一个小句子，意思是说：我们还不具有一种土地伦理意识。But并列了后半个句子。We have at least drawn nearer the point是主干部分，比较好翻译：我们更起码接近了一点，得出了一种观点。
+　　2.of admitting…是一个of短语，修饰前面的“观点”；但是由于admitting后面还带了一个很长的that宾语从句，所以翻译的时候，千万不要把of admitting这个短语后面部分翻译到“观点”前面。这种结构，在2008年46题也出现过，也是我在09年年度的强化冲刺等班上强调得比较多的一点问题。可以直接把of…后面部分翻译在“观点”后面，用一个冒号隔开即可。
+　　3.that birds should continue as a matter of intrinsic right是本句最难翻译的部分，关键有一个intrinsic这个单词，可能好多同学不认识，它是“本身的，固有的，内在的”等意思。这个单词是出题人改写出来的。大家可以看到，我昨天提供的李奥帕多写的《沙郡岁月》原书中不是用的这个词，这个句子在这里有很大的改写。稍微回朔一下原文就知道，在第一段就出现了“Yet these creatures are members of the biotic community and…”，所以这里的鸟类的固有权利是指其“固有的作为一种生物物种的权利”。这样的话，这个部分就可以翻译为：鸟类应该继续享有其作为一种生物物种固有的权利。
+

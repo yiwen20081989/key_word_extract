@@ -1,0 +1,5 @@
+Gateway发布AMD平台LT32本 售价449美元
+　　宏?旗下Gateway品牌近日发布新款笔记本，型号为Gateway LT32。采用了AMD第三代超轻薄移动平台尼罗河(Nile)。售价为449.99美元。
+　　Gateway LT32笔记本搭载的是AMD平台Athlon II Neo K12单核处理器，主频1.7GHz。集成ATI Mobility Radeon HD 4225 图形核心，搭配ATI M880G芯片组。搭配2GB内存和250GB硬盘。
+　　具备USB 2.0、VGA、 HDMI等接口。重量为2.76磅，外形大小为11.22 x 8.03 x 0.98~1.14英寸。具备 千兆以太网，802.11 b/g/n WiFi，高清摄像头，数字麦克风。配置六芯电池可续航5.5小时。
+

@@ -1,0 +1,11 @@
+调查显示OpenOffice普及率是谷歌Docs5倍
+　　【赛迪网讯】11月16日消息，市场研究公司ClickStream Technologies在上周五发表的一份报告中表示，OpenOffice.org免费办公软件在成年美国互联网用户中的普及率是Google Docs的5倍。 
+　　据国外媒体报道称，ClickStream Technologies称，微软Office仍然占有主导地位，在18岁以上的美国互联网用户中，51%的人使用Office。对2400名用户进行的调查显示，5%的用户使用OpenOffice.org，1%的用户使用Google Docs。调查还显示，用户使用OpenOffice.org的频度更高。 
+　　鲍尔默上个月在Gartner举办的一次会议上作主题发言时说，“与Google Docs和Spreadsheets相比，我们有更大的竞争优势，OpenOffice和StarOffice对我们的竞争威胁更大。”微软希望利用即将发布的Office Web，以及网络版Exchange和SharePoint巩固Office的优势。 
+　　OpenOffice.org表现确实不凡。OpenOffice.org 3.0在10月份第一周的表现非常强眼，下载量超过了300万次。1个月内的下载量超过了1000万次。 
+　　ClickStream发现，68%的Google Docs或Spreadsheets用户还使用Word，这表明Google Docs还没有被其大多数用户认为是一款“独立的”产品。相比之下，74%的OpenOffice用户完全不使用Word。ClickStream称，尽管Google Docs和Spreadsheets一直被认为是Office的挑战者，目前来看OpenOffice可能更胜任这一角色。 
+　　谷歌一名发言人表示，Google Docs有数百万名活跃用户，储存有数千万份文档。发布两年多来，Google Docs一直表现出稳健增长的态势。 
+　　ClickStream的调查结果并不让人感到意外。市场研究公司NPD Group去年进行的一次调查也得出了相似的结论。 
+　　ClickStream的调查结果显示，Google Docs的普及率甚至低于Corel的WordPerfect。调查显示，3%的受访者使用WordPerfect 12，是仅次于微软Office和OpenOffice.org的第三大流行的办公软件。如果再算上WordPerfect 9、10、11、13这些版本，就有6%的受访者使用WordPerfect。ClickStream表示，有些用户同时使用多种办公软件，使得WordPerfect实际的市场份额低于OpenOffice.org。 
+
+

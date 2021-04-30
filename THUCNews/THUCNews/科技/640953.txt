@@ -1,0 +1,8 @@
+谷歌称很快将公布Android 4.0源代码
+　　新浪科技讯 北京时间10月20日晚间消息，谷歌今日证实，很快将公布Android 4.0的源代码。
+　　最初，谷歌一直根据“Android开源项目”(Android Open Source Project，以下简称“AOSP”)开放Android系统的源代码。但对于面向平板电脑开发的Android 3.0 Honeycomb系统，谷歌并未公开其源代码。
+　　谷歌迟迟不公布Android 3.0源代码似乎有两点原因，首先Android 3.0是针对平板电脑开发，而不是智能手机。其次，有谷歌员工暗示，Android 3.0的许多源代码不适合公布。
+　　但谷歌今日证实，将公布Android 4.0源代码。谷歌软件工程师吉恩·曲鲁(Jean-Baptiste Queru)称：“AOSP将再次发布源代码，这意味着Android 4.0将根据AOSP开放源代码。”
+　　有业内人士称，对于谷歌而言，开放Android 4.0源代码意义重大。在Android、Windows Phone和iOS三大移动平台中，只有Android是开源平台。因此，谷歌此前并未提供Honeycomb源代码让许多社区感到失望。更重要的是，开放Android 4.0源代码有助于第三方开发人员将新系统移植到旧手机中。
+　　谷歌和三星(微博)周三在香港召开新闻发布会，发布了代号为“冰激凌三明治”(Ice Cream Sandwich)的新一代Android 4.0系统，以及基于Android 4.0的三星Galaxy Nexus智能手机。(李明)
+

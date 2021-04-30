@@ -1,0 +1,104 @@
+GMAT论道之形合Vs意合之分析
+　　第一类 ：李代桃僵——以非并列结构连词手段引起意合
+　　老PREP 60. (27763-!-item-!-188;#058&003346)
+　　Mideast immigrants' rates of entrepreneurship exceed virtually every other immigrant group in the increasingly diverse United States economy. 
+　　A. Mideast immigrants' rates of entrepreneurship exceed 
+　　B. Mideast immigrants are exhibiting rates of entrepreneurship exceeding 
+　　C. Immigrants from the Mideast exhibit rates of entrepreneurship exceeding those of 
+　　D. The rates of entrepreneurship in immigrants from the Mideast exceed 
+　　E. The rates of Mideast immigrants' entrepreneurship exceeds those of
+　　本题的题眼在于“exceed”，其实这是一个隐含的比较，A 超过B，一个隐含前提是A和B需要是对等的事物。以此切入，可知本题是两个rates进行比较，所以those of一定要出现。易得正确选项C。
+　　延伸：既然exceed有这种意合，那么所以隐含了比较的动词是否都应该引起我们的警惕？surpass、overweight……
+　　新PREP 220. (29238-!-item-!-188;#058&003590) (GWD-6-Q31)
+　　The fact of some fraternal twins resembling each other greatly and others looking quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably on a spectrum of genetic relatedness。
+　　A. The fact of some fraternal twins resembling each other greatly and others looking quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably
+　　B. That some fraternal twins resemble each other greatly while others look quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely that they vary considerably
+　　C. With some fraternal twins resembling each other greatly and others looking quite dissimilar, it highlights an interesting and often overlooked feature of fraternal-twin pairs, namely considerable variation
+　　D. With some fraternal twins resembling each other greatly and others looking quite dissimilar, it is a fact that highlights an interesting and often overlooked feature of fraternal-twin pairs, namely a considerable variation
+　　E. Because some fraternal twins resemble each other greatly and others look quite dissimilar, this fact highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably
+　　此题看点在于命题老头对原句精妙的改写。请看：That some fraternal twins resemble each other greatly while others look quite dissimilar. 意思上是不是等于that they vary considerably？ 所以这个句子的原貌是：
+　　That some fraternal twins resemble each other greatly while others look quite dissimilar, namely that they vary considerably，(到此处为主语) highlights(谓语) an interesting and often overlooked feature of fraternal-twin pairs。
+　　此处，namely引起了一个意合，要求两端的形式尽量一致。那么，为啥读者读到的最后版本的句子和上面这个不同呢？原因很简单，就是命题者依据避免主语过长的原则，把namely后面的半截移到了句子最后，进一步加大了题目的难度。这一招在其它题目也出现过，请看这题：
+　　GWD-11-Q33:
+　　After more than four decades of research and development, a new type of jet engine is being tested that could eventually propel aircraft anywhere in the world within two hours or help boost cargoes into space at significantly lower costs than current methods permit。
+　　A. tested that could eventually propel aircraft anywhere in the world within two hours or help
+　　B. tested that could eventually have the capability of propelling aircraft anywhere in the world within two hours or to help
+　　C. tested, eventually able to propel aircraft anywhere in the world within two hours, or helping
+　　D. tested, and it eventually could propel aircraft anywhere in the world within two hours or helping
+　　E. tested, and it could eventually have the capability to propel aircraft anywhere in the world within two hours or help
+　　that从句实际上修饰的是engine，可是被挪后了，目的也是为了减少主语的长度。
+　　延伸：老头连namely都能编出意合的题目，所以请一定留心能表达出两边相等关系的东东，如be动词，A means B等等。
+　　第二类：暗度陈仓—形式并列松散，逻辑呼应紧密
+　　188. (28112-!-item-!-188;#058&002759) (GWD-7-Q33)
+　　The health benefits of tea have been the subject of much research; in addition to its possibilities for preventing and inhibiting some forms of cancer, the brewed leaves of Camellia sinensis may also play a role in reducing the risk of heart disease and stroke。
+　　A. in addition to its possibilities for preventing and inhibiting
+　　B. in addition to its possibilities to prevent or inhibit
+　　C. besides the possibility that it prevents and inhibits
+　　D. besides the possible preventing and inhibiting of
+　　E. besides possibly preventing or inhibiting
+　　此题咋看着 in addition to或者besides不知道怎么用，因为很多人生硬地认为主语和in addiction to 之后的东西应该平行，其实不然，该题的妙处，也是在于意合，读者需要判断，“防治癌症”这事儿，到底和句子中哪个地方有资格构成“意合”？
+　　如果还没看出，请允许我重温一下老头挪位置的常用伎俩，看看这个被我挪过的句子：The brewed leaves of Camellia sinensis may also play a role in reducing the risk of heart disease and stroke, besides possibly preventing or inhibiting some forms of cancer
+　　这会儿看明白了吧，实际上，他们需要和in reducing the risk of heart disease and stroke平行，本题答案也呼之欲出了。当然，本题还有其它看点，容后再述。
+　　有了这题的基础，大家应该会比较明天PREP里面大家一直郁闷的两题，答案是怎么回事，因为， In addition to 到底和谁平行，不是由谁放在主语说了算，而是意思说了算！
+　　In addition to her work on the Miocene hominid fossil record, Mary Leakey contributed to archaeology with her discovery of the earliest direct evidence of hominid activity and painstakingly documenting East African cave paintings。
+　　加粗部分才是真正的平行双方。
+　　(A) Leakey contributed to archaeology with her discovery of the earliest direct evidence of hominid activity and painstakingly documenting
+　　(B) Leakey contributed to archaeology by her discovery of the earliest direct evidence of hominid activity and by painstakingly documenting
+　　(C) Leakey was a contributor to archaeology with her discovery of the earliest direct evidence of hominid activity and with her painstaking documentation of
+　　(D) Leakey's contributions to archaeology include her discovery of the earliest direct evidence of hominid activity and her painstaking documentation of
+　　(E) Leakey's contributions to archaeology include discovering the earliest direct evidence of hominid activity and painstaking documentation of 　
+　　129. (31370-!-item-!-188;#058&004475)
+　　In addition to her work on the Miocene hominid fossil record, Mary Leakey contributed to archaeology through her discovery of the earliest direct evidence of hominid activity and through her painstaking documentation of East African cave paintings。
+　　(A) Mary Leakey contributed to archaeology through her discovery of the earliest direct evidence of hominid activity and through her painstaking documentation of
+　　(B) Mary Leakey contributed to archaeology by her discovery of the earliest direct evidence of hominid activity and painstakingly documenting
+　　(C) Mary Leakey was a contributor to archaeology by discovering the earliest direct evidence of hominid activity and with her painstaking documentation of
+　　(D) Mary Leakey's contributions to archaeology include her discovery of the earliest direct evidence of hominid activity and painstakingly documenting
+　　(E) Mary Leakey's contributions to archaeology include her discovering the earliest direct evidence of hominid activity and painstaking documentation of 　　
+　　第三类：声东击西——以形合诱敌，以意合击之
+　　197. (31514-!-item-!-188;#058&005971) (GWD-8-Q20)
+　　Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also caused erosion and very quickly deforested whole regions。
+　　A. Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also
+　　B. Not only did the systematic clearing of forests in the United States create farmland (especially in the Northeast)， which gave consumers relatively inexpensive houses and furniture, but also
+　　C. The systematic clearing of forests in the United States, creating farmland (especially in the Northeast) and giving consumers relatively inexpensive houses and furniture, but also
+　　D. The systematic clearing of forests in the United States created farmland (especially in the Northeast) and gave consumers relatively inexpensive houses and furniture, but it also
+　　E. The systematic clearing of forests in the United States not only created farmland (especially in the Northeast)， giving consumers relatively inexpensive houses and furniture, but it
+　　此题容易先入为主排除没有not only but also的选项。实际上已经犯了一个错误：谁告诉你这个句子是并列关系了？实际上这句前后是转折关系，选的答案是D。当然，本题也可以通过杀灭其它选项获得答案。要强调的是避免先入为主这种错误的做题习惯。
+　　Thelonious Monk, who was a jazz pianist and composer, produced a body of work both rooted in the stride-piano tradition of Willie (The Lion) Smith and Duke Ellington, yet in many ways he stood apart from the mainstream jazz repertory。
+　　A. Thelonious Monk, who was a jazz pianist and composer, produced a body of work both rooted
+　　B. Thelonious Monk, the jazz pianist and composer, produced a body of work that was rooted both
+　　C. Jazz pianist and composer Thelonious Monk, who produced a body of work rooted
+　　D. Jazz pianist and composer Thelonious Monk produced a body of work that was rooted
+　　E. Jazz pianist and composer Thelonious Monk produced a body of work rooted both
+　　同上理，避免上来就判断人家必用both …and结构。人家可以不用。同时这题也可以看到一些教师引导考生不需要思维过程就做出判定的所谓“命题者偏好”是多么脆弱。D选项用的正是所谓“偏好”中不倾向的从句做定语。
+　　老PREP 1. (24465-!-item-!-188;#058&000982)
+　　To meet the rapidly rising market demand for fish and seafood, suppliers are growing fish twice as fast as their natural growth rate, cutting their feed allotment by nearly half and raising them on special diets。
+　　(A) their natural growth rate, cutting their feed allotment
+　　(B) their natural growth rate, their feed allotment cut
+　　(C) growing them naturally, cutting their feed allotment
+　　(D) they grow naturally, cutting their feed allotment
+　　(E) they grow naturally, with their feed allotment cut
+　　本题容易根据划线外的growing 选择C答案。然而，此题的关键在于看出划线外的grow和内的grow意思其实并不相同。外面的grow是及物动词，意思大概相当于“养”，里面的grow是不及物动词，意思为“生长”，一个“naturally”已经提示了我们，这个grow不是被人养的grow。故本题选择D。　　
+　　第四类：围魏救赵——杠杆里面做文章
+　　Seldom more that 40 feet wide and 12 feet deep, but it ran 363 miles across the rugged wilderness of upstate New York, the Erie Canal connected the Hudson River at Albany to the Great Lakes at Buffalo, providing the port of New York City with a direct water link to the heartland of the North American continent。
+　　1. Seldom more than 40 feet wide and 12 feet deep, but it ran 363 miles across the rugged wilderness of upstate New York, the Erie Canal connected
+　　2. Seldom more than 40 feet wide or 12 feet deep but running 363 miles across the rugged wilderness of upstate New York, the Erie Canal connected
+　　• It was seldom more than 40 feet wide and 12 feet deep, and ran 363 miles across the rugged wilderness of upstate New York, but the Erie Canal, connecting
+　　• The Erie Canal was seldom more than 40 feet wide or 12 feet deep and it ran 363 miles across the rugged wilderness of upstate New York, which connected
+　　• The Erie Canal, seldom more than 40 feet wide and 12 feet deep, but running 363 miles across the rugged wilderness of upstate New York, connecting
+　　看到老头的小动作了吗？考生光顾着琢磨并列结构的两边了，却忽视了串联他们的“杠杆”。实际上串联两边的连词传递了两端不同的逻辑关系。对应本题，正确的串联应该是or...but。因为前半句是否定句，而两句之间是转折关系。
+　　另上文还有两题亦有此现象。
+　　The fact of some fraternal twins resembling each other greatly and others looking quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably on a spectrum of genetic relatedness。
+　　A. The fact of some fraternal twins resembling each other greatly and others looking quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably
+　　B. That some fraternal twins resemble each other greatly while others look quite dissimilar highlights an interesting and often overlooked feature of fraternal-twin pairs, namely that they vary considerably
+　　C. With some fraternal twins resembling each other greatly and others looking quite dissimilar, it highlights an interesting and often overlooked feature of fraternal-twin pairs, namely considerable variation
+　　D. With some fraternal twins resembling each other greatly and others looking quite dissimilar, it is a fact that highlights an interesting and often overlooked feature of fraternal-twin pairs, namely a considerable variation
+　　E. Because some fraternal twins resemble each other greatly and others look quite dissimilar, this fact highlights an interesting and often overlooked feature of fraternal-twin pairs, namely they vary considerably
+　　经过上文唧唧歪歪的用namely的意合做法，这时候是不是有种四两拨千斤的感觉？
+　　The health benefits of tea have been the subject of much research; in addition to its possibilities for preventing and inhibiting some forms of cancer, the brewed leaves of Camellia sinensis may also play a role in reducing the risk of heart disease and stroke。
+　　A. in addition to its possibilities for preventing and inhibiting
+　　B. in addition to its possibilities to prevent or inhibit
+　　C. besides the possibility that it prevents and inhibits
+　　D. besides the possible preventing and inhibiting of
+　　E. besides possibly preventing or inhibiting
+　　大家看出and 和or用法带来的意思区别吗？ 一个是同时出现，一个是二选一。而预防和治疗两个动作不可能同时出现，所以只能选择or。
+

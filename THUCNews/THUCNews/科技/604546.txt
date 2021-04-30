@@ -1,0 +1,31 @@
+个性彩壳 摩托罗拉谷歌手机ME501将发售
+文/孟昕
+    除了与国内三大运营商合作推出Android定制手机外，强势复苏的老牌手机巨头摩托罗拉还通过引入海外热销产品的形式来拓展中国市场，其中继传闻谷歌开山之作---CLIQ和里程碑Milestone将推出行货版本之后，有消息称在MWC2010大会上发布不久的摩托罗拉QUENCH(美版型号：CLIQ XT)也将于明天正式发售大陆行货版，其型号为ME501。
+    摩托罗拉ME501是继CLIQ之后旗下第二款定位中端市场的Android手机，相比之前问世的Milestone、后空翻ME600、XT800、XT701等明星机型，ME501显然更符合普通用户的心理定位，造型设计也更为传统简洁。不过，该机在细节上也并非毫无新意，其中触摸板的引入应该算是该机的一大看点。由于定位的缘故，该机在配置上与CLIQ相当，但国内主流SNS社交网站的集成却使之成为了继ME600之后第二款支持MOTOBLUR技术的行货谷歌手机。
+    很多了解ME501的网友应该还记得该机在设计上的另一大特色，那就是个性化彩壳更换。从官方宣传海报中我们得知摩托罗拉ME501已经为用户准备了四季系列、表达系列、工作日系列三大类共计15种彩壳版本，而上市之后预计该机还将提供更多个性化选择，偏爱Android手机的时尚达人们可以尝试一下哦!
+    官方15种个性化彩壳曝光
+    摩托罗拉ME501功能配置表
+    上市时间: 2010-03-19
+    特别: 支持多任务处理
+    外形:直板触屏
+    频段: WCDMA 850/1900/2100, GSM 850/900/1800/1900, HSDPA 7.2 Mbps (Category 7/8), EDGE Class 12, SatNav/aGPS, Version 2.1+EDR, 802.11b/g
+    体积: 74.7 cc
+    重量: 123.5 g
+    尺寸: 659.4x 116.7 x 12.3 mm
+    屏幕: 3.1” 320 x 480 65k TFT HVGA
+    天线: Internal
+    电池: 1400.00 mAh
+    待机：WCDMA TT/SB Time (up to): 391 mins / 700 hrs
+    GSM TT/SB Time (up to): 454 mins / 667 hrs
+    WLAN TT/SB Time (up to): 450 mins / 500 hrs
+    芯片: MSM 7200A 528Mhz
+    信息/网络: Email (Motorola-Proprietary, POP3/IMAP, push email)、WLAN: 802.11b/g
+    音频： AAC, AMR NB, MIDI, MP3, WAV, WMA v10
+    视频: Capture/playback/streaming, video-streaming, H.263, H.264, MPEG4
+    摄像头: 5MP, digital zoom, auto-focus, LED
+    内存: 1GB 用户可用, up to 32GB with a microSD™ card
+    连接: 3.5mm 耳机, USB 2.0 High Speed, OTA ActiveSync, Over the Air Sync (FOTA)
+    蓝牙: Stereo Bluetooth Class 2, Version 2.1+EDR
+    定位服务: aGPS (assisted), SatNav
+    RAM/ROM:256MB DRAM x 512MB Nand Flash System Memory
+

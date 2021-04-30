@@ -1,0 +1,8 @@
+传微软降低Office 2010入门版价格推广必应
+　　新浪科技讯 北京时间5月12日早间消息，据国外媒体报道，微软一家分销商透露，微软正计划将PC厂商预装Office 2010入门版的价格降至每拷贝2美元，前提是PC厂商同意预装必应(Bing)工具栏和Windows Live Essentials。而如果PC厂商仅仅只希望预装Office 2010入门版，那么每拷贝价格将为5美元。
+　　微软正计划采取多种不同的发布策略，以吸引更多用户使用Office 2010。其中之一是推出经过简化的Word和Excel，即Office 2010入门版，并预装在新PC上。微软希望，部分Office入门版的用户在尝试该软件后将升级至价格较高的完整版Office。
+　　微软将向PC厂商提供OEM预装包(OPK)，帮助PC厂商更容易、更快速地在新PC上安装Office 2010的多个拷贝。除入门版之外，Office 2010还将包括家庭及学生版、家庭及企业版和专业版。
+　　微软将每拷贝2美元的OEM版Office称作“PC Essentials”。为了降低预装成本，PC厂商还需同时预装Windows Live Essentials(包括Live Mail、Live Messenger和Photo Gallery等)、必应工具栏，并将PC浏览器的默认主页设为必应和MSN主页。
+　　Office 2010入门版只包括Word 2010和Excel 2010，提供最基本的文档查看和编辑功能。入门版Office将是由广告支持的，因此用户可以免费使用。入门版Office的目的是替代此前推出的微软Works试用版。尽管名称类似，但Office 2010入门版与Windows 7入门版和Windows Phone入门版有着本质的区别。
+　　微软还将通过产品密钥卡向用户提供Office 2010产品。产品密钥卡提供单一授权，可用于解锁由零售商和PC厂商销售的Office 2010。微软希望这能帮助用户更方便地升级至完整版Office 2010。(张楠)
+

@@ -1,0 +1,6 @@
+RSS阅读器MobileRSS被指剽窃Reeder界面设计
+　　新浪科技讯 北京时间12月23日上午消息，RSS阅读器Reeder的开发者西尔维奥·利兹(Silvio Rizzi)称，MobileRSS剽窃了他开发的应用的界面设计。
+　　Reeder和MobileRSS都是针对苹果iPhone、iPad和Mac电脑开发的RSS阅读器。利兹在他的网站上开设了一个页面，将两款软件的界面进行对比，以证明剽窃的存在。这一行动激起了强烈反响。
+　　流行书签服务Read It Later为了表示对Reeder的支持，已经禁用了MobileRSS的API key。Read It Later的开发人员表示，尽管MobileRSS去年是Read It Later用户使用的第三大新闻应用，他们还是作出了上述决定。任何对此决定感到不满的用户都可以发来电子邮件，他们将找到提供补偿的办法。
+　　MobileRSS尚未置评。(彦飞)
+

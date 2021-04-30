@@ -1,0 +1,6 @@
+苹果公布MobileMe向iCloud过渡路线图
+　　新浪科技讯 北京时间6月27日早间消息，苹果上周末公布了MobileMe向iCloud过渡的路线图。苹果表示，MobileMe的官方关闭时间将是2012年6月30日。
+　　苹果于两周前在全球开发者大会(WWDC)上推出了iCloud服务，苹果此次以问答的形式公布了有关iCloud的一些细节。其中一条问题是，用户是否可以通过浏览器使用iCloud服务。苹果表示，网页电子邮件、日程表、联系人管理和Find My iPhone工具不会与当前有太大不同，用户仍可以通过Me.com使用这些服务。此外，用户还可以通过iCloud.com使用这些服务，苹果于今年早些时候收购了iCloud.com域名。
+　　不过，部分MobileMe服务将会被关闭，其中包括iWeb网络主机服务、MobileMe Gallery和iDisk等。当MobileMe关闭之后，iOS版MobileMe Gallery和iDisk也将被停用。此外，在关闭MobileMe之后，苹果将不再支持Mac OS X控制台小工具，以及系统设置的同步。
+　　外界猜测，苹果有可能不会继续在iLife软件套装中加入iWeb。苹果CEO史蒂夫·乔布斯(Steve Jobs)本月早些时候的一封电子邮件显示，苹果有可能会这样做。苹果于2006年向iLife中加入iWeb，帮助Mac电脑的用户利用WYSI/WYG编辑器设计网站。只要拥有MobileMe帐户，用户就可以将做好的网站上传到苹果的服务器上。(维金)
+

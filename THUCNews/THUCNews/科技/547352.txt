@@ -1,0 +1,7 @@
+Windows Live开始支持MySpaceID
+　　新浪科技讯 北京时间9月15日早间消息，据国外媒体今日报道，MySpace推出的网站登录平台MySpaceID已经获得微软Windows Live系列服务的支持。
+　　MySpaceID是一款类似Facebook Connect的网站登录平台，与后者几乎在同一时间推出。然而到目前为止，MySpace的这一平台尚未被广泛接受。
+　　此次支持MySpaceID的微软服务包括Windows Live门户网站、Windows Live Messenger和Hotmail等。简而言之，这一新功能将帮助用户向微软互联网服务中导入最近的MySpace通知信息。
+　　双方的合作从周一开始。通过新功能，用户可以在不登录MySpace门户的情况下查看博客文章、最新的照片、用户的好友状态更新，并分享音乐。MySpace这一平台使用了activitystrea.ms协议，该协议同时也被Facebook和Opera所使用。
+　　MySpaceID正在取得稳步发展。今年3月份，MySpace对该平台进行了一次重要更新，加入了消息流聚合功能。(维金)
+

@@ -1,0 +1,39 @@
+Android手机详细配置曝光(图)
+　　新浪科技讯 北京时间8月29消息，据TmoWorld网站报道，T-Mobile将于10月13日推出全球首款Android手机。
+　　该款Android手机名为“HTC Dream/G1”，由宏达电制造。从设计草图看，手机的背面印有“with Google”(与谷歌合作)字样。
+　　T-Mobile将是HTC Dream/G1的首家服务运营商，用户需签署两年服务合同，HTC Dream/G1的售价为199美元。
+　　HTC Dream/G1的具体配置如下：
+　　手机体积：117(毫米) x 55(毫米) x 16(毫米) 
+　　屏幕尺寸：3.17英寸HVGA (480 x 320) 
+　　重量：157克
+　　电池：1150mAh电池
+　　处理器：高通528Mhz 7201处理器
+　　内存：64MB RAM、128MB ROM 
+　　1GB MicroSD卡
+　　5排全功能键盘
+　　轨迹球
+　　310万像素摄像头
+　　支持视频格式：H.264、流媒体、3GPP、MPEG4和Codec 3GP
+　　YouTube视频播放器
+　　支持音频格式：MP3、AAC、AAC+、WMA、MPEG4、WAV、MIDI、REAL、
+　　AUDIO和OGG 
+　　支持墙纸格式：JPG、BMP、PNG和GIF 
+　　内置扬声器
+　　铃声(MP3、AAC、AAC+和WMA)
+　　支持HTTP、WAP Push和xHTML
+　　蓝牙(class 1) 
+　　Picture Caller ID 
+　　支持短信(SMS)和彩信(MMS)
+　　支持POP、IMAP、SMTP，以及AOL和GMAIL电子邮件服务 
+　　支持AIM、MSN、雅虎通和GTALK
+　　四频(850，900，1800，1900) 
+　　支持3G，802.11b和802.11g 
+　　与谷歌日历同步
+　　与Android Marketplace联机
+　　支持谷歌“街景”服务
+　　包装盒内附数据工具包。(李明)
+　　相关新闻：
+　　博客站点披露谷歌Android手机工程图(图)
+　　开发者不满Android进度向谷歌发请愿书 
+
+

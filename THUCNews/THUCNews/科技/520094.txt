@@ -1,0 +1,13 @@
+支持更多存储卡 佳能XF105100固件更新
+　　佳能XF105/XF100采用了全新的1/3英寸HD CMOS PRO感光元件系统，具备4:2:2色彩取样拍摄能力，搭载了一颗DIGIC DVIII高速影像处理器，采用MXF封装格式可拍摄MPEG2 50Mbps码率全高清视频文件，总像素约237万，有效像素约207万。新型的HD CMOS PRO感光元件可使画面的水平和垂直方向的清晰度分别达到900线和800线的标准。
+　　佳能XF105/XF100继承了XF系列的无带化拍摄优势，但对于存储卡的要求还是很高的，此次固件更新主要更新如下：
+·为了让更多CF卡能够支持“Slow & Fast Motion（慢速/快速动作）”记录模式下拍摄的慢动作，拍摄短片时数据分割的大小已由2 GB缩减为1 GB。
+以下Lexar CF卡新增慢动作拍摄支持功能。
+(1)	Lexar Professional x600 16GB (LCF16GBCRBJP600)(2)	Lexar Professional x600 8GB (LCF8GBCRBJP600)(3)	Lexar Professional x300 16GB (LCF16GBCRBJP300)(4)	Lexar Professional x300 8GB (LCF8GBERBJP300)(5)	Lexar Professional x300 4GB (LCF4GBCRBJP300)
+固件下载地址：
+Windows操作系统：点击下载
+Windows 7、Windows 7 (x64)、Windows Vista、Windows Vista (x64)、Windows XP
+MAC操作系统：点击下载
+Mac OS X、Mac OS X v10.6、Mac OS X v10.5、Mac OS X v10.4
+具体操作过程请参阅下载后内置的PDF文档。
+

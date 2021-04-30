@@ -1,0 +1,8 @@
+VMware斥资4.2亿美元收购开源公司
+　　新浪科技讯 北京时间8月11日晚间消息，据国外媒体报道，虚拟化设备提供商VMware周一宣布，将斥资4.2亿美元收购一家私营开源公司SpringSource，增强云计算应用管理和开源社区等业务。
+　　VMware表示，收购SpringSource后，其业务将包括虚拟化、应用架构和云计算等。 VMware在一份声明中称，这笔收购将花费3.62亿美元的现金和股票，及总计5800万美元的期权。交易预计将于今年第三季度完成。
+　　在周一的分析师电话会议中，VMware重申了对第三季度和本财年全年的业绩预期，以反映这笔交易。不过，预计这笔交易将影响VMware第三季度非美国会计准则运营性毛利率。
+　　业内人士认为，收购SpringSource将有利于VMware的“平台即服务”计划。VMware计划推出整合的“平台即服务”解决方案，其中包括SpringSource的软件和VMware原有的vSphere云操作系统。
+　　SpringSource是一家已成立5年的公司，拥有活跃的开源开发者社区，以及一些大公司客户。Vmware表示将继续“坚持使SpringSource解决方案获得欢迎的原则，即SpringSource软件与多种中间件软件的互操作性，以及对开发者社区非常重要的开源模式”。
+　　收购SpringSource使VMware站在了一些关键领域的前沿。SpringSource的Spring Framework支持一半的企业Java项目，该公司同时为广泛使用的Java应用服务器Apache Tomcat提供超过95%的漏洞修复工作。SpringSource还拥有Hyperic应用监控工具。(维金)
+

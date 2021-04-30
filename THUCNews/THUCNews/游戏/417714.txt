@@ -1,0 +1,19 @@
+外媒爆料魔兽世界将推出64位客户端
+　　国外著名魔兽世界站点在最近一次更新的4.2测试服客户端中解析出这样一段代码，其中提到了64位客户端的信息：
+　　GlueStrings.lua
+　　if ( IsWindowsClient() ) then
+　　if ( Is64BitClient() ) then
+　　dllURL = SCANDLL_URL_WIN64_SCAN_DLL;
+　　else
+　　dllURL = SCANDLL_URL_WIN32_SCAN_DLL;
+　　end
+　　end
+　　AccountLogin.lua
+　　SCANDLL_URL_WIN32_SCAN_DLL = "http://us.scan.worldofwarcraft.com/update/Scan.dll";
+　　SCANDLL_URL_WIN64_SCAN_DLL = "http://us.scan.worldofwarcraft.com/update/Scan-64.dll";
+　　如果64位客户端真的在未来的某一天到来的话，那么大概意味着两件事：
+　　1、使用64位操作系统并且内存在3g以上的玩家将获得大幅度的游戏性能提升。
+　　2、以前那些个因为开高画质和插件占用过高导致游戏客户端崩溃的玩家可能再也不用频繁面对这个问题了。
+　　当然，目前为止，这段代码才只是刚刚被加进去，并未产生实际的效果，因此指望它4.2就出现可能不太现实。
+　　不管这货最终会不会真的来到我们面前，至少它让眼巴巴盼着性能提升的64位操作系统玩家看到了那么一丁点儿希望，所以，期待吧。
+

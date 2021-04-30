@@ -1,0 +1,5 @@
+HTC Desire官方正式升级至Android 2.3
+　　HTC Desire(参数 报价 图片 论坛 软件)可谓是2010年最受欢迎的智能手机之一，不过，这款老机皇的Android 2.3升级可谓一波三折，风波不断，不过好在近日HTC终于放出针对这款手机的官方升级。
+　　XDA一位用户在咨询HTC官方人员后得知，HTC官方已经为部分非定制版本的Desire放出了Android 2.3升级，采用OTA推送方式，非定制Desire用户可以留意是否收到了OTA更新的通知。据国外媒体透露，此次更新将为HTC Desire带来系统稳定性的增强、全新的界面、更好支持3G网络等方面的提升。
+　　HTC Desire原生采用了Android 2.1操作系统，3.7英寸AMOLED电容屏，支持多点触控。并配备了Snapdragon 1GHz处理器，使用576MB RAM和512MB ROM的内存组合。并且该机带有WIFI、蓝牙、GPS等功能。背部搭载了500万像素摄像头。
+

@@ -1,0 +1,21 @@
+雅思阅读：多选题如何推测出题位置
+　　北京新航道学校雅思阅读主讲： 夏杰
+　　多选题是雅思阅读考试里一项比较难而且比较另类的题型，因为其他任何题型只会有一个答案与之对应，而多选题往往会要从选项中选出2-3个答案。在我的另一篇文章中，对多选题的解题技巧做过一次总结。在这里再补充一些更加细节的技巧——如何判断题点在原文中的位置。
+　　比如剑4-94页的20-21题：
+　　The list below gives some statements about anthropology。
+　　Which TWO statements are mentioned by the writer of the text?
+　　一看题目让我们找anthropology相关的东西，翻回原文发现文章标题是archeology，所以整篇文章肯定都在说archeology，而我们要找的anthropology肯定只是其中集中讲述的一个插曲段落。所以出题位置肯定相对集中，而且肯定明显包含anthropology字样。只需稍微瞟一眼整篇文章，很快就能发现，几乎每一段的开头都是以archeology开头，唯一例外的是第4和5段，以anthropology开头。所以20-21肯定就在这两段之内。
+　　这是根据题干的关键词来推测定位。
+　　同样，剑4-95页的22-23题：
+　　The list below gives some of the tasks of an archeologist。
+　　Which TWO of these tasks are mentioned by the writer of the text?
+　　一看题目觉得糟了，让我们找archeologist相关的东西，但是全文都在说archeology，怎么办，没法从题干中得到更多信息了。
+　　是的，题干没有更多信息可以挖掘的时候，我们还能从前后来进行挖掘，全文一共有10个段落，刚才的21题出题位置是在第5段。紧邻其后的24-27题在题干中明确写道：Complete the summary of the last two paragraphs…所以24-27题出题位置在9-10段。
+　　根据整体的顺序原则来看，22-23便应该处于中间的6-8段。这么一来我们稍微仔细看看6-8段的开头，就能发现，其中最长的第7段一开头就是“one of the most important tasks of archeologist…。”，所以基本上能够肯定出题位置就从这个附近开始。
+　　这是根据题目间的关系来推测定位。
+　　还有一个例子是剑6-92页25-26题：
+　　Which TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?
+　　题干中最吸引眼球的就是Nicaraguan这个词了，因为是个非常好的地理名词，专有名词。很少有同学能够注意到implications这个词。这个词的意思是“推论”，作为一个推论，必定是出现在实验或者研究的结论之后，所以要找implications的话，肯定出题的地方至少在后半段。还得是后半段中出现Nicaraguan的地方，这么两个条件加起来，也就只有倒数第三段的开头了，所以出题的位置便是从这里开始，到文章的末尾。
+　　这是根据题干中隐含的细节来推测定位。
+　　所以任何一个题干中其实都隐藏着很多很多的细节，而这些细节能够极大的帮助我们去缩短阅读范围，集中精力来寻找题目关键词。
+

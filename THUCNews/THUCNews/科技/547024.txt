@@ -1,0 +1,6 @@
+Facebook Connect服务登陆手机
+　　新浪科技讯 北京时间9月5日上午消息，据国外媒体报道，Facebook昨天通过官方博客宣布，手机网站和软件开发者也可以使用其Facebook Connect服务。6个月前，Facebook发布了面向iPhone(手机上网)开发者的Facebook Connect。
+　　Facebook Connect能够在Facebook和外部网站之间建立一条通道，用户可以利用之前创建的Facebook账户登录其他网站。Facebook还能向部署Facebook Connect的网站传输用户账户中的内容，例如档案信息、照片、通信录、评论和状态更新等。
+　　Facebook产品经理迈克尔-伊亚尔·莎伦(Michael Eyal Sharon)在博客中称，手机版Facebook Connect与PC和iPhone版有着同样丰富的功能。
+　　Facebook表示，通过手机访问其网站的用户由8个月前的2000万增长至6500万。(志翔)
+

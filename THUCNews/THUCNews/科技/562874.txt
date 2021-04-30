@@ -1,0 +1,7 @@
+Chrome 6提速17%与Opera和Safari难分胜负
+　　新浪科技讯 北京时间9月7日晚间消息，据国外媒体周三报道，最新测试结果显示，谷歌刚刚推出的Chrome 6浏览器的速度较Chrome 5提升了17%，与Opera和Safari不相上下。
+　　上周，在Chrome浏览器诞生两周年之际，谷歌推出了Chrome 6。最新测试结果显示，Chrome 6较5月份推出的Chrome 5快17%，较排名第一的Opera 10.61和第二位的Safari 5稍慢一点点。
+　　在SunSpider基准测试中，Opera、Safari和Chrome三者之间的差距不到12毫秒。而在JavaScript测试中，Firefox已经退出了“最快浏览器”的竞争行列，Firefox 3.6.9的浏览速度刚刚超过IE8，用时为Chrome 6的2倍。
+　　今年晚些时候，Mozilla将推出Firefox 4。测试结果显示，Firefox Beta 4的浏览速度要远远快于Firefox 3.6.9，但Chrome 6的速度仍比Firefox Beta 4版快29%。
+　　微软IE8的表现最差，在SunSpider JavaScript基准测试中，IE8的浏览速度比其竞争对手慢了4到11倍不等。9月15日，微软将推出IE9的首个公开测试版，届时可能会提升微软在该市场的竞争力。(李明)
+

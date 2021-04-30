@@ -1,0 +1,7 @@
+红杉资本投资HTML5应用开发商Sencha
+　　新浪科技讯 北京时间6月24日下午消息，据国外媒体报道，HTML5应用开发商Sencha周三宣布，该公司刚刚获得了1400万美元融资。
+　　本次融资由红杉资本牵头，风险投资公司Radar Partners也参与其中。红杉资本的杰姆·戈兹(Jim Goetz)和Radar Partners的特拉顿·斯卡拉沃斯(Stratton Sclavos)则会加盟Sencha董事会。
+　　Sencha创立于2007年，最初名为Ext JS，该公司开发了多款开源JavaScript产品，并且被百思买、Juniper Networks和时代华纳有线等企业采用。该公司表示，将利用刚刚获得的资金来拓展Sencha Touch等HTML5产品。Sencha Touch的目的是开发复杂的网络应用，使之兼容手机和触摸屏设备。使用Android和iOS操作系统的产品都属于这类设备。
+　　HTML5有很大的潜力，但是网络应用目前在功能、流畅性和界面等方面还无法与本地化应用竞争，不过Sencha似乎希望走在这一趋势的前沿。红杉资本的投资也是对该公司的一大肯定。
+　　除此之外，Sencha还将任命了三名高管。分别是销售副总裁埃德·德里斯科尔(Ted Driscoll)、专业培训服务副总裁杰夫·哈特利(Jeff Hartley)以及产品和营销副总裁买卡德尔·马拉尼(Michael Mullany)。(鼎宏)
+

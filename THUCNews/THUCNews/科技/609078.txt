@@ -1,0 +1,5 @@
+不比XOOM差 三星GALAXY Tab10.1跑分曝光
+　　Andorid系统的大规模兴让硬件厂商终于找到了突破口，性能一代比一代强的。而每代产品上市之后的硬件测试也成为了标准流程。近日三星GALAXY Tab10.1的性能测试成绩曝光。
+　　三星GALAXY Tab10.1采用的是Nvidia Tegra 2双核处理器，主频为1GHz。这款运行Android3.0 Honeycomb系统的产品也成为近期不少平板爱好者关注的焦点，不过Quadrant Benchmark测试成绩却有点惨不忍睹，只有1500分左右。当然Quadrant并没有针对双核进行优化，因此很多双核产品都吃亏了不少。那么在专门针对双核优化后的AnTutu Benchmark测试当中GALAXY Tab10.1得分为3729分，成为目前第一名。
+　　目前三星GALAXY Tab10.1即将在国内上市，相信这款产品也会获得不少用户的喜爱。
+

@@ -1,0 +1,7 @@
+采用WM 6.5 HTC touch PRO3细节赏析
+    文/Lokia
+    作为即将上市的新一任WM机王，HTC Touch PRO3（曾用名：LEO）自从7月曝光以来一直都是WM玩家关注的对象。而随着公测版本和正式名称的确认，人们对于HTC Touch PRO3更是越发期待。而近日国外媒体更是获得公测机型并进行详尽的细节分析。
+    根据国外媒体的消息，HTC Touch PRO3将会极有可能成为首款采用电容式触控屏的Windows mobile手机，同时其屏幕尺寸将会达到夸张般的4.3英寸。因此Touch PRO3的三围也达到了类似TG01的121×67×11mm。
+    一如其外观，Touch PRO3在硬件性能方面也和TG01相当，同样采用了具备1GHz处理器的snapdragon芯片组，配合512MB ROM/320MB RAM的机身内存。至于支持网络方面自然是国际主流的GSM/EDGE/WCDMA/HSPA网络，蓝牙、GPS/wifi也一应具备。3.5mm耳机接口和背面的500万像素摄像头（支持触控对焦，附设双LED闪光灯）更是让人感到惊喜，只是1230毫安时的锂电池在续航方面让人放心不下。
+　　一如之前的Touch PRO2，Touch PRO3依旧采用了TouchFLO 3D待机界面。配合4.3英寸超大宽屏和Windows mobile 6.5版本针对触控的细节优化。相信HTC Touch PRO3能给予用户带来至高的操作体验，而目前万事俱备的HTC Touch PRO3只待官方正式发布上市日期和建议零售价，IT.com.cn也会为大家紧密追踪最新线索。
+

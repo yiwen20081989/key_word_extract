@@ -1,0 +1,20 @@
+Windows 7硬件需求出炉 较Vista略高
+　　据国外媒体报道，随着Windows7RC的发布，微软同时调整了Windows7的硬件需求。调整后，64位Windows7的内存和硬盘需求有所提升。
+　　今年1月，微软发布了Windows7Beta，当时，微软给出的Windows7硬件需求为：
+　　处理器时钟频率：1GHz
+　　内存：1GB
+　　硬件：16GB可用空间
+　　显卡：支持DirectX9，128MB显存
+　　4月30日，微软又面向MSDN和TechNet用户发布了Windows7RC。同时，微软又略微调整了Windows7硬件需求：
+　　处理器时钟频率：1GHz
+　　内存：1GB(32位系统)；2GB(64位系统)
+　　硬件：16GB可用空间(32位系统)；20GB(64位系统)
+　　显卡：支持DirectX9，WDDM1.0或更高版本
+　　如果要运行Windows7的“XP模式”，则系统内存需要2GB，以及额外的15GB硬盘空间。
+　　相比之下，Windows Vista的硬件需求为：
+　　处理器时钟频率：1GHz
+　　内存：512MB(家庭基础版)；1GB(其他版本)
+　　硬件：15GB可用空间
+　　显卡：支持DirectX9，32MB显存(家庭基础版)；128MB，支持WDDM(其他版本)
+
+

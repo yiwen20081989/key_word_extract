@@ -1,0 +1,4 @@
+iPhone 3GS可以升级 苹果iOS5秋季推出
+　　北京时间6月7日，苹果公司在旧金山举行了WWDC2011大会，发布了新一代的iOS5操作系统。苹果副总裁Scott表示，iOS5将于今年秋季推出，而开发者即日则可活动SDK。
+　　据介绍，iOS5支持的设备包括iPhone3GS、iPhone4、iPad、iPad2以及第三、四代的iPod touch音乐播放器，而其他设备将不支持升级iOS5系统。iOS5具有10大特性，包括新通知中心、锁屏拍照、OTA更新、iCloud等功能。
+

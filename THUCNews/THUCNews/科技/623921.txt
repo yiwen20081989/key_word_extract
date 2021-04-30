@@ -1,0 +1,4 @@
+平板电脑专用APU AMD Hondo芯片曝光
+　　日前曝光的AMD产品规划图表明，AMD计划在2012年推出代号为Hondo的APU，这是Desna的后续产品，面向平板电脑。
+　　做为应用于平板的APU，Hondo去除了VGA输出，PCIe，双路USB支持等功能。增加了对于“主动待机(active standby)”模式的支持，该模式下，在保持连接的同时但降低了功耗，可减少三分之一的TDP。Hondo预计在2012年第二季度推出，而后续的Samara将会采用新的图形处理核心。
+

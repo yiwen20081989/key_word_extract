@@ -1,0 +1,26 @@
+名师辅导：搞定SAT完形填空只需一个词
+　　作者简介：夏杰，英国牛津大学硕士，中国人民大学学士，北京新航道学校SAT填空主讲，资深留学咨询师。
+　　SAT的完形填空在很多考生的眼中无疑是非常难的，句子长，结构关系复杂，逻辑关系复杂，单词不认识，都是解题路上的绊脚石。
+　　其实，在很多情况下，只需要看到一个词，便足以使你像刘翔一样跨越这些障碍，这个词我们称作“中心结构词”，请看下面的真题：
+　　Although the bystander’s account of the car accident at first seemed ______, the police officer was surprised, on further investigation, to find that it was _______。
+　　(A)  dubious . . erroneous
+　　(B)  incongruous . . inconsistent
+　　(C)  implausible . . correct
+　　(D)  logical . . pertinent
+　　(E)   probable . . coherent
+　　在这道题中，我们只需要关心一个词——although，它就是我们所说的中心结构词。although的意思表示“虽然……，但是……”，常见用法为“Although 句子1，句子2”，表达的是“虽然句子1成立，但是句子2”。那么请看although在这句话的结构中起到了多大的作用：
+　　在题干的“句子1”中，我们不认识bystander’s account这个东西也没有关系，我们可以了解到这个东西刚开始(at first)看起来很XXX。在“句子2”中，我们读到警察发现它很YYY。
+　　于是我们用中心结构词although把句子1和句子2串起来就是“虽然某东西刚开始很XXX，但是警察发现它YYY”，这就是在说对同一样东西的描述，刚开始和后来的描述是相反的，对不对？于是我们来看一下选项中哪一个是一对相反意思的词：
+　　(A)  dubious可疑的，erroneous错误的，它们并不相反
+　　(B)  incongruous不适宜的，inconsistent不一致的，也没有相反关系
+　　(C)  implausible不太可信的，correct正确可信的，这个是相反的，待选
+　　(D)  logical逻辑的，pertinent相关的，没有相反关系
+　　(E)   probable可能的，coherent连贯的，也没有相反关系
+　　最后只有(C)选项是相反关系，我们把它填入题干空格中验证一下：“虽然路人甲对车祸的描述最初看起来是不太可信的，但是警察在更深入的调查中惊讶地发现它是正确的。”非常符合逻辑。于是我们可以确定地选择C
+　　从这个例子中我们可以看出，仅仅凭although这一个中心结构词，就能判定前后两个句子的关系，更进一步可以来判断需要填入的两个词之间的关系，即使句中其他单词我们不看，单凭选项我们也能选出满足条件的选项。这就是中心结构词的巨大作用。
+　　新航道SAT研究室总结归纳了相反类的中心结构词有如下这些：
+　　although, but, however, though, despite, instead, rather, unless
+　　除了相反类中心结构词之外，还有相似类中心结构词，一旦出现这一类词，前后分句中的意思一定是相同或相近的，解题思路与上面相反类中心结构词一样。这类词包括：
+　　and, because, since, so, therefore, thus
+　　每当看见这些中心结构词，记得一定马上去找前后两句话的相反或相似关系。搞定完形填空，就在一词之间。
+

@@ -1,0 +1,6 @@
+物理计算惹的祸 335M对比HD5650测试
+　　笔记本电脑在中国有一个非常特殊的市场，这个市场中的绝大多数消费者在购买笔记本时，非常喜欢火拼本与本之间的配置与性能，从而这也就导致了独显笔记本在国内市场中成为一枝独秀的原因。因为对这群消费者来说，当笔记本拥有更为强劲的性能时，在游戏方面的表现力也就更好，所以在国内高配置的笔记本也正在挑战DIY台式机。不过说到畅玩游戏，在平台组件中最主要的硬件就是独立显卡。
+　　而目前在最引人关注和争议的要数NVIDIA GeForce GT 335M和ATI Mobility Radeon HD5650这两款主流级显卡。当然我们今天就让它们来做一次巅峰对决，对战内容主要针对它们进行了专业性能测试、实战3D游戏、火拼网络游戏、音频/视频转码这4个方面的对比测试，最终它们在性能方面到底会打成平手还是一方完胜呢？首先让我们从它们的本质开始了解吧。
+　　也许“马甲”是大家对NVIDIA 300M系列独显最为贴切的称呼，而本次参与评测的NVIDIA GeForce GT 335M也习惯的被大家称为GTS 250M屏蔽了一组流处理器后的马甲。通过GPU-Z的信息，我们可以看到NVIDIA GeForce GT 335M基于40nm工艺，并拥有72个流处理器，显存位宽为128bit，显存类型为DDR3，显存容量为1024MB。支持DirectX 10.1、Shader Model 4.1、CUDA、PhysX、DirectCompute 4.1，以及Windows 7等技术或软件。
+　　早在去年年底时，AMD就发布了代号为Manhattan的ATI Mobility Radeon HD5000系列显卡，同时该系列显卡还是目前唯一完全支持微软DirectX 11的笔记本独立显卡，其中ATI Mobility Radeon HD5650就被定义为主流级。通过GPU-Z的信息，我们可以看到ATI Mobility Radeon HD5650基于40nm工艺，拥有400个流处理器，显存位宽为128bit，显存类型为GDDR3，显存容量为1024MB，支持DirectX 11、OpenGL 3.2、16x角度无关各向异性过滤、ATI Eyefinity(6屏)、ATI Stream、ATI CrossFireX、ATI Avivo HD(UVD2)、ATI PowerPlay、Windows 7等技术或软件。
+

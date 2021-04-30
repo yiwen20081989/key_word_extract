@@ -1,0 +1,70 @@
+多普达 Touch Diamond 实用技巧19条
+    近期DIAMOND价格大跳水，曾经的旗舰机也渐渐走下了神台，越来越多人开始拥有这台强机，91手机评测室特此为您带来帮您提升Diamond技巧的19个小技巧。
+    1. 新接收短信唤醒：
+    在HKLM - Drivers - BuiltIn - RIL中，DisableSMSWakeUpEvent的键值缺省值为"1"，改为"0"；注：有人想禁止短信对话模式，把HKCU - Software - Microsoft - Inbox - Settings - SMSAvailable置为"0"，也会造成短信无提示，正确做法是：将HKCU - Software - Microsoft - Inbox - Settings - OEM - SMSInboxThreadingDisabled置为1。
+    2. 来电时，将显示屏朝下关断铃声：
+    在HKLM - Software - HTC - PHONE中，将FaceDownMuteRing的键值改为"1"；
+    3. 更改呼叫等待音：
+    在HKLM - Software - HTC - PHONE中，将WaitingTone的键值改为所需的值（缺省为 - windows -waitingtone.wav）；
+    4. 防止通话时屏幕自动关闭：
+    将HKLM - Drivers - BuiltIn - RIL - EnableFastDormantDisplayDuringCall键值设为"0"（注：有些ROM不起作用）；对于欧洲版本的ROM，可以试试将HKCU - ControlPanel - Phone下的"Sleep"置为"0"
+    5. 按 HTC Album 的 X 按钮时直接关掉程序：
+    将HKLM - Software - HTC - HTCAlbum - ok_minimize键值设为"0"；
+    6. 关掉放大标题栏（Enlarged Title bar）：
+    将HKLM - Software - HTC - EnlargeTitleBar - Enable键值改为"0"；
+    7. 关掉开机动画和声音：
+    将HKLM - Software - HTC - HTCAnimation中"StartupGif"和"StartupWav"两个键改成其它名字；
+    8. 调整屏幕灵敏度：
+    将HKLM - Drivers - TouchPanel - PressureThreshold键值改为"240"（十进制，缺省值为"40"）;
+    9. 自动锁定手机：
+将HKCU - ControlPanel - BackLight - AutoDeviceLockEnable键值从"0"改为"1"，则每次关闭屏幕，手机就会锁定；
+    10. 关于相机模式：    开启"连拍"模式：将[HKLM - SOFTWARE - HTC - Camera - P6 - enabled]键值从"0"改为"1"；开启"运动"模式：将[HKLM - SOFTWARE - HTC - Camera - P8 - enabled]键值从"0"改为"1"；开启"视频共享"模式：将[HKLM - OFTWARE - HTC - Camera - P9 - enabled]键值从"0"改为"1"；开启"GPS照片"模式：将[HKLM - SOFTWARE - HTC - Camera - P10 - enabled]键值从"0"改为"1"；
+    11. 延长自动锁定时间：
+改变[HKCU - ControlPanel - BackLight - AutoDeviceLockTimeout]的值，如30 = 30秒，余类推；
+    12. 允许手动旋转屏幕（竖屏/横屏）：
+    将[HKLM - System - GDI - Rotation - HideOrientationUI]键值从"1"改为"0"
+    13. 隐藏SIM卡联系人：
+    在HKCU - ControlPanel - Phone中，创建一个新的DWORD类型键"ShowSim"并将其值设为"0"。
+   14. 振铃控制脚本：
+[HKCU - Control Panel - Sounds - RingTone0 - script]     脚本字符含义：a=循环起点、p=播放铃声、w=延时、v=振动、f=闪灯、r=重复（返回循环起点）、c=音量     例：  铃声：      apw3r  （响铃，暂停3秒，重复）           铃声渐强：  c50apw3c150r           响铃一次：  p           振动：      av3w3r           振动并响铃：av0pw3r           振动后响铃：v3w3apw3r           无：        a
+    15. WiFi上网问题：
+    打开WLAN后上网、更新天气常会遇到连接失败、或仍通过GPRS连接等情况，这需要完成一下两项设置1) 在“设置->连接->连接->Internet设置->管理现有连接”中，选择自动；2) 在“设置->无线局域网->电源模式”中，选择“最佳性能”；
+    16. 更改TouchFLO 3D首页左右软键功能：    在[HKLM - Software - HTC - Manila]中    HomeLSKArguments - 左键对应程序调用参数    HomeLSKPath - 左键对应程序路径，如： \Program Files\WebIS\PocketInformant\PocketInformant.exe    HomeLSKText - 左键按钮显示的文字    HomeRSKArguments （对应右键，含义同上）    HomeRSKPath    HomeRSKText
+    17.隐藏运营商名称    打开注册表工具：    进入[HKEY_LOCAL_MACHINE-Software-Microsoft-RIL-OperatorNames]找到名称为46000的字符串，然后把值改成空格，如没有这个字符串的话，请新建。。然后关闭电话功能再启用即可
+    18.关屏自动锁定手机    也就是开启Autolock 功能:HKEY_CURRENT_USER-ControlPanel-BackLight-AutoDeviceLockEnable 把 0 改为 1 就开启 Autolock 功能了也可以延时锁定手机:HKEY_CURRENT_USER-ControlPanel-BackLight-AutoDeviceLockTimeout 把 5 改? 30 (即是代表在 Screen 背光 "Backlight" 关掉后 30 秒自动锁定, 如果把数值改为 60 就代表在 Backlight 关掉后 60 秒后自动锁机。
+    19.不用插耳机使用音频增强器    HKLM-System-State-Hardware-Headset 把这个?值由0改为1就可以不用插入耳机使用音频增强器了。
+    近期DIAMOND价格大跳水，曾经的旗舰机也渐渐走下了神台，越来越多人开始拥有这台强机，91手机评测室特此为您带来帮您提升Diamond技巧的19个小技巧。
+    1. 新接收短信唤醒：
+    在HKLM - Drivers - BuiltIn - RIL中，DisableSMSWakeUpEvent的键值缺省值为"1"，改为"0"；注：有人想禁止短信对话模式，把HKCU - Software - Microsoft - Inbox - Settings - SMSAvailable置为"0"，也会造成短信无提示，正确做法是：将HKCU - Software - Microsoft - Inbox - Settings - OEM - SMSInboxThreadingDisabled置为1。
+    2. 来电时，将显示屏朝下关断铃声：
+    在HKLM - Software - HTC - PHONE中，将FaceDownMuteRing的键值改为"1"；
+    3. 更改呼叫等待音：
+    在HKLM - Software - HTC - PHONE中，将WaitingTone的键值改为所需的值（缺省为 - windows -waitingtone.wav）；
+    4. 防止通话时屏幕自动关闭：
+    将HKLM - Drivers - BuiltIn - RIL - EnableFastDormantDisplayDuringCall键值设为"0"（注：有些ROM不起作用）；对于欧洲版本的ROM，可以试试将HKCU - ControlPanel - Phone下的"Sleep"置为"0"
+    5. 按 HTC Album 的 X 按钮时直接关掉程序：
+    将HKLM - Software - HTC - HTCAlbum - ok_minimize键值设为"0"；
+    6. 关掉放大标题栏（Enlarged Title bar）：
+    将HKLM - Software - HTC - EnlargeTitleBar - Enable键值改为"0"；
+    7. 关掉开机动画和声音：
+    将HKLM - Software - HTC - HTCAnimation中"StartupGif"和"StartupWav"两个键改成其它名字；
+    8. 调整屏幕灵敏度：
+    将HKLM - Drivers - TouchPanel - PressureThreshold键值改为"240"（十进制，缺省值为"40"）;
+    9. 自动锁定手机：
+将HKCU - ControlPanel - BackLight - AutoDeviceLockEnable键值从"0"改为"1"，则每次关闭屏幕，手机就会锁定；
+    10. 关于相机模式：    开启"连拍"模式：将[HKLM - SOFTWARE - HTC - Camera - P6 - enabled]键值从"0"改为"1"；开启"运动"模式：将[HKLM - SOFTWARE - HTC - Camera - P8 - enabled]键值从"0"改为"1"；开启"视频共享"模式：将[HKLM - OFTWARE - HTC - Camera - P9 - enabled]键值从"0"改为"1"；开启"GPS照片"模式：将[HKLM - SOFTWARE - HTC - Camera - P10 - enabled]键值从"0"改为"1"；
+    11. 延长自动锁定时间：
+改变[HKCU - ControlPanel - BackLight - AutoDeviceLockTimeout]的值，如30 = 30秒，余类推；
+    12. 允许手动旋转屏幕（竖屏/横屏）：
+    将[HKLM - System - GDI - Rotation - HideOrientationUI]键值从"1"改为"0"
+    13. 隐藏SIM卡联系人：
+    在HKCU - ControlPanel - Phone中，创建一个新的DWORD类型键"ShowSim"并将其值设为"0"。
+   14. 振铃控制脚本：
+[HKCU - Control Panel - Sounds - RingTone0 - script]     脚本字符含义：a=循环起点、p=播放铃声、w=延时、v=振动、f=闪灯、r=重复（返回循环起点）、c=音量     例：  铃声：      apw3r  （响铃，暂停3秒，重复）           铃声渐强：  c50apw3c150r           响铃一次：  p           振动：      av3w3r           振动并响铃：av0pw3r           振动后响铃：v3w3apw3r           无：        a
+    15. WiFi上网问题：
+    打开WLAN后上网、更新天气常会遇到连接失败、或仍通过GPRS连接等情况，这需要完成一下两项设置1) 在“设置->连接->连接->Internet设置->管理现有连接”中，选择自动；2) 在“设置->无线局域网->电源模式”中，选择“最佳性能”；
+    16. 更改TouchFLO 3D首页左右软键功能：    在[HKLM - Software - HTC - Manila]中    HomeLSKArguments - 左键对应程序调用参数    HomeLSKPath - 左键对应程序路径，如： \Program Files\WebIS\PocketInformant\PocketInformant.exe    HomeLSKText - 左键按钮显示的文字    HomeRSKArguments （对应右键，含义同上）    HomeRSKPath    HomeRSKText
+    17.隐藏运营商名称    打开注册表工具：    进入[HKEY_LOCAL_MACHINE-Software-Microsoft-RIL-OperatorNames]找到名称为46000的字符串，然后把值改成空格，如没有这个字符串的话，请新建。。然后关闭电话功能再启用即可
+    18.关屏自动锁定手机    也就是开启Autolock 功能:HKEY_CURRENT_USER-ControlPanel-BackLight-AutoDeviceLockEnable 把 0 改为 1 就开启 Autolock 功能了也可以延时锁定手机:HKEY_CURRENT_USER-ControlPanel-BackLight-AutoDeviceLockTimeout 把 5 改? 30 (即是代表在 Screen 背光 "Backlight" 关掉后 30 秒自动锁定, 如果把数值改为 60 就代表在 Backlight 关掉后 60 秒后自动锁机。
+    19.不用插耳机使用音频增强器    HKLM-System-State-Hardware-Headset 把这个?值由0改为1就可以不用插入耳机使用音频增强器了。
+

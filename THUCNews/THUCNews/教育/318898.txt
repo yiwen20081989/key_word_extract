@@ -1,0 +1,45 @@
+09年12月英语六级名师指导：语法篇
+　　时态部分
+　　英语中最常见以及常考的时态是一般现在时、一般过去时、一般将来时、现在完成时、现在进行时等八种。这些时态我们几乎在每次使用英语的时候，无论是说话或者是写作，都会遇到，一般用法早已熟记于心了，复习的时候只要留心他们的一些特殊用法，这里以现在完成时和现在(完成)进行时为例。
+　　现在完成时的一些特殊用法：
+　　l、在this is(it is)the first time that…句型中，从句常用完成时态。如：It is the second time he has been out with her。
+　　2、have been to与have gone to的区别。前者侧重表示经历过，说话人可能已经不在那个地方，或者已经回来了。而后者表示已经去了那里，说话的时候可能还在那里，或者在去那里的路上。
+　　3、用在时间或条件状语从句中，表示将来某个动作发生之前业已完成的动作，如：I’ll go to see the film as soon as I have finished my homework。我一做完作业就去看电影。其中做完作业的动作在看电影动作之前完成。
+　　4、when引起的疑问句中一般不用现在完成时，因为询问者关心的是事情发生的具体时间现在(完成)进行时除了表示正在进行的动作之外，主要还有以下的用法：与频度副词如always,continually,constantlyforever等状语连用，表示经常发生的，具有持续性动作的事情，或者表示不满，或者心中抱怨。如he is always thinking
+　　主谓一致
+　　在英语中，最重要的一致关系就是主谓一致了，一般来说单数主语用单数动词，复数主语用复数动词。但是主语有时候并不仅仅是简单的单数或者复数。比如说集合名词就既能当数主语又可以作复数主语。另外如不定代词、不定式，以及从句等都能作主语，它们的单复数就不那么容易划分了，这样使用单复数动词的相应具体规则也比较多，但是这些规则基本上都离不开三个大的原则。
+　　1、语法一致。如：the boy plays和the boys play完全符合语法上一致的原则，也可以说是基本原则。
+　　2、意义一致，或者是概念一致。动词的单复数取决于主语所表达的概念，而不是一味由表面的语法标记决定的。如集合名词team本身就有复数的意思，表示整个球队的队员们，如：The basketball team are warmingup。篮球队队员们正在做热身运动。
+　　3、邻近词一致的原则，也可以说是近邻原则。即动词的数要与它紧挨着的名词，或者代词的数一致。如：
+　　Mike is one of the brightest students who have graduated from Harvard University，在这个句子里，最靠近从句中的先行词的是students，而不是one，所以句子中的动词采用复数形式。实际上，一般用oneof+复数名词时，后面的who引出的定语从句都是修饰复数名词，但如用the only one of+复数名词时，who引出的定语从句中的动词则应用单数形式，因为该从句修饰的是one。
+　　关于主谓一致的问题，另外还有几点需要注意：
+　　l、当中心词为度量、距离、价格等复数名词的时候，谓语动词则采用单数形式。如：Two miles is a short distance。
+　　2、在如manya+单数名词；each…and each…组后面，谓语动词仍然用单数形式。如：Many a student makes the same mistake。
+　　3、当主语后面跟由with,together with,but,along with,like.in addition to,as well as,as much as,rather than,except等连接的词组时，其谓语动词的形式依主语的单复数形式而定。如：Statistics as well asphysics always causes mealo to fheadaches。在这里，谓语cause的形式就要依据主语statistics，而不用考虑aswellas后面加的另外一个名词。学科的名词都要用单数谓语动词，所以应该是causes. 相关例题：
+　　Every policeman and fireman_______on the alert。
+　　A.have been B.wasC.are D.were
+　　这道题目的知识点正是上文中提到过的第二点，在each…andeach…，every…and every…，no…andno…之后的谓语动词应该采取单数的形式，所以正确答案应该是B，每一个警察和火警人员都保持警戒状态。
+　　不定式部分
+　　动词不定式是非谓语动词的重要组成部分，在六级考试中非谓语动词部分是一个重点。常跟不定式的动词有agree,fail,promise,afford,ask,happen,resolve,attempt,hesitate,seek,long,threaten,claim,manage,trouble,consent,neglect,try,decide,offer,undertake,demand,plan.volunteer,determine,prepare,want,pretend,wish,endeavor,proceed,struggle等，在了解了加to的单词之后，我们来看一看在什么情况下单词to可以被省略。
+　　l、在一般助动词或者情态动词之后to可以被省略。
+　　2、在动词make,let,watch,see…之后作宾语的时候，to可以被省略。
+　　3、在why和whynot之后to可以被省略，如：Why spend such a lot of time?为什么花这么多时问？和Why not go right now?为什么不现在去呢？
+　　4、在had better,had best,would rather,had sooner,cannot but,do nothing but等结构后面to可以被省略。
+　　下面看一道有关不定式的例题：
+　　We sometimes imaginead esertisland_______asortofparadise,where the sun always shines。
+　　A.to have B.to be 　　C.having D.being
+　　整个句子的意思是，我们有时候把荒岛想象成天堂，那里终日阳光普照。imagine后面常跟to be+形容词(或者名词或反身代词)结构，根据这个知识点，正确答案为B。
+　　可以跟这种结构的动词还有think,consider,believe,find,feel,know,declare,guess,prove,suppose等。这个结构中的to be常可以省略，如：They found him guilty。他们发现他有罪。
+　　情态动词
+　　这些无人称和数的变化的动词也是经常考查的内容，对于它们的掌握除了一般用法以外，一些特殊的用法一定要牢记。
+　　l、might不是may的过去式而是表示一种很小的可能性。might如果用完成式则表示过去发生的很小的可能性。如：You might have told me that。
+　　2、作为情态动词need和dare除在whether和if引出的从句中以外，一般不能用于肯定句，只能用于否定句和疑问句，并且不采用助动词do，但是作为实义动词则需要do,试比较
+　　He doesn’t need/dare to do it。
+　　He needn’t/dare not to do it。
+　　3、used to表示过去习惯的动作或者状态，即现在已经不存在了，be used to doing则表示习惯于某种状态。
+　　4、might和aswell连用表示建议，口气比同样表示建议的had better要婉转一些，两种用法后面都要跟动词原型。
+　　5、ought to,should be,must be/must have been,will be，用来表示论断、逻辑推理等。如：He ought to be here by now。再如：
+　　“Mary isnt here now。”
+　　“left by the back door?”
+　　A.Mustshehave B.MightshehaveC.Hadshe D.Shouldshehave
+

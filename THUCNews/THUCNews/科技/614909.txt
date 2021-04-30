@@ -1,0 +1,4 @@
+Acer新上网本配Congo平台 还可外接显卡
+　　未来Acer新的上网本Ferrari One将会采用AMD Congo平台，与其它上网本比较不同之处，Ferrari One可以外接显卡，目前得知是用ATi Radeon HD的4670。这个外接装置其实比较像笔记本Dock的概念，名为 "DynaVivid dock" ，里面除了有ATi Radeon HD 4670的GPU，还有6个USB槽、HDMI与VGA Out，走ATi XGP连接槽。这个长得很像Acer DynaVivid dock大小为193.5 × 193.5 × 32.8 mm，重量为650克，预计11月上市，售价是199美金，折合人民币1358元。
+　　编辑点评：上网本主打轻薄便携，按理说这样的笔记本电脑应该对性能要求不高，不过人们还是很贪婪，于是有了能看高清、带HDMI接口的上网本，有的人居然还打算用上网本玩游戏，所以Acer的上网本有了外接显卡，1358元的外接显卡可不便宜。
+

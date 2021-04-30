@@ -1,0 +1,7 @@
+谷歌：Chrome浏览器将向Android靠拢
+　　【eNet硅谷动力消息】据国外媒体报道称，日前谷歌公司公开发布了其面向PC的Google Chrome网络浏览器，但谷歌技术总裁、联合创始人之一的谢尔盖·布林(Sergey Brin)预计，未来谷歌还将把面向PC的Google Chrome网络浏览器移植其Android移动平台上来。 
+　　据悉，Google Chrome浏览器与Android平台是两个单独的开发项目，而且具备很大独立性。布林称，“我们不想将二者生硬的捆绑在一起”，但他提醒用户，“不过从现在起这一状况将发生改变，目前两个项目都进入了公测阶段，而且都接近了最后发布阶段”。 
+　　布林还称，“也许Android平台的最后版本将带有Chrome浏览器的大量特征”。布林指出，比如Android平台在JavaScript的改进方面。另外在品牌名称的选择上也可能跟从Chrome，“我猜可能是Chrome-like或者类似的字眼”。 
+　　Chrome以及当前Android平台上的浏览器都基于苹果公司的开源项目WebKit，这为二者的融合奠定了基础。
+
+

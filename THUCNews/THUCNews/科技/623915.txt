@@ -1,0 +1,5 @@
+iPad每月WiFi数据量5倍于Android+iPhone
+　　云服务供应商Meraki近日在美国对访问公共、教育WiFi网络的10万台设备进行了调查，根据调查结果，智能手机和平板机已经成为WiFi设备的主力，其比例已经超过了传统的Windows和Mac笔记本。
+　　其中，iPad对WiFi数据的使用量远远超过其它移动设备，(尽管iPad仅占所有WiFi设备的4%，但是iPad用户对WiFi数据的需求却很大)，是Android、iPhone和iPod每月WiFi数据使用量的5倍。
+　　在2010年，iOS和Android设备占到所有WiFi设备的33%，到2011年则达到了58%。在同一时期，Windows和Mac OS X设备在WiFi设备中的比例由63%降至36%。
+

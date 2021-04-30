@@ -1,0 +1,4 @@
+手把手教您 同步Google日程到iPhone
+　　用Android系统的朋友可能了解，通讯录及日程都存储在Google服务器上，无论查询、修改都很方便。但不知道大家有没有用过iPhone去同步Google的通讯录及日程安排。相信同步过的用户都会知道，在iPhone设定后，仅仅可以同步一个Google日程，您是否为此而困惑不已呢？下面小编就教大家如何解决这个问题。
+　　原来这个问题解决起来非常简单，大家只要在iPhone上打开http://m.google.com/sync，然后把语言设定成“English(US)”，再选择自己使用中的iPhone，便可以手动选择iPhone同步选项，令iPhone的日程能够完全跟Google同步，想不到Google Sync仅可以在语言是美国情况下使用，不知Google用意何在，你遇到过此类问题吗？快点着手解决吧！
+

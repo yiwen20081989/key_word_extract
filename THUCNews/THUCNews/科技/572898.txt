@@ -1,0 +1,6 @@
+Groupon与创业公司合作在Facebook投放广告
+　　新浪科技讯 北京时间3月17日上午消息，美国团购网站Groupon与一家名为“AdParlor”的创业公司合作，后者将负责在Facebook上投放Groupon广告。
+　　AdParlor将在Facebook页面的右侧投放各种类型的Groupon广告，既有鼓励用户加入Groupon的普通广告，也有各种团购项目的详细介绍。
+　　AdParlor CTO克丽丝泰普斯·荣卡(Kristaps Ronka)称：“我们已经开发了一种强大的技术，将Groupon的API与Facebook Ads的API相结合。这将使我们能够为每一单Groupon团购创造有效广告，并投递给那些最感兴趣的用户。”
+　　AdParlor称，它已经与Facebook最大的几家广告主进行合作，包括游戏厂商育碧和Playfirst等，广告印象数每月超150亿。(彦飞)
+

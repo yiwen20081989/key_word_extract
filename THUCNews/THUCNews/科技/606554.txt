@@ -1,0 +1,7 @@
+与WP7无缘 HTC HD7可能不采用Sense界面
+　　作者/马千里
+　　前不久在英国举行的HTC大会上，我们看到了HTC的新Sense界面，没过多久，就传出了这一新的界面会出现在Windows Phone 7操作系统上的消息，不过现在看来，Windows Phone 7系统中会融入Sense界面的话题可能要告一段落了，近日，HTC CEO Peter Chou在接收FierceWireless采访时候表示：“HTC的Windows Phone 7产品中不会采用完整Sense界面”。
+　　之前有消息称，微软不再允许运营商对Windows Phone 7操作系统进行深度定制，而且也不允许OEM厂商对Windows Phone 7操作系统进行大幅度的修改，不过目前还不能完全确定。据微软高层透露，OEM厂商可以对Windows Phone 7系统的桌面壁纸和UI颜色进行修改。HTC CEO的发言或许是对这一消息的回应。
+　　HTC一名新闻发言人近期对Peter Chou的话进行了重新的解释，他这样提到：“HTC Sense，为的是用户有更好的操控体验，HTC当然希望在Windows Phone 7中应用Sense的技术，不过可能不会使用完整的Sense UI。”
+　　Windows Phone 7究竟会以什么样的UI与大家见面，现在依旧一个迷，不过从之前曝光的概念图片中看，我们并没有找到太多的Sense特色在里面。HTC HD7(参数 论坛 软件)的原型机图片已经曝光，他可能是HTC首款Windows Phone 7手机，不过可能与Sense界面无缘了。
+

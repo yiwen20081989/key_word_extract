@@ -1,0 +1,8 @@
+微软发布Windows 7嵌入式操作系统试用版
+　　新浪科技讯 北京时间9月2日早间消息，据国外媒体报道，微软今天表示，该公司已经发布了基于Windows 7的嵌入式操作系统试用版。
+　　Windows Embedded Standard 2011(以下简称“Windows Embedded”)面向ATM(自动柜员机)和数码相框等产品。微软已发布Windows Embedded试用版供用户下载，计划2010年下半年发布正式版。
+　　企业和开发者可以对Windows Embedded试用版进行测试，并将测试情况反馈给微软。微软称，厂商可以选择其产品所需要的Windows Embedded模块，无须支持全部Windows Embedded功能。
+　　Windows Embedded面向多个行业，例如工业自动化、娱乐和消费电子。在企业领域，Windows Embedded被应用在薄客户端、医疗设备等产品中；在消费领域，Windows Embedded被应用在GPS(全球定位系统)、游戏机、互联网电视、便携式媒体播放器等产品中。
+　　微软称，Windows Embedded包含一些新功能，企业将能够利用活动目录组策略和虚拟桌面管理其设备。Windows Embedded支持64位处理器、Windows Aero和Windows Touch触摸屏技术。Windows Embedded还集成有IE 8和Windows Media Player 12。
+　　微软将提供“微软认证技术专家”认证服务和培训软件等，帮助客户开发基于Windows Embedded的产品。(志翔)
+

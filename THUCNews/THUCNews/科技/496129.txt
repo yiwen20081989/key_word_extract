@@ -1,0 +1,16 @@
+菜鸟变达人！玩转昂达VX580R软件安装篇
+　　对于MP4市场来说，智能化的大势所趋是MP4播放器发展的一个方向，Android系统平台就是最为合适的一个平台。Android系统简单、开放的特点注定了它无限的发展空间，而对于很多首次接触Android系统的朋友们来说，操作Android系统平台也是一件非常容易的一件事。以下我们就以国内数码巨头昂达电子旗下首款“智能MP4”VX580R(499元/8GB)为例，教大家如何轻松实现数万款游戏、工具、软件在Android系统中的实现。
+　　
+　　一、认识什么是APK文件？
+　　要轻松的玩转Android智能MP4，就必须先来认识一下“APK”。APK是Android Package 的缩写，也就是我们常说的Android 安装包，通过将APK 文件直接传到Android系统的智能MP4播放器中执行即可安装。
+　　
+　　二、如何获取APK应用程序？
+　　现在随着Android系统平台的逐渐成熟、壮大，越来越多的游戏、应用程序都可以很轻松的在网络中寻找并下载得到，并且绝大多数都是免费的。以下我们为大家推荐几个下载APK 的应用软件的网站。(注：以上网站所提供的均为开源软件，相关版权问题由各自提供软件的网站负责，与昂达公司无关，昂达VX580R支持的Android版本为1.5，请用户先确定软件支持版本再进行下载)
+　　精致网：http://www.apkok.com/mp4/
+　　安卓网：http://www.hiapk.com
+　　机锋网：http://www.gfan.com/app/
+　　优亿市场：http://www.eoemarket.com/
+　　安卓市场：http://www.android.com/market/#app=com.wsl.CardioTrainer
+　　Android中文网：http://android.tgbus.com/
+　　
+

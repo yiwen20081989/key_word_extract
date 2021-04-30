@@ -1,0 +1,8 @@
+Mozilla表示不会开发iPhone版火狐浏览器
+　　新浪科技讯 北京时间9月29日早间消息，据国外媒体报道，Mozilla基金会今天在博客中表示，将不会为iPhone开发完整版的火狐浏览器。相反，Mozilla表示会把资源投入到开发iPhone浏览器伴侣软件Firefox Home。
+　　Mozilla在博客中称，“很多人希望我们为iPhone版Firefox Home添加更多类似于浏览器的功能，但这其中有很多技术问题和限制，使得我们几乎不可能为iPhone开发出完整的火狐浏览器。我们今后将专注于开发Firefox Home这款基于云端的浏览器伴侣软件，并提升其价值，从而赢得用户的喜爱。
+　　科技博客CNet认为，Mozilla基金会宣布将Firefox Home推广至黑莓和Symbian平台的举动，可能意味着Mozilla有意完全退出移动浏览器市场。与iPhone版Firefox Home相同的是，其他平台的该软件也将与Firefox Sync服务绑定，可以将用户电脑中的浏览记录、浏览器标签和备忘录同步到手机中。
+　　Mozilla还表示将根据用户需求情况，考虑开发iPad版Firefox Home。
+　　尽管Mozilla长久以来都在试验为移动平台开发专用浏览器，但目前Android平台的Fennec浏览器尚处在早期阶段，诺基亚Maemo平台的浏览器也只能适用于两款诺基亚手机。另外，Mozilla停止了为Windows Mobile平台开发Fennec浏览器的计划。
+　　而另一方面，与单独的浏览器相比，提供云端存储功能的Firefox Sync同步服务相对容易开发。(张和)
+

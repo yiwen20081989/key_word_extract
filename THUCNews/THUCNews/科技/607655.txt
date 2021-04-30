@@ -1,0 +1,4 @@
+RIM发布BlackBerry Tablet OS以及开发工具
+　　为了使更多的WebWorks开发者获得“免费申请黑莓PlayBook平板电脑”的机会，RIM公司将该活动的申请时间延长至2011年3月15日。即日起，网络开发者可以下载针对Tablet OS的BlackBerry WebWorks SDK，开发黑莓PlayBook应用程序以赢取免费的黑莓PlayBook平板电脑。更多信息，请访问：
+　　欲下载SDK，请访问：
+

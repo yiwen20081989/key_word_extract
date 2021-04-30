@@ -1,0 +1,6 @@
+iOS版Facebook应用升级：可解除好友关系
+　　新浪科技讯 北京时间4月6日凌晨消息，Facebook周二针对苹果iOS设备发布了新版Facebook应用，新增“unfriend”(解除朋友关系)功能。
+　　通过unfriend功能，用户可以将解除iPhone或iPad上的好友关系。新版应用还增加了其他几项功能，如在谷歌地图上显示好友位置。
+　　Events(事件)标签也进行了升级，Facebook用户现可通过iPhone或iPad来查看将出席的活动。此外，新闻推送和通知界面也进行了更新。
+　　用户可到苹果App Store应用商店下载最新的Facebook 3.4版本 ，支持iOS 3.0及更高版本。(李明)
+

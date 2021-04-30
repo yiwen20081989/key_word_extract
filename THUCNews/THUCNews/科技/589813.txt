@@ -1,0 +1,23 @@
+Windows 7下载及使用过程中10款必备工具
+　　导读：《PCWorld》网络版今天刊文称，Windows 7是一款全新的操作系统，但这并不意味着用户无法找到调整其设置、增加新功能，以及帮助用户从XP顺利升级至Windows 7的工具。《PCWorld》列出了10款能够提升Windows 7使用体验的有价值的工具。
+　　1.Microsoft Security Essentials(MSE)
+　　与此前版本的Windows类似，Windows 7不提供内建的针对恶意软件的保护机制，仅仅提供一款防火墙。用户可以付费购买McAfee或赛门铁克的安全软件，不过微软新推出的免费安全软件MSE同样能保护家用PC的安全。如果用户希望使用第三方软件，那么可以尝试AVG反病毒免费版。
+　　2.Ninite
+　　从XP升级至Windows 7必须采用干净安装的方式，这意味着用户需要重新安装所有应用软件。为方便起见，用户可以通过安装包来安装大部分免费软件。Ninite正是这样一款服务。使用该服务，用户首先需要登录Ninite网站，选择希望安装的应用，例如火狐浏览器、iTunes和Skype。随后用户只需下载Ninite，就可以把这些应用安装到用户PC上。个人使用Ninite是免费的。
+　　3.Windows Live Photo Gallery
+　　为了保持Windows 7的“苗条”，避免该系统像Vista一样庞大，微软将一些工具从Windows中分离出去。Photo Gallery正是其中一款应用，这是一款免费、易用的图片管理及编辑器。如果用户不使用谷歌Picasa，那么可以考虑使用微软这款工具。
+　　4.Windows Easy Transfer
+　　任何从XP或Vista升级至Windows 7的用户都需要看看这款免费软件，这款软件能帮助用户将文件和系统设置从一台PC拷贝至另一台。新版Easy Transfer增加了文件浏览器功能，这将简化用户拷贝文件的过程。当遇到无法拷贝的文件或系统设置时，Easy Transfer也不会卡住，而是继续完成其他工作，并提交一份无法拷贝的文件或系统设置清单。不过，Easy Transfer最大的问题是无法拷贝程序。当进行PC至PC连接时，用户需要使用Easy Transfer Cable专用连接线，售价约20美元。用户还可以使用U盘、外置硬盘或网络连接来进行拷贝。
+　　5.Ultimate Windows Tweaker v2
+　　这款免费工具能监测用户运行的是Windows 7还是Vista，并帮助用户对相应操作系统的设置进行修改。该工具能修改操作系统的大量设置，包括用户界面、网络连接、安全性和系统设置等。该软件适用于对操作系统进行个性化。
+　　6.WinZip 14 Standard
+　　用户可能会问：Windows 7已经内建了压缩工具，为何我还需要最新版的WinZip？当然，如果用户只是偶尔使用压缩文件，那么确实没有必要。但如果经常使用，那么WinZip 14 Standard能够简化压缩并发送的过程。最新版WinZip还提供更高的压缩率，售价为30美元。
+　　7.EnhanceMySe7en Free
+　　相对Vista或XP，Windows 7可能较易用，但对系统问题的诊断和维护可能更加复杂。EnhanceMySe7en可以帮助用户方便的对系统进行维护。这款免费软件可以帮助用户选择开机启动的程序，监测磁盘性能和温度，以及修改注册表等。
+　　8.Image Resizer Powertoy Clone
+　　如果用户需要在Windows 7中修改图片大小，那么Image Resizer Powertoy Clone是一款不错的免费软件。用户只需右键点击一个或多个图片文件，就可以将图片调整至4种尺寸：640x480、800x600、1024x768和240x320。用户也可以创建自己的尺寸。
+　　9.Systerac Tools for Windows 7
+　　这是一个由16款工具组成的工具集合，可以帮助Windows 7更流畅的运行。用户可以修改Windows性能和外观、优化内存、清理磁盘空间，以及粉碎文件等。Systerac的用户界面也很美观，很容易上手。该软件售价20美元，也可以用于Vista系统。
+　　10.Windows 7 Upgrade Advisor
+　　在升级至Windows 7之前，用户应当运行这款来自微软的免费软件。Upgrade Advisor将对用户PC进行扫描，检查PC是否适合安装Windows 7。如果检测到潜在问题，例如内存不足、硬件不兼容，或软件过期等，该工具会向用户报告。(维金)
+

@@ -1,0 +1,7 @@
+YouTube正式支持Facebook Connect登录
+　　新浪科技讯 北京时间6月12日下午消息，据国外媒体报道，Facebook平台经理乔史·埃尔曼(Josh Elman)今天在其开发者官方博客中透露，YouTube将正式支持Facebook Connect服务。
+　　埃尔曼称：“当用户登录到Facebook和YouTube后，可以自动地在Facebook发布并共享他们上传到YouTube上的视频。”Facebook还透露，Joost也自去年12月份开始支持Facebook Connect，通过该服务，Joost网站上的Facebook用户观看视频量提高了30%，评论量则增长了15%。这意味着网站可以利用Facebook Connect服务，整体提高用户的参与性。目前，所有整合了Connect的网站都表示，用户的整体活跃程度有所增加。
+　　Facebook Connect是一项让用户使用Facebook账户登录其他相关第三方网站的服务，由于许多网站整合了该服务，因此利用该服务登录网站的用户很可能已经超过了500万。compete.com网站上月表示，Facebook Connect服务覆盖了超过6400万名用户，但无法确定利用此服务登录网站的具体用户比例数。
+　　如果Facebook将来希望把用户圈定在自己网站，Connect服务将是一个极其重要的工具。该服务与其他网站整合得越快，Facebook用户的流失就越少。有许多用户表示，虽然关闭Facebook帐号很简单，但清除帐号中的信息却并不容易。随着XBox Live上周宣布将整合Facebook Connect及任天堂DSi的支持，Facebook仍在继续扩大该服务的覆盖范围。(肖恩)
+
+

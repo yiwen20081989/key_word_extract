@@ -1,0 +1,9 @@
+宏�推出首批支持WiMAX无线接入技术笔记本
+　　WiMAX是一项新兴的宽带无线接入技术，它是基于IEEE 802.16标准的宽带无线城域网接入技术，采用了大量新技术(如OFDM/OFDMA、MIMO、自适应编码调制等)，是未来公共无线宽带数据网的技术体制，代表着未来无线通信系统的宽带和智能特征。
+　　随着美国巴尔的摩XOHM网络的正式启动和运行，宏?推出了首批基于WiMAX无线接入技术的笔记本，它们可以利用无线宽带网络实现2到4 Mbps的下载和1至2 Mbps的上传。
+　　此次推出的WiMAX笔记本有两种规格，分别为Aspire 4930-6862和Aspire 6930-6771，前者为14.1英寸显示屏，后者为16英寸显示屏，除此之外，规格和价格方面都相同。
+　　Aspire 4930-6862和Aspire 6930-6771均配置Intel Centrino 2，支持WiMAX和802.11a/b/g/n Wi-Fi网络，2GHz Core 2 Duo处理器，Intel GMA 4500 HMHD显卡，3GB RAM，320GB硬盘，双层DVD刻录机，操作系统为Windows Vista。
+　　美国马里兰州用户可以到Newegg.com和TigerDirect.com订购，售价为899.99美元。 
+ 
+
+

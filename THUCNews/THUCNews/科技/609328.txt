@@ -1,0 +1,5 @@
+日系Android智能机 夏普SH8188U详细评测
+　　改变总不是件容易的事儿，尤其是在危机还没有到来的时候。然而我们从日本著名日本厂商夏普身上看到了这种魄力，数款Android手机功能各异，从点心OS到夏普定制UI，这家公司在进行着一次又一次有益的尝试，现在，我们ZOL评测室迎来了一款可谓“日本最强智能机”的夏普机器人——SH8188U，从外观到性能，这款手机都给了笔者不小的震撼，一起来感受一下吧！
+CPU        　　Qualcomm MSM8255 1GHz存储           2GB ROM, 512MB RAM, 支持microSD/microSDHC卡扩展屏幕           4.1英寸800×480像素WVGA照相机         CMOS 500万像素(闪光灯+LED补光灯)视频大小       1280×720(HD)辅相机         30万像素操作系统       Android2.2频段           W-CDMA/HSPA(850/2100MHz)， GSM/EDGE/GPRS(850/900/1800/1900MHz)WLAN           IEEE802.11 b/g/n, WAPIGPS            有 接口           蓝牙2.1+EDR(GAP, Headset, Hands-Free, Object Push, A2DP, AVRCP, Serial Port)， micro USB, WLAN(IEEE802.11 b/g/n, WAPI)， USB 2.0, HDMI重量           约145g(安装电池组件时)尺寸           约66x123x10.8mm(不包含突起部)
+　　
+

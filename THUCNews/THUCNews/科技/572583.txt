@@ -1,0 +1,7 @@
+社交浏览器RockMelt将开放下载
+　　新浪科技讯 北京时间3月10日晚间消息，浏览器厂商RockMelt CEO埃里克·维什里亚(Eric Vishria)周三表示，社交网络浏览器RockMelt将面向所有用户开放下载。
+　　RockMelt是一款围绕Facebook、实时推送和快速搜索而开发的社交浏览器，去年11月进行封闭beta测试时引起了业内关注。RockMelt的主要支持者包括Netscape创始人马克·安德森(Marc Andreessen)。
+　　RockMelt基于Chromium内核，即谷歌Chrome浏览器所采用的内核。RockMelt左边栏可显示所有在线的Facebook好友，右边栏可以显示所有的RSS源、Twitter和Gmail帐户，以及自定义应用程序。RockMelt可使用Chrome Web应用商店内的的任何一款Chrome应用程序。
+　　RockMelt并不适合于所有网民，但在尝试使用过的用户中，有20%至30%至今仍是活跃用户。这些活跃用户平均每天打开RockMelt的时间为6小时，与左边栏的Facebook好友每天互动3次，与右边栏的新闻源和应用程序每小时互动2.5次。
+　　当前，用户可到RockMelt网站下载该款浏览器。(李明)
+

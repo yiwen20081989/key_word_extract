@@ -1,0 +1,5 @@
+Twitter推广HTTPS协议保护账户安全
+　　新浪科技讯 北京时间3月16日上午消息，Twitter今天在用户设置页面添加了一个“始终使用HTTPS”的选项，用户可以使用这种协议更加安全地访问Twitter.com。
+　　该网站表示，使用HTTPS访问网站，能够更好地保护用户账户安全和个人信息。当用户使用公共Wi-Fi网络等不安全的互联网连接时，HTTPS显得尤为重要。
+　　Twitter希望将使用HTTPS列入默认设置。目前，无论用户是否选择“始终使用HTTPS”，用户在登录Twitter，或使用iPhone和iPad版Twitter官方应用时，均需要使用HTTPS。(彦飞)
+

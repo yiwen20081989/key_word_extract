@@ -1,0 +1,14 @@
+TechCrunch 200美元上网本原型曝光(图)
+TechCrunch 200美元上网本原型CrunchPad B
+TechCrunch 200美元上网本原型CrunchPad B
+　　新浪科技讯 北京时间1月20日上午消息，据国外媒体报道，科技博客网站TechCrunch创始人迈克尔·阿灵顿(Michael Arrington)周一公布了CrunchPad上网本的开发进度，并发布了最新产品原型B。
+　　阿灵顿去年7月宣布，由于对当前的上网本不太满意，TechCrunch准备自己开发一款既简单又廉价的上网本CrunchPad。CrunchPad的设计初衷是：用于浏览互联网，产品设计要简单、采用触摸，价格保持在200美元以内。
+　　去年8月底，阿灵顿宣布已开发出CrunchPad原型A。本周一，阿灵顿又公布了CrunchPad的开发进度，并发布了最新产品原型CrunchPad B。
+　　CrunchPad原型B屏幕尺寸为12英寸，高宽比为4:3，分辨率为1024×768。原型B采用威盛Nano处理器，内存为1GB，配置4GB闪存作为存储设备。此外，CrunchPad还内置WiFi和摄像头。
+　　软件方面，CrunchPad采用Ubuntu Linux和一个定制的Webkit浏览器。CrunchPad当前成本已超过200美元，阿灵顿表示，产品最终上市时，299美元的价格可能比较现实。(李明) 
+    相关新闻：
+    TechCrunch广告费标准被削减35%
+    Techcrunch创始人：博客风险投资是浪费金钱
+    TechCrunch挑战媒体格局 Web2.0先生遭到质疑
+
+

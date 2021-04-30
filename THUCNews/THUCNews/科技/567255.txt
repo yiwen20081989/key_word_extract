@@ -1,0 +1,8 @@
+代码显示Facebook或与Skype合作推视频聊天功能
+　　新浪科技讯 北京时间11月29日下午消息，据科技博客Green Any Site报道，对Facebook页面代码的分析显示，该公司可能正在与Skype合作测试视频聊天功能。
+　　Green Any Site在维护其Facebook应用时发现，Facebook网页源代码中含有一个名为Video Chat的组件。这个组件包含了所有视频聊天功能所需的元素。
+　　有意思的是，Green Any Site还发现，组件中的部分元素提到了Skype，并能够同Skype用户进行视频聊天，甚至可将Skype ID与Facebook ID进行绑定。
+　　对代码的进一步分析显示，代码会检测IE ActiveX插件支持，或使用Skype SDK。
+　　这段神秘代码并非每次载入页面都出现，因此Green Any Site认为Facebook可能仍在对代码进行测试。
+　　该博客由此推测，Facebook很有可能会在未来与Skype合作推出视频聊天功能。(张和)
+

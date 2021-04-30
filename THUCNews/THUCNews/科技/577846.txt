@@ -1,0 +1,6 @@
+传雅虎本周分拆Hadoop平台业务
+　　新浪科技讯 北京时间6月28日午间消息，知情人士透露，雅虎将于本周正式宣布分拆Apache Hadoop平台业务，并成立一家名为HortonWorks的公司。
+　　Hadoop是一个分布式系统基础架构，由Apache基金会开发。用户可以在不了解分布式底层细节的情况下开发分布式程序。
+　　HortonWorks有望以Hadoop内核为基础提供一系列高级管理工具。知情人士还表示，雅虎将努力与Apache基金会维持良好的关系。但此前有报道称，雅虎与Apache基金会的关系紧张。
+　　雅虎一直以来都是Hadoop的主要支持者，为其贡献了大量代码。此前较为知名的一家Hadoop商业化企业是Cloudera，Hadoop的发明人道格·卡廷(Doug Cutting)在加盟Cloudera之前曾经在雅虎工作。(思远)
+

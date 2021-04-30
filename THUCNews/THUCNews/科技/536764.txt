@@ -1,0 +1,8 @@
+Facebook用户飙升至1.2亿
+　　新浪科技讯 北京时间11月4日消息，据国外媒体报道，Facebook首席运营官日前表示，过去三个月的用户数量大幅增长，从7月初的9000万增至现在的1.2亿。 
+　　Facebook首席运营官谢丽尔·桑德伯格(Sheryl Sandberg)在Saleforce.com举办的Dreamforce会议上表示，Facebook当前的活跃用户数量已从7月初的9000万增至1.2亿。桑德伯格说：“我们在过去三个月里增加的用户数量比我们创建最初三年的用户还要多。她还指出，Facebook网站现在有28万多个应用程序。这些小的基于网络的程序能够装载到Facebook页面上并可与用户的联络人共享。 
+　　桑德伯格表示，Facebook希望与Salesforce.com建立合作关系，通过合作，Force.com网站上运行的应用程序能够出现在Facebook的网页上。Salesforce.com为企业提供在线工具使企业能够管理其客户关系，并且为定制应用程序和网站提供越来越高级的编程基础。 如果使用Salesforce.com基础设施的程序员能够加入Facebook，将能给Facebook的应用程序带来新的商业的角度。目前Facebook的应用程序更多注重于娱乐性。
+　　Saleforce.com平台部门高级副总裁史蒂夫·费舍尔(Steve Fisher)把“星巴克创意”(My Starbucks Idea)网站从Salesforce.com的基础设施引入Facebook网站，展示了与Facebook的合作关系。 
+　　星巴克首席技术官克里斯·布鲁斯诺(Chris Bruzzo)也为此鼓劲，他说，Facebook的技术将帮助该公司及其客户使“星巴克创意”更加有用和更容易管理。(王飞）
+
+

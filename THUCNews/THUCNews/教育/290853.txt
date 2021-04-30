@@ -1,0 +1,52 @@
+四六级考试阅读通关宝典：逻辑词汇总结
+　　一篇文章的各个段落之间、各个句子之间都存在一定的逻辑关系，正确理解这样的逻辑关系对于阅读者有着很重要的意义：首先，借助上下文之间的逻辑关系，阅读者能够更好地理解文章大意、把握中心思想；其次，出题者往往针对文章中出现重要逻辑关系的语句出题。因此，在阅读过程中，阅读者应当十分注重把握文章的逻辑关系、把握表示逻辑关系的小词。
+　　一些比较重要的表示逻辑关系的小词分述如下：
+　　一、表示强转折关系的词汇
+　　表示强烈转折的常见词汇包括：but, yet, however, in fact, nevertheless, nonetheless, indeed, virtually, practically等等。出题者常常针对表示转折含义的语句出题，因此转折的词汇应当引起阅读者的注意，阅读者尤其应当把握好转折词后的文章信息。
+　　例 1 ：四级2001年1月22题
+　　22. What do scientists say about the collision of an asteroid with Earth?
+　　A) It is very unlikely but the danger exists。
+　　B) Such a collision might occur once every 25 years。
+　　C) Collisions of smaller asteroids with Earth occur more often than expected。
+　　D) It’s still too early to say whether such a collision might occur。
+　　22题考查专家如何评论小行星与地球的碰撞。根据关键词“collision”，可以将考题定位至原文二段。在二段末句我们发现了转折标志词“But”，我们可以将考题定位在这句表示强烈转折的句子上，阅读者应当重点把握“But”之后的内容。
+　　Asteroids are bigger versions of the meteoroids (流星) that race across the night sky. Most orbit the sun far from Earth and don’t threaten us. But there are also thousands of asteroids whose orbits put them on a collision course with Earth。
+　　二段最后两句话的大意是：大多数(小行星)绕着太阳转，离地球很远，不会威胁到地球。但是仍旧有成千上万颗小行星，它们的轨道是要与地球碰撞的。
+　　根据这句话我们可以推断小行星和地球相撞的机率不大，但是确实存在着这样的可能性。因此22题A选项“It is very unlikely but the danger exists。” (可能性不大，但是危险存在)，是正确选项。 　
+　　例 2 ：六级1998年6月32题：
+　　32. Commercials create the sensation of loudness because _______ 。
+　　A) TV stations always operate at the highest sound levels。
+　　B) Their sound levels are kept around peak levels。
+　　C) Their sound levels are kept in the middle frequency ranges。
+　　D) Unlike regular programs their intensity of sound varies over a wide range。
+　　32题考察广告听起来很吵的原因，根据关键词“Commercial”我们可以定位到文章的第二段。在第二段的最后一句话中我们发现了“However”这一表示强烈转折的词，我们可以将考题定位在二段末两句话。
+　　The sensation of sound involves a variety of factors in addition to its speak level. Advertisers are skilful at creating the impression of loudness through their expert use of such factors. One major contributor to the perceived loudness of commercials is that mush less variation in sound level occurs during a commercial. In regular programming the intensity of sound varies over a large range. However, sound levels in commercials tend to stay at or near peak levels。
+　　最后两句话的大意是：在普通节目中，声音的强度变化很大。然而，在广告中，声音始终保持在峰值。
+　　根据这两句话的提示，我们可以推断广告听起来吵的原因便是声音始终保持在峰值，没有强度的变化。因此，32题的B选项“Their sound levels are kept around peak levels。” (声音始终保持在峰值)是正确选项。 　
+　　二、表示因果关系的词汇
+　　出题者十分热衷于针对文章中表示因果关系的语句出题，这样的语句应当引起阅读者的注意，阅读者应当把握原因和结果分别指代什么文章信息。表示因果关系的词可作如下分类：
+　　1、名词：base, basis, result, consequence, reason
+　　2、动词：cause, result in, result from, follow from, base on, be due to
+　　3、介词或连词：because, since, for, as, therefore, so, thus, why, with
+　　4、副词：as a result, consequently
+　　例 1 ：四级2002年6月39题：
+　　39. People were given physical fitness tests in order to find out ________。
+　　A) how well they could do in athletics
+　　B) what their health condition was like
+　　C) what kind of fitness center was suitable for them
+　　D) whether they were fit for aerobic exercise?
+　　39题考查对人们进行体能测试的目的。根据关键词“physical fitness tests”，我们可以将考题定位至原文第二段，在第二段首句我们发现了因果关系标志词“because”，二段首句就是我们要寻找的答案，阅读者应当注意阅读“because”后的原因内容。
+　　Historically, most physical-fitness tests have usually included measures of muscular strength and endurance, not for health-related reasons, but primarily because such fitness components have been related to performance in athletics. However, in recent years, evidence has shown that training programs designed primarily to improve muscular strength and endurance might also offer some health benefits as well. The American College of Sports Medicine now recommends that weight training be part of a total fitness program for healthy Americans. Increased participation in such training is one of the specific physical activity and fitness objectives of Healthy People 2000: National Health Promotion and Disease Prevention Objectives。
+　　二段首句的大意为：历史上，大多数体能测试通常包括肌肉力量测试和耐力测试，这并不是要看谁更健康，主要是因为这些体能指标与体育成绩有关。
+　　根据这句话我们可以推断，对人们进行体能测试是出于体育的目的，其目的在于考查他们能在运动中取得多好的成绩。因此A选项“how well they could do in athletics”(人们在运动中能取得怎样的成绩)，是正确选项。 　　
+　　例 2 ：六级2001年1月19题：
+　　19. Why did some TT practitioners agree to be the subjects of Emily's experiment?
+　　A) It involved nothing more than mere guessing.?
+　　B) They thought it was going to be a lot of fun。?
+　　C) It was more straightforward than other experiments.?
+　　D) They sensed no harm in a little girl's experiment. ?
+　　19题考察为何TT的从业人员同意接受Emily的实验。在文章三段最后两句，我们找到了标志词“because”，这两句话阐述了某个因果关系。
+　　Yet Rosa could not find any evidence that it works. To provide such proof, TT therapists would have to sit down for independent testing--something they haven't been eager to do, even though James Randi has offered more than $1 million to anyone who can demonstrate the existence of a human energy field. (He's had one taker so far. She failed。) A skeptic might conclude that TT practitioners are afraid to lay their beliefs on the line. But who could turn down an innocent fourth-grader? Says Emily: “I think they didn't take me very seriously because I'm a kid."??
+　　最后两句的大意为：谁会拒绝一个四年级的小孩？Emily说：“因为我是个孩子，所以他们没把我当回事。”
+　　根据这两句话我们可以推断TT从业人员之所以参见Emily的试验，是因为他们认为Emily只是一个小孩子，参加她的试验应当没有任何危险。因此，19题D选项“They sensed no harm in a little girl's experiment。”(他们感到一个小女孩的实验没什么危险)是正确选项。
+

@@ -1,0 +1,28 @@
+齐向东透露工信部和公安部介入360腾讯纷争
+　　新浪科技讯 11月4日早间消息，据新华网英文版报道，360公司总裁齐向东在接受采访时表示，工信部和公安部已经介入360腾讯纷争。
+　　以下为报道中英文对照：
+　　中文：
+　　腾讯将在装360软件电脑上停止运行QQ
+　　中国互联网公司腾讯周三宣布，将在所有运行360软件的电脑上停止运行QQ。腾讯此举将使两公司之间过去持续两个多月的纷争进一步升级。
+　　腾讯在QQ弹窗新闻中声明，“近期360强制推广并胁迫用户安装非法外挂“扣扣保镖”。该软件劫持了QQ的安全模块，导致了QQ失去相关功能。在360软件运行环境下，我们无法保障您的QQ帐户安全。”腾讯称，“我们被逼迫无奈，只能用这样的方式保护您的QQ帐户不被恶意劫持。”
+　　一名腾讯高管接受新华网采访时表示，腾讯对这一事件给用户带来的不便感到抱歉，但在360公司停止对QQ进行外挂侵犯和恶意诋毁之前，这一决定不会改变。
+　　360公司总裁齐向东表示，腾讯的报复行为对中国互联网用户的影响是灾难性的，因为这一举动很有可能导致病毒大规模爆发。
+　　齐向东表示，”360公司软件每天为中国网民扫描约6000万木马程序。如果用户卸载360，病毒攻击的规模难以想象。”
+　　据腾讯数据显示，腾讯QQ活跃用户已经超过10亿(新浪科技注：原文如此，但根据腾讯公司第二季度财报公布的数据显示，QQ活跃帐户数达到6.125亿，同时在线人数达到1.094亿)。360公司则曾表示，到2010年6月360软件拥有至少3亿用户。
+　　9月底，360指控QQ泄露用户数据，并随后发布了一款隐私保护软件，成为腾讯和360大战的导火索。腾讯方面多次声明称360恶意诬陷腾讯，并违反商业规则。
+　　齐向东表示，工信部和公安部已经介入这一纷争。
+　　两家公司不断升级的战火引起了众多网民的关注。据新浪网的调查，超过78.1%的网民认为腾讯和360之间的斗争是为自家利益，而不考虑用户权益。
+　　红麦软件总裁刘兴亮表示，“QQ和360都会是输家，而就现在的事态发展来看，此事将近一步恶化，看不到事情解决的方向。”
+　　英文：
+　　Popular messaging service shut down as fight between China's Internet firms escalates
+　　BEIJING, Nov. 4 (Xinhua) -- China's Internet firm Tencent on Wednesday said it is shutting down its popular instant messaging service QQ on computers installed with anti-virus software run by the company's rival Qihoo 360, as a war between the two software giants escalated over the course of the past two months。
+　　"A new tag-on service run by 360 Safe has affected the normal functioning of QQ. With 360 Safe installed, we can not guarantee the safety of our service," Tencent said in a statement popping out on screens of millions of QQ and 360 Safe users. "To avoid our clients' computer desktops being turned into a battlefield, we have made this 'hard' decision."
+　　A Tencent official told Xinhua that the company felt "sorry" for the inconvenience brought to QQ users, but the decision will not be changed unless Qihoo 360 removes the tag-on service and stops its "malicious slander" against Tencent。
+　　Qi Xiangdong, president of Qihoo 360, said Tencent's retaliatory move was disastrous for China's Internet users, as it might lead to an unprecedented outbreak of viruses。
+　　"Our 360 Safe services are eliminating about 60 million Trojan horses daily for Chinese Internet users. If they uninstall 360 Safe, the scale of these virus attacks will be beyond imagination," Qi said。
+　　According to the companies' websites, the number of active QQ users in China has reached 1 billion, while Qihoo 360 also claims to have had at least 300 million users prior to June 2010.
+　　The war between Tencent and Qihoo 360 started in late September when Qihoo 360 alleged QQ was leaking users' private data and offered a new service on 360 Safe to prevent privacy leaks. Tencent has since accused Qihoo 360 of slander and business foul play。
+　　Qi said the Ministry of Industry and Information Technology and the Ministry of Public Security have joined in consulting regarding the dispute。
+　　The escalated business war has also triggered a public outcry. Over 78.1 percent of Internet users participating in an on-line survey conducted by the country's most popular portal, Sina.com, said Tencent and Qihoo 360 fought for their own interests but both forgot the interests of their clients。
+　　"At this stage, when the populace is angry, neither company wins the war," said Liu Xingliang, an Internet commentator。
+

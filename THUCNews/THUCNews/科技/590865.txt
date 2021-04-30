@@ -1,0 +1,9 @@
+iPad性能不俗 通过虚拟软件可跑Windows 7
+苹果iPad运行Windows 7效果模拟图(新浪科技配图)
+　　【赛迪网讯】2月2日消息，据国外媒体报道，软件公司Citrix Receive近日表示，通过其XenDesktop虚拟软件，用户可以在苹果iPad上运行Windows 7。
+　　上周三，苹果发布了业内期待已久的平板电脑iPad。它配备9.7英寸显示屏，采用1GHz苹果A4处理器，存储空间最高为64GB。
+　　软件公司Citrix Receive近日表示，通过其XenDesktop虚拟软件，用户可以在iPad上运行Windows 7。
+　　Citrix Receive称：“iPad的分辨率为1024x768，在XenDexktop虚拟界面上显示Windows 7时效果很不错，甚至可以同时在虚拟的Windows 7中运行多个应用程序。”
+　　XenDexktop是一款收费软件，用户可以到Citrix Receive网站免费下载试用。
+　　作者：友亚
+

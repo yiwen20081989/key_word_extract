@@ -1,0 +1,10 @@
+调查称多数iFund初创公司也研发Android应用 
+　　新浪科技讯 北京时间4月7日上午消息，道琼斯公司旗下Dow Jones VentureWire日前对16家由iFund专项基金投资的初创公司进行了调查，结果显示除了苹果iOS平台外，有13家公司还在研发谷歌Android系统应用。
+　　iFund是美国风险投资公司Kleiner Perkins Caufield & Byers(以下简称“KPCB”)于2008年建立的专项基金，用于投资与苹果iPhone和iPod Touch相关的应用和技术初创企业。为了迎接iPad上市，KPCB在2010年将基金规模从之前的1亿美元提升到2亿美元。
+　　考虑到与苹果公司以及苹果CEO史蒂夫·乔布斯(Steve Jobs)的密切关系，KPCB承诺将会继续iOS平台的研发，但同时指出对于其它平台的研发决定将取决于初创公司本身。
+　　iFund基金经理马特·墨菲(Matt Murphy)表示：“iFund重点开发iOS的策略不会变，只是目前的智能机系统和3年前iFund建立时已经发生了巨大变化。iFund所投资的公司仍然会以iOS为主，但是如果他们喜欢上一些应用，他们就会研发Android。一年前这些公司还可能研发黑莓和塞班，但是现在都已放弃，Android在领先其它平台方面做的非常出色。”
+　　这16家公司都从开发苹果iOS开始，但是目前已经有13家将Android纳入了自己的开发计划，只有Flipboard、Callaway Digital Arts和iControl Networks表示没有立即开发Android应用的计划。
+　　Path公司在去年11月份发布了iPhone图片共享应用，他们计划在今年夏天前推出该应用的Android版本，并希望日后将旗下资源用于iOS和Android双平台。Path商务开发副总裁马特·范·霍恩(Matt Van Horn)表示：“Android绝对处于最优先地位，我们将会为iOS和Android双平台分配研发人员。”
+　　另一iFund所投资公司Gogii CEO斯科特·拉曼(Scott Lahman)表示，越来越多的开发者对Android产生了兴趣，这种转变不仅仅是市场份额。他说：“在这之前全都是iPhone, 但是现在更多的应聘者表示希望开发Android。”
+　　面对着这种现象，乔布斯在去年就表示，他感到有种被背叛的感觉，苹果没有进入搜索领域，但是谷歌却开始踏足手机业务。谷歌联合创始人拉里·佩奇(Larry Page)认为乔布斯的话有失偏颇，谷歌是在模仿苹果。他说：“我们很久以前就在研发Android，并计划推出能够支持上网、具备较好浏览器应用的手机，这一切只是因为市场中并不存在这种设备。”(晓明)
+

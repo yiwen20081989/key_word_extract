@@ -1,0 +1,7 @@
+Facebook雇佣OpenAppMk创始人开发HTML5应用
+　　新浪科技讯 北京时间9月9日下午消息，据美国科技博客TechCrunch报道，Facebook已经雇佣了HTML5移动网络应用商店OpenAppMkt.com创始人兼CEO泰克·谢(Teck Chia)负责其移动应用商店项目。
+　　Facebook实际上并没有收购OpenAppMkt，他们只是雇佣了泰克·谢，而OpenAppMkt交由新的团队负责，泰克·谢不再参与该应用商店管理。OpenAppMkt主要发布HTML5移动应用。
+　　在OpenAppMkt之前，泰克·谢还开发了大量Facebook应用，累计用户超过2000万人。他还建创建了即时聊天和协同工具Gabbly，用户达到400万人。泰克·谢也曾是甲骨文的一名工程师。
+　　此前就有消息称，Facebook正开发一项名为“斯巴达”(Project Spartan)的HTML5移动网络应用项目，在第三方应用开发者的帮助下，Facebook已经在该平台上花费了几个月的时间。外界认为Facebook想借助HTML5打破苹果和谷歌在移动应用领域的统治地位。Facebook还在开发一个BoltJS用户界面框架，目的是帮助开发者使用HTML5和Javascript语言创建最棒的移动应用。
+　　就Facebook可能开发的HTML5移动应用商店而言，泰克·谢的加入将带去大量专业技术。虽然现在还不能确定泰克·谢将为“斯巴达”项目服务，但鉴于其专业背景而言，这很有可能。(晓明)
+

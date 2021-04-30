@@ -1,0 +1,8 @@
+EA撤走数款游戏Android发展前景遭疑
+　　据科技博客主Dave Loft爆料，美国发行商EA Mobile公司日前将《极品飞车：变速》(Need for Speed: Shift)、《模拟人生3》(The Sims 3)和《俄罗斯方块》(Tetris)等数款游戏撤出了加拿大地区的Android Market，但并未公布具体原因。据了解，旧版本的《极品飞车》目前仅限在美国的Android Market发售。
+　　Loft表示尽管他已经付费购买了上述三款游戏，但现在已无法在加拿大Android Market搜索到这些内容，然后他又去查看了美国市场的情况，却发现他没有下载这些内容的权限。同时他还发现，美国市场的同款游戏价格波动很大，每个运营商的售价各不相同。
+　　尽管EA并没有公开表态，但已有不少人依此猜测，EA并不看好Android Market的发展前景。这一点从芬兰开发商Rovio首选GetJar作为《愤怒的小鸟》Android免费版本的发行平台，以及Gameloft避开Android Market在自己的网站上独立供应Android版本游戏等一系列迹象中也可以看出端倪。
+　　据悉，Gameloft针对特定的Android手机平台发行独立版本游戏，目的就在于避免Android手机型号过多，技术标准不一的情况，而谷歌则不同意为Android Market设立统一的产品标准，反而坚持要求发行商提供普遍适用的游戏应用。
+　　IUGO的商业开发副总裁Sarah Thomson对谷歌的这种立场也颇有意见，他表示Android平台刚刚登场的时候，业内一片欢呼，但随后就发现Android很快就走上了Java的老路，不光是手机型号过于分散，手机设备制造商与运营商选择的操作系统版本也很不统一，这就更为Android的发展蒙上了一层阴影。
+　　Thomson还认为，Android Market免费提供下载的运营理念，也让开发商很是为难。除此之外，谷歌在推动运营商统一固件升级的问题上也鲜有作为，这一点同样阻碍了Android平台的进步。
+

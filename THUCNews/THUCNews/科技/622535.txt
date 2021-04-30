@@ -1,0 +1,6 @@
+Chromebook本开售 盘点一周笔记本大事小事
+    Concord证券分析师Ming-chi Kuo日前报告，苹果的新一代MacBook Air笔记本订单已经下达，本月内就会投入大规模量产，6月份新款11.6寸和13寸MacBook Air的产量将为38万台。
+　　在投产新款机型的同时，据称6月份旧款MacBook Air仍会有8万台左右的产量。从这样的对比来看，新旧产品的交替应该在6月上旬已经完成，目前新一代MacBook Air应当已经投产。
+　　据称，首批订单中11.6寸机型约占55%即20.9万台，剩余则为13寸机型。由于价格更低重量更轻，11.6寸MacBook Air更加受到消费者的欢迎，因此产销量将略高于13寸产品。
+　　新一代MacBook Air预计仍会延续去年才引入的外观设计，内部核心从Core 2 Duo跨代升级至32nm Sandy   Bridge架构超低电压版Core i5/i7处理器。由于使用Intel集显，估计不会再提供NVIDIA集成显卡芯片组。另外，MacBook   Pro上首次引入的Thunerbolt接口预计也会替代MacBook Air身上的Mini DisplayPort接口。
+

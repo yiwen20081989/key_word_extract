@@ -1,0 +1,6 @@
+LG推出离子平台迷你台式机
+　　作者：Skyangeles
+　　继宏?、华擎、华硕等厂商后，LG也推出了自己采用NVIDIA ION翼扬离子平台的Nettop迷你台式机产品，型号为LG XPION X30。
+　　从外观上看，LG XPION X30颇有一种似曾相识的感觉，应当也是来自台系厂商的OEM制造成果。该机使用Intel Atom 230 1.6GHz处理器，GeForce 9400M ION芯片组，2GB内存，250GB硬盘，预装Windows Vista Home Basic操作系统。整机重量为1.1kg，可以直接安装在显示器背面。
+　　LG表示XPION X30即日起将在韩国发售，价格还未公布。
+

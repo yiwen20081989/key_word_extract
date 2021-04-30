@@ -1,0 +1,9 @@
+微软敦促企业尽快升级至Win 7勿等Win 8
+　　新浪科技讯 北京时间10月12日晚间消息，微软(微博)周一敦促仍在使用Windows XP的用户尽快升级到Windows 7，而不要等待Windows 8。
+　　微软商业产品营销总经理里奇·雷诺尔德(Rich Reynolds)周一在官方博客中称，微软将于2014年4月停止对Windows XP的支持，因此企业需要尽快升级到Windows 7。
+　　尽管2014年听起来还有很长一段时间，但对于企业用户而言，任何形式的重大移植都需要大量的时间，如移植计划、测试和用户培训等。
+　　假设Windows 8于2012年底上市，那么当前仍在使用XP的企业要直接升级到Windows 8只有一年多的时间，显得很紧迫。
+　　为此，微软引用Gartner的报告《不要因为Windows 8而改变部署Windows 7的计划》，称企业现在就应升级到Windows 7，而不要等待Windows 8上市后再升级。
+　　调研公司Net Applications数据显示，尽管XP市场份额有所下滑，但仍主导着Windows系统，市场份额约为50%。
+　　雷诺尔德在博客中称：“升级到Windows 7和Office 2010将使我们享受到今天的工作方式，而不是10年的方式。”为了帮助大企业升级到Windows 7，微软还推出了一些列工具，如TechNet Springboard、Microsoft Deployment Toolkit和Microsoft Desktop Optimization Pack等。(李明)
+

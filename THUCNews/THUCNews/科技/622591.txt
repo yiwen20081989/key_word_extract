@@ -1,0 +1,7 @@
+NVIDIA：ARM将统治PC CUDA不会开放
+　　曾经担任首席科学家的NVIDIA公司院士David Kirk近日在接受媒体采访时称，基于ARM处理器架构、融合GPU图形核心的SoC芯片终将统治整个PC。
+　　得不到x86的现实迫使NVIDIA一边极力提高GPU的地位，一边投靠了ARM架构，发出这种论调倒也是很自然。
+　　David Kirk表示：“很显然，PC体验将会被集成了ARM核心与GPU的SoC所统治。这一切正在成为现实，并会在Windows Next(也就是Windows 8操作系统)对ARM的支持下得以巩固。不过就像我说过的那样，CPU+GPU会长期共存。”
+　　David Kirk还提到了CUDA技术，声称它不会开放。他说：“现在还没有把CUDA编程开放标准的计划。目 前，在服务器领域内广泛普及的x86 CPU和NVIDIA GPU都已经全部支持CUDA开发套装。NVIDIA为开发人员提供了丰富的选择，CUDA  C、CUDA C++、CUDA Fortran、OpenCL、DirectCompute等等都可以用来为CPU+GPU系统进行编程。”
+　　随着CPU+GPU异构计算体系的兴起，NVIDIA CUDA能否适应新的形势呢？David Kirk看起来充满了信心。他说：“CUDA是我们的创新平台……CUDA编程模型的美妙之处在于是为基于CPU+GPU的异构体系而设计的。CPU、 GPU集成的时候并不会改变编程模型。集成只是简单地出于成本考虑。我们研究ARM+GPU SoC  Tegra处理器的时间和CUDA是差不多的。OpenCL等其它驱动级API都将GPU视为不同于CPU的设备，这就意味着现在定义的OpenCL今后 必须进行拓展，才能支持CPU+GPU设备，而使用CUDA编写的应用程序能够顺利运行在我们的CPU+GPU设备上。”
+

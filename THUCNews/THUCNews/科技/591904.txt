@@ -1,0 +1,6 @@
+微软将把Win7推广至电视和机顶盒等产品
+　　新浪科技讯 北京时间4月28日早间消息，据国外媒体报道，微软周二宣布，已经完成对Windows 7的定制，使Windows 7可以使用在电视、机顶盒、数字看板等设备中。
+　　微软表示，新版Windows 7名为Windows Embedded Standard 7，可以使Windows媒体中心在其他类型的设备上使用。微软周二在ESF硅谷会议上展示了这一新版系统。
+　　微软Windows嵌入式部门总经理凯文·达拉斯(Kevin Dallas)表示：“通过Windows Embedded Standard 7，微软将Windows 7技术进一步整合到特殊消费者和企业设备市场。”
+　　微软上周在公布季度财报时表示，PC版Windows 7在全球市场的占有率已经达到10%。(维金)
+

@@ -1,0 +1,26 @@
+SONY NGP与XperiaPlay分工 一攻一守
+　　SONY 终于公布传闻已久的 NGP(PSP二代)， SONY 如何区间 NGP 与 XperiaPlay 将是一大关键，而随着 NGP 正式公布，SONY 的策略及布局也明显了！
+　　从 SONY NGP 的规格看来，SONY 已经把现有的手提装置技术统统放进 NGP，以便在未来能够继续发展下去，维持手提游戏机霸主的地位，其中支持 3G、GPS、六轴传感器、前后置触控版、前后置镜头?对是为未来铺路，以便增加游戏的扩充性，迎接 iPhone 的挑战。
+　　SONY NGP 与 Sony Ericsson Xperia Play 基本上均以游戏为主，但两者在规格及支持游戏种类上明显作出区别，我们先看相同的地方。
+　　支持双模拟游戏杆
+　　支持十字型箭头键
+　　支持四颗游戏按键
+　　支持 L、R 按键
+　　支援前置触控屏幕
+　　支持 PlayStation Suite 游戏(Xperia Play 采用 PlayStation Store for Android)
+　　支援前、后置镜头
+　　支援 3G、蓝芽、WIFI、GPS、六轴传感器
+　　支持浏览器
+　　支援 PlayStation Suite
+　　NGP与 XperiaPlay 较主要的的分别如下：
+　　屏幕解像度，NGP 解像度较高，达到 960X544，而 Xperia Play 则是 854X480。
+　　触控版，NGP 支持后置触控版，Xperia Play 并没有配备。
+　　社群功能，NGP 支持自家的 Home、社群、定位、讯息等服务，Xperia Play 暂时看来还不支持。
+　　处理器，NGP 采用 ARM CortexA9 Core 四核心处器。
+　　SONY NGP 的硬件优势及游戏分类，明显指出 NGP 是 SONY 心中一个完整的版本，提供较有质素的游戏，而 Xperia Play 将是较次的游戏平台，游戏体验与群众也不同。SONY NGP 硬件明显较强，配备后置触控版将是明显分野。SONY 对两者也有很明显区间，指出 NGP 将支持 PlayStation Store for Android 的游戏，而 PlayStation Store for Android 暂时将着力模疑 PS1 的游戏，而未来游戏内需要使用后置触控版的游戏将不会向下支持智能型手机。SONY 同时表示希望透过 PlayStation Suite 的游戏，令用户能够使用 NGP 以便得到一个更完整的游戏体验。
+　　以 iPhone 上很受欢迎的 Angry Birds 及 Flight Control 为例，随着 NGP 及 Xperia Play 的推出，未来我们可以在较强的 NGP 及较弱的 Xperia Play 上同时玩到这种游戏，并利用定位服务及无线上网功能，进行类似 Apple iPhone GameCenter 的功能，分享大家的游戏成绩、互相竞赛等等。
+　　相反，NGP 的游戏则维持高画质的游戏，保持 Monster Hunter、Metal Gear Solid、龙如等游戏的畅顺度，务求使 PS3 游戏也能够流畅在 NGP 上游玩，维持高质素的用家。幻想一个例子，GT5 PSP 版本只是镜像游戏，画质及游戏与 PS3 完全不同，两者仅可以透过分享赛车来进行联系，而 GT5新增的领队模式，现时仅可以透过浏览器玩到。随着 NGP 的推出，未来 GT5 的 NGP 版本也许可以玩到领队模式 或 直接玩到PS3 上的 GT5，与 PS3 上的 GT5 联系，真正做到家中的 PS3 与 手上的 NGP 均一直玩同一款游戏，把家中的 PS3 游戏拉到 NGP 上继续游玩，反之亦然。
+　　看到这边，大家有没有想到作为游戏开发商，未来应该主打什么游戏与市场呢？小编认为，PS3 与 NGP 是一伙的，主要是提供高画质，较复杂，运算要求较高的游戏，如大家喜爱的 Monster Hunter、Metal Gear Solid、龙如等等。这些传统的电子游戏机游戏可以继续维持在 PS3 及 NGP 系统内赚钱，制作上要如何连结两个平台，例如在 PS3上是否提供 3D 效果、支持 PS Move，在 NGP 上则考虑是否支持后触屏幕及 AR 功能。(PS Move 如何与 NGP 的 AR 及 后触屏幕结合，看来将是未来看点之一。)
+　　至于较简单的游戏，大家则可以使用 Xperia Play，由于 Xperia Play 采用 PlayStation Store，而这类型游戏也将支持 NGP，这意味游戏社群较 iPhone 更大，不仅触及新兴的 Android 手机游戏玩家，更同时销售予传统游戏玩家，一石二鸟，令游戏公司与游戏程序员愿意编写 PlayStation Store 游戏。
+　　总结来说，NGP 进一步向互动、互连靠拢，加上大幅提升硬件规格，创造独特的社群环境，紧握现时的 PSP 群众，维持其手提游戏机的地位。Xperia Play 则是响应 Apple iPhone 的产品，以提供一些较简单、较适合手机的游戏为主，吸引刚刚进入游戏世界的手机用家，互补不足。随着 NGP 的发布，你还愿意买 PSP 或 PSP Go 吗？至于有关 Xperia Play 的详细情况，Sony Ericsson 2月13日将有所公布，大家记得留意?！
+

@@ -1,0 +1,5 @@
+MySpace推出单向同步Facebook功能
+　　新浪科技讯 北京时间8月31日凌晨消息，据国外媒体报道，MySpace今天推出了与Facebook同步的功能，允许用户将MySpace上的状态同步到Facebook中。去年MySpace曾推出了与Twitter同步的类似功能。
+　　一旦与Facebook同步，用户在MySpace上的状态更新将会自动出现在Facebook页面上。MySpace称随着越来越多的音乐人选择利用社交网络，该项新功能将使得艺人能够很容易就同时在两个网站与粉丝分享音乐和其他内容。
+　　当然，这并不是真正的双向同步，因为用户不能将Facebook的状态同步到MySpace上。雅虎和AOL也曾推出过类似的与Facebook和Twitter同步的功能。(张和)
+

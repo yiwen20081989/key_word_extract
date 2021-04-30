@@ -1,0 +1,14 @@
+惠普网站测试产品涉嫌剽窃遭起诉
+　　新浪科技讯 北京时间4月15日早间消息，美国一家名为Software Research的软件厂商日前起诉惠普，称后者涉嫌窃取该公司的eValid网站测试技术，并在去年发布的一款产品中盗用相关知识产权。
+　　Software Research在诉状中称，该公司创始人爱德华·米勒(Edward Miller)开发了一种名为eValid的网站测试技术。惠普2008年多次与Software Research商谈，声称有意对eValid进行评估。
+　　米勒便在会议上和电子邮件中向惠普方面详细解释了eValid的工作原理，并对惠普提出的具体技术问题做出书面答复。Software Research还向惠普提供了eValid的副本以供评估，并明确表示自己拥有相关专利。然而，惠普在对eValid进行详细评估后，对Software Research表示没有兴趣提供一款可用于测试的浏览器产品，谈判最终破裂。
+　　去年，惠普推出LoadRunner软件套装，将其称为“网站测试的革命性解决方案”。Software Research表示，套装中的TruClient软件侵犯了该公司的专利，与Software Research先前提供给惠普的产品完全相同。
+　　Software Research要求法庭禁止惠普使用上述专利，并做出赔偿。
+　　惠普拒绝就此置评。(舰南)
+　　新浪科技讯 北京时间4月15日早间消息，美国一家名为Software Research的软件厂商日前起诉惠普，称后者涉嫌窃取该公司的eValid网站测试技术，并在去年发布的一款产品中盗用相关知识产权。
+　　Software Research在诉状中称，该公司创始人爱德华·米勒(Edward Miller)开发了一种名为eValid的网站测试技术。惠普2008年多次与Software Research商谈，声称有意对eValid进行评估。
+　　米勒便在会议上和电子邮件中向惠普方面详细解释了eValid的工作原理，并对惠普提出的具体技术问题做出书面答复。Software Research还向惠普提供了eValid的副本以供评估，并明确表示自己拥有相关专利。然而，惠普在对eValid进行详细评估后，对Software Research表示没有兴趣提供一款可用于测试的浏览器产品，谈判最终破裂。
+　　去年，惠普推出LoadRunner软件套装，将其称为“网站测试的革命性解决方案”。Software Research表示，套装中的TruClient软件侵犯了该公司的专利，与Software Research先前提供给惠普的产品完全相同。
+　　Software Research要求法庭禁止惠普使用上述专利，并做出赔偿。
+　　惠普拒绝就此置评。(舰南)
+

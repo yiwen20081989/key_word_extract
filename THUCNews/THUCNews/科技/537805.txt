@@ -1,0 +1,6 @@
+Adobe Flash主导网络视频市场 份额高达81%
+　　日前，市场分析机构comScore提供的数据显示，全球81%的网络视频是通过Adobe的Flash技术观看的，从而使之成为网络上第一大视频格式。
+　　报道称，Adobe Flash Player软件已经安装在了98%的上网计算机上和日益增加的手机上。Adobe刚刚发布了两款Adobe Flash Platform的关键组件——Media Interactive Server3.5软件和Adobe Flash Media Streaming Server3.5软件。Adobe Flash Platform是一个传送交互内容、应用和网络视频的平台。
+　　新服务器包括新的媒体传送选择项，如动态流，增强型H.264视频和高效率AAC声频支持，以及对直播流式内容进行暂停和查询的功能。
+
+

@@ -1,0 +1,4 @@
+东芝发布4个系列新款Satellite笔记本 
+　　东芝发布了A-, C-, M-, L-系列Satellite主流型号笔记本，它们分别对应不同尺寸，包括16英寸A665，14英寸M645，还有13英寸L635，15.6英寸的L655和17.3英寸的L675。
+　　其中A665和M645包含NVIDIA的Optimus混合显卡技术，这些笔记本均包含 Intel Core i3, Core i5和Core i7以及AMD的 AMD Phenom II Quad Core处理器，装载12MB NVIDIA GeForce 310M或1GB GeForce GT 330M，并支持WiMAX和蓝光驱动器，价格从450-800美元不等。
+

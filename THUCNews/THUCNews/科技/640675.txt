@@ -1,0 +1,9 @@
+美国逾三成Android手机支持4G网络
+　　新浪科技讯 北京时间9月28日上午消息，根据美国移动应用分析公司Localytics的研究报告，目前美国Android手机中有超过三分之一都支持4G网络。
+　　Localytics的数据显示，在2011年第三季度已经有36.6%的Android手机配备了4G通信功能，比起今年第一季度只占22.6%的份额，它的增长非常迅速。该公司还在其研究结果中包括了那些支持HSPA+、LTE和WiMAX功能的手机，这些功能都被统称为4G。
+　　Localytics网上营销研究总监丹尼尔·卢比(Daniel Ruby)在博客中说：“更重要的是，这个数字还在迅速地增加。自年初以来，Android设备中支持4G的增长比率已经超过了50%，最终这些设备加起来占到了全部Android手机的三分之一。”
+他还表示，Android手机生厂商在采用高速移动数据协议上的举动可谓是“非常积极”。
+　　Localytics还指出，Android支持4G功能的增长态势是由Sprint的HTC EVO 4G、三星的Epic 4G、Verizon的HTC Thunderbolt和三星的Droid Charge几款手机推动的。其中，在最流行的Android 4G手机排行图表中，Thunderbolt、Evo 4G和Droid Charge排名前三。
+　　排名第五的是T-Mobile最流行的Android手机myTouch 4G。而AT&T最流行的4G Android手机则是摩托罗拉Atrix。
+　　Android的竞争对手iPhone和黑莓尚未支持4G。有传言说iPhone 5将支持4G，不过这个消息还有待确认。美国电子产品测评网站Retrovo在7月做的一项研究发现，61%的iPhone用户并不关心新的iPhone是否支持4G，无论如何他们都会考虑购买。该研究也同样指出，三分之一的iPhone用户误以为他们的手机早已拥有了4G功能。(漆?)
+

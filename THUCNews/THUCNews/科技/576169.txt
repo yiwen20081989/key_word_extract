@@ -1,0 +1,93 @@
+美博客盘点Facebook并购史：4年收购13家公司
+　　导语：美国科技博客网站Businessinsider周六撰文盘点了Facebook在过去4年里收购的13家创业公司。文章指出，这些收购不是为了获取对方的技术，而是创造价值的工程师。
+　　以下为文章全文：
+　　自2007年收购Parakey以来，Facebook就一直在收购创业公司。Facebook高举收购大旗并不是为了获取对方的技术，实际上，这些创业公司在被Facebook收购后即遭关闭。Facebook需要的是工程师，Facebook愿意为每获得一位工程师，付出50万至100万美元的代价。
+　　Facebook创始人、公司现任CEO马克·扎克伯格(Mark Zuckerbeg)曾经表示：“我们没有一次是单纯为了某家公司而进行收购，我们收购这些公司是为了获得优秀人才。”Facebook过去4年里收购了13家公司，而每一笔收购的金额都达到数百万美元。
+　　1.创业公司Parakey
+　　公司理念：为人们在离线和在线状态下使用应用提供一种新的方式
+　　创始人：布莱克·罗斯(Blake Ross)和乔·休伊特(Joe Hewitt)，二人也是Mozilla火狐浏览器的发明者。
+　　收购日期：2007年7月19日
+　　投资者：红杉资本、O’Reilly AlphaTech Ventures、MSD Capital、YCombinator、Thomvest、保罗·布赫海特(Paul Buchheit)、罗恩·康韦(Ron Conway)、沃伦·兹德(Warren Zide)
+　　收购金额：不详
+　　幕后故事：这是Facebook的首次收购
+　　2.社交聚合网站FriendFeed
+　　公司理念：为用户提供其好友在Digg、YouTube和Flickr等其他23家网站活动的信息
+　　创始人：“Gmail之父”保罗·布克海特(Paul Buchheit)、布雷特·泰勒(Bret Taylor)、吉姆·诺里斯(Jim Norris)、桑吉夫·辛格(Sanjeev Singh)
+　　收购日期：2009年8月10日
+　　投资者：Benchmark Capital
+　　收购金额：约5000万美元
+　　幕后故事：扎克伯格表示，Facebook“真的需要布雷特”，因此斥资5000万美元收购了FriendFeed。布雷特是Facebook现任CTO
+　　3.移动系统开发商Octazen
+　　公司理念：可以使Facebook用户邀请好友加入的联系人工具
+　　创始人：肯尼思·弗奥(Kenneth Foo)
+　　收购日期：2010年2月19日
+　　收购金额：不详
+　　幕后故事：对于Facebook收购只有两个人的创业公司Octazen，业内人士普遍表示怀疑，但他们认为这是Faceboo为获取人才所进行的又一次收购
+　　4.照片分享网站Divvyshot
+　　公司理念：使群照片共享更加容易
+　　创始人：萨姆·奥迪奥(Sam Odio)
+　　收购日期：2010年3月2日
+　　投资者：Y-combinator
+　　收购价格：不详
+　　幕后故事：Divvyshot创始人奥迪奥现在是Facebook图片业务产品经理
+　　5.文件共享服务商Sharegrove
+　　公司理念：为亲朋好友共享内容而创建隐私群组的小型社交网络
+　　创始人：肯特·利比(Kent Libbey)、亚当·沃尔夫(Adam Wolff)
+　　收购日期：2010年5月26日
+　　投资者：Elm Street Ventures
+　　收购金额：不详
+　　幕后故事：Facebook发言人拉里·余(Larry Yu)透露，收购Sharegrove主要是为了让Sharegrove联合创始人沃尔夫加盟
+　　6.社交旅行推介网站Nextstop
+　　公司理念：集游戏、搜索和社交等功能于一身的社交旅游推荐网站
+　　创始人：查尔斯·林(Charles Lin)、卡尔·斯约格林(Carl Sjogreen)、艾德里安·格雷厄姆(Adrian Graham)
+　　投资者：红杉资本
+　　收购日期：2010年7月8日
+　　收购价格：250万美元
+　　幕后故事：Facebook收购NextStop后不久即将其关闭
+　　7.内容服务商Chai Labs
+　　公司理念：利用各种算法帮助出版商创建有趣内容的内容管理系统
+　　创始人：戈库尔·拉贾拉姆(Gokul Rajaram)、吉里·拉贾拉姆(Giri Rajaram)
+　　收购日期：2010年8月15日
+　　投资者：乔·克劳斯(Joe Kraus)、马克·安德森(Marc Andreessen)、雷德·霍夫曼(Reid Hoffman，职业社交网站LinkedIn创始人)
+　　收购金额：1000万美元
+　　幕后故事：Facebook此次收购目的还是为了网罗Chai Labs的两位创始人
+　　8.社交网站Hot Potato
+　　公司理念：为联系家人及好友提供便利
+　　创始人：贾斯廷·沙夫(Justin Shaffer)和萨蒂奇·罗格斯-金(Saadiq Rodgers-King)
+　　收购日期：2010年7月19日
+　　投资者：RRE Ventures、罗恩·康韦(Ron Conway)、贾里德·库施纳(Jared Kuschner)、克里斯·迪克逊(Chris Dixon)、Facebook高管戴夫·莫林(Dave Morin)等
+　　收购金额：约1000万美元
+　　幕后故事：Facebook收购以后即关闭了Hot Potato，此次收购同样为了让其联合创始人贾斯廷·沙夫加盟
+　　9.文件共享网站Drop.io
+　　公司理念：免费共享文件
+　　创始人：萨姆·莱辛(Sam Lessin)
+　　收购日期：2010年10月29日
+　　投资者：RRE Ventures和DFJ Gotham
+　　收购金额：约1000万美元
+　　幕后故事：为了让在线文件共享网站Drop.io创始人萨姆·莱辛加盟，Facebook此次也付出了大约1000万美元的代价
+　　10.移动广告创业公司Rel8tion
+　　公司理念：超本地移动广告服务
+　　创始人：彼德·威尔逊(Peter Wilson)和斯科特·汉南(Scott Hannan)
+　　收购日期：2011年1月25日
+　　收购金额：不详
+　　幕后故事：Facebook在今年初收购了移动广告服务公司Rel8tion，随后9名Rel8tion员工加盟Facebook
+　　11.消息群发服务商Beluga
+　　公司理念：群信息服务
+　　创始人：乔纳森·珀洛(Jonathan Perlow)、露西·张(Lucy Zhang)、本·达文波特(Ben Davenport)
+　　收购日期：2011年3月2日
+　　收购金额：不详
+　　幕后故事：Beluga或许是Facebook首次人才加产品的收购，但还需要时间来证明这笔收购是否明智
+　　12.手机应用开发商Snaptu
+　　公司理念：将你喜欢的网站变成可在手机上运行的超快移动应用
+　　创始人：雷·麦卡威(Ran Makavy，CEO)、巴拉克·内夫(Barak Naveh，CTO)
+　　收购日期：2011年3月20日
+　　投资者：Carmel Ventures和红杉资本
+　　收购金额：6000万至7000万美元(也有人估计低于4000万美元)
+　　幕后故事：这也是Facebook迄今已知最大手笔的收购
+　　13.数据收集与组织创业公司DayTum
+　　公司理念：记录个人数据并据此建立可视化效果的工具
+　　创始人：尼古拉斯·菲尔顿(Nicholas Felton)和赖恩·凯斯(Ryan Case)
+　　收购日期：2011年4月27日
+　　收购金额：不详
+　　幕后故事：DayTum两位创始人菲尔顿和凯斯均加盟Facebook产品设计团队(清风)
+

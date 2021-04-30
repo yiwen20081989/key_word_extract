@@ -1,0 +1,24 @@
+考研英语完型填空常见错误解析
+　　完型填空不算是考研英语中最难的题型，相反，从真正意义上讲是所有题型中最简单的题型，但是考生往往会掉以轻心，跌进出题者设置的陷阱中，使得本来很简单的题型失分。那么今天咱们就以1999年的完型填空试题为例，讲解陷阱的设置，及如何不掉进陷阱。
+　　固定搭配陷阱
+　　Industrial safety does not just happen. Companies  low accident rates plan their safety programs, work hard to organize them, and continue working to keep them alive and active。
+　　[A] at   [B] in   [C] on(D)   [D] with
+　　先看看41的这四个选项，第一直觉就选A。因为似乎记得有at rate这个短语。其实真正的固定搭配是at any rate，意思是“无论如何，不管怎样。”还有固定搭配是at this rate“照这样下去。”但是在这其实出题者考察的是with连接的一个定语从句，只有with可以表示“有”这层含义，所以，希望考生千万要看清楚上下文意思。注意出题者真正考察的是什么。本题正确选项是with。
+　　上下文复现陷阱
+　　When the work is well done, a  of accident-free operations is established where time lost due to injuries is kept at a minimum。
+　　Successful safety programs may differ greatly in the emphasis placed on certain aspects of the program. Some place great emphasis on mechanical guarding. Others stress safe work practices by observing rules or regulations。
+　　[A] regulation  [B] climate   [C] circumstance(B)   [D] requirement
+　　如上，43题，刚拿到题时不知道要选哪个，在紧接的下一段看到了regulation，这是考生以为找到答案了，殊不知，考生根本没看清楚，上下文的关系是否对应。很明显，第二段是总分段，第二段里的regulation是这个总概念中举例的一部分，与43题不能是对等位置，43题考察的是一个总的概念。所以不能以偏概全，而应该分析清楚43题真正的主语是什么。本题正确选项是 climate。
+　　从句辨析陷阱
+　　When the work is well done, a climate of accident-free operations is established _44____time lost due to injuries is kept at a minimum。
+　　[A] where   [B] how    [C] what(A)    [D] unless
+　　很多考生，不知道这个空应该填什么，动词后面是宾语从句，很轻易的判断是how。因为how可以引导宾语从句，what引导名词性从句必须单独做成分，(后面有time，说明不是what)，unless引导时间状语从句，句中没时间所以排除。其实，这个是一个特殊的定语从句，关系副词where修饰先行词climate，只不过因为定语从句比较长，所以为了避免头重脚轻，将定语从句后置了。
+　　近义词辨析陷阱
+　　This may mean the difference between operating at  or at a loss。
+　　50. [A] an advantage
+　　[B] a benefit
+　　[C] an interest(D)
+　　[D] a profit
+　　在选择这个题的时候一定要近义词辨析，出题者一般会利用近义词，扰乱考生的思维，造成误判。这需要考生在平时的学习中记清楚每个短语的确切搭配。advantage: 指因某方面占优势或利用某机会以及对方弱点而获得利益与好处。benefit: 普通用词，指通过正当手段从物质或精神方面得到的任何好处或利益。 interest : 作“利益”解时，多用复数形式，既可指集团、群体的利益，又可指个人的利益。profit: 着重收益，尤指从物质、钱财等方面获得的利益。 这个题中A,B首先排除，因为它们和loss没有直接的互斥，所以选择C或者D，其中C在阅读中出现的频率比较高，但是注意其的用法，要用复数来表示利益。所以选择D。
+　　总之，做完形填空，一定要秉承“精益求精”的精神，不然，很容易在无意间掉进陷阱，失去分数。
+

@@ -1,0 +1,19 @@
+微软或将推iPad版Office及必应搜索
+　　导读：科技博客Ars Technica今日刊文称，在两周前苹果发布平板电脑iPad后，数百家软件公司开始考虑为iPad开发应用，然而微软却拒绝对iPad置评。业内人士认为，微软也将推出多款应用的iPad版，其中必应(Bing)、Windows Live和Office最有可能出现在iPad上。
+　　必应
+　　2个月前，微软针对iPhone(手机上网)和iPod Touch推出了免费的必应应用。考虑到iPhone已面市2年多，微软发布iPhone版必应的时间显得较晚。不过微软从发布必应到推出相应iPhone应用只花了6个月时间。
+　　近期有传闻称，必应有可能成为iPhone默认搜索引擎。无论这一传闻是否属实，可以肯定微软和苹果进行了一些谈判。研究机构Directions on Microsoft副总裁马特·罗索夫(Matt Rosoff)表示：“必应团队希望该搜索引擎能尽可能广泛的被利用，因此开发必应应用，或是针对iPad升级iPhone版必应都是毫无疑问的。”
+　　Forrester Research首席分析师查尔斯·戈尔文(Charles Golvin)则表示：“我预计，在发布iPhone版后，必应将很快推出iPad版，因为这一开发成本很低。而如果微软和苹果达成搜索合作协议，那么微软的风险也很小。”
+　　Windows Live
+　　Windows Live包括客户端应用和网络服务。相对后者，前者进入苹果产品难度较大。例如，微软已经推出了iPhone版Windows Live Hotmail，但尚未开发任何一款Windows Live应用的iPhone版。
+　　罗索夫表示：“一些Windows Live移动应用有可能很快进入iPad和iPhone，例如Windows Live Messenger。”微软Windows Live团队近期的一篇博客文章也暗示，微软将很快推出iPad和iPhone版的Messenger。
+　　微软拒绝对这一消息置评。业内人士认为，如果Messenger进入iPhone和iPod Touch，那么微软也将很快推出相应的iPad版。
+　　Office
+　　Office的情况相对微妙。iPad已附带了针对iPad优化的iWork应用，因此很明显苹果希望用户将iPad用于工作。不过如果没有Office，那么这一卖点将不会非常突出。对企业用户来说，iWork存在缺陷。这款软件仅允许用户将文档输出为微软格式，而不是默认将文档存为这些格式。
+　　罗索夫表示：“微软的Mac业务部门目前没有任何计划在iPhone或iPad上推出Mac版Office。微软不认为这一市场有足够潜力，在iPhone和iPad上应用到Office的情况非常少。我不认为微软会推出专门的Office Mobile客户端。”
+　　一名接近微软的消息人士确认了这一说法，不过业内人士认为，微软并未完全放弃推出iPad版Office。戈尔文表示：“在推出iPad版Office的问题上，微软会采取观望的态度。微软或许希望看看，是否有足够多的用户将iPad用于工作，即iWork是否有足够大的销量。不过考虑到iPad最初的市场，以及用户使用iPad方式的不确定性，微软并不急于推出iPad版Office。”
+　　微软很可能使Office 2010中的网络版Office可以应用于iPad，不过实现这一点很难，例如需要针对触摸屏进行优化。戈尔文表示，从顺应平板电脑发展趋势的角度来看，微软将积极采取措施，保证所有产品都适用于平板电脑。
+　　结论
+　　业内人士认为，微软内部各个部门将独立考虑是否推出iPad版应用。微软不会命令各个软件团队针对iPad进行开发，也不会阻止各个团队这样做。罗索夫也表示：“对于iPad，微软不会采取自上而下的态度，这意味着各个产品集团将自由决定是否开发iPad应用。”
+　　很明显，开发成本是主要考虑因素之一。微软将优先开发那些易于移植，以及更容易得到苹果批准的的软件和服务。此外最重要的一点在于，iPad需要获得足够多的销量，或是该产品的销量达到微软的希望。罗索夫表示，未来两三年内，微软很可能发现iPhone和iPad的用户基础已不可忽略。(维金)
+

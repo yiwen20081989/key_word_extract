@@ -1,0 +1,7 @@
+微软7月12日停止支持Windows Vista SP1
+　　新浪科技讯 北京时间5月16日晚间消息，微软周一提醒用户，将于今年7月12日结束对Windows Vista SP1的支持。
+　　微软同时建议用户升级到Vista SP2或Windows 7，以继续获得支持和补丁程序。与Vista SP1相比，Vista SP2升级到新版Windows Search，同时也对驱动进行了升级，支持更多新硬件。
+　　Vista SP1用户可通过Windows Update升级到Vista SP2，也可手动下载32位或64位SP2升级包。在安装SP2升级包前，用户必须已经安装Vista SP1。
+　　据微软网站上提供的Windows生命周期表显示，微软将于2012年4月10日停止支持Vista SP2。去年4月13日，微软已经结束了对Windows Vista的支持。
+　　此外，2014年4月8日微软还将停止对Windows XP SP3的支持。(李明)
+

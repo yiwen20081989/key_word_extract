@@ -1,0 +1,6 @@
+Fusion-io提高IPO区间价 欲融资2.5亿美元
+　　新浪科技讯 北京时间6月8日上午消息，企业级固态硬盘厂商Fusion-io将其首次公开招股(IPO)的发行价区间从原来的每股13-15美元调整为每股16-18美元，从而使Fusion-io的最高估值由之前的11.7亿美元增至14亿美元。
+　　Fusion-io计划融资2.546亿美元，高于几周前的2.12亿美元。Fusion-io将在纽交所以“FIO”的代码挂牌上市，除去其他股东出售的154万股股票之外，Fusion-io还将出售1076万股股票。
+　　Fusion-io的企业级固态硬盘主要用于小型设备存储数据，也是著名的快速存储数据解决方案。Facebook是Fusion-io的客户之一。Fusion-io目前已获得超过1.1亿美元的风投资金，投资机构包括Meritech Capital Partners、快速资本、Andreessen Horowitz and Triangle Peak Partners、New Enterprise Associates及光速创投。
+　　截至3月31日，Fusion-io本财年前三季度(财年截止日期为6月30日)的营收翻了五番，至1.255亿美元，其毛利则翻了四番，至6570万美元。不过道琼斯发布的文件显示，前十大客户贡献了Fusion-io 91%的收入，Facebook一家就在过去9个月贡献了Fusion-io 47%的收入。(新铁)
+

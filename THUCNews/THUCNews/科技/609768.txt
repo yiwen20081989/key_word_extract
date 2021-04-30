@@ -1,0 +1,5 @@
+支持多数一代机型 RTM版Mango已提供下载
+　　对于买了第一代Windows Phone 7的朋友们来说，RTM版本的开放下载绝对是个好消息，无需再忍受功能上的缺陷，无需再苦恼没有中文输入，Mango即将以最好的姿态来到你的身边。
+　　从截图中来看，Mango的RTM版本号为7720，之前升级到NoDo的7392用户、升级了Beta版Mango的7661、7712用 户，都可以升级到RTM版。RTM版Mango支持升级的机器包括HTC HD7、Mozart、Trophy，三星Focus、Arrive，Dell Venue Pro，与LG Optimus 7。
+　　不过从笔者的角度来看，目前仍然不是入手Windows Phone的最佳时机，市面上销售的所谓Mango机型，大多为商家认为刷机升级，系统版本也均为Beta测试用。测试版的Mango也仅仅是加入对中文 的支持而已，诸如地图定位、天气刷新、Market Place的应用下载等功能都十分不稳定，能够使用第三方应用程序也相当有限。因此，笔者还是建议大家等待Mango正式发布再出手不迟。
+

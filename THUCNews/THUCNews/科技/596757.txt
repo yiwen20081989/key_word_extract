@@ -1,0 +1,6 @@
+AMD投资视频会议解决方案提供商ViVu
+　　新浪科技讯 北京时间6月9日晚间消息，AMD对桌面视频会议解决方案提供商ViVu进行了投资，具体的投资金额并未公布。
+　　通常AMD会对使用Fusion APU(Accelerated Processing Unit)产品的公司进行战略投资，而ViVu据说正在开发基于AMD Fusion APU的新一代企业级视频解决应用。
+　　AMD和ViVu在其他项目上也有合作，如VuRoom视频会议解决方案原型无线显示技术，允许从AMD笔记本以无线方式实时向一个或多个网络显示设备传输1080p高清视频。
+　　2009年10月，ViVu在首轮融资中曾获得300万美元投资，主要投资者为Draper Fisher Jurvetson 和Quest Venture Partners。(李明)
+

@@ -1,0 +1,53 @@
+破解风暴再临 近期PS3破解资讯汇总
+　　日前PS3的破解在各大论坛中可是炒得沸沸扬扬啊！在经过Z-Pack直接硬盘运行PS3游戏被网友识破为骗局之后，目前PS3主机的破解形势再度发生变化。今天，就为大家送上近期PS3主机的破解资讯汇总，让你深入了解近期PS3破解的动态。
+　　第一波PS3破解风暴！Z-PACK
+　　Z-PACK介绍
+　　Zpack是世界上第一个PS3备份系统软件。它是设计给PS3使用以避免你的正版光碟受损/被偷窃。你将不需要正版光碟，只需在你的外置硬盘启动任何游戏。
+　　Zpack包括了一个USB装置以及一张Zpack软件光盘(DVD？Blu-ray？发布者没注明)，你只需要安装一次软件，而USB装置得一直与PS3连接。一套软件仅供一部PS3使用，请留意我们的Zpack套装。
+　　安装：非常简单，我不曾在主机上打补丁。听说这软件的开发人员哪部ps3有打补丁。
+　　软件：非常容易而且一目了然。只需花几分钟就备份好了，最多25个游戏，线上备份的也能玩。
+　　售价：100欧元+10欧元运输费
+　　坏处：Not functioning under linux(linux系统下没有任何功能？还是不能启动linux系统？有待查证)，运输时间蛮久。
+　　但好景色不长，很快这个价值100欧元的骗局便被识破，因为有外国强人用两个软件加一个手柄就轻松制作出Zpack安装画面和玩《上旋高手》了。
+　　第二波PS3破解风暴！神奇小子George Hotz入侵PS3
+　　为什么叫他神奇小子呢？因为他只有19岁，为什么神奇呢？因为他曾经在17岁时破解了Iphone，对！目前你看到街上人用的Iphone，多数都是他破解的。
+　　2010年1月23日神奇小子正式宣布破解了PS3，Geohot在自己的博客中表示，他手中的PS3是一年半以前别人送来专门让他进行破解的，但他最近才着手开始工作。据称他共花了5周时间，巧妙运用了一些简单的硬件改动和较复杂的软件方法，得到了PS3系统全部内存的读写权限和处理器的高级控制权。换句话说，他已经破解了PS3系统，余下的只是利用这些权限编写自制软件的问题了。不过他也承认，PS3已经推出“3年2个月又11天，确实是一套非常安全的系统”。
+　　Geohot称，他破解的方式从理论上来说是无法通过软件升级修补的，但索尼可能会通过升级增大实施这种破解的难度。因此，他目前不会透露可用于破解的漏洞所在。如果PS3系统的解密密钥没有嵌入硬件的话，他未来可能会找到密钥并将其公布。
+　　以Geohot的以往履历，他公布的PS3破解消息可信度相当高。
+　　全文翻译大致如下：
+　　我已经获得了对整个系统内存的读写权限以及对CPU的HV级别访问权限。换言之，我已经破解了PS3。剩下的就是软件方面的工作和反向工程了。因为已经dump了LV0和LV1了，所以我手头有很多反向工程方面的工作要做。我也已经在没拆除NAND也没有加装改机芯片的情况下dump了NAND。
+　　3年2个月零1天，这真是个坚固的系统。
+　　整个过程共花费了5周，3周在波士顿，2周在这里。巧妙的运用了一些简单的硬件工具盒一些不简单的软件工具。
+　　感谢iphonemod brasil的geogre一年半前给我提供这台供我破解的PS3，抱歉我用了这么久才破解。
+　　破解进展到目前，我还不打算完全公布。破解方法还不是完全可行，但还是很有可行性的。而且，还有很明显的原因让我不能马上发布dump出的东西。我希望能找到解码密匙之后再发布，密匙可能被植入硬件系统里了，希望密匙也是像IPHONE的DBAG那样的模式。
+　　期待我的消息吧！
+　　第二波PS3破解风暴之2！潘多拉魔盒打开
+　　经过三天时间的折腾，2010年1月27日，GeoHot便已经把PS3的控制源码编译出来了，并决定将这个能完全读取PS3内存的资源公开，以让更多的软件开发者以及发烧友做研究，并希望PS3自制系统，自制软件的出现！因为只凭一个人的力量，破解将是毫无意义的。但是这个破解文件只在2.4.2系统的旧版PS3上测试通过。
+　　文章原文
+　　In the interest of openness, I've decided to release the exploit. Hopefully, this will ignite the PS3 scene, and you will organize and figure out how to use this to do practical things, like the iPhone when jailbreaks were first released. I have a life to get back to and can't keep working on this all day and night。
+　　Please document your findings on the psDevWiki. They have been a great resource so far, and with the power this exploit gives, opens tons of new stuff to document. I'd like to see the missing HV calls filled in, nice memory maps, the boot chain better documented, and progress on a 3D GPU driver. And of course, the search for a software exploit。
+　　This is the coveted PS3 exploit, gives full memory access and therefore ring 0 access from OtherOS. Enjoy your hypervisor dumps. This is known to work with version 2.4.2 only, but I imagine it works on all current versions. Maybe later I'll write up how it works :)
+　　Good luck!
+　　简单翻译一下，标题是给你一个贵重的礼物的意思，
+　　鉴于公开会有利一点，我决定发布这个开发资源，希望呢，这个发布会打开ps3新的一幕，还有你会组织和设法想出怎么运用这个去做些实用的东西，就像第一次ipone的越狱软件被发布一样。我要回到我的生活中，所以我不会没日没夜的研究这个。
+　　也请记录你所发现得到psdevwiki上面，到现在为止，这个平台已经有很棒的资源了，再加上有今天我公布的这个开发资源，会留给你数以千计的新东西去记录，我将愿意看到丢失的HV calls加进来，内存地图和启动链也最好记录下来，还有3D GPu驱动的进展，当然了，还有自制软件的开发！
+　　这就是我发布的ps3开发程序，提供了完全内存的进入，所以呢 从别的操作系统中进入ring0这个特级指令中，享用你的管理程序转储。我所知道的是这个只实用于2.4.2版本，但是我想它应该全版本制霸，也许以后我会写出来它是怎么工作的。
+　　好运！
+　　第二波PS3破解风暴之3！关于PS3的系统架构和防hack原理
+　　由于此段涉及到大量的专业理论知识，并且表达方式可能过于枯燥无味，不喜可以跳过直达下页真相页。不过我们需要告诉你的是新版本PS3因为取消了“其他系统安装”这个功能，所以目前的破解技术并不能运用于PS3 SLIM上。
+　　首先，我们知道老版本的ps3可以安装linux，但是linux运行很慢，因为sony屏蔽了部分硬件的授权。
+　　linux无法使用CELL内核的SPU,没有RSX的权限，同时运行慢的部分原因是内存只有256M。
+　　但是我们知道操作系统是应用程序和硬件之间的桥梁，为应用程序提供API接口，对硬件发出指令，处理数据。正常说来一个硬件装上了操作系统，并且配置正确驱动，他就能获得硬件的使用权。Sony如何使ps3能够安装其他系统而不能获得所有的权限呢？
+　　我们先来看一下他的架构：
+　　sony使用了一个所谓的HYPERVISOR(LV1) 简称HV作为硬件和操作系统之间的一个中间件。在系统L0(level 0 or layer 0? 系统最层)启动时最先加载，然后根据启动的是sony的游戏系统还是其他系统给出所对应的权限。所有系统对硬件发出的指令要先交给HYPERVISOR，它来决定你可以干什么不可以干什么。
+　　ps3的hypervisor很早就有人研究过，并破解出一些接口函数API
+　　具体见此http://wiki.ps2dev.org/ps3:hypervisor
+　　当然这部分是完全加密过的，并在启动的时候进行hash校验，所以你是不能更改或者替换它的。George Hotz说他通过注入硬件的办法(连入IC)使这部分变得不稳定，然后找到其中的漏洞，骗过ps3的校验，进而获得内存控制权。
+　　我们的操作系统内核建立在L2上，这一部分在启动的时候也会进行hash校验，所以也是改不了的，在系统内核加载以后其他部分才陆续加载。由于使用IBM的框架结构，LPAR将内存，处理器，存储器等资源拆分成多重资源集合，每一个集合独立运行。
+　　第二波PS3破解风暴之4！目前的进度，还是洗洗睡吧……
+　　第一：PS3破解方法并非普通人能轻易进行，建议普通玩家不要尝试，因为不但要编译PS3破解文件，而且还要拆卸PS3主机根据程序的提示在准确的时间内连接PS3主板上的焊点！
+　　第二：难度非常大！我们需要根据geohot放出的某张图，在PS3电路板上连接一大堆线到某个比PS3贵得多的FPGA上，然后在指定40纳秒内作某些某些事，才能成功获得全部内存读写权限，也就是俗称的“破解”。
+　　首先，在ps3电路板上焊线，绝大多数玩家是办不到的，当然你可以去指望当年焊PS2 IC的老前辈们帮忙。
+　　其次，我们需要一个叫做FPGA的东西，FPGA是什么并不重要，重要的是达到“破解PS3”水平的FPGA一般都比PS3贵，有兴趣的同学可以去搜索一下“Virtex-4 ML461” 。
+　　Geohot为ps3破解之门打开了一条缝，是第一个吃螃蟹的人，功不可没。但是目前离PS3能够运行自制程序，还是太过于遥远了。
+

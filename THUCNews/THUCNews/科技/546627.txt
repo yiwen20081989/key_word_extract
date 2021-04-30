@@ -1,0 +1,9 @@
+Facebook短期不推广Twitter同步功能
+　　新浪科技讯 北京时间8月25日上午消息，据国外媒体今日报道，消息人士透露，Facebook内部正在就是否面向普通用户开放Twitter同步功能进行讨论，短期内恐怕难以推出。
+　　上周，Facebook刚刚推出了一项重要功能，允许“公共主页”(Facebook Page)的管理者自动将状态更新转化为Twitter信息并发布到Twitter上，但该功能暂时不对个人用户开放，只有名人和企业才可以通过该功能向Facebook粉丝和Twitter关注者同时发布信息。
+　　虽然很多业内人士认为，Facebook面向普通用户推出这一功能只是时间问题，但消息人士却表示，Facebook内部正在就是否面向普通用户推出这一功能以及何时推出该功能进行争论。这表明该功能未必会在短期内推出，甚至可能搁浅。业内人士认为，向普通用户推出Twitter同步功能进展缓慢，原因在于Facebook最近刚允许用户对所有人公开自己的资料，但目前仍未对隐私策略进行修改。
+　　对于希望将Facebook状态更新同步到Twitter信息中的用户而言，这并非好消息，但此举也打消了人们的疑虑，即Facebook不会完全禁止数据的导出。
+　　业内人士认为，Facebook的疑虑存在正反两面的作用。从积极的一面看，可以让用户通过Facebook发表Twitter信息，从而使Facebook一夜之间成为最大的Twitter客户端。由于用户分享的许多信息都被存储于Facebook中，会对Facebook的流量起到极大的提升。
+　　从消极一面看，由于Facebook最大的优势在于庞大的用户基础，让用户轻易与Twitter同步有悖于Facebook的利益。此外，Facebook在实时搜索领域已落后于Twitter，如果再将实时信息拱手交给Twitter，将对自身业务产生负面影响。
+　　不过，即使Facebook官方未推出此项功能，心急的用户仍然可以使用SocialToo等Facebook应用来实现Twitter同步。(书聿)
+

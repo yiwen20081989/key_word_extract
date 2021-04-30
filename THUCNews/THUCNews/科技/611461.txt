@@ -1,0 +1,7 @@
+Intel超移动平台明年三月升级Refresh
+　　Intel将于2009年3月对现有用于Netbook和MID的超移动平台Menlow进行升级，推出“Menlow Refresh”。 
+　　Menlow平台的处理器为Silverthorne Atom Z500系列，现在有五款型号，频率从800MHz到1.86GHz不等，功率最低0.65W、最高2.4W；相应的芯片组被称为SCH，但其实是从915G演化而来的。 
+　　明年3月，Atom Z500系列将新增三款型号，其中Z550的频率将高于1.86GHz，Z534不低于1.60GHz，Z515则高于800MHz，各自的功耗暂不清楚，但估计都会在2W左右。Atom Z550/Z534将搭配UP15W芯片组，Atom Z515则搭配UL11L。 
+　　下一代的超移动平台Moorestown将于2009-2010年间发布，其中处理器代号Lincroft、芯片组代号Langwell，与现有平台相比变化会非常之大。 
+
+

@@ -1,0 +1,9 @@
+微软测试下一代云办公应用Office 365(图)
+　　新浪科技讯 北京时间10月20日凌晨消息，微软今天在美国旧金山发布了云办公系统Office  365，将在线版的Office、SharePoint、Exchange和Lync整合到始终保持最新的云服务中。
+　　这一举动意义重大，因为Office是微软仅次于Windows的第二大产品，每年为微软带来营收130亿美元，利润率高达70%。 Office目前面临着Google Docs等在线免费服务的潜在威胁，Office 365可能将有力回应此类服务的挑战。
+　　Office 365企业版包含完整版的传统Office Professional  PLus桌面套件，也包括在线版Office。企业需要以每月付费的形式使用Office 365，一旦停止付费订购，该服务将停止工作。
+　　Office  365将能够自动进行更新，解决了企业Office应用中最大的难题。数以千计的PC都可在第一时间获得微软的补丁、更新或最新版本。
+　　企业用户可选择从2美元到27美元不等的包月费用，选择使用不同的服务组合。例如，对于员工数低于25的小企业，仅需每月支付6美元即可使用不包括完整Office桌面套件的Office 365，15分钟之内就能运行Office Web Apps、Exchange  Online、SharePoint Online、Lync Online及其它外部网站。
+　　微软Office 365将于明年在全球上市。微软将在全球13个国家和地区，通过几千家企业机构开始测试Office  365,并推向更多客户。明年，Office 365将在40个国家普遍上市。
+　　中国用户目前还不能直接采用Office 365，但可以通过在线服务的方式或私有云服务的方式体验SharePoint,  Exchange, OCS, CRM等产品。(张和 李明)
+

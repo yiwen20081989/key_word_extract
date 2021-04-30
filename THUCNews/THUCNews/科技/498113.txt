@@ -1,0 +1,62 @@
+送千日免费下载 iriver韩国新机首发U100
+　　大家期待已久的iriver U100今天终于在iriver的主页iriver.co.kr中上线了，和以前的网络曝光图片中相比各位都已经了解了U100的基本外观以及附带的iriver Replay服务，不过CES开展的第一天U100终于完全暴露在众人面前。
+　　
+　　相信大家也对此期待许久了吧，下面我们来看看U100的简单介绍：
+　　容量为4/8/16G，且有wifi型号可供选择，一共5种可选颜色。EQ方面除了传统的SRS WOW HD还有为了提升音感而新加入的SRS TruMedia。而另外一个亮眼的地方就是续航能力了，50小时的音频和11小时的视频续航能力，不得不承认iriver近期续航能力比起原来大有提升。
+　　
+　　屏幕方面终于去掉了原来的压感式屏幕，而使用了流行的静电式。能播放720p分辨率的影片，支持H264等的编码格式也是相当丰富。本次的设计也是相当有特色的，机器下端那个大家都以为可以拆除的部分确实让不少人吃惊，其实整台机器是一体的，下部不可拆卸。
+　　iriver U100本作的核心部分是1000日的音乐服务，也是iriver成立12周年活动的一部分，凡是购买U100的人都能够获得1000天的音乐下载服务，在一千日之内通过流媒体下载的方式下载之际喜爱的歌曲。
+　　
+　　耳机也是本次的一个改变，没有再采用原来那个廉价耳机而是是用了名为IDP-1000的自主品牌耳机，该耳机的性价比在网民中得到了非常高的评价。目前U100已经在韩国官网开始预售了有需要的同学们可以前往围观哦。
+　　以下是U100的详细技术参数
+　　容量：4G/8G/16G
+　　型号：Basic/WiFi
+　　颜色：绿黑/粉黑/黑绿/黑粉/黑
+　　体积：106 x 56 x 8.9mm
+　　重量：82g
+　　扩展：Micro SD(SDHC最大支持32GB)
+　　连接：USB2.0
+　　EQ：User EQ(5Band)/Preset EQ(8种)/SRS TruMdeia(SRS WOW HD， SRS Max-V， SRS 5.1 Surround)
+　　工作温度：-5度～40度
+　　续航时间：音频最大50小时(128Kbps，Mp3，Vol20，EQ Normal，LCD Off)
+　　视频最高11小时(Video Mpeg4 QVGA 1Mbps 30FPS)
+　　屏幕
+　　屏幕类型：7.874cm(3.1寸) TFT LCD
+　　触控方式：静电式
+　　分辨率：320x480
+　　色彩：1600万
+　　音频
+　　响应频率：20Hz~20KHz
+　　输出功率：18mW/18mW (16ohm)
+　　信噪比：92dB
+　　声道：立体声
+　　文件类型：MP3， WMA， OGG， ASF， FLAC， APE
+　　比特率：MP3，WMA:8kbps~320kbps， OGG up to Q10
+　　FLAC:0~8
+　　视频
+　　文件格式：AVI， WMV， MP4， ASF， MOV， TS， M2TS， TP， 3GP， MOV， MKV
+　　编码：MPEG1， MPEG4(SP/ASP)，WMV7/8/9， H264
+　　分辨率：最高1280x720(720p Level4.1， MPEG4， Xvid， WMV9)，720x480(MPEG1)，320x240(WMV7/8)
+　　帧率：30fps
+　　字幕：SMI
+　　录音
+　　音频录音：WMA
+　　FM录音：WMA
+　　FM
+　　响应频率：87.5HMz~108MHz
+　　信噪比：50dB
+　　天线：耳机
+　　E-reader
+　　文本格式：ePUB，TXT，PDF
+　　图片格式：JPEG，BMP，PNG，GIF，ZIP
+　　图片
+　　文件格式：JPEG，BMP，PNG，GIF
+　　WIFI规格
+　　IEEE 802.11b/g
+　　包装及附件
+　　机器，耳机，USB线，快速入门，质保书，千日服务激活码(wifi版本)
+　　电源
+　　电池：锂离子电池
+　　OS
+　　Windows 2K/XP/Vista 32bit/7
+

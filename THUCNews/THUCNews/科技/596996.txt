@@ -1,0 +1,5 @@
+微软Windows Thin PC开放下载：面向企业用户
+　　新浪科技讯 北京时间7月2日上午消息，微软Windows Thin PC操作系统已经面向微软软件保障(Microsoft Software Assurance)的用户开放下载。Windows Thin PC是Windows 7的轻量级版本，主要面向企业用户。
+　　Windows Thin PC的发布过程经历了“社区技术预览”阶段。在这一阶段，微软主要希望获取必要的用户反馈，对操作系统进行改进。在此之后，微软推出了RTM版本，集成了键盘过滤器、国际输入法编辑器，以及按键管理服务等。
+　　微软表示，推出Windows Thin PC的目的是为了保护企业当前对硬件和软件的投资，使操作系统符合企业用户的环境。有报道称，MSDN和Technet的用户、微软合作伙伴网络项目的银牌和金牌合作伙伴，以及Windows Intune或VDA用户也可以获得完整版的Windows Thin PC。(维金)
+

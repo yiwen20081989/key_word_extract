@@ -1,0 +1,6 @@
+iPhone手机超频很简单：只需更改文件名
+　　【赛迪网讯】5月16日消息，据国外媒体报道，有黑客日前发明一种给苹果iPhone手机超频的简单方法，只需更改文件名即可。
+　　本来，iPhone 3G处理器的时钟频率为600MHz，iPhone 3GS为833MHz，但出于多种因素考虑，分别被苹果限制在412MHz和600MHz。
+　　日前，有黑客发明一种给iPhone超频的简单方法，只需重命名一个文件即可。该文件名为“com.apple.SystemPowerProfileDefault.plist”，将其更名为“SystemPowerProfileDefaultbak.plist”，然后重启，即完成超频。
+　　通常，企业限制处理器时钟频率是为了节能、降低热量、延长处理器寿命。如果超频，可能导致设备过热，甚至被损坏。
+

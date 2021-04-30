@@ -1,0 +1,12 @@
+苹果正式推iOS 4.2可使iPad支持多任务
+　　新浪科技讯 北京时间11月22日晚间消息，苹果周一正式推出了最新的iOS 4.2版本操作系统，供iPad、iPhone和iPod touch用户下载。与iOS 4.0和4.1版本系统相比，iOS 4.2新增100多项功能，其中包括多任务处理、文件夹、统一收件箱、游戏中心、AirPlay和AirPrint等。
+　　苹果CEO史蒂夫·乔布斯(Steve Jobs)称：“iOS 4.2将把iPad变成一款全新的产品，正好赶上今年的圣诞购物旺季。升级到iOS 4.2的iPad将再次成为其他平板电脑效仿的目标，但很少竞争对手能够真正做到。”
+　　iOS 4.2版本的iPad用户将可以同时运行多项应用，并可以迅速切换。通过文件夹功能，用户可以通过简单的拖放来组织各项应用。而统一收件箱允许用户在同一个收件箱内浏览所有帐户的邮件。
+　　游戏中心允许iPad、iPhone和iPod touch用户挑战好友，或自动匹配与新对手较量，显示他们的分数和战绩，查看他人正在玩的新游戏。
+　　AirPlay是一项新功能，允许用户将iPad、iPhone和iPod touch与Apple TV无线相连，将Apple TV变成iPad、iPhone和iPod touch的外设，从而进行流媒体或其他内容播放。此外，iOS 用户还可以通过AirPort Express和AirPlay无线连接任何音响或有源音箱。
+　　AirPrint是新一代Wi-Fi打印技术，因为无需打印机驱动，因此在很大程度上简化了打印过程。支持AirPrint的HP Photosmart、HP LaserJet Pro和HP Officejet打印机将率先支持从iOS设备直接打印，iPad、iPhone和iPod touch只要轻轻触摸打印文档即可。
+　　此外，“查找iPhone”(iPad或iPod touch)功能现已免费提供，无需注册“MobileMe”服务。该功能可以帮助用户找到丢失的iPhone、iPad或iPod touch。
+　　iOS 4.2其他一些新功能还包括，通过iPad在iTunes App商店内租看电视剧；轻松查找Safari页面上的文字或段落；强化了对企业的支持，如安全和管理方面；支持25种额外语言，包括繁体中文、韩文和葡萄牙文。
+　　到目前为止，App Store商店的应用程序下载次数超过70亿次，程序数量超过30万项，其中4万项针对iPad开发。
+　　从本周一开始， iPad、iPhone和iPod touch用户可以通过与iTunes 10.1同步来下载 iOS 4.2更新。iOS 4.2与iPad、iPhone 3G、iPhone 3GS、iPhone 4、第二代和第三 代iPod touch (2009年底推出)和最新的iPod touch相兼容。  但是，一些功能可能无法在上述全部设备上正常运行，如多任务处理只支持iPhone  3GS、iPhone 4、第三代或更新的iPod touch。此外，免费的“查找iPhone”功能只支持iPhone 4、iPad和第四代iPod touch。(李明)
+

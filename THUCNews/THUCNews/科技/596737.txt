@@ -1,0 +1,5 @@
+苹果发布即时聊天服务iMessage
+　　新浪科技讯 北京时间6月7日凌晨消息，苹果于2011年全球开发者大会(WWDC)上正式发布了即时通讯服务——iMessage。
+　　据介绍，苹果iMessage支持iPhone、iPad以及iPod touch等多种iOS设备，可以即时发送文字、照片、视频、通讯录等。
+　　iMessage支持WiFi和3G网络，支持新消息弹出，用户在游戏过程中同样可以收到桌面推送的iMessage新消息。(萧然)
+

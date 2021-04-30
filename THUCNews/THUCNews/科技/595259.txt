@@ -1,0 +1,6 @@
+传Apple TV将增加在线游戏功能
+　　新浪科技讯 北京时间2月10日晚间消息，有业内人士日前在苹果iOS 4.3 beta 3系统中发现了一些新代码，这些代码暗示Apple TV可能将支持在线游戏功能。
+　　这些代码包括ATVGames和ATVThunder，从变量名称来看，苹果似乎在扩展Apple TV的应用范围，加入游戏功能。
+　　另外还有两个字符串com.apple.appletv.play.live.thunder和.play.archive.thunder，也都意味着Apple TV未来将支持游戏功能。
+　　具体而言，Apple TV可能将支持类似Xbox Live模式的网络游戏功能。苹果还可能会推出专用游戏手柄，通过红外或蓝牙与Apple TV连接。(李明)
+

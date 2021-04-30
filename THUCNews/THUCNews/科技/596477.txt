@@ -1,0 +1,9 @@
+微软Outlook Hotmail连接器升级 不支持HTTPS 
+　　【赛迪网讯】北京时间5月16日，据国外媒体报道，日前微软发布了一个新的工具，允许用户将Office Outlook与其Windows Live Hotmail账户平滑连接起来。新版工具与原来相比有了一些综合性的改进。
+　　1、若干发送和接收问题被修复。
+　　2、Outlook中的垃圾邮件过滤器将Hotmail账户归入白名单。
+　　3、修复一些挂起和崩溃的问题。
+　　4、修复了当与Outlook同步时，Windows Live联系人的生日和纪念日被提前或错后一天的问题。
+　　5、修复了在Outlook与Windows Live建立联系时，无法同步分类属性的问题。
+　　但本次更新仍然没有将对于HTTPS的支持加入进来。该版本工具支持Outlook 2010,2007以及Outlook 2003 32位和Outlook 2010 64位。
+

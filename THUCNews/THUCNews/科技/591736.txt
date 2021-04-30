@@ -1,0 +1,10 @@
+苹果升级MacBook Pro笔记本 电池续航更持久
+　　新浪科技讯 北京时间4月13日晚间消息，苹果今日宣布对MacBook Pro笔记本产品进行升级，新产品将拥有速度更快的处理器、功能强大的下一代NVIDIA显卡，甚至更为持久的电池续航时间。
+　　13英寸版本的MacBook Pro笔记本将装备新的NVIDIA GeForce 320M显卡，处理图形的速度提升至多80%，电池巡航时间更是达到惊人的10个小时。15英寸和17英寸版本的MacBook Pro产品分别配备英特尔Core i5和i7处理器，以及苹果新的自动化显卡转换技术，可以在功能强大的NVIDIA GeForce GT 330M显卡和更为省电的Intel HD Graphics显卡之间进行切换。
+　　苹果全球产品营销副总裁菲利普·席勒(Philip Schiller)表示：“新的MacBook Pro外表炫目，内部性能也同样出色。新MacBook Pro笔记本配备了更快的处理器、强大的显示技术并延长了至多3个小时的电池续航时间，做到了性能和能效兼备。”
+　　新的13英寸MacBook Pro笔记本都将配备速度更快的英特尔酷睿2处理器、4GB RAM内存、10个小时的电池续航时间以及新的NVIDIA GeForce 320M显卡。新的NVIDIA GeForce 320M是目前市场上速度最快的集成显卡，最适合用于图形密集型应用或是高性能游戏。13英寸MacBook Pro笔记本将以两个配置发售：售价1199美元的型号配备2.4 GHz的英特尔酷睿2处理器以及250GB硬盘；售价1499美元的型号配备了2.66 GHz的英特尔酷睿2处理器以及320GB硬盘。
+　　新的15英寸和17英寸MacBook Pro笔记本运算速度较此前型号提升了至多50%，配备了英特尔最新32纳米技术制造的Core i5和i7处理器，同时装备性能强大的NVIDIA GeForce GT 330M显卡以及省电的英特尔HD Graphics显卡。单次充电的电池续航时间达到了8-9个小时。
+　　新的15英寸MacBook笔记本将按照三个型号发售：售价1799美元的型号配备2.4 GHz的英特尔Core i5处理器、NVIDIA GeForce GT 330M显卡以及320GB硬盘；售价1999美元的型号配备2.53 GHz的英特尔Core i5处理器、NVIDIA GeForce GT 330M显卡以及500GB硬盘；售价2199美元的型号配备2.66 GHz的英特尔Core i7处理器、NVIDIA GeForce GT 330M显卡以及500GB硬盘。
+　　新的17英寸MacBook笔记本售价2299美元，配备2.53 GHz的英特尔Core i5处理器、NVIDIA GeForce GT 330M显卡以及500GB硬盘。
+　　所有新MacBook Pro笔记本都配备了明亮的LED背光显示屏。新的17英寸笔记本配备了1920 x 1200高清屏幕，15英寸MacBook Pro可以选配1680 x 1050的高清屏幕。消费者还可以将MacBook Pro笔记本升级为新的128GB、256GB和512GB固态硬盘。(逸飞)
+

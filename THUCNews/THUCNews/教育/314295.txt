@@ -1,0 +1,21 @@
+2010年考研英语真题英译汉分析及答案
+　　英语辅导专家贾洪伟老师，针对2010年考研英语英译汉部分进行分析，2010考研英语英译汉文章属环保范畴，摘自利奥波德(Aldo Leopold)于1966年在牛津大学出版出版的《沙乡年鉴》(A Sand Country Almanac)中的“土地伦理”(The Land Ethics)部分，具体在原书210页。本题干中，出题者也是动过“小手术”的，比如：第一段的原文是：“One basic weakness in a conservation system based wholly on economic motives is that most members of the land community have no economic value. Wildflowers and songbirds are examples. Of the 22,000 higher plants and animals native to Wisconsin, it is doubtful whether more than 5 per cent can be sold, fed, eaten, or otherwise put to economic use. Yet these creatures are members of the biotic community, and if (as I believe) its stability depends on its integrity, they are entitled to continuance。”，经过加工就变成了“One basic weakness in a conservation system based wholly on economic motives is that most members of the land community have no economic value. Yet these creatures are members of the biotic community, and if (as I believe) its stability depends on its integrity, they are entitled to continuance。”，但在段落上面，基本保持了原来的段落结构。
+　　题干考查的是，将文中5个划线语句，翻译成汉语。现就这5个句子，提出我们的参考答案如下：
+　　1. Scientists jumped to the rescue with some distinctly shaky evidence to the effect that insects would eat us up if birds failed to control them。
+　　句子结构如下：主干为Scientist jump to the rescue.，with some distinctly shaky evidence构成jump的伴随状语，to the effect that 是evidence的同位语从句。对于这个句子的翻译，真可谓“五花八门”，其中大多都没有正确理解evidence、effect和后面小句间的关系，就是间或有理解的，汉语的表达也不是很恰当。针对这种情况，我们尝试重新翻译一下。
+　　参考答案：科学家匆忙赶来救急，但所提出的证据有点明显站不住脚，其大意如下：如若没有鸟类制衡昆虫，昆虫就会吞噬我们。
+　　2. But we have at least drawn nearer the point of admitting that birds should continue survival as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us。
+　　句子结构如下：主干为We have drawn near the point，此处point既可以当程度，也可以当观点。当观点讲时，其后的of admitting是介词短语做定语；当程度讲时，of admiiting也作定语，表示人们从不理鸟类生存到承认鸟类生存权的过度。后面的that.。.是admit的宾语从句，也可以说是观点“point”的同位语；regardless of .。.是作让步状语。当程度理解，其译文如参考译文，而当观点讲，其译文就应为：“但我们至少更为认同一种观点，即承认：不论鸟类能否给我们带来经济利益，都应该继续享有固有的生存权。”
+　　参考答案：但至少我们近乎承认：不论鸟类能否给我们带来经济利益，都应该继续享有固有的生存权。
+　　3. Time was when biologists somewhat over worded the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on “worthless species。
+　　句子的结构如下：主干为Time was when ...，when引导表语从句，两个that从句是evidence的并列同位语从句。注意：overword为“反复说”、“不断地说”讲。
+　　参考译文：生物学家曾一度重申一个事实，即：这些动物(猛禽和水鸟)捕食弱小动物，是维护生物链的平衡，抑或是他们只捕食“无经济价值的物种”。
+　　4. In Europe, where forestry is ecologically more advanced, the non-commercial tree species are recognized as members of native forest community, to be preserved as such, within reason。
+　　句子结构如下：主干为the non-commercial tree species are recognized as members of native forest community，where引导定语从句修饰Europe，充当句子的地点状语，而to be preserved as such, within reason是句子主干的状语，其中as such是“同样”“一样”的意思，指跟“经济树种”比较。
+　　参考译文：在欧洲，林业生态更加发达，非经济树种被视为原始森林群落的一部分，也同样受到合理保护。
+　　5. It tends to ignore, and thus eventually to eliminate, many elements in the land community that lack commercial value, but that are essential to its healthy functioning。
+　　句子结构如下：主干为It tends to ignore and to eliminate....,两个that分别作为elements的定语，后者具有转折关系。翻译中，特别是翻译考试中，而且特别是这种划线语句的翻译题，翻译时，一定要把英语句子中的代词还原，否则译文没有上下文，意思就不完整，这也是翻译题的一个考察点。这句中，涉及到一个it，系前指上文的a system of conservation based solely on economic self-interest(一个基于利己利益的保护体制)。此外，还要注意结合语境来理解element的意思，这里可能已成物种，更好吧？
+　　参考译文：
+　　1)基于利己利益的保护体制易于忽视陆地社群中的许多不具有商业价值的物种，并因此最终致使其绝种于世，但这些物种对于平衡生物链来说，确是重要的。
+　　2)这种保护机制易于忽视，并因此最终致使陆地社群中的许多不具有商业价值的物种，濒临灭绝，可这些物种对于平衡生物链来说，却是重要的。
+

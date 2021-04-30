@@ -1,0 +1,7 @@
+Bitly收购Twitterfeed：不容轻视的一桩交易
+　　导语：科技网站ALLThingsD周二发布文章称，Bitly收购Twitterfeed的交易规模虽小，但两者业务的结合将可能带来明显的影响，为社交媒体的内容发布提供进一步的便利。
+　　　　以下为文章全文：
+　　这不是一桩大规模的交易，但仍值得注意。网址缩短服务提供商Bitly已收购Twitterfeed，后者的主营业务是帮助将网络内容自动发布到Twitter和其他平台上。
+　　Twitterfeed本质上就是一个人运营的企业，而现在其创始人马里奥·蒙提(Mario Menti)已成为Bitly的员工。即便规模如此小，但Bitly看中的是Twitterfeed的重要客户。Twitterfeed有200万用户，这些用户日均发布500万条内容。Twitterfeed此前已经利用Bitly来缩短相关网址，但收购完成后，Bitly就可锁定这些业务。
+　　目前的形势是，Twitter、Facebook和谷歌等大型网站都越来越希望锁定内容，或者至少限制数据流出其自身的生态体系。在这种情况下，Bitly收购Twitterfeed的交易就具有重要意义。Bitly还可能尝试将Twitterfeed的部分用户迁移到SocialFlow上，后者提供更先进的Twitter内容发布工具。(悠然)
+

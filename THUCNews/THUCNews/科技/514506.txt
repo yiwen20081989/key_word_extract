@@ -1,0 +1,5 @@
+有利有弊 HTC提供bootloader解锁工具
+　　自上周HTC CEO周永明宣布将不会再锁定HTC手机的bootloader后，已经有不少玩家翘首以盼。而HTC今天也正式在其官方Facebook上更新说明了bootloader解锁的相信信息，并且放出了Web版的解锁工具。
+　　但是这条更新的消息却告诉大家，解锁bootloader也并不是十全十美的，有利有弊。HTC的解锁政策是：HTC将提供解锁工具，用户可获得对自己手机更大的控制权。但是一旦解锁Bootloader，用户的将会丢失“全部或部分”保修权利。而且此次解锁也是基于官方放出的bootloader解锁工具，而不是以后出品的HTC手机是已经解锁好bootloader的。
+　　针对各方面对HTC的新品仍要采取Bootloader锁定的方式出货，HTC官方也做出了解释。解锁Bootloader会造成权限的滥用，某些系统级的修改甚至会引起操作、安全以及体验方面的问题，因此新设备在出货时仍将锁定Bootloader，用户可根据需要自行通过web版工具解锁。目前HTC宣布，HTC Sensation和EVO 3D将首先得到相关升级，届时这两款机器的用户将能够利用Web工具解锁Bootloader。
+

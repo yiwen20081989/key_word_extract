@@ -1,0 +1,7 @@
+苹果MobileMe将于明年6月30日停止服务
+　　新浪科技讯 北京时间6月7日上午消息，苹果公司给MobileMe订户发布邮件通知，称MobileMe将于2012年6月30日停止服务。而在几个小时之前，苹果刚刚宣布将MobileMe整合到新推出的iCloud服务中。
+　　苹果今日早间在WWDC大会上正式发布了云服务iCloud。这项服务不仅延续了早前MobileMe服务的同步通讯录、日历等功能，还增加了云备份与音乐自动同步功能。
+　　乔布斯在会上表示，MobileMe应用已经过全面修改，以与iCloud相兼容，iCloud将不会包含任何广告。按照苹果的计划，iCloud将与iOS 5在今年秋天同时发布。
+　　苹果早期的云服务MobileMe可提供用户Mail、Contacts、Calendar、iDisk、Gallery和Find My iPhone六项云端服务，但是这需要支付每年99美元的费用。而在去年苹果iOS 4.2发布后，Find My iPhone已经免费向苹果用户开放，可以远程查询手机地理位置，锁定手机及擦除手机内容。
+　　2008年苹果在推出iPhone 3G手机后，推出了MobileMe服务，由于仓促上线，曾多次发生服务故障。而乔布斯后来在公司内部邮件中也承认，仓促上线导致MobileMe没有达到公司多年来坚持的标准。(罗亮)
+

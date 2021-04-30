@@ -1,0 +1,7 @@
+中兴在美被诉5项专利侵权
+　　新浪科技讯 北京时间12月13日上午消息，美国宽带服务提供商Novatel上周四向竞争对手Franklin和中兴提起诉讼，指控对方侵犯其MiFi移动热点设备中的5项专利。。
+　　Novatel Wireless的MiFi智能移动热点(MiFi Intelligent Mobile Hotspot)设备可以通过蜂窝数据网络接入互联网，并通过Wi-Fi网络与其他设备共享上网。借助这种设备，即使是在没有Wi-Fi覆盖的地区，也能帮助笔记本等设备接入互联网。MiFi产品通过全球25个运营商销售，包括美国AT&T和Verizon无线。
+　　Novatel总部位于美国圣迭戈，该公司表示，MiFi产品是他们的发明，而且拥有多项国际技术专利。但是中兴也生产了部分便携热点设备，包括Verizon的FiveSpot。Novatel起诉中兴及其美国子公司以及总部位于圣迭戈的无线接入设备制造商Franklin侵权。
+　　Novatel希望获得补偿性损害赔偿金和由于“故意侵权”产生的3倍惩罚性损害赔偿金，以及诉讼费用。Novatel还要求法院阻止中兴和Franklin继续销售侵权产品。
+　　中兴和Franklin均未对此置评。(书聿)
+

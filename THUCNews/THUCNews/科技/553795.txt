@@ -1,0 +1,6 @@
+MySpace高层地震不断 首席软件架构师离职
+MySpace首席软件架构师克里斯·比塞尔(Chris Bissell)
+　　新浪科技讯 北京时间2月24日上午消息，据国外媒体报道，消息人士周二称，继欧文·范纳塔(Owen Van Natta)两周前卸任MySpace CEO之后，该公司首席软件架构师克里斯·比塞尔(Chris Bissell)也已离职。MySpace已经确认了此消息。
+　　比塞尔已在MySpace工作了四年，是仅存的部分元老之一。自去年春天，MySpace时任CEO克里斯·德沃夫(Chris DeWolfe)离职引发管理层动荡以来，该公司的元老纷纷离职或被辞退。
+　　比塞尔负责维护MySpace的后台架构，并确保网站的容量可以满足访问需求。范纳塔离职后的一周内，MySpace用户体验及设计高级副总裁凯特·哥明达(Kate Geminder)和信息流架构师莫妮卡·凯勒(Monica Keller)双双离职。(肖恩)
+

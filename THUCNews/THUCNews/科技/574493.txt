@@ -1,0 +1,7 @@
+社交浏览器RockMelt将推iPhone应用
+　　新浪科技讯 北京时间4月20日午间消息，浏览器厂商RockMelt日前宣布，如果一切顺利，公司将于几天内推出一款专门针对苹果iPhone的手机应用。
+　　该公司开发的社交网络浏览器RockMelt刚于上个月面向所有用户开放下载。这款浏览器可在其浏览器窗口左右两侧不间断显示来自Facebook、Twitter等社交平台的信息，用户能实时与其社交网站分享网络内容，无需打开Facebook网站也可以与该社交网站的朋友聊天。
+　　RockMelt基于Chromium内核，即谷歌Chrome浏览器所采用的内核，由此它可使用Chrome Web应用商店内的所有3700 个Chrome应用程序。RockMelt发言人称，iPhone版RockMelt应用有望在几天内推出，目前正在接受苹果审查。RockMelt CEO埃里克·维什利亚(Eric Vishria)称，公司希望将这款应用嵌入到谷歌Android操作系统中。
+　　iPhone版RockMelt应用最令用户称道的一项功能是，它可以随时与PC网络浏览器保持同步。也就是说，用户添加至PC或iPhone 的新书签或新闻消息将在几秒钟内出现在这两个平台上。
+　　但iPhone版应用将缺少两个令RockMelt社交浏览器在PC上快速普及的功能：动态搜索功能和一个类似Friend Edge的功能。PC版RockMelt有一个搜索框，每次搜索的结果都会将Facebook朋友自动包括在内，同时在一个下拉屏幕中推荐网络内容链接，而iPhone版RockMelt应用搜索仅限于谷歌一个搜索框。(清风)
+

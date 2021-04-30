@@ -1,0 +1,42 @@
+购买必看 iPhone 4来源版本号识别教程
+　　这两天从其它论坛上看到用户分享的iPhone 4版本和产地鉴别教程，应该有这方面需求的用户不在少数，软件频道就汇总整理相关的内容，分享给困扰在版本产地而涉及的解锁越狱问题上的用户。
+　　声明：以下相关的信息内容纯为网友分享的汇聚整理，保留原作者的权益。
+　　打开iPhone 4的“设置-通用-关于本机-型号”，会有一系列的数字显示，这些信息就代表着一些与产地相关的重要信息，接下来我们做这方面的说明。
+　　在这些数字中，最重要的是第6和第7个英文字母，型号显示“MC603ZP”，这里的“ZP”即代表“港行”无锁；若显示“MC318LL”，则这里的“LL”代表“美版”有锁。以下是目前市面上流行的一些版本和对应解锁信息的列表，供用户参考使用。
+　　方法一：产地信息鉴别iPhone 4
+　　有锁版Locked
+　　产地：美版United States：AT&T
+　　MC608LL/A - 16GB Black
+　　MC610LL/A - 32GB Black
+　　MC318LL/A - 16GB Black
+　　MC319LL/A - 32GB Black
+　　产地：日版Japan
+　　MC603J/A - 16GB Black
+　　MC605J/A - 32GB Black
+　　无锁版Unlocked
+　　产地：澳大利亚版
+　　MC603X/A - 16GB Black
+　　MC605X/A - 32GB Black
+　　产地：加拿大版Canada
+　　MC603C/A - 16GB Black
+　　MC605C/A - 32GB Black
+　　产地：法国版France
+　　MC603FB/A - 16GB Black
+　　MC605FB/A - 32GB Black
+　　产地：香港版Hong Kong--通常我们所指的港版
+　　MC605ZP/A - 32GB Black
+　　MC603ZP/A - 16GB Black
+　　产地：意大利版Italy
+　　MC603IP/A - 16GB Black
+　　MC605IP/A - 32GB Black
+　　产地：新西兰版New Zealand
+　　MC603X/A - 16GB Black
+　　MC605X/A - 32GB Black
+　　产地：新加坡版Singapore
+　　MC603ZA/A - 16GB Black
+　　MC605ZA/A - 32GB Black
+　　产地：英国版United Kingdom
+　　MC603B/A - 16GB Black
+　　MC605B/A - 32GB Black
+　　上面是有无锁相关的信息和源产地方面的内容，购买水货的时候需要注意的，尤其是美版和日版等有锁版本的购买，格外需要注意一些。
+

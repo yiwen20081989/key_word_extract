@@ -1,0 +1,5 @@
+谷歌钱包加入 最新Andorid2.3.7正式推出
+　　作为目前大红大紫的Andorid系统，一方面是数百家厂商的鼎力支持，一方面是每天数十万台的激活量。在让Google赚的盆满钵满的同时也让 提升了版本升级速度。今天Google开始向Sprint定制的Nexus S 4G推送最新的Andorid2.3.7系统，加入了Google Wallet功能。
+　　Google Wallet今天正式推出，这项服务可以让具备NFC功能的手机实现现金支付功能。同时为了配合新产品的推送，Google今天正式放出了 Andorid2.3.7系统，并且已经开始向Sprint的Nexus S 4G用户推送。本次更新非常的简单，加强了Andorid系统安全性同时加入了Google Wallet功能，以保证用户可以率先使用该功能。
+　　目前Android2.3.7已经开始推送，Nexus S用户也将会在未来不久正式推送。相信今年的NFC功能将会有较大的发展，不过在国内普及还需要一定的时间。
+

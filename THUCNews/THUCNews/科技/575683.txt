@@ -1,0 +1,5 @@
+Groupon Now上线：整合团购与地理位置服务
+　　新浪科技讯 北京时间5月13日上午消息，Groupon已推出一款基于位置的实时移动团购服务Groupon Now。通过移动应用或网页，该服务每天会提供多个不同的团购交易。
+　　该服务类似于Foursquare或Facebook Places与团购服务的结合，能够结合用户手机的GPS功能实时查找团购交易。当用户输入所在位置后，Groupon Now将允许用户选择喜爱的团购类型，例如半价的舞蹈课程或折扣价的汉堡。通过现有的Groupon帐户，用户可以一键购买，随后可以获取用于折扣的二维码。
+　　早在今年3月，就有传闻称Groupon将在iPhone和Android设备上推出Groupon Now。目前，Groupon Now仅在Groupon总部所在地芝加哥上线，未来将推广至其他城市。(维金)
+

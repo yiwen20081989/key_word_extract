@@ -1,0 +1,6 @@
+闪存技术开发商Fusion-io今晚上市
+　　新浪科技讯 北京时间6月9日上午消息，闪存技术开发商Fusion-io今天将其IPO(首次公开招股)发行价上调至每股19美元。Fusion-io昨天刚刚将其IPO发行价区间从之前的每股13-15美元上调至16-18美元。按照19美元的发行价，Fusion-io的估值达到14.7亿美元。
+　　Fusion-io将于今晚在纽约证券交易所上市，股票代码“FIO”，计划发行10,755,607股股票，筹资2.546亿美元。另外1,544,393股股票将由配售股东发行。另外，承销商可以选择以同样价格从Fusion-io购买另外1,845,000股股票。
+　　Fusion-io的企业级闪存存储方案可以将数据存储在小型设备中，并以快速存储著称。Fusion-io主要客户是Facebook，此前他们已经融资1.1亿美元，投资机构包括了Meritech Capital Partners、Accel Partners、Andreessen Horowitz、Triangle Peak Partners、New Enterprise Associates和Lightspeed Venture Partners。
+　　在截止到今年3月31日的9个月内，Fusion-io营收增长四倍到1.255亿美元，毛利润也增长4倍到6570万美元。Fusion-io 91%的营收来自10家客户，Facebook独自占据了其中的47%。(晓明)
+

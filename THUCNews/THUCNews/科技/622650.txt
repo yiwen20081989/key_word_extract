@@ -1,0 +1,4 @@
+Alienware M18x及M17x将选配GTX580M显卡
+　　6月30日消息，NVIDIA GeForce GTX 580M显卡是目前业界最快的Microsoft DirectX 11笔记本显卡，性能要比普通笔记本显卡高出6倍，位宽256-bit，2GB GDDR5显存，同时拥有MXM 3.0 Type B接口、PhysX/CUDA技术以及HDMI 1.4a输出。和前代相比，性能提升20%。当然这个显卡一直是只闻其名不见其身。在6月初的时候意大利定制机厂商Santec宣布在其定制高端笔记本N67中加载了GeForce GTX580M显卡，而如今戴尔Alienware外星人也宣布M18x中将提供GeForce GTX580M显卡选配。
+　　除了NVIDIA GeForce GTX 580M显卡，NVIDIA还推出了GeForce GTX 570M独显。此次推出的GeForce GTX 580M/570M显卡支持NVIDIA 3D Vision、NVIDIA 3DTV Play、NVIDIA SLI、NVIDIA Optimus、NVIDIA PhysX、NVIDIA、NVIDIA Verde等技术。
+

@@ -1,0 +1,6 @@
+Office 2010技术预览版截屏提前曝光(图)
+　　新浪科技讯 北京时间5月16日晚间消息，据国外媒体报道，本周初，有消息称微软将向部分测试者提供Office 2010技术预览版(Technical Preview)。一月，当微软向部分测试者提供alpha版后一周，该版截屏就泄露上网。此次，尽管测试者还没有拿到技术预览版，新的截屏就已泄露。
+　　Office 2010包括includes Access 2010、Excel 2010、InfoPath 2010、OneNote 2010、Outlook 2010、PowerPoint 2010、Project 2010、Publisher 2010、SharePoint Designer 2010、SharePoint Workspace 2010、Visio 2010和Word 2010。
+　　安装过程和Office 2007没有太大区别，但截屏并不包括所有应用程序。以下是Professional Plus SKU的安装，并且是64位的版本。(志伟)
+
+

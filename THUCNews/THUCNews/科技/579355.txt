@@ -1,0 +1,16 @@
+LinkedIn推企业招聘插件 可介绍联系人
+　　新浪科技讯 北京时间7月26日凌晨消息，LinkedIn今天发布了面向企业的插件，用户可点击插件中的“Apply with LinkedIn”(用LinkedIn上的资料申请工作)按钮直接申请工作。
+　　企业可在自己的官网上安装并自定义该插件的外观和设计，让“Apply with LinkedIn”模块看起来像一次特别推广的一部分。企业可通过设置电子邮箱地址或网络应用来管理工作申请，此插件还整合了申请追踪系统，需要嵌入的代码也很少。
+　　安装了此插件后，工作申请者在工作申请页面上能看到工作描述和公司介绍。工作申请者一旦点击“Apply with LinkedIn”按钮，即可实时对自己的档案进行预览和更新。
+　　点击提交后，LinkedIn会展示工作申请者在申请公司的工作联系人，并能从模块中向这些联系人发送消息。而如果工作申请者在要申请工作的公司没有认识的人，LinkedIn还会为工作申请者介绍申请者在LinkedIn上社交网络里的人，这些人或许认识申请者要申请工作的公司里的人。
+　　此外，LinkedIn还会在“Saved Jobs”栏中保留所有的“Apply with LinkedIn”工作申请。
+　　首批应用“Apply with LinkedIn”按钮的网站包括Netflix、TripIt和Photobucket等知名网站。LinkedIn称即将有上千家企业安装此插件。
+　　今年4月，LinkedIn推出了一款定制插件，具备嵌入成员档案、公司信息以及LinkedIn分享按钮等功能，为LinkedIn带来了巨大流量。(新铁)
+　　新浪科技讯 北京时间7月26日凌晨消息，LinkedIn今天发布了面向企业的插件，用户可点击插件中的“Apply with LinkedIn”(用LinkedIn上的资料申请工作)按钮直接申请工作。
+　　企业可在自己的官网上安装并自定义该插件的外观和设计，让“Apply with LinkedIn”模块看起来像一次特别推广的一部分。企业可通过设置电子邮箱地址或网络应用来管理工作申请，此插件还整合了申请追踪系统，需要嵌入的代码也很少。
+　　安装了此插件后，工作申请者在工作申请页面上能看到工作描述和公司介绍。工作申请者一旦点击“Apply with LinkedIn”按钮，即可实时对自己的档案进行预览和更新。
+　　点击提交后，LinkedIn会展示工作申请者在申请公司的工作联系人，并能从模块中向这些联系人发送消息。而如果工作申请者在要申请工作的公司没有认识的人，LinkedIn还会为工作申请者介绍申请者在LinkedIn上社交网络里的人，这些人或许认识申请者要申请工作的公司里的人。
+　　此外，LinkedIn还会在“Saved Jobs”栏中保留所有的“Apply with LinkedIn”工作申请。
+　　首批应用“Apply with LinkedIn”按钮的网站包括Netflix、TripIt和Photobucket等知名网站。LinkedIn称即将有上千家企业安装此插件。
+　　今年4月，LinkedIn推出了一款定制插件，具备嵌入成员档案、公司信息以及LinkedIn分享按钮等功能，为LinkedIn带来了巨大流量。(新铁)
+

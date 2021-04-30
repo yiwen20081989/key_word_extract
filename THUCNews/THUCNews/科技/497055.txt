@@ -1,0 +1,4 @@
+Tegra 2双核+1G内存 BYD神秘平板Alice
+　　有关比亚迪BYD研发的Alice平板，在GSM亚洲大展时就曾经曝光过。这款产品运行Android 2.2系统，搭配8.9英寸1024×600分辨率的WSVGA触摸屏。BYD Alice基于NVIDIA的Tegra 2双核构建起来的平台，其系统内存RAM高达1G，实现系统高速运行。 
+　　BYD Alice还提供WiFi无线网络、蓝牙、前置摄像头、microSD卡插槽、HDMI端口等常见配置。内置的锂电池为2200mA容量，续航能力应该不错。截止到发稿日，还没有BYD Alice平板的进一步消息，希望能早日看到成品的发布！ 
+

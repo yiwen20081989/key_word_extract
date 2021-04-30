@@ -1,0 +1,5 @@
+Twitter新增“转发至Facebook”按钮
+　　新浪科技讯 北京时间9月3日午间消息，Twitter近日在用户简介设置页面中新增了“将Twitter消息转发至Facebook”(Post Tweets to Facebook)按钮，用户通过这个按钮可以更为快捷地建立Twitter和Facebook账户关联，同时将Twitter消息作为状态更新转发至Facebook。
+　　用户点击“将Twitter消息转发至Facebook”按钮以后，它会要求用户输入Facebook账户信息，然后建立Twitter和Facebook账户关联。完成账户关联设置后，用户可以点击“将Twitter消息转发至Facebook”选项，此时，这条消息会被发送至Facebook，而页面会提示Twitter消息中的@mentions和@replies部分不会发送，只发送“原始”的Twitter消息。
+　　这项功能对喜欢同时在Twitter和Facebook两个平台发信息的用户来说是个好消息。当然，在此之前，用户可以利用第三方应用和插件实现这一功能，但这是首次得到Twitter的官方支持，也是两大社交网站巨头鲜有的几次合作之一。(轩辰)
+

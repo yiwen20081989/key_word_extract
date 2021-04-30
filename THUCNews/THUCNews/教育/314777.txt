@@ -1,0 +1,46 @@
+考研名师朱泰祺谈2010年英语命题五大不足
+　　作者：太奇考研名师 朱泰祺
+　　今年1月9日上午，研究生入学英语考试结束后全国考生一片哗然：太难了！特别是阅读理解的四篇文章和题目是20多年来最难的。选择搭配题也是近年来最难的。在与考生的座谈接触中，我逐渐了解考生的难点在哪里，同时也反映出了考研命题组的专家们对于2010考研命题上的一些问题所在，现就此发表一点不成熟的看法供大家讨论。
+　　问题一：不了解考生实际英语水平
+　　—— 试题要求考生掌握常用词的深层词义及相关成语：
+　　今年阅读理解Part A的文章中有些词汇考生大多认识，但深层词义没有掌握，而考点又在这些词汇的深层词义上。所以考生在快速阅读时的应对能力一落千丈。如compromise，大多数考生知道其词义为“妥协，折衷”，部分考生知道此词还有“让步”之意。据笔者在今年3月400多人的讲座上调查，没有一个学生知道compromise还有“因错误行为使自己陷入困境”和“修改，更改(某事)；减弱，减轻”的词义。因而37题大部分考生做错。又如fetch一词，学生初中就学过这词，意为“去取，去拿；去接来”，但几乎没有人知道fetch还有“(某货物)卖得(多少钱)”之意，因而Text 4中下面的句子无法理解：These rules saythey must value some assets at the price a third party would pay, not the pricemanagers and regulators would like them to fetch. (这些规则写道，银行必须以第三方愿意支付的价格来估价一些资产，而不是以价格经理和管理者想要把这些资产卖出去的价格。) 再如 Text 2 第2段第1句：Now the nation’stop patent court appears completely ready to scale back on
+　　business-method patents, which have been controversial ever since they werefirst authorized 10 years ago。(现在国家的高级专利法庭似乎完全准备好来限制经营方法专利的颁发，因为这些专利从10前首次批准以来一直是有争议的。)其中scale back on 的确切含义400学生全部不知道，而26题考的就是这个词组的含义。
+　　上述情况既反映了考生背记词汇中的漏洞，也反映命题专家对考生的要求与考生的实际英语水平相差太大，这就大大降低了试题的区别度，从而造成优、中、差三个层次的考生都无法应对的局面。
+　　问题二：阅读理解掺杂长难句，让考生在快速阅读中很难应对
+　　造成今年阅读成绩大幅下降的另一个因素是文章中的长难句多，且又是命题的考点。例：Text 1 第3段：
+　　We are even farther removed from the unfocusednewspaper reviews published in England between the turn of the 20th century andthe eve of World War II, at a time when newsprint was dirt-cheap and stylisharts criticism was considered an ornament to the publications in which itappeared. In those far-off days, it was taken for granted that the critics ofmajor papers would write in detail and at length about the events they covered.Theirs was a serious business, and even those reviewers who wore their learninglightly, like George Bernard Shaw and Ernest Newman, could be trusted to knowwhat they were about. These men believed in journalism as a calling, and wereproud to be published in the daily press. "So few authors have brainsenough or literary gift enough to keep their own end up in journalism,"Newman wrote, "that I am tempted to define ‘journalism’ as ‘a term ofcontempt applied by writers who are not read to writers who are’."
+　　(与我们离得更远的是20世纪初与二战前夕之间英国出版的百花齐放的报纸评论。那时新闻印刷品价格低廉，并且时尚的文艺批评被认为是对刊登它们的出版物的装饰点缀。在那些遥远的日子里，人们认为理所当然的是，主要报纸的评论家常常详细阐述他们所报导的事件。他们从事的是一项严肃的工作，并且即使像萧伯纳和纽曼那样的卖弄文墨的评论家也可以被认为是深谙他们所论述的事情。这些人深信新闻业是一种职业使命，并且为在这些日常报章杂志上发表文章而自豪。纽曼写道，“如此少的作家拥有足够的才智和文学天赋以便终身从事新闻业，以至于我想把“新闻业”定义为“没有学问的作家应用到有学问的作家身上的一个鄙视的词”。”)
+　　原文第1句49个词，最后一句43个词，均属长难句。而第2题的考点是本段第1句中的unfocused上；第3题的考点是本段最后一句的So few authors …that …上。请看这两题：
+　　2. Newspaper reviews inEngland before World War II were characterized by
+　　[A] free themes。
+　　[B] casual style。
+　　[C] elaborate layout。
+　　[D] radical viewpoints。
+　　3. Which of the followingwould Shaw and Newman most probably agree on?
+　　[A] It is writers’ duty to fulfill journalistic goals。
+　　[B] It is contemptible for writers to be journalists。
+　　[C] Writers are likely to be tempted into journalism。
+　　[D] Not all writers are capable of journalisticwriting。
+　　第2题的答案是[A]；第3题的答案是[D]。我在与考生座谈时，几乎全部考生在考场上没有理解考点的要求，也就是说没有真正看懂相关的长难句。因此只能靠猜来答题。教训是深刻的；今后辅导时应加强长难句的剖析和快速理解方面的训练。所以2011年春季班我们开设了32学时的“长难句分析、翻译和词汇练习班”以便帮助考生提高这方面的能力。但是我们也希望命题专家们根据公共英语考生英语水平参差不齐的客观现实来调整文章句子的难度。我们不能用同一把尺子来要求报考北京大学国际关系专业的考生和报考艺术类的考生。不平衡是绝对的，平衡是相对的。难道命题专家不应该推敲辩证唯物主义的这一基本规律吗？
+　　问题三：阅读理解题目难度太大：
+　　今年的完形填空和英译汉难度适中，但阅读理解的文章和题目难度太大。往年阅读理解的4篇文章常常是第一、二篇文章通俗易懂，但题目有一定难度，如干扰项很难排除或在干扰项中有考生不熟悉的纲内词汇或相关成语。而第三、四篇文章语言难度较大、理解上障碍较多、涉及的文化背景知识面较宽，可是题目往往偏重于对文章宏观性的理解，考生只要把握住全文主题和上下文的逻辑联系就能比较顺利地解题，题目一般不纠缠于某个小的细节上。2005年的阅读理解Part A，无论文章还是题目都是考研英语命题史上的典范，值得今后历届命题专家借鉴。此外，往年题干设计也比较通俗化、常规化。如：1) It can beinferred from Paragraph 4 that ….   今年这类题干一道没有。  2) By mentioning …, the author intends toshow …  今年这类题干只有一道，即31题。  3) The last paragraph suggests that …..  今年这类题干一道没有。
+　　往年全文主旨题考生的得分率比较正常，试题有很高的区分度， 如：2008年
+　　30. Which of the followingbest summarizes the text?
+　　[A] The Internet isposing a threat to publishers。
+　　[B] A new mode ofpublication is emerging。
+　　[C] Authors welcome thenew channel for publication。
+　　[D] Publication is rendered easier by online service。
+　　浏览全文内容，一半以上考生能判断出正确选项是[B]，此题的难度是0.569。可见，区分度很好。可是今年的全文主旨题考生得分率很低，如：2010年
+　　5. Whatwould be the best title for the text?
+　　[A] Newspapers of the Good Old Days
+　　[B]The Lost Horizon in Newspapers
+　　[C] Mournful Decline of Journalism
+　　[D] Prominent Critics in Memory
+　　正确选项是[B]，但据我抽样调查，大部分考生不选[B]，原因是看不懂此选项要表达的意思。Lost Horizon 什么意思？“失去的地平线”对吗？大部分考生没有理解此处Horizon意为“(知识、兴趣、经验等的)范围、视野”。因而很多考生对“Lost Horizon”感到一片茫然，故被选项[C]干扰了。具有讽剌意义的是，1月9日英语考完后就有一位老师在网上讲题，第1篇文章后的5道题，他讲错了4道，其中包括第5题。当然，作为老师讲题，这样做有点不太严肃。但从另外一个角度看，老师况且如此，学生面对这样难的考题就只能望“题”兴叹了！必竟他们是公共英语的学生而不是专业英语的学生。我看了研究生入学考试的俄语试卷，总体上要容易多了。同样是公共外语，这样做公平吗？
+　　问题四：对考生背景知识要求过高
+　　近年考题的几乎全部文章均取材于英美国家的报章杂志。可是我们的考生平时几乎接触不到英美国家的原文报刊。大学英语教科书中也少有反映当今英美国家概况的文章，即使有，也已被改得“无棱无角”了。就连《新概念》第三、第四册中也很难找到论述世界经济全球化和互联网发展的鲜活文章。学习资料和考题材料之间的巨大鸿沟使我们的考生处于背景文化的碰撞之中。一走进考场，看到的试题文章一下之反应不过来，不知其所云。等到反应过来，已经失去了宝贵的解题时间。要知道阅读理解的4篇文章及20道题所允许的解题时间只有60—65分钟。大多数考生哀叹：来不及啊！我平时辅导时常推荐考生多读《大学英语》和《英语世界》，以弥补其不足。此乃杯水车薪的无奈之举了。今年“阅读理解”的第4篇文章谈银行与会计准则制订者之间的矛盾冲突。缺乏金融背景知识的考生大多没有看懂此文，更不用说解题了。
+　　问题五：“忽悠”了考生
+　　众所周知，有命题者，就会有猜题者；有猜题者，就会有反猜题者。这是对立的统一，符合唯物辩证法。但是，我认为，猜题不应押题，而命题不能偏离大纲样卷和历年试题的常规模式。命题如果搞“创新”，那考生就要倒霉了。近年的考试大纲中规定有一类段落排序题，而且所给的样卷每年都是给出第一段和最后一段，然后让考生对中间的5段进行排序，从未有任何变化。可是2010年试题中的排序题却只给出倒数第2段，让考生去找起始段、其它相关段落和结尾段。命题专家可能会争辩说，这是命题的灵活性，并没有背离大纲规定的原则。我觉得，命题专家的说法没有错。但是考生要反问：为什么命题专家在几年的样卷中不先把这种“灵活性”演示一下呢？难怪有考生发牢骚说：以学生为敌，搞突然袭击！我觉得，学生是弱势群体，不能说他们的牢骚没有一点道理！因为这必竟是考试而不是“捉迷藏”游戏。
+　　此外，考生在2009年辛勤准备应考，在不耽误正常的学习生活前提下，挤出大量时间来备考。考生们像盼星星、盼月亮一样等待《2010英语考试大纲》。可是，我们的命题专家们却在“打太极拳”、从容不迫，直到11月份才出版发行《考试大纲》。仔细一对照，只有应用文一节作了一点修改，增加一条：根据汉语文章写英语摘要。就这一点修改要考生等11个月吗？11月份，大部分考研培训强化班已经结束。看到上述的变化，考生如热锅上的蚂蚁，焦急万分，请求辅导老师帮忙。后者赶紧编写相关练习，指导考生如何写摘要。忙碌一阵，满以为胜券在握。可是，在考场上考生打开考卷一看，大吃一惊：既不考往年常考的信件应用文，也不考根据汉语文章写英语摘要，而是考写“通知”。可怜啊，由于思想准备不足，有将近10%左右的考生把“通知”写成了“信件”，只能得1-2分。应该肯定，命题专家这样做也没有错，这是所谓的“反猜题”战术。但是给考生留下的印象是：被忽悠了，犹如捉迷藏，声东击西。有考生不无感慨地说：命题专家把孙子兵法学透了！我认为，命题专家的反押题策略并没有错。但是，当年的《考试大纲》早点出版并指导考生进行全方位准备不是更好吗？
+　　我觉得，以上五点构成了所谓的“难”。从这五点中，考生、辅导老师和命题专家各自应该扪心自问、冷静思考。我想，这三个群体应该各自从中汲取“经验”和“教训”吧。对于听过我课并参加2010年考研由于英语不过线而名落孙山的考研学子们，我要说一声：朋友，对不起！望你不要气馁，努力吧！条条道路通罗马。
+

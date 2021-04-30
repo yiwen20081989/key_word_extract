@@ -1,0 +1,7 @@
+谷歌火狐称AOL中国网页含恶意软件
+　　新浪科技讯 北京时间2月14日上午消息，据国外媒体报道，谷歌Chrome和火狐两大浏览器用户在访问AOL中文版首页时都收到恶意软件警告，甚至使用谷歌搜索“AOL China”的结果中也出现“该网站可能会危害你的电脑”安全提示。
+　　到目前为止，IE8浏览器(打开保护模式的情况下)、必应(Bing)和雅虎搜索该站点均未出现任何上述类似提示。奇怪的是，由谷歌提供技术支持的AOL自家搜索也未做出任何提示。
+　　透露该消息的人士表示，访问chinese.aol.com和cn.aol.com两个域名时，都收到提示称该站点有来自www.tq121.com.cn的恶意主机软件。但是访问www.tq121.com.cn，浏览器将自动跳转至中国天气网(http://www.weather.com.cn/)，而且也未出现任何警告信息。Safe Browsing Diagnostics page的报告(http://www.google.com/safebrowsing/diagnostic?site=http://chinese.aol.com/&hl=en)显示，AOL中国网站包含了部分来自www.tq121.com.cn的内容，该域名被用来分发驻留在xzgfgh.8866.org(勿随意访问)上的恶意软件。
+　　在Browsing Diagnostics page关于xzgfgh.8866.org的报告(http://www.google.com/safebrowsing/diagnostic?site=xzgfgh.8866.org/&hl=en)中发现，该网址位于The Planet的网络上，目前The Planet正被数个自身的安全问题所困扰(http://www.google.com/safebrowsing/diagnostic?site=AS:21844&hl=en)，访问其旧域名domains.theplanet.com时用户也会收到类似的安全警告。
+　　该人士还表示：“像AOL这样的跨国公司居然被用来分发恶意软件绝对是值得报道的，现在的情况仅仅是冰山一角。坦白的说，与谷歌和火狐提醒用户的做法相比，微软和雅虎这样的行业巨头对此毫无反应的确让人担心。 ”(夏亚)
+

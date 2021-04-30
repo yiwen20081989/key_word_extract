@@ -1,0 +1,6 @@
+姜饼启动软件让你提前享受Android 2.3
+　　姜饼Android 2.3 Gingerbread自12月7日正式发布(点击查看)以来，各种话题都围绕姜饼系统不断展开。有关于升级Android 2.3硬件要求的；有各厂商关于升级Android 2.3版本传闻的。不过，可能更多的像HTC Hero、Magic等曾经最火的机型，都将与官方Android 2.3没有丝毫关系。
+　　那么，现在除了三星Nexus S外，其它机型想要体验一下姜饼Android 2.3 Gingerbread，也已经有办法了。有开发者放出来一款让其它Android手机抢先体验姜饼的应用，该应用叫“Gingerbread Laucher”，可以直接从Market下载安装，想要尝鲜体验的玩家可以登陆Market下载安装体验。
+　　“Gingerbread Laucher”跟用户比较熟悉的ADW Laucher效果类似，可以替换系统默认的主题效果，进而实现姜饼Android 2.3的界面效果。
+　　想要尝鲜的Android用户可以安装体验一下，整体与Android 2.2界面效果变化并不太大，只能在细节上体现出来，不过在适用于自己机型的官方姜饼Android 2.3 ROM或第三方ROM出现之前，可以先进行一个不同效果的体验。
+

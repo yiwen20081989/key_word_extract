@@ -1,0 +1,5 @@
+SCE为PSP软件开发者提供绘图工具
+　　索尼电脑娱乐(SCE)发表，将自2010年春季开始针对PSP软件开发者提供PSP用绘图工具“PhyreEngine for PSP”，并于本周举办的“GDC 2010”进行展示。
+　　“PhyreEngine for PSP”是以SCE于2008年推出并获得开发者好评的PS3用绘图引擎“PhyreEngine 2.5”基本功能为基础，针对PSP加以最佳化所开发，SCE希望借由本次的提供来促进PSP软件的开发成本削减与开发效率提升。
+　　SCE同时也在3月9日于旧金山举办的“2010年游戏开发者大会(GDC 2010)”SCE展位上，展示以 PhyreEngine for PSP功能之一的“游戏模板(Game Templates)”制作出来的示范游戏《Tunnel Shooter》，让与会开发者体验PhyreEngine for PSP的功能。
+

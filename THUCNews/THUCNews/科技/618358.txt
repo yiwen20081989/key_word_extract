@@ -1,0 +1,5 @@
+iPad成功运行Flash 破解软件即将发布
+　　中关村在线消息：iPad可以运行Flash了！这是Spirit的作者Comex刚刚放出来的消息。这个黑客准备在iOS操作系统中运行Flash。
+　　Comex声称，当前他已经完成将Android 中的Adobe Flash插件移植到iOS操作系统中工作。他把这称作Frash。不过，到现在为止，Frash还只能在iPad的MobileSafari上播放。
+　　Comex表示，Frash目前还不够稳定，需要在今后一段时间里继续测试，直到稳定之后才能发布。而且，这款软件还将支持更多iOS操作系统的平台，比如iPhone 3GS和iPhone 4。
+

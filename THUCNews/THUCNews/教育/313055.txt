@@ -1,0 +1,24 @@
+考研英语高分策略：语法考点大突破 
+　　【从句】
+　　一、定语从句
+　　定语从句分为限制性定语从句和非限制性定语从句。引导定语从句的关系代词有that，which，who，whom，whose(of which)，but(who/that…not)，as等，关系副词有when，where，why，how等。大多数定语从句都对所修饰的名词或代词加以限制，去掉该从句后先行词将意义不全或失去意义。而非限制性定语从句的作用在于补充，翻译时常常另起一个句子，与主句构成并列句。
+　　(一)关系代词引导的定语从句
+　　1。关系代词that引导的定语从句，that指人或指物，在从句中可以作主语、宾语。多数情况下，可与which互换。
+　　【真题例句】In a significant tightening of legal controls over the press, Lord Irvine, the Lord Chancellor, will introduce a draft bill that will propose making payments to witnesses illegal and will strictly control the amount of publicity that can be given to a case before a trial begins。(2001完形)
+　　【结构分析】本句主干为Lord Irvine will introduce a draft bill…；其中bill由that引导的定语从句that will propose making payments to witnesses illegal and will strictly control the amount of publicity…修饰，在从句中，that指代先行词bill作主语。观察连词and，可确定此从句中并列两个谓语will propose和will control。其中control的宾语the amount of publicity后又跟一个that引导的定语从句that can be given to a case before a trial begins，使用了被动语态，that指代先行词publicity作主语。句首的介词短语In a significant tightening of legal controls over the press作全句的状语。
+　　【参考译文】为了有效地加强对新闻界的法律监控，大法官欧文勋爵将引入一项草案。这项草案将提出付款给证人是非法的，并且要严格控制审判前对案件的曝光。
+　　【真题例句】The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the 19th century and then by several local geological journals in the 20th century. (2001阅读1)
+　　【结构分析】本句的主干是一个完成时的主系表结构The overall result has been… for amateurs，表语由不定式短语to make…harder(使……更难)充当。名词短语a result that…是主干中主语result的同位语，作用是对其进行补充说明。在此名词短语中，关系代词that引导定语从句that has been reinforced by…修饰先行词result，that在从句中代替result作主语，从句的谓语使用了被动语态。
+　　【参考译文】总体结果是，业余人员在专业地质学刊物上发表论文更难了，这种结果又由于审稿的广泛引入而变得更糟——19世纪由国家级杂志评审， 20世纪由一些地方地质学杂志评审。
+　　【真题例句】There will be television chat shows hosted by robots, and cars with pollution monitors that will disable them when they offend. (2001-71)
+　　【结构分析】本句为there be句型。主干为There will be television chat shows…，and cars…其中shows后由过去分词结构hosted by robots(作定语)修饰，cars后的介宾短语with pollution monitors作后置定语，该定语中monitors后跟一个that引导的定语从句that will disable them…，关系代词that指代monitors在从句中作主语。句末的when they offend作从句中的时间状语。
+　　【参考译文】未来将出现机器人主持的谈话节目以及装有污染监控器的汽车，当汽车污染超标时，监控器就会让其停止。
+　　【真题例句】And thanks to the continual miniaturization of electronics and micro mechanics, there are already robot systems that can perform some kinds of brain and bone surgery with submillimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone. (2002阅读2)
+　　【结构分析】本句与上句同，主干there be句型there are already robot systems…中，systems由that引导的定语从句that can perform…(直到句末)修饰，关系代词that指代先行词systems在从句中作主语。破折号之后的部分far greater precision than…是submillimeter accuracy的同位语，起补充说明作用，这里使用了比较级。句首的And thanks to the continual miniaturization of electronics and micro mechanics作全句的状语。
+　　【参考译文】由于电子技术的不断微型化和微型机械学的发展，已经出现了能够完成某些脑部和骨科手术的机器人系统，其精确程度已达到亚毫米级，这一精确程度大大超出了技术娴熟的医生光凭双手所能达到的水平。
+　　【真题例句】For example, changes in the economy that lead to fewer job opportunities for youth and rising unemployment in general make gainful employment increasingly difficult to obtain。(2004完形)
+　　【结构分析】本句主干的结构为“主+谓+宾+宾补”，即changes make gainful employment increasingly difficult to obtain。主语changes后有两个修饰语，其一是介词短语in the economy作的后置定语，其二是that引导的定语从句that lead to fewer job opportunities for youth and rising unemployment in general。该定语从句中，关系代词指代先行词changes作主语，谓语lead to有两个宾语，分别为job opportunities 和 unemployment，由and并列。
+　　【参考译文】举例来说，经济改革导致了年轻人就业机会的减少和普遍上升的失业率，这些都使得有酬工作越来越难找。
+　　注意：只能用that作为定语从句的关系代词的情况：
+　　(1)在there be 句型中，只用that，不用which；
+

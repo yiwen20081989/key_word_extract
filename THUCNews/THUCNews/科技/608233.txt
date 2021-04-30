@@ -1,0 +1,16 @@
+最强旗舰混战 五款双核智能机性能比拼
+　　在2011年，“双核”成为智能手机硬件领域最热门的关键字。随着年初CES上采用NVIDIA(英伟达)Tegra 2双核芯片的LG Optimus 2X等产品发布，到MWC上搭载三星Exynos 4210、TI OMAP4430双核处理器的手机亮相，以及高通双核芯片产品计划的公布，双核智能手机成为越来越多玩家关注的焦点。
+　　在这样的形势下，双核处理器的性能究竟孰优孰劣也成为玩家和媒体最为关心的。此前，已经有国外媒体对双核处理器的性能表现进行过测试，而现在，我们又得到了一份最新的双核智能手机性能测试报告，这其中，不仅有已经正式发布的LG Optimus 2X、Optimus 3D、摩托罗拉Atrix 4G以及三星Galaxy S2，更是包括了HTC一款尚未发布的神秘新机HTC Shooter(Pyramid)，赶紧一起来看一下！
+　　首先来了解一下本次参与测试对比的几款产品。五款产品分别是基于NVIDIA Tegra 2处理器的摩托罗拉Atrix 4G、LG Optimus 2X，基于TI OMAP4430的LG Optimus 3D，基于三星Exynos 4210的三星Galaxy S2，以及一款采用高通MSM8x60的神秘新品HTC Shooter。从上图我们可以了解这些手机的核心硬件配置。
+　　接下来，让我们来了解通过一些基准测试软件获得的性能结果。
+Smartbench 2011测试
+　　首先是Smartbench 2011的测试。这款软件是专为多核心设备优化的Android基准测试软件，测试结果可以很好地反映手机的多核心和多线程能力。Smartbench 2011的结果分为Productivity和Games两项，前者更侧重手机的整体性能，后者则主要关注游戏表现。不过，在LG Optimus 3D和三星Galaxy S 2上并不能正常运行这款软件，因此测试结果只包含其他产品。
+　　从Smartbench 2011 Productivity结果来看，摩托罗拉Atrix 4G的得分最高，达到了2856，LG Optimus 2X紧随其后，得分为2791。而HTC Shooter则只获得了1743分。从这一结果来看，Tegra 2的性能要明显强于高通Snapdragon。
+　　Smartbench 2011 Games的结果似乎印证了这一点。这次领先者成为LG Optimus 2X，摩托罗拉Atrix 4G稍逊一筹，而HTC Shooter则要明显落后于前两款手机。看起来Tegra 2上的GeForce图像处理芯片的确为游戏性能带来了很大的提升。GLBenchmark 2.0测试
+　　接下来则是GLBenchmark 2.0的测试。这是一款经典的跨平台基准测试软件，用以衡量智能手机的图形性能。GLBenchmark包括两个主要的测试场景，“Egypt”场景用以测试OpenGL ES 2.0，“PRO”场景则测试OpenGL ES 1.1性能。
+　　在GLBenchmark 2.0.3 Egypt的测试结果中，LG Optimus 3D的得分最高，接下来是LG Optimus 2X、HTC Shooter、摩托罗拉Atrix 4G和三星Galaxy S2。
+　　而在GLBenchmark 2.0.3 Pro的测试结果中，LG Optimus 3D得分依然最高，位列其后的依次是接下来是三星Galaxy S2、LG Optimus 2X、摩托罗拉Atrix 4G。测试中并未获得HTC Shooter的得分。
+　　这一结果显示TI OMAP4430出色的GPU性能，它所集成的PowerVR SGX540图形处理芯片在目前单核智能手机中受到了玩家推崇，而在双核时代它似乎依然有用武之地。
+　　总结：
+　　当然，我们一直认为，基准软件的测试并不能完全反应一款手机的真实性能，再加上很多测试产品往往是工程机，仍未完成最终优化，这些结果对于用户选购的意义并不大。不过，可以肯定的是随着双核处理器的普及，手机的多媒体、游戏等性能将会全面提升，用户也将得到更好的交互体验。
+

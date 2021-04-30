@@ -1,0 +1,7 @@
+传MySpace明年将全面支持Facebook Connect
+　　新浪科技讯 北京时间12月5日上午消息，据国外媒体昨日报道，消息人士透露，MySpace计划将Facebook Connect通用登录服务作为该网站的重要部分，并于2010年全面支持该服务。
+　　消息人士表示，通过这种方式，MySpace不仅可以依赖自己的“社交图谱”(social graph)，还可以使用Facebook的“社交图谱”。之所以做出这种决定，是因为Facebook的“社交图谱”最能真实反映用户的现实人际关系，所以这一元素很快就将成为MySpace的重要部分。
+　　Facebook Connect是一款通用登录服务，只要第三方网站支持该服务，便可使用Facebook的用户名和密码登录该网站，而第三方网站则可以访问Facebook的用户数据和网站功能，从而提升社交性，而Facebook与第三方网站之间也都可以获得更多流量。但与其他网站一样，支持Facebook Connect并不意味着MySpace与Facebook之间存在着任何特殊业务关系。
+　　本周，雅虎也曾宣布将全面整合Facebook Connect，由于雅虎曾是全球最大的社交网站，所以此举令外界颇感意外。而MySpace与Facebook Connect的整合则更加令人意外，因为二者此前曾是社交网站领域最大的一对竞争对手。但由Facebook前高管欧文·范纳塔(Owen Van Natta)领导的MySpace新任管理层最近却表示，MySpace今后将发展成为一家“社交娱乐”网站，不再与Facebook正面竞争。今年9月，MySpace还与Twitter实现了双向互通。
+　　消息人士并未透露MySpace支持Facebook Connect的过多细节，只是表示，MySpace会全面整合Facebook Connect，其深入程度甚至会令MySpace母公司新闻集团的管理人员“感到震惊”。业内人士认为，Facebook的分享按钮届时有望出现在MySpace的多个部分，方便用户分享内容。(书聿)
+

@@ -1,0 +1,60 @@
+名师指导：两步破解考研英语长难句
+　　无论是什么种类的英语考试，让同学们头痛的事有两个，一个是单词不认识，另一个就是单词都认识，但句子却看不懂。相信只要这两个问题解决了，那所有的英语考试的难度就降低了一大半。
+　　首先就考研的阅读理解来看，我做过很多调查，同学们存在的问题不是找不到题目答案的定位点，而是能找到答案所在的句子，句子的单词也认识，但是这句话却怎么也读不懂，导致费了很大的劲，最终还是功亏一篑，失败在最后一步。其次，长难句分析在翻译中的作用就更毋庸置疑了。考研翻译评分标准就是分段给分，微观扣分。也就是说考生在做考研翻译之前就要做一个句子切分的工作，拆分的依据就是长难句分析的依据。最后，考研作文和长难句也是息息相关的，如果你能准确把握长难句难产生的原因，那作文何愁写不来长句子呢？
+　　基于此，笔者一直在思考，用什么更直白的语言来让学生更快准地把握、分析长难句呢？
+　　一、为什么英语会存在长难句？
+　　这时同学们会思考，汉语为什么不存在读起来就想让人自杀的句子？这要从英语的基本句型开始。
+　　1、名词惹的祸
+　　有名词就会存在修饰成分。名词后可能是of 短语、介词短语、形容词短语、分词、不定式或从句，不管其后是哪种成分，一般情况下，名词后面有一堆东西，这一堆东西一定是修饰或解释这个名词的。
+　　我们最常用的句型就是主谓宾结构。比如说 I love you. 这句话每个人都能读懂，巨简单无比，但是在考研英语中这种句子如果能存在，就说明出题人今年一定是更年期了。
+　　首先，英语中只要存在名词，就会存在修饰名词或解释名词的东西。所以，I 后面可能跟有这些成分。比如 liuxiaoyan，这个东西也是名词，名词后面还可能有修饰或限定成分，比如 who comes from chongqing university. 这个句子中最后一个成分还是名词，又可能存在着修饰限定成分，于是又可能来对chongqing university 做解释，which is the most important universities in china; 这时同学们已经可以自己推出来了，china后面还可能有修饰限定成分。同样的道理，you 后面也可以跟修饰限定成分。这样，一个所谓的长难句就诞生了。
+　　I, liuxiaoyan, who comes from chongqing university, which is the most important universities in china, who is my motherland, love you ，who can make everybody stop to look at you in the street in which there are so many people who … ;
+　　在这个句子当中，你还能找出I love you 吗？ 所以有了名词的存在就有了这么复杂的限定成分。
+　　2、动词惹的祸
+　　说到动词，首先要明白动词能做什么成份？动词只能做谓语，谓语只能是动词，并且一个句子中谓语不能多，只能有一个，所以我们需要把不做谓语的动词变成不是动词，如何把一个动词变成不是动词呢？三种变法：A、变成to do(不定式)；B、变成v-ing(现在分词)；C、变成 done(过去分词)。
+　　比如说“他来看我”，不能翻译成“he comes see me”；因为这个句子中只有comes 是谓语，所以see，变成了 to see，这就是动词不定式了。再如这句话，beat you is my fault. 显然is 是句子的谓语，所以beat 这个动词就不能作为动词出现了，要把它变成beating或者是to beat。也就是说，由于以上原因，英语中就存在了分词或动词不定式了。也就是说分词和不定式可以做英语句子的任何成分，除了不能作谓语。这也就是英语长难句存在的依据之二。
+　　3、逗号惹的祸
+　　这就要从标点来说起了。在汉语中，逗号完全可以连接两个并列完整的句子。比若说，“我爱你，你爱那条狗”。显然，写到作文中，是没有任何问题的。但是，译成英语：I love you, you love that dog. 是显然存在问题的，因为逗号不能连接两个完全并列的句子。
+　　所以正确说法如下：
+　　A、用连词连接两个并列的句子
+　　I love you ,but you love that dog. 这样就有了英语的并列句，在考研英语中，并列句是个难点也是重点。因为一般来说，有并列的句子，就会考到代词指代或省略。
+　　比如：2002年65题 Until these issues are resolved, a technology of behavior will continue to be rejected, and with it possibly the only way to solve our problems. 主句是有一个连词and 连接的两个并列的句子，后面的句子就省略了will continue to be rejected。
+　　B、用主从句来解决
+　　逗号不能连接两个并列的句子，那把两个句子变得不并列就可以了，所以两个句子中的一个变成从句也是解决办法。即是：although I love you, you love that dog. (状语从句) 或I love you ,who loves that dog. (定语从句)
+　　C、用分词做状语来解决
+　　逗号不能连接两个并列的句子，那只需要把其中的一个句子变成不是句子就行了。如何把句子变成不是句子？如上所述，只需要把谓语动词变成不是动词就可以了。于是，把前面句子中的love 变成loving 就搞定了。即是：my loving you , you love that dog。
+　　综上所述，由于逗号的原因，我们就有了并列句、从句和分词或动词不定式作状语。
+　　二、如何分析长难句？
+　　知道了为什么会有长难句，那么我们就要知道如何分析这些句子的成分。首先，纠正一下同学们分析长难句的误区。那就是拿到一个句子时不要上来就开始读，读完就开始一个一个词地来翻译，这不叫句子分析，而是字字对译。
+　　根据上面第一部分的分析和总结，分析长难句首先需要寻找下面几个点：
+　　1、寻找谓语动词
+　　找到了谓语动词，就说明有句子存在。首先，如何寻找谓语动词呢？很简单，有时态的动词就一定是谓语。然后，顺着谓语动词往前找，如果有引导词存在，说明这个谓语动词所在的句子就是个从句，再根据引导词前的单词判定这是个什么从句：
+　　A、如果引导词前是个名词，那就根据情况区别是定语从句还是同位语从句；
+　　B、如果引导词前是实意动词，那就说明这个从句是宾语从句；
+　　C、如果引导词前面是系动词，那就说明这个从句是表语从句；
+　　D、如果其前面是状语从句的引导词，那就说明这是个状语从句；
+　　如果顺着谓语动词往前找，却没有引导词存在，那说明这是主句的谓语动词，那它的前面就是主语，后面就应该是宾语或表语。
+　　例如：2005年48题 This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of eighty European television networks no less than 50% took a loss in 1989.
+　　该句中的谓语动词已经用蓝色体标出来。Demonstrates 前面没有引导词，它就是主句的谓语动词；is 前有引导词 that，且that 前是实意动词，所以这是宾语从句；show前有引导词that，其前是名词fact，且that在从句中显然做主语，所以这里有一个that引导的定语从句；最后一个动词是took，其前也存在着that，且that前是实意动词，所以took 所在的句子是宾语从句。综上，本题主句是一个主谓宾结构，并且宾语中又有一个定语从句和宾语从句。
+　　2、寻找并列连词
+　　常见的并列连词有and, but, yet, or, so, for ,not only…but also… 看到这批单词，一般就有并列结构存在，并且很可能存在着省略问题。
+　　Eg：2002年64题 They are the possessions of the autonomous (self-governing) man of traditional theory, and they are essential to practices in which a person is held responsible for his conduct and given credit for his achievements。
+　　并列连词如上已经标出，显然第一个and 前后的两个句子是完全并列的；后面的and 前后两句话也应该是并列的，并且其前的谓语动词前有引导词in which，in which 前又是个名词，所以这是由and 引导的两个定语从句。因为存在并列，所以第二个定从和第一个相比，少了in which a person is 。
+　　综上，本句话是由第一个and 连接的两个并列的句子，并且两个句子都是主谓表结构。且and 后面的句子中还有一个and 引导的两个并列定语从句，共同修饰practices。
+　　3、寻找引导词
+　　什么是从句？从句就是句子前面有一个引导词。所以找到引导词就找到了从句，再根据引导词前的单词确定其是什么从句(前面已做过讲解此处不再讲述)
+　　Eg：2005年65题 Whorf came to believe in a sort of linguistic determinism which, in its strongest form, states that language imprisons the mind, and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society。
+　　如上，引导词已经标注出来，which 前面是名词determinism 名词，并且which在从句中做主语，显然这是个定语从句，修饰其前的名词。第二个引导词that 前面是实意动词 state，所以这是个宾语从句。最后的引导词that 前有并列连词and，显然后两个that 从句是完全并列的宾语从句。 所以该句是个简单的主谓宾结构，宾语的最后一个单词是名词，存在一个定语从句，定语从句中又有两个并列的宾语从句。
+　　4、寻找名词
+　　一般的长句子中，名词后只要不是谓语动词，一般都有修饰限定成分，即定语或同位语。也就是说，我们只要能寻找到名词，其后的东西就确定是修饰或解释前面的名词的。
+　　Eg：2001年73题 Pearson has pieced together the work of hundreds of researchers around the world to produce a unique millennium technology calendar that gives the latest dates when we can expect hundreds of key breakthroughs and discoveries to take place。
+　　如上，分析各个名词，第一个名词pearson 后显然是谓语动词；第二个名词work 后面of短语显是然修饰work 的；第三个名词后也有修饰成分；calendar 后从句也是修饰该名词的；
+　　最后，两个并列的名词后仍然是修饰名词的。那如果把所有修饰名词的动词划去，句子的主干就显示出来了：Pearson has pieced together the work to produce a calendar。
+　　除了以上四个主要分析长难句的切入点以外，其实我们还应当注意两点。
+　　5、寻找动词不定式和分词
+　　如上所述，动词只能做谓语，不做谓语的动词要变成不是动词，即分词和不定式；那就意味着分词和不定式虽然表达的意义不同，但是其在句子中所做的成分是完全一样的。也就是说，分词和不定式除了不能做谓语以外，任何成分都可以充当。
+　　6、寻找介词
+　　有介词一般都会有介词短语，在句子中充当表语、定语、状语等。
+　　三、小结
+　　当同学们看到长难句时，一定按照我们的讲解寻找相应的提示线索，不要不分主次地翻译。当然，长难句的解决不但要有好的方法，更要注意自己单词量的积累和基本英语语法问题的解决，这是个基础加方法的长期练习和背诵的过程，希望大家在学习长难句时擅长总结和复习，才会有很快的提高。
+

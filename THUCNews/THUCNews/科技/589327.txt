@@ -1,0 +1,8 @@
+微软加速推出桌面虚拟化软件
+　　新浪科技讯 北京时间9月15日凌晨消息，据国外媒体昨日报道，微软已大大加快了下一代企业桌面虚拟化软件的交货时间，同时还将发布Application Virtualization(应用程序虚拟化)的最新补丁。
+　　微软企业桌面优化套件(Microsoft Desktop Optimization Pack，以下简称“MDOP”)2009 R2现在定于10月底交付生产，也就是在10月22日发布Windows 7后不久，早于微软原定在2010年第一季度“某时”发布测试版MDOP的时间，最终定型版(以下简称“RTM”)的代码则预定在此后公布。
+　　分析师称，鉴于测试版产品与RTM代码之间在功能完善性及缺陷修复度方面的巨大差别，微软此举是大大加快了发布进程，这可能暗示Windows 7和Windows Vista没有太大差别。
+　　微软Windows产品管理团队总经理加弗瑞拉·舒斯特(Gavriella Schuster)称，客户表示需要微软更早发布这款软件，方便其部署Windows 7系统。定于10月底交付生产的MDOP 2009 R2将支持Windows XP模式、能在Windows 7的主机桌面中运行Windows XP的应用程序、并增加支持64位版桌面的功能。
+　　微软还将发布Application Virtualization 4.5的升级包，可支持Windows 7的集成任务栏和弹出列表，并提供虚拟应用程序的联合搜索(Federated Search)功能。
+　　微软还称，用于部署和管理虚拟PC的微软企业桌面虚拟化(Microsoft Enterprise Desktop Virtualization)1.0软件将在2010日历年第一季度支持Windows 7。舒斯特同时承诺，Application Virtualization 4.6将作出很多改进，可能会包含微软企业桌面虚拟化2.0软件，定于2010日历年上半年发布。(唐风)
+

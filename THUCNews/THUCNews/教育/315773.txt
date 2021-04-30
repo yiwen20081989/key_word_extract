@@ -1,0 +1,22 @@
+2011考研英语(二)翻译真题及答案
+　　说明：
+　　如课堂上所说，英语二翻译试题和去年难度一致。不出所料，考了环境话题。今年的试题来源于New Statesmen，经过出题老师改编过，我把改编之后的原题放在后面了。这篇文章的原作者是Jason Stamper，原题目是The green IT myth。
+　　答案尽供参考，时间仓促，如有错误，请指出，并谅解。
+　　祝福所有考研的朋友们。
+　　Who would have thought that, globally, the IT industry produces about the same volumes of greenhouse gases as the world’s airlines do-rough 2 percent of all CO2 emissions?
+　　全球范围内，信息技术行业与航空业产生的温室气体总量相同——约占二氧化碳排放总量的2%，这有谁曾想到过？
+　　Many everyday tasks take a surprising toll on the environment. A Google search can leak between 0.2 and 7.0 grams of CO2 depending on how many attempts are needed to get the “right” answer. To deliver results to its users quickly, then, Google has to maintain vast data centres round the world, packed with powerful computers. While producing large quantities of CO2, these computers emit a great deal of heat, so the centres need to be well air-conditioned, which uses even more energy。
+　　许多日常工作对环境造成的损失大得惊人。每一次谷歌搜索能释放0.2到0.7克的二氧化碳，这取决于为了获得“正确”答案你试过多少次。为了迅速向用户提供搜索结果，谷歌不得不在世界各地建立大型数据中心，安装一台台强大的计算机。这些计算机不仅产生大量的二氧化碳，还释放大量热能，因此这些数据中心需要良好的空调设备，这甚至会耗费更多的能源。
+　　However, Google and other big tech providers monitor their efficiency closely and make improvements. Monitoring is the first step on the road to reduction, but there is much to be done, and not just by big companies。
+　　然而，谷歌和其他大型技术供应商严密地监控其效果，并做出改进。监控是减排的第一步，仍有太多问题需要解决，并且不只是由大公司来解决。
+　　试题在改编前的原文：
+　　Who would have thought that, globally, the IT industry produces about the same volume of greenhouse gases as the world's airlines do - roughly 2 per cent of all CO2 emissions?
+　　Many everyday tasks take a surprising toll on the environment. A Google search can leak between 0.2 and 7.0 grams of CO2, depending on how many attempts are needed to get the "right" answer. At the upper end of the scale, two searches create roughly the same emissions as boiling a kettle。
+　　To deliver results to its users quickly, Google has to maintain vast data centres around the world, packed with powerful computers. As well as producing large quantities of CO2, these computers emit a great deal of heat, so the centres need to be well air-conditioned - which uses even more energy。
+　　However, Google and other big tech providers such as BT, IBM, Microsoft and Amazon monitor their efficiency closely and make improvements. (Google claims to be more efficient than most。) Recently, industry and government agencies from the US, Europe and Japan reached an agreement, orchestrated by the Green Grid, an American industry consortium, on how to benchmark the energy efficiency of data centres. Monitoring is the first step on the road to reduction, but there's much more to be done, and not just by big companies。
+　　Simple things - such as turning devices off when they are not in use - can help to reduce the impact of our love affair with all things digital. Research from the National Energy Foundation in the UK found that nearly 20 per cent of workers don't turn their PCs off at the end of
+　　the day, wasting 1.5 billion kWh of electricity per year - which equates to the annual CO2 produced by 200,000 small family cars。
+　　Technology could have a huge role to play in reducing energy consumption - just think of the number of car and bus journeys saved by something as simple as online banking. But the sector must still work harder to get its own house in order。
+　　Jason Stamper is NS technology correspondent and editor of Computer Business Review
+　　作者：新东方考研名师 唐静
+

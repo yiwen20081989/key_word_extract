@@ -1,0 +1,7 @@
+神秘三剑客 HTC LexikonBeeSpark曝光
+文/andy921
+    日前，在网易的一个个人博客上曝光了三款来自HTC的神秘新机，三款新机的代号分别是HTC Lexikon、HTC Bee、HTC Spark。三款机型中除了HTC Spark是Windows Phone 7以外，其他两款都是Android 2.2系统的机器。
+    HTC Lexikon拥有一块3.8英寸大的屏幕，分辨率为480*800像素，采用MSM7630处理器，主频为800MHz，并有512MB的RAM。另外，该机采用的是最新的Android 2.2系统，HTC Sense 1.6的界面，搭载一枚500万像素的摄像头，拥有一个QWERTY全键盘。
+    HTC Bee稍微低端一些，该机采用的也是最新的Android 2.2系统，HTC Sense 1.6的界面。不过该机仅仅采用了一块3.2英寸大QVGA分辨率的屏幕。HTC Bee使用的是528MHz的MSM7625处理器，配备384的RAM。另外，HTC Bee搭载了一枚500万像素的摄像头，支持自动对焦和闪光灯，配备一枚1300mAh的电池。
+    HTC Spark是一款彻头彻尾的Windows Phone 7手机，采用了1GHz的处理器，搭配512MB的RAM和512MB的ROM。采用的是一块3.7英寸大的WVGA分辨率（480*800像素）屏幕，一枚500万像素的摄像头，支持自动对焦，一枚1350mAh的锂离子电池。HTC Spark是一款3G手机，支持HSDPA 7.2Mbps和HSUPA 5.76Mbps。
+

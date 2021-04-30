@@ -1,0 +1,5 @@
+全新智能平台 BlackBerry BBX正式发布
+　　日前RIM(Research In Motion)公司在2011黑莓美国开发者大会上正式发布了全新一代移动平台BlackBerry BBX，该平台集成了BlackBerry平台和QNX平台的最佳优势，将为用户带来更为友好的体验。
+　　BlackBerry BBX作为新一代黑莓智能手机及平板电脑的平台，它将包括BBX-OS，全新的高级图像工具BlackBerry Cascades UI Framework，以及“超级应用”(Super App)，从而将支持黑莓云服务及HTML 5和原生开发者开发环境，而通过“超级应用”还将实现更多高级功能。
+　　在这次开发者大会上，RIM公司还发布了一系列升级版开发者工具，其中包括用于黑莓智能手机及平板电脑的WebWorks，PlayBook平 板电脑的Native SDK，以及支持Android应用程序在PlayBook平板电脑上运行的BlackBerry PlayBook OS 2.0开发者测试版。
+

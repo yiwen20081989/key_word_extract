@@ -1,0 +1,6 @@
+Google TV整合YouTube高清播放功能
+　　新浪科技讯 北京时间10月20日凌晨消息，据国外媒体报道，Google TV产品将从本周起支持YouTube的Leanback功能。
+　　Leanback发布于今年夏天，可自动按最高画质全屏播放YouTube视频。当Google TV用户点击电视屏幕上的YouTube图标时，该款设备立即会全屏、高清播放一段与用户的YouTube观看历史类似的视频剪辑。用户还可以使用键盘上的方向键浏览内容，或进行搜索。
+　　Leanback功能提供10个频道的节目，内容涵盖科技、娱乐、新闻等各个方面。频道内容每日更新。用户也可以通过该功能在线租赁电视剧和电影。
+　　YouTube并未言明Leanback能否在Apple TV等谷歌竞争对手的机顶盒产品上使用。罗技将于近期发布Revue机顶盒，这是首款整合了Google TV的产品。(彦飞)
+

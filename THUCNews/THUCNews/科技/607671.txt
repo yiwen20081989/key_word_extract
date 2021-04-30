@@ -1,0 +1,19 @@
+万能刷机王再发威 HD2直刷WP7详细教程
+作者/王鑫
+　　两周前，曾经发布HD2完美直刷Android 2.2系统的DFT组织又给HD2用户带来新的好消息：正式发布HD2直刷Windows Phone 7系统ROM。而目前网上这方面的教程已经陆续放出，以下是整理的比较详细的完美刷机教程，以及刷机后的问题说明。
+　　声明：教程部分从国外论坛和国外编译获得，保留原作者的著作权益。
+　　HD2直刷Windows Phone 7系统教程：
+　　刷机前需要下载的：
+　　1、必不可少的Windows Phone 7系统ROM--LEO70_ROM，请先下载到电脑。
+　　2、DFT发布的直刷工具MAGLDR 1.12
+　　两者缺一不可，都必须完整的下载下来。其中直刷工具500多KB，而LEO70_ROM大小为175.87MB，可能需要一段时间才能下载完成，请耐心一点。
+　　提醒注意刷机前需要的备份工作：
+　　如果你现在使用的HTC HD2是Windows Mobile 6.5系统，那么建议你在尝试直刷Windows Phone 7前做好资料和相关的备份工作。
+　　教程开始：
+　　在备份完所有的资料后，开始正式的直刷Windows Phone 7过程。
+　　1、安装MAGLDR 1.12；
+　　2、运行ROMUpdateUtility.exe文件；
+　　3、安装HD2的Windows Phone 7刷机包LEO70 ROM。
+　　4、在MAGLDR菜单按“音量-”键选择第5项“5. USB Flasher”，然后按通话键确定，在PC端运行刷机包内的DWI.exe，阅读告知信息后开始刷机。
+　　以上4步就可以简单的实现HD2直刷Windows Phone 7的过程，使用DFT的工具使用起来还是非常傻瓜化的，推荐HD2的用户尝试一下Windows Phone 7完全的不一样效果。
+

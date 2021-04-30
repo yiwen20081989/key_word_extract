@@ -1,0 +1,6 @@
+网站代码显示Facebook与多家音乐服务合作
+　　新浪科技讯 北京时间9月18日上午消息，荷兰开发者伊沃·沙普(Yvo Schaap)通过查看主要音乐服务的HTML代码发现，有几家音乐网站已加入了特殊的meta标签，这可能意味着这些网站将提供与Facebook兼容的音乐格式。
+　　沙普发现，Spotify、MOG、Rhapsody、Soundcloud、Rdio、Deezer法国版和VEVO都将使音乐兼容Facebook。而没有兼容Facebook的音乐网站则包括Pandora和Napster。此前外界普遍认为，Pandora是Facebook流媒体音乐服务最可能的合作伙伴。
+　　沙普在个人博客中谈到了他对此的分析。他表示：“这一尚未纳入文档的音频格式，即audio/vnd.facebook.bridge，似乎是在流媒体音乐服务和Facebook之间建立联系的一种格式。似乎所有合作伙伴都做好了准备：免费的流媒体音乐、音乐服务与Facebook之间的连接，我们所要做的就是再等几天。”
+　　预计Facebook将在下周四的F8会议上公布新音乐服务的细节。还有报道称，Facebook将在此次大会上宣布与视频网站Hulu的合作。(邱越)
+

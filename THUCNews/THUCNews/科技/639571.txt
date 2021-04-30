@@ -1,0 +1,5 @@
+黑莓Twitter客户端UberSocial升级
+　　新浪科技讯 北京时间6月29日凌晨消息，知名黑莓Twitter客户端开发商UberMedia推出了新版本UberSocial Twitter客户端。
+　　用户可创建“内部圈子”(Inner Circle)，将自己粉的最重要的人的消息集中到一条时间线(timeline)中，还能为“内部圈子”的人发的推、回复或密信(direct message)设置提醒。另外，新版应用还增加了“主题引擎”(Theme Engine)和“交易栏”(Deal Box)功能，用户可使用“主题引擎”创建自定义主题，“交易栏”可让用户获得本地交易的提醒。
+　　由于Twitter的OAuth认证机制，6月30日后旧版UberSocial Twitter客户端将不能访问密信。而在UberMedia加大黑莓客户端投入的同时，其对手Seesmic宣布将撤离黑莓平台。(新铁)
+

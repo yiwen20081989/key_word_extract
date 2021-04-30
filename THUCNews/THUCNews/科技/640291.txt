@@ -1,0 +1,6 @@
+有证据显示iPhone 5同时支持GSM和CDMA
+　　新浪科技讯 北京时间8月23日晚间消息，美国科技博客TechCrunch作者罗宾·沃特斯(Robin Wauters)今日发表文章称，即将上市的iPhone 5同时支持GSM和CDMA网络。
+　　沃特斯称，一位iOS应用开发人员向他提供了一些数据，这些数据显示有几名用户使用同时支持GSM和CDMA网络的iPhone手机访问其应用，推测是苹果员工正在测试iPhone 5。该名开发人员开发了数款流行的iOS应用。
+　　有业内人士称，iPhone 5同时支持GSM和CDMA网络合情合理，因为苹果为Verizon开发CDMA版iPhone花费了大量时间，如果一款iPhone就能走遍天下，对于消费者自然有利。
+　　另外，今年1月就已经有传闻称，iPhone 5可能同时支持GSM和CDMA网络。后来，该传闻几乎得到了Verizon高管的证实。沃特斯称，此次的应用访问记录几乎可以确定iPhone 5同时支持GSM和CDMA。(李明)
+

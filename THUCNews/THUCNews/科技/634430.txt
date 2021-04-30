@@ -1,0 +1,6 @@
+Skype不再提供Windows Mobile客户端下载
+　　新浪科技讯 北京时间12月27日午间消息，据国外媒体报道，在发布了最新版Windows网络电话客户端后，Skype宣布将不再提供Windows Mobile版客户端的下载，也不再面向Java手机提供Skype Lite的下载。
+　　Skype目前已经删除了Windows Mobile和Java手机客户端的下载页面，但现有用户的功能不会受到影响。
+　　Skype在博客中表示，之所以做出这一决定是因为这两款产品的用户体验不佳。具体而言Skype Lite目前只能在少数几个国家使用，而且需要耗费应用商提供的通话时间。除此之外，Windows Mobile的设备也越来越多样化，在无法获得运营商支持的情况下，Skype难以针对如此多的设备提供服务。Skype还鼓励诺基亚用户尝试Symbian版的客户端。
+　　业内人士认为，Skype是希望通过此举清除与运营商合作的障碍。在本月早些时候的移动世界大会上，该公司刚刚宣布与Verizon建立合作关系，为Verizon的多款智能手机推出客户端应用，包括黑莓手机的客户端。除此之外，等到Windows Phone 7 Series手机上市后，Skype还有望通过Verizon向采用该系统的手机提供Skype客户端。(书聿)
+

@@ -1,0 +1,7 @@
+依旧超轻薄 惠普DV2z系列笔记本上市
+　　本月9日，惠普发布了针对暑期美国高校市场的超轻薄新本dv2z系列超轻薄笔记本，使用AMD的Yukon平台，售价最低为599美元。日前，dv2z已经出现在惠普官网上，其可选配置包括了双核版本的新款Athlon Neo和Turion Neo，也让它成为首款搭载双核处理器的Yukon平台本。
+　　Yukon平台是AMD与Intel Atom上网本进行错位竞争的产物，其性能明显优于Atom，主打卖点是低价格的超轻薄笔记本。月初的Computex大会上，AMD表示第二代超轻薄本平台Congo的双核Athlon Neo处理器已经出货，将搭配780G Radeon HD 3200级别的集成显卡芯片组。
+　　根据惠普官网上的配置信息，售价599.99美元的dv2z基础配置包括1.6GHz单核心Athlon NeoMV-40处理器，Radeon X1250集成显卡，1GB内存，250GB硬盘，12.1寸液晶屏幕，802.11g WiFi，六芯电池，预装Vista Home Basic操作系统，依然是标准的Yukon平台。
+　　而在可选配置中，加价25美元即可提供双核版的Athlon Neo X2 L335处理器，加价75美元则会升级到Turion Neo X2 L625，两颗处理器均为双核1.6GHz，Athlon版为512KB二级缓存，Turion版则增加到1MB。不过，两者搭配的仍然是Radeon X1250集成显卡芯片组，虽然可加价80美元升级到Radeon HD 3410独立显卡，但仍然只能算作是第一代Yukon平台的升级版，不是第二代Congo平台。
+
+

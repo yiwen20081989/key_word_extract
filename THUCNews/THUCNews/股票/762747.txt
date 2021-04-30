@@ -1,0 +1,13 @@
+VeriSign提出收购Certicom要约
+　　【MarketWatch纽约1月23日讯】北京时间1月23日晚间消息，周五晚间互联网安全服务公司VeriSign Inc (VRSN.O)宣布将收购加拿大软件生产商Certicom Corp (CIC.TO)。此前Research in Motion (RIM.TO)刚刚宣布撤销了敌意收购Certicom的要约。
+　　摘要：*VeriSign报价每股2.1加元、总价值9200万加元
+　　*报价溢价率26%
+　　*RIM报价每股1.5加元，现已撤销
+　　VeriSign与Certicom周五表示，VeriSign公司提出两个选择，一是直接出资9200万加元(7300万美元)收购；二是以5000万加元加上短期可转让债券的方式收购Certicom。
+　　VeriSign提出的收购Certicom报价为每股2.10加元，较1月22日多伦多证交所交易的Certicom普通股收盘价1.67加元溢价率为26%。
+　　在安大略省高级法庭批准了Certicom公司针对Research in Motion敌意收购案提出的申请禁止令请求之后，本周二Research in Motion公司宣布放弃了这个敌意收购要约。Research in Motion表示，在法庭批准了禁止敌意收购Certicom的禁令之后，该公司在去年12月提出的敌意收购条款已经无法得到执行。
+　　此前Research in Motion曾经提出希望以友好合作方式收购Certicom，但遭到这家位于安大略省Mississauga的软件公司的拒绝。于是Research in Motion在去年12月提出了以每股1.50加元敌意收购后者的要约。
+　　如果完成收购Certicom交易，VeriSign公司将巩固在互联网椭圆曲线密码技术(Elliptic Curve Cryptography)行业的领导地位。VeriSign表示，业内普遍认为椭圆曲线密码技术比普通的公开密钥密码技术(public-key encryption)更为有效。
+　　Certicom公司向一些软件零售商和设备制造商提供椭圆曲线密码技术授权服务。这家公司的客户包括通用动力(General Dynamics Corp)(GD.N)、摩托罗拉(Motorola Inc.) (MOT.N)以及Research In Motion等等。
+　　目前位于加州Mountain View的VeriSign公司正在为公司寻觅合适的高层管理人员人选，以加速完成延迟了很长时间的重组工作并为将来的发展打下基础。
+

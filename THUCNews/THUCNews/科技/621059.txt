@@ -1,0 +1,6 @@
+传苹果MacBook Air 6月升级Sandy Bridge
+　　CNET日前报道称，他们从内部人士得到消息，苹果MacBook Air将在今年6月迎来更新，升级至Intel最新的Sandy Bridge平台。
+　　苹果在去年10月份刚刚发布了新款MacBook Air，外观设计大幅更新，全固态存储的理念也相当超前。不过，新MacBook Air仍然使用了陈旧的Intel Core 2 Duo处理器。在今年1月Intel发布Sandy Bridge后，MacBook Air的处理器平台已经落后Intel产品线整整两代。
+　　当时业界普遍认为，苹果在新MacBook Air中保留Core 2 Duo平台，是为了搭配NVIDIA的高性能集成显卡芯片组，避免使用性能孱弱的Intel芯片组。而今Sandy Bridge处理器中的集显性能已经大幅提升，苹果于是才愿意越级更新至最新平台，预期新机的外观设计将基本保持不变，内部使用超低电压版的Sandy Bridge移动双核处理器。
+　　另外，Intel 6系列芯片组近期曝出的SATA接口设计缺陷让很多厂商的Sandy Bridge笔记本发布计划都被迫延期。有媒体得到消息，苹果的MacBook Pro新机计划同样受到了影响，但延期时间不会超过两周。近期苹果渠道中的MacBook Pro笔记本供货已经开始吃紧，显示新机发布或许即将到来。
+

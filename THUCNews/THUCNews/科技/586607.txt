@@ -1,0 +1,10 @@
+传苹果将发17英寸MacBook Pro及新Mac Mini
+　　新浪科技讯 北京时间1月5日消息，据国外媒体报道，知情人士透露，苹果最早将于周二发布配有固定电池的17英寸MacBook Pro以及新款Mac Mini，这两款产品都将采用Nvidia芯片组。
+　　知情人士称，上述两款产品的出货时间应为本月，但由于Macworld展会而暂停，预计苹果极有可能在即将召开的Macworld上宣布这两款新品。知情人士表示，新的17英寸Macbook将不再使用与13英寸和15英寸Macbook类似的嵌入式电池，而是与MacBook Air一样，采用内置固定电池，用户很难将之取下来。
+　　此外，新款Mac Mini将与苹果笔记本电脑MacBook及MacBook Pro一样，采用Nvidia最新的MCP79芯片组平台。除了显示器接口及DVI接口外，新款Mac Mini也将以FireWire 800端口替代传统的FireWire 400端口，另外还配有第5个USB接口。Mac Mini配置的显示器接口，可以让用户连接苹果最新的LED面板Cinema显示器。另外，DVI接口也可以让该台式机与用户已有的显示器连接。(肖恩)
+　　相关报道：
+　　Macworld展会苹果10大猜想：或发布新款iMac
+　　美国黑客发布解锁iPhone 3G免费软件
+　　苹果Macworld大会10大新产品猜想
+
+

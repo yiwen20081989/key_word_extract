@@ -1,0 +1,15 @@
+调查显示Verizon版iPhone 4掉话率低于AT&T版
+　　新浪科技讯 北京时间4月6日早间消息，市场研究机构ChangeWave Research针对美国4068名消费者实施的最新调查结果显示，Verizon版iPhone 4的掉话率低于AT&T版iPhone 4，但用户对两家移动运营商的服务满意度几乎没有区别。
+　　这项调查旨在对Verizon版iPhone 4用户和AT&T版iPhone 4用户的重要区别展开深入研究，调查内容涵盖用户满意度以及掉话率。调查是在Verizon开始推出iPhone 4服务后数周开始实施的，已于3月28日结束。除此之外，该调查还让我们从多个重要方面对Verizon版iPhone 4用户和AT&T版iPhone 4用户对各自运营商服务的不同看法有了深入认识。
+　　用户满意度
+　　既然Verizon和AT&T都推出了iPhone 4，用户满意度方面又有什么区别呢？下表对Verizon版iPhone 4用户和AT&T版iPhone 4用户的整体满意度进行了比较。在整体满意度方面，Verizon版iPhone 4用户和AT&T版iPhone 4用户没有什么区别。但在“非常满意”(Very Satisfied)一项中，82%的Verizon版iPhone 4用户表示他们非常满意Verizon的服务，相比之下，只有80%的AT&T版iPhone 4用户持这种态度。
+　　美国四大移动运营商掉话率
+　　掉话率亦称通话中断率，是指在移动通信的过程中，通信意外中断的几率。掉话率的高低在一定程度上反映了移动网络通信质量的优劣。过去几年，ChangeWave在其消费者调查中一直在追踪美国四大移动运营商的掉话率。在最新调查中，Verizon的掉话率仍然最低，其用户称过去90天平均掉话率仅为1.4%。T-Mobile和Sprint/Nextel分别以2.3%和2.7%的平均掉话率排名第二和第三。而AT&T排名第四，其用户称过去90天的平均掉话率为4.6%。
+　　服务回顾
+　　自ChangeWave 2008年9月首次开始对掉话率进行跟踪调查以来，AT&T在整体掉话率方面就始终落后于Verizon。ChangeWave在2010年12月的上一次调查中曾指出，AT&T已积极采取措施改善这方面的服务。在对1264名AT&T用户的最新调查中，AT&T的整体掉话率再次有所改善，虽然幅度不大——从4.7%降至4.6%。与此同时，在受访的1283名Verizon用户中，整体掉话率现已降至ChangeWave调查有记录以来的最低水平——1.4%。
+　　Verizon版iPhone 4和AT&T版iPhone 4掉话率比较
+　　下图比较了ChangeWave最新调查中Verizon版iPhone 4用户和AT&T版iPhone 4用户报告的掉话率。结果类似于ChangeWave过去在全行业的调查发现：Verizon版iPhone 4用户报告的掉话率低于AT&T版iPhone 4用户。
+　　总体而言，ChangeWave的最新调查发现，Verizon版iPhone 4用户和AT&T版iPhone 4用户的整体满意度没有什么区别，但在他们报告的掉话率相对比例上仍存在明显差异——Verizon的服务优于AT&T。
+　　但是，值得一提的是，Verizon推出的iPhone 4服务尚处于初级阶段，Verizon 网络今后的表现还有待观察，毕竟Verizon版iPhone 4用户数量会不断增多，势必对其网络形成越来越大的压力。
+　　最新调查结果显示，46%将来打算购买iPhone 4的受访者表示会采用Verizon的服务，相比之下，只有27%的受访者表示会采用AT&T的服务。这也是表明Verizon服务用户量将猛增的一个信号。(永鸿)
+

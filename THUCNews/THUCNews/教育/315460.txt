@@ -1,0 +1,60 @@
+考研英语语法学习两大主体原则
+　　大家或许听说过，现在流行的说法是：国内考试和国外考试是“去语法化”趋势。
+　　新四六级去掉词汇与结构部分，考研早已取消语法选择题，托福取消语法部分，这类考试题型改革动作接踵而至，乱花迷眼。
+　　但是，事实上作为重要的国内Post Graduation门槛的全国研究生入学考试，语法承担着首要的支配作用，其地位不降反升，只是形式更加细节和隐蔽，从台前DJ变成了幕后导播。
+　　考研语法的学习应该秉承以下两大主体原则：
+　　语法服务性原则
+　　语法升级性原则
+　　首先，语法是人类表达情感和思维的各种欲念的规范形式，本质上是自然流露，绝对不是机械的条条框框。所以学习语法首先必须体会人类的基本情感类别，然后自然可以理解各种语法的本质和变体。
+　　结论就是，单纯考查语法显得毫无意义。
+　　学习语法目的只有一个，实用。
+　　怎么实用？服务各种需求。在考试中，这些需求表现为阅读写作翻译等实战题型。
+　　例如：在阅读里，语法帮助你迅速分析长难句，不会被稍稍复杂的句子影响阅读速度和全文理解。
+　　比如2006年考研英语阅读第一篇第三句：people are absorbed into “a culture of consumption” launched by the 19th ?century department stores that offered vast arrays of goods in an elegant atmosphere。如果你习惯了英语里名词之后的漫长修饰语的语法规律，知道英语里的名词就好像一个神奇小蒜坨，随时可能生出万丈长蒜来，那么这样的中等长度的句子应该没有问题进行扫读，并且是快速扫读。
+　　又譬如2006年考研英语阅读第四篇末段开头：What we forget—what our economy depends on is forgetting—is that happiness is more than pleasure without pain. The things that bring the greatest joy carry the greatest potential for loss and disappointment. 主语谓语相隔比较遥远，如果出声朗读出来必然磕磕巴巴，可是谁又在考研考场里大声朗读呢——如果没有大脑问题？倘若你对英语语法里关于主谓之间的插入现象比较了解，知道在它们中间一般会有后置介词短语定语，定语从句，插入语或者同位语(从句)甚至状语(从句)，那么这样同样的中等长度句子显然可以一样快速理解。
+　　翻译也是如此：
+　　I have excluded him because, while his accomplishments may contribute to the solution of moral problems, he has not been charged with the task of approaching any but the factual aspects of those problems。
+　　纵观全句，句子虽长，可是理解还是比较简单的。主干结构是主句加上一个本身含有让步状语从句的原因状语从句。
+　　主句部分主要考查了指代关系。其中，当第一次出现代词“him”的时候，考生不难发现它指代的就是前文最近的中心词“average scientist”(一般科学家)。而在后面的原因状语从句中，则再一次考查了“his”的指代关系。根据“代一不代二”的原则，同句出现反复指代，那么只要翻译首次出现的代词即可。因此，这里的“his”可以直接翻译为“他的”。
+　　在原因状语从句部分中，难点在于“he has not been charged with the task of approaching any but the factual aspects of those problems”这一部分。字面意思是：他没有被赋予接触这些问题中事实部分以外的其它部分的任务。说得简单点，就是“仅被赋予了研究这些问题中与事实相关的层面。”稍微结合上下文，可以看出，本句的意思是：没人指望科学家研究问题的道德层面，我们只要求他们研究问题的事实层面。由此，结合整句的理解，我们可以将它翻译为：“我把一般科学家排除在外了，这是因为，尽管科学家的成就可能有助于解决道德问题，但他们只有义务研究这些问题的事实层面。”
+　　其次，语法的升级事实上体现在写作层面。
+　　很多朋友都会问考研写作和四六级的区别。简单的说，语法升级遵循：正确——地道——有思想。四级讲正确，六级要地道，考研更需要有思想，而且三者都需要。是否在细节之处体现对英语语言的驾驭能力，是衡量写作档次的重要的指标。就是，一拼模版，二拼细节。
+　　譬如：你是否善于把没有生命的东西或者动作的受动者当主语，你可以没有必要背诵出“无灵主语”的概念和定义，但你能实践就行。
+　　2005年考研写作是一副漫：四个貌似守门员的子女千方百计阻止貌似足球的老父亲进入自己貌似球门的家门。如何写下某些人们的家庭观和孝道观？人们越来越不注重家庭伦理，不妨写成家庭伦理在人们脑海里渐行渐远：
+　　The family ethics are seemingly fading away from some people’s mind。
+　　这样写被动变主动，主语多样化，无灵主语，拟人修辞全部在你的句子里面体现，一举三得。
+　　同样，升级同位语的用法，忘掉那些庸俗的用法吧。同位语难道只是重复阐述前面名词或代词的内涵么？在这关于现代家庭伦理观的写作里，为了反衬不孝顺的子女的残忍，看看是否能这样措辞：
+　　Those adult offspring, owners of private cars, brilliant career and luxurious mansions, refuse the responsibilities of supporting their aged father with all the possible excuses。
+　　同位语应该而且能够前呼后应，和后面的文字形成因果，条件或者让步的语气。
+　　总之，透过考研的实战题型，可以清晰地看到语法的影子。语法使你在INPUT型的题型里，主动的体会他人的意思，在OUTPUT题型里，更加积极主动的发挥文采和遣词造句。
+　　看透用透语法之时必是考研英语破解之刻。
+　　大家或许听说过，现在流行的说法是：国内考试和国外考试是“去语法化”趋势。
+　　新四六级去掉词汇与结构部分，考研早已取消语法选择题，托福取消语法部分，这类考试题型改革动作接踵而至，乱花迷眼。
+　　但是，事实上作为重要的国内Post Graduation门槛的全国研究生入学考试，语法承担着首要的支配作用，其地位不降反升，只是形式更加细节和隐蔽，从台前DJ变成了幕后导播。
+　　考研语法的学习应该秉承以下两大主体原则：
+　　语法服务性原则
+　　语法升级性原则
+　　首先，语法是人类表达情感和思维的各种欲念的规范形式，本质上是自然流露，绝对不是机械的条条框框。所以学习语法首先必须体会人类的基本情感类别，然后自然可以理解各种语法的本质和变体。
+　　结论就是，单纯考查语法显得毫无意义。
+　　学习语法目的只有一个，实用。
+　　怎么实用？服务各种需求。在考试中，这些需求表现为阅读写作翻译等实战题型。
+　　例如：在阅读里，语法帮助你迅速分析长难句，不会被稍稍复杂的句子影响阅读速度和全文理解。
+　　比如2006年考研英语阅读第一篇第三句：people are absorbed into “a culture of consumption” launched by the 19th ?century department stores that offered vast arrays of goods in an elegant atmosphere。如果你习惯了英语里名词之后的漫长修饰语的语法规律，知道英语里的名词就好像一个神奇小蒜坨，随时可能生出万丈长蒜来，那么这样的中等长度的句子应该没有问题进行扫读，并且是快速扫读。
+　　又譬如2006年考研英语阅读第四篇末段开头：What we forget—what our economy depends on is forgetting—is that happiness is more than pleasure without pain. The things that bring the greatest joy carry the greatest potential for loss and disappointment. 主语谓语相隔比较遥远，如果出声朗读出来必然磕磕巴巴，可是谁又在考研考场里大声朗读呢——如果没有大脑问题？倘若你对英语语法里关于主谓之间的插入现象比较了解，知道在它们中间一般会有后置介词短语定语，定语从句，插入语或者同位语(从句)甚至状语(从句)，那么这样同样的中等长度句子显然可以一样快速理解。
+　　翻译也是如此：
+　　I have excluded him because, while his accomplishments may contribute to the solution of moral problems, he has not been charged with the task of approaching any but the factual aspects of those problems。
+　　纵观全句，句子虽长，可是理解还是比较简单的。主干结构是主句加上一个本身含有让步状语从句的原因状语从句。
+　　主句部分主要考查了指代关系。其中，当第一次出现代词“him”的时候，考生不难发现它指代的就是前文最近的中心词“average scientist”(一般科学家)。而在后面的原因状语从句中，则再一次考查了“his”的指代关系。根据“代一不代二”的原则，同句出现反复指代，那么只要翻译首次出现的代词即可。因此，这里的“his”可以直接翻译为“他的”。
+　　在原因状语从句部分中，难点在于“he has not been charged with the task of approaching any but the factual aspects of those problems”这一部分。字面意思是：他没有被赋予接触这些问题中事实部分以外的其它部分的任务。说得简单点，就是“仅被赋予了研究这些问题中与事实相关的层面。”稍微结合上下文，可以看出，本句的意思是：没人指望科学家研究问题的道德层面，我们只要求他们研究问题的事实层面。由此，结合整句的理解，我们可以将它翻译为：“我把一般科学家排除在外了，这是因为，尽管科学家的成就可能有助于解决道德问题，但他们只有义务研究这些问题的事实层面。”
+　　其次，语法的升级事实上体现在写作层面。
+　　很多朋友都会问考研写作和四六级的区别。简单的说，语法升级遵循：正确——地道——有思想。四级讲正确，六级要地道，考研更需要有思想，而且三者都需要。是否在细节之处体现对英语语言的驾驭能力，是衡量写作档次的重要的指标。就是，一拼模版，二拼细节。
+　　譬如：你是否善于把没有生命的东西或者动作的受动者当主语，你可以没有必要背诵出“无灵主语”的概念和定义，但你能实践就行。
+　　2005年考研写作是一副漫：四个貌似守门员的子女千方百计阻止貌似足球的老父亲进入自己貌似球门的家门。如何写下某些人们的家庭观和孝道观？人们越来越不注重家庭伦理，不妨写成家庭伦理在人们脑海里渐行渐远：
+　　The family ethics are seemingly fading away from some people’s mind。
+　　这样写被动变主动，主语多样化，无灵主语，拟人修辞全部在你的句子里面体现，一举三得。
+　　同样，升级同位语的用法，忘掉那些庸俗的用法吧。同位语难道只是重复阐述前面名词或代词的内涵么？在这关于现代家庭伦理观的写作里，为了反衬不孝顺的子女的残忍，看看是否能这样措辞：
+　　Those adult offspring, owners of private cars, brilliant career and luxurious mansions, refuse the responsibilities of supporting their aged father with all the possible excuses。
+　　同位语应该而且能够前呼后应，和后面的文字形成因果，条件或者让步的语气。
+　　总之，透过考研的实战题型，可以清晰地看到语法的影子。语法使你在INPUT型的题型里，主动的体会他人的意思，在OUTPUT题型里，更加积极主动的发挥文采和遣词造句。
+　　看透用透语法之时必是考研英语破解之刻。
+

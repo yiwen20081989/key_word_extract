@@ -1,0 +1,9 @@
+DirectX 11魅力何在？小y实战游戏测试
+·DirectX 11新技术的简单介绍
+　　也许对于绝大多数笔记本用户来说，基于DirectX 9的游戏还是目前游戏玩家硬盘里的主力，而已经发布了将尽快4年的DirectX 10，尽管其自身有着前瞻性和独到之处，但实行效率的地下，还是无法使其拥有像DirectX 9那样辉煌成绩。而微软在去年正式推出了全新的Windows 7操作系统，同时也推出了新一代图形API——DirectX 11。在DirectX 11的新技术下，GPU也将获得更强大的通用计算能力，多线程机制的纳入让游戏渲染效率更高。另外，诸如光线追踪技术的引入，都会对游戏工业产生深远影响。
+　　AMD无论是是在硬件端、还是在软件端都已经做好了充分的准备，尤其是针对Windows 7新增的功能，例如DirectX 11 API和Direct Compute，值得一提是就在与Windows 7发布的同年间，AMD也发布了代号为Manhattan的ATI Mobility Radeon HD5000系列显卡，同时该系列的显卡还是目前唯一完全支持微软DirectX 11的笔记本独立显卡。而联想ideapad Y460就是首款采用ATI Mobility Radeon HD5000系列显卡的笔记本电脑。
+
+
+
+
+

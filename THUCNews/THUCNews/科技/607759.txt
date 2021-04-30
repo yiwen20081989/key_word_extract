@@ -1,0 +1,22 @@
+经典CM7 Android 2.3 ROM安装使用教程
+作者/王鑫
+　　国际知名的第三方ROM开发组织CyanogenMod前段开始每晚发布一款Android机型ROM，日前笔者就拿到适用于HTC Desire HD的CyanogenMod Android 2.3姜饼系统ROM，进行了详细的测试体验。
+　　Desire HD的CyanogenMod Android 2.3 ROM下载
+　　刷机前提醒：
+　　刷机的过程中，可能存在一些使用中的Bug，建议用户刷机前做好数据资料的备份，以免刷完使用不顺心的时候无法进行恢复。
+　　刷机前请确认手机已经是HBoot处于S-OFF状态。确认Desire HD的HBoot状态，可以通过如下步骤：
+　　1、将Desire HD关机，并取出电池再装回。Desire HD特有的快速启动功能造成必须把电池非常困难地拿出。或者，在关机时选择重新启动，然后一直按住音量减小键。
+　　2、进入新的界面后，可以看到最上端有“S-OFF”或“S-ON”的字样。
+　　如果是S-OFF提示，就可以根据如下的步骤正常刷机。
+　　Desire HD的CyanogenMod Android 2.3安装使用教程：
+　　1、按照上面下载地址下载HTC Desire HD的CyanogenMod Android 2.3 ROM
+　　2、在进入Recovery刷机前请确认Recovery是否为最新版本，建议更新至Recovery V3.0.5版。否则可能出现刷机后卡在第一屏过不去的情况。
+　　下载Clockwork Recovery工具刷机包，建议在确保手机至少80%电量的情况下进行更新。
+　　3、拔电池并同时按住音量减小和电源键进入HBoot模式。
+　　4、进入HBoot模式后，按音量放大键选择Yes。使用音量键选中Recovery，并按电源键进入该模式。
+　　5、这时候在Clockwork Recovery界面，选择“install zip from SDcard”，选择已经下载并放到SDcard中的ROM文件，点击确认键进行正常刷机即可。
+　　6、CM的Android 2.3 ROM不包含Google应用，如果想要使用Market、Gmail等应用需要刷另外的应用包。
+　　刷机中可能出现的问题：
+　　在刷机过程中一般不会出现太多问题，如果出现中断错误提示，尽量尝试重新下载ROM以确保完整性。
+　　或者部分用户不是最新Clockwork Recovery的情况下，刷Recovery过程可能会让部分用户觉得繁琐，按照教程提示一步一步操作就可以正常完成。
+

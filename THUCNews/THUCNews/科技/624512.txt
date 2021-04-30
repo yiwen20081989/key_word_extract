@@ -1,0 +1,6 @@
+PS游戏将支持Tegra手机
+作者/永辉　　NVIDIA今天在他们的Tegra Zone中宣布，索尼的PlayStation Suite将会在今年晚些时候支持使用Tegra处理器的Android手机和平板设备。
+　　PlayStation Suite是由索尼推出的开发框架，可以把PlayStation体验带到Android设备，其实就是一款官方版仿真器。借助该工具，Android、NGP用户可以玩到PlayStation的旧款名作，开发商也可以借助该平台开发新的游戏。
+　　NVIDIA的消息并没有确认哪些Tegra设备会得到PlayStation认证，但是给出了多款游戏的预期，比如《Wild Arms》、《Cool Boarders 2》、《Syphon Filter》。在该消息公布之前，索尼爱立信的Xperia Play(参数 论坛 软件)是唯一一款被证实可以得到PlayStation游戏的机型。
+　　另外有消息称，PlayStation 2游戏也将会向Android设备开放，这对于Android用户来说是个好消息。之前索尼的公告中只包含有PlayStation One游戏。
+

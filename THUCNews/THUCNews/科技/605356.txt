@@ -1,0 +1,6 @@
+iPhone成功移植运行最新Android 2.2系统
+　　我们可能将会在明天看到iPhone的巨大变化，苹果将会在明天凌晨发布第四代iPhone手机，当然，你也可以在今天看到一些不小的变化。之前我们曾看到过iPhone移植Android系统，让互不两立的两个竞争对手成功合体，但是如果是Google刚刚发布不久，甚至绝大部分Android手机都未尝试到的Android 2.2版系统呢？
+　　与之前DevTeam团队移植的Android 1.6不同，这个新团队研究的目标是最新版的Android 2.2版系统。目前仅有Nexus One(参数 报价 图片 论坛)、Droid(参数 报价 图片 论坛)等少部分机型可以安装Android 2.2测试版系统进行尝试，现在又多了一个iPhone。
+　　iPhone 3G(参数 报价 图片 论坛)运行移植版的Android 2.2系统之后，除了WiFi和音频播放不能正常工作之外，包括打电话、发短信、上网等功能均能正常工作。
+　　此次移植同样使用了OpeniBoot工具，让iPhone可以引导启动非iPhone OS的系统，从而实现双系统启动，支持该系统移植的机型包括iPhone 3G/2G和iPod Touch一代。
+

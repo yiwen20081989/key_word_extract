@@ -1,0 +1,7 @@
+微软利用HTML5为iPhone和Android开发必应应用
+　　新浪科技讯 北京时间11月3日午间消息，微软(微博)周三面向iPhone和Android用户推出了基于HTML5开发的必应移动应用，但并未面向Windows Phone用户推出。
+　　由于Windows Phone 7系统已经内置了一个版本的必应，因此新的HTML5必应应用初期仅面向iPhone和Android用户推出，而黑莓和Windows Phone 7用户则要稍后才能使用，但具体时间未明。
+　　业内人士认为，此举表明微软正在逐步将重点从.Net和Silverlight等自有平台转向HTML5行业标准。Windows Phone 7.5芒果系统就将支持HTML5的IE9浏览器作为一个重点功能来推广。
+　　微软发言人说：“这款应用的功能是基于HTML5开发的，目前只能兼容iPhone和Android。我们今后还将面向Windows Phone 7推出新版必应应用。”
+　　这款基于HTML5的新应用将把必应搜索引擎引入手机，而且还将整合地图、实时信息、搜索历史和团购服务。团购服务将聚合来自Groupon、LivingSocial和Tippr的团购信息。(鼎宏)
+

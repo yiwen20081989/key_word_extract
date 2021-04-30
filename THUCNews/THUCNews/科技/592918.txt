@@ -1,0 +1,6 @@
+Autodesk收购Illuminate Labs
+　　新浪科技讯 北京时间7月21日晚间消息，据国外媒体今日报道，Autodesk已经与瑞典的游戏光影技术公司Illuminate Labs达成收购协议，双方没有披露这笔收购的条款。
+　　Illuminate Labs的Beast中间件解决方案和针对Autodesk Maya软件的Turtle插件能够提升游戏开发的速度，并呈现出更加逼真的游戏内光影效果。Autodesk表示，这笔收购不会对此前公布的业绩预期造成任何影响。
+　　此外，Illuminate Labs的员工将被转移至Autodesk。Autodesk表示：“我们欢迎Illuminate Labs的客户和员工来到Autodesk。技术进步是游戏行业的支柱。Autodesk将致力于帮助游戏开发者开发更具竞争力的现代游戏。我们希望客户花费更少的时间建立工作流以及解决重复问题，同时将更多时间用于游戏的创造性工作中。”
+　　Autodesk表示，计划开发并销售Illuminate Labs的技术，并为该公司客户提供支持。Illuminate Labs的客户包括索尼计算机娱乐、EA、任天堂及THQ。Autodesk未来将把Beast中间件解决方案继续作为一款独立产品，但不会单独保留Turtle插件。(李慧)
+

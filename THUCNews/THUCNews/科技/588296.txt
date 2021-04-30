@@ -1,0 +1,10 @@
+微软将发10个安全补丁1个漏洞未修
+　　【赛迪网讯】6月5日消息，微软将在下周的补丁星期二发布10个安全补丁，其中包括修复Windows、IE浏览器、Word、Office和Excel等软件中严重安全漏洞的补丁。
+　　据微软周四发布的安全公告称，有6个严重等级的安全漏洞能够让攻击者在用户计算机上远程执行代码。3个重要等级的安全漏洞影响Windows操作系统，能够让攻击者提升权限。Windows中的1个中等的安全漏洞可能导致信息泄露。
+　　这些安全漏洞影响的产品包括Windows 2000、XP、XP专业版、Vista、Server 2003、Server 2008；Office 2000、2003、2007和XP；用于Mac机的Office 2004和2008。
+　　这些安全漏洞影响的其它软件还包括Office Excel Viewer；Office Word Viewer；Word、Excel和PowerPoint 2007文件格式的Office兼容包；Works 8.5和9.0；Office SharePoint Server。
+　　PowerPoint软件中的安全漏洞似乎与微软在4月份发布的警告并且在上个月的Windows版本中修复的安全漏洞相同。
+　　补丁列表中漏掉的一个安全漏洞是微软上个星期披露的在其Windows操作系统中的DirectX流媒体技术中的一个安全漏洞。这个安全漏洞能够让攻击者利用一个恶意制作的QuickTime文件完全控制用户的计算机。
+　　作者：天虹
+
+

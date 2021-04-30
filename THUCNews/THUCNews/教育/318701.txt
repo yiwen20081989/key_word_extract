@@ -1,0 +1,27 @@
+名师解读：雅思听力之“读”和“猜”
+　　雅思考试听力部分将其对于“细节”的测试发挥至了极点，我们一直强调，为了能减轻自己在听题过程中的负担，就要充分利用“听力五步法”------“读，猜，听，写，查”中的“读”和“猜”这两个步骤。
+　　接下来，我们就将从雅思考试听力填空题中最常考的一个类型------完成句子来为大家细细解读。
+　　在句子填空题题目要求中最常见的字数限定的要求是这样的形式，如NO MORE THAN …….  WORDS，NO MORE THAN …… WORDS AND/OR A NUMBER和NO MORE THAN …… WORDS OR A NUMBER。
+　　其实，以上三种字数限定的出现一方面对于我们的答案填写可以起到一定的提示作用，同时却可能是增强了限定，甚至可以说是为考生的答案填写设下了陷阱，可能成为考生没有达到理想成绩的一个原因。具体如下：
+　　提示作用：
+　　比如题目要求是NO MORE THAN …….  WORDS，那么我们就可以判定这一部分答题时不可能出现数字。
+　　限定作用：
+　　再看NO MORE THAN THREE WORDS AND/OR A NUMBER和NO MORE THAN THREE WORDS OR A NUMBER，这两个看似相近的答题要求却可能是你与高分失之交臂的罪魁祸首。请看下例：
+　　题目：  A …….. deposit is required
+　　原文： A twenty percent deposit is required
+　　若此处题目要求是NO MORE THAN THREE WORDS AND/OR A NUMBER，那么答案在不超过三个单词前提下可以是20%， 20 percent或twenty percent。
+　　但若题目要求是NO MORE THAN THREE WORDS OR A NUMBER，此时正确答案可以是20%，也可以是twenty percent, 但不可以是20 percent,因其将单词和字母混杂在一起了。
+　　因此，从开始读题起便需要大家注意其字数限定要求这一项，作为考生我们不管是在战略上还是战术上，绝不能藐视任何一个“细节”。
+　　与此同时，在“读”和“猜”的过程中空前后两边相邻的一些关键信息像介词，连词，动词等是我们着重要关注的对象，比如and, or, either… or …, both … and …, 等，这些词左右两边的语法结构应该保持一致。
+　　像并列连词的出现尤为关键，因为“二合一”是雅思听力中最高频的含义转述方式之一，在题目中主要以A&B形式出现，因此不管是在平时练习还是考试都需要予以重视。观察一些例子：
+　　(1)  There are high-speed trains in Japan and ………。
+　　(2)  Float records changes in salinity and ………。
+　　(3)  Realists focused on events that were ……… and typical rather than extraordinary。
+　　(4)  Some governments encourage the new industry by ………. and offering extra tax breaks。
+　　看过这四个例子可以得出以下结论：
+　　第1题中，and左边是“Japan”，因此其右方应当是一个“国家”或“地区”。
+　　第2题and左边是名词“salinity”那么右边空同样也是“名词”。
+　　第3题空右方“typical”是形容词，根据语法结构此处同样是“形容词”。
+　　第4题and左边有介词by，而右边是offering extra tax breaks,因此我们完全可以推断此处应填“动名词词组”。
+　　这样的“读”和“猜”能帮助大家在听题过程更加有效进行定位，同时，可以结合之后的检查步骤，让自己的答题有了一个“双保险”。
+

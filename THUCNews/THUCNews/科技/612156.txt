@@ -1,0 +1,6 @@
+CES2009：OQO model 2+搭载GobiOLED
+　　上个星期我们介绍过OQO的model 2+会使用OLED屏幕，现在它现身CES让用户可以亲手把玩了。外观十分具有吸引力，让人一看就会想去试一试，十分小巧可爱。配置为800*400 OLED 触摸式屏幕，1.86GHz Intel Atom 处理器，2GB内存，WiFi/Bluetooth，支持DirectX 9和H.264视频解码。
+　　内置Qualcomm Gobi dual-mode HSPA / EV-DO WWAN 3G 模块，标配3.5小时的续航时间（可选购双倍电力电池），世界通用的键盘和电源适配器。重量还不到500克，另外有HDMI/DVI/VGA接口，可以支持1920*1200分辨率屏幕的视频输出。售价为999美元，折合人民币6800元左右。
+　　编辑观点：上次介绍的新闻中谈到，OQO model 2+是第一款采用OLED的UMPC，并且采用的是之前从未露面的1.86GHz的Atom处理器。就这些就足以让你去关注一下了，并且其外观也十分不错，OQO作为一直在走高端UMPC的公司，确实有推出让人叫好的UMPC。
+
+

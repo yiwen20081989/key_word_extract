@@ -1,0 +1,6 @@
+微软下周发布Mac Office 2011重要补丁SP1
+　　新浪科技讯 北京时间4月7日早间消息，微软下周将发布Mac Office 2011的第一个重要补丁包SP1。预计SP1将改善Office的稳定性和安全性，同时也会新增一些功能，包括支持Outlook和苹果同步服务(Sync Services)的同步。安装补丁包后，Outlook Calendar、联络人、任务、便条等信息可以实现与任何支持苹果Sync Services的终端设备同步，包括iPhone和iPad。
+　　但Outlook的日程仍然无法与MobileMe同步，因为MobileMe会在5月5日停止同步服务。因此Outlook Calendar虽然可以和任何Sync Service同步，却依然无法和MobileMe同步。
+　　这也就意味着，如果将iPhone或者iPad日程已经通过iTune与Sync Services同步，那么他们也会和Outlook 2011 SP1同步。但是如果iPhone或者iPad日程是与MobileMe同步，那么依然无法与Outlook 2011同步。
+　　SP1新增的其他功能包括，支持基于Exchange服务器侧标尺；在Outlook中可编辑已有信息；Outlook的两个新按钮Redirect和Resend，他们可以帮助实现在信息重新发送到指定收件人之时，在回复栏保留原发件人信息。(乔林)
+

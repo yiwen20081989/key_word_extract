@@ -1,0 +1,92 @@
+新GRE考试句子填空题的改变及应对策略
+　　(一)新旧题型差异
+　　从官网信息来看，考试作了较大的调整。
+　　单个句子 1-2个空格 5选1
+　　题型一：段落 段落题目1-N(数)个空格 3选1题型二：单个句子 单句题目1-2空格 6选2
+　　选择唯一正确答案 难度主要来自对单词理解和逻辑的分析
+　　段落题目要将所有空格填完并且完全正确才得分 单句题目要两个选项都入选才正确
+　　(二)变与不变的辩证
+　　如表所示：新考题在形式上是做了较大的调整。题干、选项、还是计分原则都有变化。但是，如果剥离这些表面东西后，我们可以发现其实核心的东西没有任何变化——GRE依旧是一个以句子、段落为载体的逻辑考试。
+　　就题目而言，样题的题目就有几个题目是我们明确知道出处的。SampleTextCompletionQuestions第4题就是来自92国内题目；而SampleSentenceEquivalenceQuestions第2题就是no9的题目。答案都一样，只是在干扰选项上做了一点调整(具体见样题分析)。
+　　换句话说，就是形式作了一点微调，核心东西都没有变化。
+　　(三)备考策略调整
+　　那么，对于广大考生来讲。备考中对于这些细节应该怎样看待呢？或者说，应该在具体复习和解题操作上作出哪些调整，才能在最少的时间内，尽快将这个变化适应过来呢？
+　　1.背诵并深刻理解红宝上填空部分单词。并按照考试新要求，自己尝试作类别词汇收集。
+　　2.踏实提高英语水平，充分重视长句，难句阅读能力提升。
+　　3.认真研究过去考题。没有必要觉得考试改革了，将旧题完全否定，相反，我觉得应该把旧题更加积极利用起来。不仅仅是消极做题，还要按照从样题来的思路模拟ETS思路，看这些题目可以怎样改进成为新题。题干可以做哪些调整，题目单词可以加入哪些做替换。倘能如此，何愁GRE不克。
+　　(四)GRE 样题分析
+　　Text Completion Questions 段落完成问题(段落完型填空)
+　　Text Completion questions include a passage composed of one to five sentences with one to three blanks. There are three answer choices per blank, or five answer choices if there is a single blank. There is a single correct answer, consisting of one choice for each blank. The examinee receives no credit for partially correct answers。
+　　段落完型部分包括一个段落含有1至5个问题，每个问题有1至3个空格。每个空格(空格数量在两个以上)有3个备选答案，而对于空格数量者则有5个备选答案。每空只有一个正确答案。考生只有将所有答案做对该题才得分，即：空格在两个以上者不分开计分。
+　　Sample Text Completion Questions 段落完型样题
+　　Directions: For each blank select one entry from the corresponding column of choices. Fill all blanks in the way that best completes the text。
+　　答题指令：请在每个空格相应的栏目中选取能最好完善短文的备选答案。
+　　1.  It is refreshing to read a book about our planet by an author who does not allow facts to be (1)__________ by politics: well aware of the political disputes about the effects of human activities on climate and biodiversity, this author does not permit them to (2)__________ his comprehensive description of what we know about our biosphere. He emphasizes the enormous gaps in our knowledge, the sparseness of our observations, and the (3)__________, calling attention to the many aspects of planetary evolution that must be better understood before we can accurately diagnose the condition of our planet。
+　　
+　　Answer: overshadowed, obscure, and superficiality of our theories
+　　第一空线索：
+　　读某本书能带来refreshing效果，则表明这本书作者写作的效果就是有让我们refreshing的效果或者预期。所以，他“does not allow facts to be (1)__________ by politics”不会让政治“politics”对这本书作什么作用呢？当然是不会让政治使其破坏这本书“refreshing”的特点。则，第一空从正负就可以将illuminated排除。具体选择“overshadowed”“invalidated”还要参看第二空。
+　　第二空线索：
+　　第二空线索说作者不允许them怎样。往前寻找them指代，很容易发现：them就是politics。这样一来，马上可以看到这样的重复：
+　　an author who does not allow facts to be (1)__________ by politics
+　　= this author does not permit them to (2)__________
+　　都是说作者不允许政治对书做怎样的动作。则两空是同义重复。又由于第一空推出动作是负面的。故两空都是负面的。则第二空是obscure, 而第一空也就只能是overshadow。
+　　第三空线索：
+　　实际上是三个并列重复，同时和一个分词构成手段和目的重复。
+　　He emphasizes the enormous gaps in our knowledge, the sparseness of our observations, and the (3)__________, calling attention to the many aspects of planetary evolution that must be better understood
+　　即：
+　　the enormous gaps in our knowledge,
+　　=the sparseness of our observations,
+　　=(and) the (3)__________,
+　　=calling attention to the many aspects of planetary evolution that must be better understood
+　　可以推断空格应该填写一个负面评价。
+　　Answer: eminence and tumultuous
+　　句子很简单，逻辑也很清晰。冒号引出解释关系。已知部分说Caravaggio具有如下特点：Vain(1) and prone to violence(2)，could not handle success(3)；则后面也要重复这两个特点。则后面the more …, the more所引导的内容也应该是重复这两个特点。两空都应该是负面词汇且重复Vain(1) ， prone to violence(2)，could not handle success(3)。则答案就是eminence(-)=tumultuous(-)。
+　　一个人虚荣，行为易倾向于狂暴，不能善待自己的成功；则越成功越易疯狂激动。
+　　Answer: soporific and tedious
+　　第一空线索：作者怎样风格描绘了主体。插入语描述主体特点是the role played by luck in everyday life。
+　　第二空线索：评价作者对subject描述具有怎样特点。应该和第一空呼应。即两空是同义词。
+　　即是soporific=tedious。
+　　Answer: appropriation
+　　句子来自92国内题目。但是选项不同。
+　　A promotion
+　　B exploration
+　　C surviving
+　　D conservation
+　　E enclosure
+　　(1)主干是：the concept … was challenged by a contrary notion；即：the concept <> notion
+　　(2)由“of”引出的“the concept”的具体内容：freedom of the seas from the proprietary claims of nations，海洋独立于国家所有权。则notion 应该说：海洋应该隶属国家所有权。
+　　所以答案就是appropriation。和原来题目相比，不过就是把单词替换了一下。由此可见，这个改革貌似也不过如此，没有什么技术含量。
+　　Sentence Equivalence Questions句子平衡问题
+　　Sentence Equivalence questions consist of a single sentence, one blank, and six answer choices. These questions require the examinee to select two of the answer choices. The examinee receives no credit for partially correct answers。
+　　句子平衡问题包含一个句子，一个空格，6个选项。要求考生在其中选出2个答案。只选出一个答案不得分。
+　　Sample Sentence Equivalence Questions 句子平衡问题样题
+　　Directions: Select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning。
+　　答题指令：选择
+　　1.  Although it does contain some pioneering ideas, one would hardly characterize the work as __________。
+　　A.          orthodox
+　　B.          eccentric
+　　C.         original
+　　D.         trifling
+　　E.          conventional
+　　F.          innovative
+　　Answer: C and F
+　　句子很简单。“although”引出一个转折关系逻辑。前面说有一些“pioneering ideas”，后面则应该否定“pioneering ideas”。否定已经由hardly表达出来。所以空格应该填写“pioneering ideas”。答案即是C、F。
+　　2.  The corporation expects only _______ increases in sales next year despite a yearlong effort to revive its retailing business。
+　　A.          dynamic
+　　B.          predictable
+　　C.         expanding
+　　D.         modest
+　　E.          slight
+　　F.          volatile
+　　Answer: D and E
+　　“despite”引出相反逻辑重复。后面说这个公司准备了很久了。正常情况下应该是很大的经济增长。转折后说增长很少即可。答案就是D&E。
+　　题目来自no 9的题目。同样将选项单词做了一下变化。其中答案单词modest没替换，还加入了同义单词slight。原题目如下：
+　　The corporation expects only __ increases in sales next year despite a yearlong effort to revive its retailing business。
+　　A unquestionable
+　　B sequential
+　　C modest
+　　D exaggerated
+　　E groundless
+　　（北京新东方 北美项目 蒋万贵）
+

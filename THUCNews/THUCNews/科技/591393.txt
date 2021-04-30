@@ -1,0 +1,6 @@
+Java创始人：甲骨文会继续支持
+　　新浪科技讯 北京时间3月18日上午消息，据国外媒体报道，Java创始人詹姆斯·高斯林(James Gosling)周三在拉斯维加斯召开的TheServerSide Java研讨会上发表了主题演讲。他在讲话中强调了甲骨文对Java的承诺以及Java技术的普遍意义，同时谈到了近期发布的Java Enterprise Edition (EE) 6技术规格。
+　　高斯林表示：“甲骨文将一直致力于保持Java和整个生态系统的强劲稳定。”他还说，升级版的Java Store即将推出。Java Store于去年进行试运行，旨在作为一个发现和购买Java和JavaFX程序的网络商店。
+　　甲骨文近期完成了斥资74亿美元收购Sun的交易，同时获得了Java技术。在效力Sun多年之后，高斯林如今出任了甲骨文客户软件部门的CTO。
+　　高斯林表示，Java EE 6将成为下一代企业软件的基础；该软件在经过7年研发后，于去年11月30日获得通过。Java EE 6提供了模块化和基于任务配置文件等功能。目前Java EE 6提供了基于网络的文件以及完整文件。Java EE 6的技术规格还包括了JAX-RS 1.1、Enterprise JavaBeans 1.1、Managed Beans 1.0以及Java-WS 2.2等应用程序界面。(逸飞)
+

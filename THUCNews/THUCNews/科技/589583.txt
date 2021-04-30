@@ -1,0 +1,8 @@
+甲骨文CEO称Salesforce产品只提供片面应用
+　　甲骨文CEO拉里 埃里森日前嘲笑CRM(顾客关系管理)供营商Salesforce.com只是依赖在甲骨文产品上的极小的应用。
+　　“事实上，Salesforce的一切都是基于Oracle数据库。我们认为Oracle数据库才是美妙的云计算。但是Salesforce却是在Oracle数据库之上来建立其应用。这其实就是Oracle中间件。”埃里森说。
+　　”我们看他们的技术，”埃里森说，“他们购买计算机，租一间房子，并在这个房子里部署计算机，并将它们连在一起。然后，他们在这些计算机上部署Oracle数据库，并通过Oracle中间件建立他们的应用。 他们接下来才会提供salesforce的应用……拜托，Salesforce.com运用的大多数技术都是我们的”。
+　　“另外，有许多应用Salesforce.com软件的公司都可以直接替换甲骨文的按需CRM。”埃里森说。
+　　对此，Salesforce.com的发言人表示不予评价，而是从公司的成功方面予以回应。“顾客正在远离传统软件，而向云计算靠近”负责掌管Salesforce企业战略的副总裁Bruce Francis表示，“目前，我们有超过63000个用户成功应用了云计算。在第二季度，我们的客户数量增长了32%”。
+　　有趣的是，在埃里森讽刺Salesforce的同时，他自己却是Salesforce.com的投资者之一。而即将举办的Oracle OpenWorld大会，Salesforce也是众多的合作伙伴之一。
+

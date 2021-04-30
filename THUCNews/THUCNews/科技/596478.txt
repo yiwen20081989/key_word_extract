@@ -1,0 +1,5 @@
+思科推新数据中心解决方案支持SQL Server
+　　新浪科技讯 北京时间5月16日晚间消息，思科今日针对希望在思科统一计算系统 (UCS)上使用微软企业软件的用户推出了两套新的数据中心解决方案，新解决方案支持微软SQL Server数据仓库和在线交易跟踪，将帮助用户加速软件开放，降低IT复杂性，减少整体拥有成本。
+　　这两套解决方案分别为“思科统一计算系统上的Microsoft SQL Server 2008 R2快速跟踪数据仓库3.0” (Microsoft SQL Server 2008 R2 Fast Track Data Warehouse 3.0 for Cisco Unified Computing System) 和“思科统一计算系统上的Microsoft SQL Server 2008 R2 OLTP参考配置” (Microsoft SQL Server 2008 R2 OLTP reference configuration for Cisco UCS)。
+　　第一套解决方案旨在满足大中型企业对整合服务器、存储和网络技术的需求，从而优化思科统一计算系统上的Microsoft SQL Server 2008性能。第二套解决方案旨在帮助用户优化在线交易处理，可帮助用户降低开发复杂性和整体拥有成本。(李明)
+

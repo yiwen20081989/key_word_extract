@@ -1,0 +1,18 @@
+万网回应被指泄露客户信息：国际社会通行做法
+　　新浪科技讯 1月7日下午消息，针对有媒体报道称万网涉嫌泄露用户的个人信息，万网向新浪科技发来声明称，基于whois服务向公众提供域名注册信息的查询，是国际社会的通行做法。
+　　以下为万网声明原文：
+　　关于中国万网域名信息查询服务的声明
+　　作为ICANN(国际互联网名称与数字地址分配机构)和CNNIC(中国互联网络信息中心)的合作伙伴，中国万网根据 ICANN颁布的《whois查询服务》办法规定以及工业和信息化部颁布的《中国互联网络域名管理办法》，正常履行着“域名注册服务商要公开域名注册信息”的职责。基于whois服务向公众提供域名注册信息的查询，是国际社会的通行做法，也是国内外所有域名注册服务商多年来一致提供的服务。中国万网也吸取部分客户的意见和建议，积极投入资源为客户提供更加优质的域名查询、域名注册以及域名信息保护增值服务。
+　　中国万网
+　　2011-1-7
+　　附录：
+　　ICANN《whois查询服务》中关于公开域名注册信息译文：
+　　whois服务提供公共通道获取已注册域名数据，目前包括注册域名持有人联系信息。域名注册时搜集到的注册信息，以及前述信息可以使用的方法均在ICANN为通用顶级域名制定的协议里进行规定。例如，ICANN要求授权注册商搜集并免费向公众提供注册域名名称、域名服务器、注册商、域名注册日期、到期日期、注册域名持有人联系信息、技术联系人和管理联系人。
+　　ICANN《whois查询服务》中关于公开域名注册信息原文：
+　　WHOIS services provide public access to data on registered domain names, which currently includes contact information for Registered Name Holders. The extent of registration data collected at the time of registration of a domain name, and the ways such data can be accessed, are specified in agreements established by ICANN for domain names registered in generic top-level domains (gTLDs). For example, ICANN requires accredited registrars to collect and provide free public access to the name of the registered domain name and its nameservers and registrar, the date the domain was created and when its registration expires, and the contact information for the Registered Name Holder, the technical contact, and the administrative contact。
+　　网址：http://icann.org/en/topics/whois-services/
+　　工业和信息化部《中国互联网络域名管理办法》中第二十六条关于公开域名注册信息原文：
+　　域名注册管理机构和域名注册服务机构应当公布域名注册服务的内容、时限、费用，提供域名注册信息的公共查询服务，保证域名注册服务的质量，并有义务向信息产业部提供域名注册信息。
+　　工业和信息化部《中国互联网络域名管理办法》全文：
+　　http://www.cnnic.net.cn/jczyfw/cnym/cn01_zcfg/200805/t20080530_15129.html
+

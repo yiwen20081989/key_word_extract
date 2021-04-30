@@ -1,0 +1,6 @@
+Sprint定制支持WiMAX HTC Kingdom送测FCC
+文/马千里
+　　相信使用过HTC产品的用户对HTC在2011年的表现会有所了解，强机不断，当然，这也是整合手机行业新品旗舰机型辈出的环境下发生的。前不久曝光的HTC Kingdom近日出现在美国联邦通信委员会的审核测试名单当中，相信很快会与各位见面。
+　　在这款产品之前，搭载双核处理器的HTC Sensation以及HTC EVO 3D陆续出现，这也让大家对HTC Kingdom充满了期待。据悉，HTC Kingdom将由美国运营商Sprint定制，可能支持WiMAX网络，如果发布，这是Sprint继摩托罗拉Photon 4G之后推出的又一款支持Sprint高速网络的产品。
+　　从曝光的数据来看，HTC Kingdom在硬件配置上可能没有HTC EVO 3D强劲，它也可能不是HTC EVO 3D的Sprint版本，有消息称它将搭载4.3英寸的qHD分辨率屏幕，内存为768MB（RAM），拥有130万像素前置摄像头以及500万像素主摄像头，支持720P视频录制，不过它采用的芯片型号可能是1.2GHz的高通Snapdragon MSM7630，如果这样的话，芯片构成会和之前T-Mobile G2使用的高通MSM7230处理器配置非常相近，采用型号为高通Adreno 205的图形处理芯片，不过由于主频的提升，在性能上应该会比前一代产品速度更快。
+

@@ -1,0 +1,5 @@
+COMPUTEX 2011Intel展示混合平板Keeley Lake
+　　在刚刚开幕的Computex　2011上，英特尔展示了一款融合了平板电脑和笔记本电脑两种形态的产品，更确切的说，这是一种解决方案的展示，名为Keeley Lake。
+　　从现场图片来看，Keeley Lake的设计理念类似华硕的Eee Pad Transformer。由一个平板电脑以及一个底座构成。用户可以单独使用平板部分，或者与底座相连接，构成一个笔记本电脑。
+　　配置方面，Keeley Lake配有Oak Trail 1.5GHz Atom Z670处理器，Windows 7操作系统，支持1080p视频播放。英特尔并未透露这款产品是否有量产计划。
+

@@ -1,0 +1,22 @@
+AMD今年内将放弃ATI商标
+　　新浪科技讯 北京时间8月30日下午消息，据国外媒体报道，AMD将对其品牌进行整合， 放弃ATI品牌，着力打造Vision平台。
+　　对ATI的整合
+　　四年前，AMD以54亿美元收购了显卡厂商ATI，并获得了不错的回报。最显著的是，AMD的芯片组业务发展迅速。
+　　今年晚些时候，AMD的首批Ontario处理器将发货，该产品被称作Fusion APU，它融合了CPU和GPU的功能。Ontario使用Bobcat核心和AMD的GPU，这也是AMD 与ATI合作的一个直观例子。
+　　AMD决定放弃ATI品牌，这让许多人感到吃惊。这就意味着，市场上将不再有任何带有ATI商标的产品了。
+　　AMD的决定是基于一项内部调查作出的。对于此项调查，AMD给出了三点说明：
+　　1) 当受访者得知ATI和AMD合并之后，对AMD的认可度提升了两倍；
+　　2) AMD品牌在显卡技术方面比ATI更优秀；
+　　3) Radeon和Fire Pro品牌本身(在不附加ATI标志的情况下)认可度很高。
+　　事实上，第二条是真正的理由。如果AMD的内部调查是可信的，那么在人们看来，将不再是ATI对抗NVDIA，而是AMD对抗NVDIA。AMD的调查很可能是对的，因为该公司不会为了让高管们满意而做出不利于产品销售的决定。
+　　现在，AMD的产品上已经很少能够找到ATI的商标。AMD迅速吸收了ATI的芯片组业务并使用了新名字，而ATI的数字电视部门等消费电子业务也已经出售给了其它公司。Radeon和FirePro 是仅存的两个ATI产品线，目前这两个品牌的独立发展势头良好。
+　　品牌调整反映了AMD内部的一些变化。许多ATI的重要员工已经搬到了AMD位于德州奥斯汀的运营基地，以协助研发Liano、Ontario和AMD未来的Fusion产品。AMD和ATI之间的界线正越来越模糊。
+　　Vision平台
+　　AMD商标的另一个主要变化是简单化。去年AMD引入了新平台商标Vision。如果用户购买了一台装有所有AMD组件(CPU、芯片组和GPU)的电脑时，电脑上会有一个Vision商标(类似于英特尔的Centrino商标)。Vision有四种分类，分别为Vision、Vision Premium、Vision Ultimate和Vision Black，它们对硬件的要求依次递增。
+　　从明年开始， Vision将成为零售的AMD台式机和笔记本的唯一CPU商标。用户仍将看到Radeon 和Fire Pro商标，但在Vision系统中将不会出现Phenom II、Athlon II、Turion 和Sempron等标志。
+　　在AMD推出“推土机”(Bulldozer)处理器前，这种情况会继续下去。如果该产品的性能很有竞争力，AMD将会进一步打造该品牌。
+　　GPU市场份额的攀升
+　　AMD放弃ATI商标的时机十分微妙。显卡技术正变得越来越重要，但到目前为止，功能强大GPU的应用主要还在3D游戏领域。AMD正是看准这一点，在CPU和GPU之间的界限变得更加模糊之前巩固其品牌。
+　　AMD指出，过去几年，其市场占有率一直稳步上升。根据Mercury Research的调查，AMD的独立GPU的市场占有率从2007年底的33%攀升至上季度的51%。
+　　如果明年AMD现有的两款CPU新架构表现出色，则AMD的品牌将会变得更强。现在，Bobcat核心在上网本和轻薄笔记本领域表现良好，而“推土机”( Bulldozer)将在服务器和高端台式电脑领域占据一席之地。(钦亮)
+

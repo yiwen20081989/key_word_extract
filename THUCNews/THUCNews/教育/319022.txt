@@ -1,0 +1,22 @@
+GREGMAT写作制胜绝招：类比方法
+　　无论是GRE还是GMAT写作的评分都很看重论据是否对观点进行了有效支持，因此选择合适的论据至关重要。通常来说，选择论据有如下几个思路：一是例证法(包括名人伟人的例子，无名小人物的例子，有名有姓小人物的例子，亲身经历等)；二是引经据典法(引用圣经、希腊神话、罗马神话等)；三是引用权威法(专家、教授或在某一领域有特长的人)；四是引用数据；五是类比法。这里想就类比在写作中的应用进行一下分析。
+　　一、类比在ISSUE中的应用。
+　　ISSUE是立论文，也就是说，我们需要用理由或例子去支持自己的观点。在英语中有个单词叫comparable，直译的话是可比较的，其实它等同于similar(相似的)这个单词，因为在西方文化中，只有相似的东西才具有可比较性。因此相似性也就成为了整个类比关系的前提和基础。
+　　个人认为，类比(Analogy)在上述提到的五种论据方法中是最有逻辑性的，使用得当可以省力又出彩地证明观点。它有点像中学时代所学的几何题，解题的关键不在论证的过程，而是添加一条辅助线。只要找到合适的辅助线，论证就是水到渠成的事了。当我们想论证一个抽象复杂的命题A——B 时，我们可以选择一个具体形象并且不需要证明的——D来作为辅助线，然后就把原本复杂的A——B的论证过程替代为论述AB和CD之间的相似性就可以了。这里需要指出的是，所谓具体形象且不需要证明的CD其实指的就是事实或常识。所以类比关系建立的难点就在与选择合适的CD。我们来看个例子。
+　　The Negro has callus growing on his soul and it’s getting harder and harder to hurt him there. That’s simple law of nature. Like a callus on the foot in a shoe that’s too tight. The foot is nature’s and that shoe was put on by man. The tight shoe will pinch your foot and make you holler and scream. But sooner or later， if you don’t take the shoe off， a callus will form on the foot and begin to wear out the shoe。
+　　It’s the same with the Negro in America. That shoe—the white man’s system—has pinched and rubbed and squeezed his soul until it almost destroyed him. But it didn’t. And now a callus has formed on his soul， and unless that system is adjusted to fit him， too， that callus is going to wear out that system。
+　　很显然在这段文字中，作者想证明的是全文第二段的最后一句话：And now a callus has formed on his soul， and unless that system is adjusted to fit him， too， that callus is going to wear out that system。(现在黑人的灵魂中已经产生了老茧，除非白人的统治体系能调整以适合他们，否则老茧将使这个体系土崩瓦解。)简而言之，就是黑人终将冲破白人统治。
+　　黑人反抗白人统治获得解放这无疑是个非常抽象复杂的命题。采用一般的例证法，学生们都不约而同能想马丁。路德。金。且不管例子雷同与否，事实上，很少有人能真正清楚又准确地写出马丁。路德。金的具体事迹来证明这个观点。甚至还有学生会想到曼德拉或奥巴马来证明，实在有失偏颇。
+　　现在我们再来看上面这段文字。作者很巧妙地找了CD，即 foot(nature)——shoe( put on by man)之间的关系。 鞋子小了，脚穿着会疼，如果不及时脱掉或调整，脚上会产生老茧。如果鞋子继续对脚进行禁锢，那么总有一天，脚会把鞋子穿破。这是一个再平常不过的道理，不需要再花时间进行论证，括号里的就是AB和CD间的相似性，轻松论证了这个复杂的命题，这就是类比的魅力。
+　　下面再给大家一段文字来体会类比的妙用。
+　　“It is unrealistic to expect individual nations to make， independently， the sacrifices necessary to conserve energy. International leadership and worldwide cooperation are essential if we expect to protect the world’s energy resources for future generations。” 　　
+　　Another reason why an international effort is required is that other problems of an international nature have also required global cooperation. For example， has each nation independently recognized the folly of nuclear weapons proliferation and voluntarily disarmed? No. Only by way of an international effort， based largely on coercion of strong leaders against detractors， along with an appeal to self-interest， have we made some progress. By the same token， efforts of individual nations to thwart international drug trafficking have proven largely futile， because efforts have not been internationally based. Similarly， the problem of energy conservation transcends national borders in that either all nations must cooperate， or all will ultimately suffer。
+　　类比，这种说理手段对大家而言其实并不陌生。在中国古文中如《老子》，《庄子》等都很擅长把深刻的道理用显而易见的故事来讲述出来，比如刻舟求剑等。另一方面，在诗歌中也会采用大量类比或比喻的手段来把抽象的意境具体化地表现出来。这里选用几句Tagore (泰戈尔) 飞鸟集中的句子来赏析一下希望能给大家些灵感：
+　　Her wishful face haunts my dreams like the rain at night(她的热切的脸，如夜雨似的，搅扰着我的梦魂。)
+　　Woman， when you move about in your household service your limbs sing like a hill stream among its pebbles。(妇人，你在料理家务的时候，你的手足歌唱着，正如山间的溪水歌唱着在小石中流过。)
+　　The touch of the nameless days clings to my heart like mosses round the old tree。(无名的日子的感触，攀缘在我的心上，正象那绿色的苔藓，攀缘在老树的周身。)
+　　二、类比在ARGUMENT中的运用。
+　　Argument是驳论性文章，也就是找一段文字中的错误，进行有理有据的驳斥。一般来说，argument比issue容易些，因为错误的类别其实很固定的，俗称“七宗罪”。在这七宗罪中就有三宗是跟类比有关系的，分别是：misapplied generalization(概括误用，即以大推小)；hasty generalization(匆忙概括，即以小推大)；faulty analogy(错误类比)。不管是哪一种错误，只要是跟类比扯上关系，在驳斥时，我们都可以把它简化成一件事---找相异性。因为对于类比关系而言，它成立的前提和基础就是相似性，所以只要找到所比较两者间的相异性，那么再有逻辑的推理也是不成立的。我们举个很简单的例子来说明这个道理。如有这样一个观点：
+　　你应该请在埃里克的派对中请的那支相同的乐队，因为他们很棒。
+　　在进行驳斥时，千万不要花时间去论证埃里克所请的那支乐队是否很棒，这不是问题的关键。关键是找到两个派对的相异性，只要能证明这两个派对没有可比性，那么无论那支乐队棒或不棒，都不该请。我们可以从派对参与人数(比如你的派对1000人，埃里克只有10人)，派对参与对象(你的派对全是年轻人，埃的派对平均年龄88)，派对场所(你的派对在户外大广场，埃的在室内)等等方面提出假设，进行驳斥。
+

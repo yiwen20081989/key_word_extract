@@ -1,0 +1,7 @@
+消息称谷歌2500万美元收购Office服务提供商
+　　新浪科技讯 北京时间12月20日早间消息，据国外媒体今日报道，消息人士透露，谷歌即将收购旧金山一家Office服务提供商DocVerse，收购价格约为2500万美元。
+　　DocVerse提供的服务能帮助用户协作编辑微软的Office文档。谷歌近期收购了另一家同类公司Appjet，其产品EtherPad也提供相关功能。不过有报道称，Appjet的团队已转而从事谷歌波浪(Google Wave)的开发工作，而EtherPad的源代码已被开放。
+　　业内人士认为，谷歌将会保留DocVerse的产品。DocVerse创始人为微软老员工沙恩·辛哈(han Sinha)和埃里克斯·德努伊(Alex DeNeui)。辛哈此前曾负责微软SharePoint和SQL Server的产品战略，而德努伊则曾负责SQL Server的网络战略。
+　　通过收购DocVerse，谷歌将拥有与微软Office直接相关的软件，帮助用户实时的协作编辑文档。微软最新的Office 10也在向这一方向发展，并将成为微软对抗谷歌文档(Google Docs)的重要武器。谷歌收购DocVerse被认为是对微软的反击。
+　　DocVerse曾于2008年融资130万美元，投资方包括Baseline Ventures、Harrison Metal Capital和Naval Ravikant等投资公司。谷歌尚未完成对DocVerse的收购，不过消息人士称双方已就收购条款达成一致。(维金)
+

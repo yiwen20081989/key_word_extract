@@ -1,0 +1,9 @@
+谷歌Android Market规模将超苹果App Store 
+　　新浪科技讯 北京时间4月28日上午消息，市场研究公司Distimo公布的一份报告显示，谷歌Android电子市场中的应用数量将在几个月内超过苹果App Store。App Store中目前有超过35万款应用。
+　　Distimo这份报告关注了多个应用商店，包括苹果App Store、黑莓App World、GetJar、谷歌Android电子市场、诺基亚Ovi Store、Palm App Catalog和微软WP7 Marketplace。Distimo发现，谷歌和微软的应用商店应用增长速度最快。
+　　Distimo表示：“如果所有应用商店都保持当前的增长速度，大约5个月之后。谷歌Android电子市场就将成为应用数量最多的应用商店，随后将是苹果App Store、WP7 Marketplace、黑莓App World和诺基亚Ovi Store。而在推出不到一年的时间内，WP7 Marketplace中应用数量也将超过诺基亚Ovi Store和黑莓App World。”
+　　Distimo的研究发现，谷歌在应用商店领域的竞争中处于有利地位。目前，Android电子市场的免费应用已有134342款，多于iPhone和iPod Touch版App Store的121845款。Distimo估计，今年6月，Android电子市场和App Store的应用数量将相差4万，而7月份时将完全超过。
+　　Distimo指出，这一预期基于过去3个月的数据，而各个应用商店的应用增长情况都有可能会加速或放缓。Distimo这一研究报告没有考虑亚马逊近期推出的Android应用商店。亚马逊这一应用商店于上月底推出，其中的应用与Android电子市场基本类似，不过未来可能会出现一些独家应用。
+　　这份报告还显示，截至3月底，iPad版App Store的应用数量已达到75755款。其中有30%的应用是免费的，而付费应用的平均售价为5.36美元。这一价格较iPad版App Store刚刚推出时已经有所上升，此前报告显示平均售价为4.34美元。Distimo表示，这一趋势不同寻常，因为其他应用商店的应用平均售价随着应用销量的上升而呈下降趋势。报告认为，这是由于iPad版App Store中游戏类应用相对其他应用的地位有所下降，而游戏类应用通常会有较多的应用内购物行为。
+　　根据Distimo的数据，截至3月底，电子书类应用是iPad版App Store中最热门的应用类型，此类应用数量已达16712款，而游戏类应用的数量为13861款。随后分别是教育类、娱乐类和生活方式类应用。研究公司Simba周三早些时候公布的一份报告显示，近40%的iPad用户没有使用iPad阅读过电子书。而大部分用户均表示，他们将iPad当作主要的阅读设备。(维金)
+

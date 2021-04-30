@@ -1,0 +1,48 @@
+名师指导：2010年考研阅读理解揭秘
+　　阅读理论纷繁复杂，本文试图利用一根主线将其串联起来，故名为：一个中心、两个注意、三个重视、四个原则和五个基本考点。
+　　一个中心
+　　所谓一个中心主要包含两个方面：
+　　一、一篇文章有一个中心，全文均是围绕文章中心展开。
+　　阅读理解中，广大考生首先面临的难题之一，就是如何在读完文章之后，有效地提炼出文章的中心。其实提炼中心的方法早在我们中学学习语文的时候，老师已经教给我们。文章中心可以概括为一句或者几句话。有的文章在一开始就会开门见山提出文章的中心。有的文章第一段进行背景介绍，进而在第二段提出文章中心。但是，有的文章也需要考生读完之后，自己通过对各段叠加，概括出文章的中心思想。如果考生读完文章之后，仍然无法提炼出文章的中心，那么一定要找出反映文章中心思想的词语(或词组)，即所谓的“核心词”。这个核心词往往会在每个段落反复提到，以名词居多。
+　　★阅读小贴士：注意高频词汇或词组。有些时候，高频词汇或词组以不同的形式出现，它们很可能是本篇短文的中心或关键问题或事物。
+　　【例如】The world is going through the biggest wave of mergers and acquisitions ever witnessed. The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might. Many in these countries are looking at this process and worrying: “Won’t the wave of business concentration turn into an uncontrollable anticompetitive force? ”
+　　通过略读我们可以发现文章的中心词/词组为the biggest wave of mergers and acquisitions, the process, this process, the wave of business concentration。文章顿时变得一目了然。
+　　二、一个段落会有一个中心
+　　英语文章段落会有严格的成分构成。一般说来，英语的一个段落由三部分构成：主题句+扩展句+结尾句
+　　1、所谓主题句是指一个段落的中心思想句，往往位于句首。
+　　2、所谓扩展句是指解释、论证、说明主题句的句子，最为明显的标志词如for example, for instance等。
+　　3、所谓结尾句是指总结陈述主题句的句子，往往可以省略。因此，读文章的过程中，每个段落的首末句要放慢速度，尤其是首句一定要放慢速度。当然任何规则也都会有例外。有些时候，文章段落不会出现主题句，需要读者自己去提炼。
+　　【例如】Consumers say they’re not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. Home prices are holding steady in most regions. In Manhattan, “there’s a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,” says broker Barbara Corcoran. In San Francisco, prices are still rising even as frenzied overbidding quiets. “Instead of 20 to 30 offers, now maybe you only get two or three,” say John Deadly, a Bay Area real-estate broker. And most folks still feel pretty comfortable about their ability to find and keep a job。
+　　很明显In Manhattan,----和In San Francisco,----这两句话构成了对Home prices are holding steady in most regions。这句话的解释，通过两个城市房价的变化，来论证说明为什么房价在许多地区仍然比较稳定。所以我们也就不难做出下面的题目
+　　53. When mentioning “the $4 million to $10 million range” (lines 3-4, paragraph 3) the author is talking about                。
+　　A. gold market
+　　B. real estate
+　　C. stock exchange
+　　D. venture investment
+　　★阅读小贴士：注意路标词即过渡词。路标词或词组，可以帮助考生有效理解作者思想的具体衔接和转折过渡等，从而有效把握前后句之间的关系。最常见的过渡词有：
+　　1、此外besides=moreover=furthermore=in addition
+　　2、更重要的是more than that; 同样重要的是equally important; 更more/less
+　　3、而且/并且and; 而且，也also
+　　4、表先后顺序：first, second/next
+　　5、同样： likewise; 或者alternatively
+　　6、因此，表“因果”so=therefore=thus=consequently=accordingly=as a result=and so
+　　7、总而言之，表“结论”as a result=finally=above all=after all=concluding=hence=to sum up=in conclusion
+　　8、但是；表“转折”but= yet= however= on the other hand= while= nonetheless= nevertheless= otherwise
+　　尽管although= though= despite= instead= in spite of= on the contrary= notwithstanding= rather= in contrast
+　　9、表“空间位置”near, far, beside, next to, above, under, behind, in front of, across, on the side of
+　　10、表“目的”for this purpose, so that, in order to
+　　11、表“强调”in fact, indeed, surely, certainly, to be sure, I am certain
+　　12、表“举例”for example= for instance= such as= specifically= to be specific= in particular= to illustrate this= thus
+　　13、表“条件”in that case, that being so, in these circumstances, if, unless, otherwise
+　　两个注意
+　　主要是指，读文章的过程中，有些内容可以一带而过，加快阅读速度。
+　　一、注意“放过”
+　　考试过程中，如果遇到难词或难句，考生可以稍作停顿进行考虑，如果仍然无法理解，那么就需要迅速放过去。包括在做题的过程中，有些题目本身难度很大，可以先放一放，其他题目做完之后再做该题目还是不错的。
+　　二、注意“删除”：就是可以迅速读过去，无需停顿。
+　　1、插入语
+　　(1)特征：通常情况下主谓之间用两个逗号或者双破折号引起的成分，称为插入语。
+　　例如：We should not forget, however, that most New Englanders were less well educated。
+　　(2)作用：
+　　①突出主语：Defenders of the Corporation—of whom there are many—are fond of quoting the American slogan “If it ain’t broke, don’t fix it。”
+　　②解释说明：The debate was launched by the Government, which invited anyone with an opinion of the BBC—including ordinary listeners and viewers— to say what was good or bad about the Corporation。
+

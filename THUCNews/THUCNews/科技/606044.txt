@@ -1,0 +1,11 @@
+FLASH+无线AP Milestone升级2.2全面解析
+作者/吴海宏
+　　就在笔者准备这篇文章的时候美国运营商Verizon已经开始提供摩托罗拉Droid的Android2.2升级包下载了，而作为DROID的姊妹机型MileStone相信也将会在两个月之内提供Android2.2升级服务，不过很多的朋友已经迫不及待的想要体验Android2.2带给我们的乐趣了。ZOL手机频道经过一天的学习和参考终于将手头的Milestone升级到了Android2.2版本，今天就为你详细讲解如何将你的Milestone升级到Android2.2，升级后的Milestone能为我们带来什么？
+　　为了让各个层次的网友都能够成功升级，我们首先对Milestone以及Android2.2做一个简单的介绍。
+　　Milestone
+　　Milestone就是在美国大名鼎鼎摩托罗拉DROID的WCDMA版本。由于美国地区的特殊性(Verzion是全美第一大运营商，采用EVDO网络)，摩托罗拉推出了DROID的WCDMA版本Milestone在全球地区推广，国内型号为XT702。而目前这款Android明星手机销量已经超过了四百万台，并且DROID系列第二代产品也已经成功发售。
+　　Android2.2(Froyo)
+　　Android2.2开发版本号为Foyou(冻酸奶)，是在2010年5月21日的Google I/O大会上正式发布。Android2.2重新编译了底层数据代码，将整个程序运营速度提升了5倍。而且USB Teathering、Flash10.1的支持、全新的浏览器、APP2SD功能让Android的实用性更进一步。随后Nexus One成为全球首款升级Froyo的手机。
+　　xdadevelopers
+　　著名的XDA开发者论坛，聚集了来自全球各地的技术Geeker和手机狂人。包括Android和iOS的很多著名事件都来自于该论坛。而今天笔者的主题 内容也来自与XDA的Milestone版块的各位高手的辛勤工作，在这里ZOL手机频道也感谢国外Android开发者为Milestone用户带来的 惊喜。
+

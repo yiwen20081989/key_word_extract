@@ -1,0 +1,8 @@
+苹果正式推出Mac OS X Lion操作系统
+　　新浪科技讯 7月20日晚间消息，苹果公司于今晚正式在全球同步推出了Mac OS X操作系统的最新版本Lion，苹果称Lion有250多项新功能，同时推出的还有新款MacBook Air和Mac mini、以及一款采用Thunderbolt接口的显示器。用户可以从Mac App Store进行下载更新，Lion售价29.99美元。
+　　去年10月20日，苹果举行“Back to Mac”发布会，正式发布了Mac OS Lion操作系统，并在2011年的WWDC全球开发者大会上详细介绍了Lion的新特性。今天，Lion在Mac App Store正式发售，这也是苹果第一次淘汰了光盘来发售全新的操作系统。
+　　该版本的Mac OS X加入多种多点触摸手势、支持了多种应用程序的全屏运行，还有整合了Expose和Spaces的Mission Control、以及来自iOS灵感的Launchpad、并针对文档有了保护数据的“版本”、“自动保存”功能、避免重启时丢失数据的“重返”功能、近距离分享文件的AirDrop、另外邮件功能也有了针对宽屏优化的三分栏显示以及一些易用性升级，Mac App Store的加入使消费者极其方便的获取Mac应用程序。
+　　经过新浪数码的提前试用，认为Mac OS X Lion更加人性化，也更贴近电脑用户平日的实际需求。
+　　Mac OS X Lion仅支持Intel处理器，将Snow Leopard和Mac App Store里的软件都升级到最新之后，就可以进入Mac App Store里购买Lion并安装了(29.99美元)。Lion的大小是4GB，苹果称没有宽带接入的用户可以前往Apple Store零售店进行下载，而且用于安装Lion的USB驱动器将于8月下旬在Apple Store在线商店开卖，售价528元。
+　　而对于2011年6月6日到7月20日之间购买全新Mac电脑的用户，苹果在8月19日前都提供Lion的免费升级。我们也提醒这些消费者注意按期升级到Lion，详情请参考苹果提供的更新计划网站：http://www.apple.com.cn/macosx/uptodate/。（臧智渊）
+

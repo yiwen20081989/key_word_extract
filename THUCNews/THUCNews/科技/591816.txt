@@ -1,0 +1,47 @@
+McAfee就误报事件发表声明：已提供解决方案
+　　新浪科技讯 4月22日晚间消息，针对McAfee周三对病毒库文件进行更新时，误删Windows XP系统文件，导致部分用户电脑故障一事，McAfee向新浪科技发来声明称，已为受到误报影响的客户提供了进行恢复的解决方案，并致歉用户，公司正在调查误报问题发生原因。
+　　以下为McAfee声明原文：
+　　尊敬的媒体朋友：
+　　过去 24 小时，迈克菲识别到一个新的影响 Windows PC 的威胁。我们的研究人员勤奋工作以解决这一旨在攻击重要 Windows 系统可执行文件并将自身“藏匿”于计算机内存中的威胁。
+　　针对这一威胁，我们的研究团队已经研究出了检测和清除方法。补救措施已经通过了我们的质量测试，并在北京时间4月21日(星期三)21点以 5958 病毒定义文件的形式发布。
+　　我们注意到一些客户遇到了由于本次发布导致的误报问题。初步调查显示，这一错误会为运行 Windows XP Service Pack 3 的系统招致中等甚至重大的问题。存在缺陷的更新已很快从所有迈克菲下载服务器中删除，以防止对企业客户产生进一步的影响。此次事件仅波及全球范围内不到0.5%的企业用户和一小部分家庭用户。
+　　迈克菲团队正严阵以待为受影响的客户提供支持，这是目前最紧迫的任务。我们还迅速行动在数小时内即发布了更新的病毒定义文件 (5959)，并为我们的客户提供详细的指南以帮助其修补受影响的系统。我们正在调查本次误报问题发生的原因，并将采取相应的措施防止类似事件再次发生。
+　　对于由此给我们的客户带来的不便，我们深表歉意！
+　　我们已为受到误报影响的客户提供了进行恢复的解决方案，详情如下：
+　　关于 5958 DAT 中 w32/wecorl.a 误报的解决方案：
+　　DAT 5958 签名更新中的误报是一个称为 w32/wecorl.a 的 Downloader 威胁，该威胁会读取来自外部站点的信息，影响系统的 DCOM 服务。这一最近被发现的威胁会利用微软漏洞 (MS08) 实施攻击。当扫描运行进程的内存时会调用该进程。
+　　迈克菲针对此威胁的评估逻辑不够严密，因此，导致一些客户的系统出现了问题。
+　　可使用 Extra DAT 进行恢复，步骤如下：
+　　1.     以安全模式启动系统，启用“Network Option”(网络选项)
+　　2.     将 Extra DAT 复制到 c:\program files\commonfiles\mcafee\engine
+　　3.     如果在 c:\windows\system32 下存在 svchost.exe 并且不是一个“0”字节文件，直接跳至步骤 5
+　　4.     如果 svchost.exe 已被删除，启用 VSE 控制台，打开“Quarantine manager”(隔离管理器)。单击检测，选择“Restore”(还原)
+　　o    如果 VSE 控制台无法调用：
+　　C:\program files\mcafee\virusscan enterprise\mcconsol.exe /standalone
+　　这将启用 VSE 控制台。单击检测，选择“Restore”(还原)
+　　o    如果步骤 4 和 4.1 不起作用或者 svchost.exe 是“0”字节文件：
+　　a. 当能够从本地(C:\windows\ServicePackFiles\i386\svchost.exe)复制 svchost.exe 时，请从本地复制 svchost.exe 文件到 c:\windows\system32
+　　b. 使用外部介质(USB、CD 等)从未受影响的系统复制 svchost.exe 至 c:\windows\system32 目录(相同的操作系统)
+　　如果“paste”(粘贴)功能为灰色，使用以下命令：
+　　依次点击 Start(开始)-> run(运行)->输入 cmd
+　　运行如下命令“从 [源\文件名] 复制到 [目的\文件夹]”
+　　例如：copy from x:\svchost.exe to c:\windows\system32
+　　5.     以正常模式重启系统
+　　也可使用 DAT 5959 进行恢复，步骤如下：
+　　1.     以安全模式启动系统，启用“Network Option”(网络选项)
+　　2.     如果 svchost.exe 未被删除(查看 c:\windows\system32\svchost.exe)并且不是“0”字节文件，且网络可正常连接 — 下载 5959 DAT，跳至步骤 6
+　　3.     如果 svchost.exe 已被删除或者是“0”字节文件，则网络可能无法正常连接
+　　4.     如果已删除 svchost.exe，启用 VSE 控制台，打开“Quarantine manager”(隔离管理器)。单击检测，选择“Restore”(还原)
+　　o    如果 VSE 控制台无法调用：
+　　C:\program files\mcafee\virusscan enterprise\mcconsol.exe /standalone
+　　这将启用 VSE 控制台
+　　o    如果步骤 4 和 4.1 不起作用或者 svchost.exe 是“0字节”文件：
+　　a. 当能够从本地(C:\windows\ServicePackFiles\i386\svchost.exe)复制 svchost.exe 时，请从本地复制 svchost.exe 文件到c:\windows\system32
+　　b. 使用外部介质(USB、CD 等)从未受影响的系统复制 svchost.exe 至 c:\windows\system32 目录(相同的操作系统)
+　　如果“paste”(粘贴)功能为灰色，使用以下命令：
+　　依次点击 Start(开始)-> run(运行)->输入 cmd
+　　运行如下命令从“ [源\文件名] 复制到 [目的\文件夹]”
+　　例如：copy from x:\svchost.exe to c:\windows\system32
+　　5.     下载 DAT 5959
+　　6.     以正常模式重启系统
+

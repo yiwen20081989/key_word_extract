@@ -1,0 +1,5 @@
+WM老机皇HTC Touch HD也玩Android 2.0
+　　尽管采用1GHz主频Snapdragon处理器的HTC Touch HD2无论是硬件还是软件都完胜前作Touch HD，但如果你认为HD已经老到无法运行新鲜的Android系统2.0版本，那么下面的内容一定会让你大吃一惊。
+　　Xda开发者开发了一个叫做Haret的平台，在该平台上，我们就可以实现Windows Mobile与Android双系统的自由切换。尽管基于MSM 7200运行Android的确会有些许卡顿，但这总好过频繁刷ROM的烦恼。
+　　从HTC Touch HD支持双系统来看，目前手机的硬件的确已经达到了很高的水平，而更重要的是Android系统也达到了足够的开源程度。或许未来的手机市场真的会淡化品牌的概念，而走向应用的新道路。 
+

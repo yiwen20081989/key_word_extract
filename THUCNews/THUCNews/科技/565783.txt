@@ -1,0 +1,22 @@
+Twitter升级Android客户端
+　　新浪科技讯 北京时间11月4日早间消息，据国外媒体报道，Twitter周三发了新版Android客户端。新版Android客户端增强了功能，并使用户体验在多种移动平台上更趋一致。
+　　Twitter新版Android客户端主要的改进包括：
+　　-Twitter消息详情页面。新版Android客户端调整了时间轴布局，添加了新的Twitter消息详情页面。用户点击某条Twitter消息即可进入该页面。这一功能此前已经在iPhone客户端、iPad客户端和Windows Phone客户端中出现，能够帮助用户更方便地点击消息中的链接，并进行回复、转发和收藏操作。
+　　-速度。新版Android客户端的运行速度更快。Twitter开发人员尝试了一种新方法来绘制Twitter消息时间轴，从而优化了卷动速度。
+　　-新功能。Twitter还向新版Android客户端中添加了一些新的触摸功能。
+　　向下滑动刷新：这一功能最初出现在iPhone客户端中。当用户处于时间轴最上方时，只要向下滑动即可加载新的Twitter消息。
+　　横向扫动弹出菜单：当用户在一条Twitter消息上横向扫动时，可以快速弹出菜单。菜单选项包括查看用户个人页面，分享Twitter消息，以及回复等。
+　　引用消息：点击回复Twitter消息按钮，用户将可以看到引用Twitter消息的选项。同时，用户仍可以正常回复Twitter消息。
+　　高分辨率头像照片
+　　用户可以通过Android电子市场(Android Market)下载最新版Twitter客户端。该版本客户端需要2.1或更高版本Android系统的支持。(维金)
+　　新浪科技讯 北京时间11月4日早间消息，据国外媒体报道，Twitter周三发了新版Android客户端。新版Android客户端增强了功能，并使用户体验在多种移动平台上更趋一致。
+　　Twitter新版Android客户端主要的改进包括：
+　　-Twitter消息详情页面。新版Android客户端调整了时间轴布局，添加了新的Twitter消息详情页面。用户点击某条Twitter消息即可进入该页面。这一功能此前已经在iPhone客户端、iPad客户端和Windows Phone客户端中出现，能够帮助用户更方便地点击消息中的链接，并进行回复、转发和收藏操作。
+　　-速度。新版Android客户端的运行速度更快。Twitter开发人员尝试了一种新方法来绘制Twitter消息时间轴，从而优化了卷动速度。
+　　-新功能。Twitter还向新版Android客户端中添加了一些新的触摸功能。
+　　向下滑动刷新：这一功能最初出现在iPhone客户端中。当用户处于时间轴最上方时，只要向下滑动即可加载新的Twitter消息。
+　　横向扫动弹出菜单：当用户在一条Twitter消息上横向扫动时，可以快速弹出菜单。菜单选项包括查看用户个人页面，分享Twitter消息，以及回复等。
+　　引用消息：点击回复Twitter消息按钮，用户将可以看到引用Twitter消息的选项。同时，用户仍可以正常回复Twitter消息。
+　　高分辨率头像照片
+　　用户可以通过Android电子市场(Android Market)下载最新版Twitter客户端。该版本客户端需要2.1或更高版本Android系统的支持。(维金)
+

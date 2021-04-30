@@ -1,0 +1,29 @@
+名师GMAT论道：“不改变原意”不是做题准则
+　　我今日浏览论坛各贴，不期遇到不少谈及以“不改变原意”为选择答案标准的，方知此N年前之不知哪位教师随口缪传，居然被某些培训机构的教师奉为瑰宝，流毒至今，搞清楚这个问题，只须把它分拆成几个子问题：
+　　(1)应该如何看待一道语法题目的A选项？
+　　在直观感受上，
+　　A选项是有点特殊的，因为它被代入了题干，与不划线的部分连成一体。所以，给考生形成了A代人后的句子代表了”原句“的错觉。实际上，我们完全可以把一道GMAT语法题目看做一道填空题，即，题干的划线部分是blank，你有5种选择，需要从5种选择中选择一个填入这个blank。换言之，5个选项的地位是平等的，GMAC从来没有给出过A的地位特殊的任何官方说法。
+　　(2)为何多年之前会有正确答案不改变“原句”意思的说法？
+　　很简单 ，必须承认，虽然我们经常强调“意合”，但是即便在新PREP中，5个选项意思都彻底不同的，毕竟是少数，更多的意思不同，都是体现在局部。更别说N年前
+　　BY等前辈赖以分析的样本了。所以，在那个年代的GMAT题目中，A选项和其它选项意思有差别的概率本来就很小，那是一个关注结构的年代。也许因为这样，为了在授课时候能多填充点内容，这些前辈才给出这条荒谬之极的“不改变原意”规律。
+　　(3 )什么才是真正的原意？
+　　这个问题非常浩瀚。今天只能简单地说一个最基本的判断标准：正确的人做正确的事，修饰成分和被修饰成分正确对应。举2个例子：
+　　1)The Environmental Protection Agency's proposal to place restrictions on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, saying that the move will exacerbate the nation's fuel supply problems。
+　　A. on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, saying。
+　　B. on both diesel fuel and engines have sparked the oil industry to counterattack, and they say。
+　　C. on both diesel fuel and diesel engines has sparked a counterattack by the oil industry, which says。
+　　D. both on diesel fuel and engines has sparked the oil industry to a counterattack, saying。
+　　E. both on diesel fuel and diesel engines have sparked the oil industry to counterattack, and it says。
+　　C和A的区别是啥？就是say这个动作到底是industry发出，还是全句的主语proposal 发出。这个时候不能根据A认为是saying，就把其它选项杀掉，而应该根据全句的句意，判断说出这话的应该是industry，因为proposal不会自己反对自己，只有石油工业才会反对那个限制柴油机使用的proposal。这背后的判断标准是什么？就是传说中的逻辑，动作发出者与动作的合理对应。
+　　The ability of scientists to provide models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions, have become ever more accurate。
+　　(A) The ability of scientists to provide models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions, have become ever more accurate。
+　　(B) The ability of scientists has become ever more accurate in providing models of the atmosphere's complex responses to changing conditions, such as seasonal and daily cycles or different planetary conjunctions。
+　　(C) Scientists have become able to provide ever more accurate models of the atmosphere's complex responses to such changing conditions as seasonal and daily cycles or different planetary conjunctions。
+　　(D) Scientists have become ever more accurate in their ability for providing models of the atmosphere's complex responses to changing conditions, like seasonal and daily cycles or different planetary conjunctions。
+　　(E) Scientists' ability to provide models of the atmosphere's complex responses to such changing conditions as seasonal and daily cycles or different planetary conjunctions have become ever more accurate。
+　　请注意在每个选项里面accurate的修饰对象， ABE是能力， D是科学家，C是模型。不比不知道，一比就清楚了，应该修饰的是模型。这道题目属于选项意思之间差异较大的，但确定哪个意思正确，也不是依靠所谓的“原句”，而是修饰和被修饰者的合理对应，比如你不能用婀娜来修饰男人，不能用精确来修饰眉毛，对吗？
+　　(4)A选项到底有没有特殊地位？
+　　这个问题只能作为猜想。对于命题者，这个是很好的调控难度的工具。如果想降低难度，把能反映句意的选项设为A，则能帮助考生较快获得句意，如果想加大难度，则把唧唧歪歪的选项设为A。在这个问题上，主动权全部在GMAC。
+　　结论：
+　　招魂者可休矣，陈年遗毒速散兮，正是——金猴奋起千钧棒 玉宇澄清万里埃。
+

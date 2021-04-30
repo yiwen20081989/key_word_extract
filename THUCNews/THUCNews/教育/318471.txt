@@ -1,0 +1,18 @@
+最新研究：雅思判断题实用解题技巧
+　　判断题是雅思考试的常见题型,也是难度很大的题型。在普通培训类考试中最多达22题，在学术类考试中也不少于6题。目前有逐渐增多的趋势。其中True/False/Not Given 多见于General Training Module, Yes/No/Not Given 则多见于Academic Module, 因为Yes/No/Not Given最初是为学术类设计的。很多考生对判断题时常束手无策，特别对False和Not Given易混淆。要攻克判断题的难关，我们要分析它的命题规律，找出考察点，有的放矢，才能提高解题准确率。
+　　首先，我们来看一看判断题的设题模式。
+　　从设题模式可以看出雅思考试的考察点基本上可分为两大类：
+　　1)信息点对应，即细节的对应和观点的对应。例1：It rained heavily everywhere in North China. Q: It rained in Beijing. 例2. Many people believe that the IELTS candidates must attend an IELTS training course before sitting the test. Q: The author believes that the IELTS candidates should attend an IELTS training course before sitting the test.
+　　2) 简单的推理、总结和归纳能力；基本语言知识和常识。雅思考试从命题角度不像TOEFL和GRE那样将不同的考察点置于专门题型中，而在一种题型中可能出现几个方面的考察点。但有一点考生要记住：由于雅思考试是一种语言能力的测试，它不考察专业知识，不考察阅读文章以外的背景知识(除基本常识以外，如简单的地理知识)。下面我们来看一看T/F/NG的基本定义：
+　　True(Yes): 问题中的信息点或观点与文中的信息点或作者的观点一致。
+　　例：1. It rained heavily everywhere in North China. Q: It rained in Beijing.
+　　2. By trying to do a better job of teaching, computer scientists may learn quite a lot themselves.
+　　Q: Computer scientists are likely to learn a lot from teaching.
+　　False(No): 问题中的信息点或观点与文中的信息点或作者的观点出现矛盾、冲突或排斥。
+　　例: You can go to Shanghai by train or by plane. Q: You must fly to Shanghai.
+　　Not Given: 问题中的信息点或观点在原文中未提及，可能正确也可能不正确，界定范围模糊。
+　　例：It rained heavily in most areas in North China. Q: It rained in Shanghai. 或It rained in Beijing.
+　　F和NG的根本区别在于F肯定与原文发生冲突和排斥，而NG则没有。例：You can go to Shanghai by train or by plane. Q: You must fly to Shanghai. 文中说去上海可有两种方式供选择，而问题则认为仅有一种。问题中的信息点或观点与文中的信息点或作者的观点出现矛盾、冲突。又例：You can go to Shanghai by plane. Q: You must fly to Shanghai. 文中说可以乘飞机去上海，但并没有说这是不是唯一的选择，可能是也可能不是。而问题则认为仅有一种。问题中的信息点或观点与文中的信息点或作者的观点没有出现矛盾和冲突。
+    更多信息请访问：新浪雅思频道 雅思论坛 雅思博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

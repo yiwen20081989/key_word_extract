@@ -1,0 +1,6 @@
+传PS3将引入Chrome浏览器 
+　　新浪科技讯 北京时间4月11日下午消息，据国外游戏网站PS3life报道，游戏论坛NeoGaf会员日前发现PS3浏览器文件中新增加了几个ChromeClientPOSIX文件，或许PS3很快就会用上谷歌的Chrome浏览器。
+　　PS3自带浏览器的性能一直饱受诟病，虽然这些年也进行了几次升级，但是仍不能满足用户们的需求，一些玩家呼吁索尼将火狐或者Chrome引入到PS3中去。
+　　索尼在3月31日时对其PS3浏览器的Webkit内核文件进行了更新，来自NeoGaf的会员发现，ps3-webkit-support.diff文件中新增了几个ChromeClientPOSIX文件，但是该代码仅限于Webkit，主要源代码并未公布。
+　　谷歌没有对此置评。(晓明)
+

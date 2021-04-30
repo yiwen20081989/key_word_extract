@@ -1,0 +1,15 @@
+微软发布免费安全软件Security Essentials
+　　Security Essentials最初的代号为“Morro”，该软件用于保护PC免受恶意软件、电脑病毒和间谍软件的损害。微软于2009年6月底停止销售付费安全软件套装Windows Live OneCare，此后用Morro取代了Windows Live OneCare。
+　　微软称，Security Essentials是低带宽环境或低能耗PC的理想选择，其定位是核心的反恶意软件功能，能为用户提供必不可缺的保护措施，且不会过度占用系统资源。
+　　并非套装
+　　微软表示，免费提供安全软件的目的是消除成本障碍，这一障碍在以往导致消费者不愿购买最新的安全软件。
+　　市场研究公司Interpret的分析师迈克尔·加特伯格(Michael Gartenberg)称：“安全性一直都是Windows所面临的重大问题之一，因此对微软来说，能让Windows用户易于受到保护且无需高昂支出很有意义。”
+　　微软还提醒潜在用户称，Security Essentials不是一款安全套装，不能提供丰富的电脑调校或数据备份功能；但Security Essentials团队在官方博客上称：“如果用户需要的是‘装了就不用再管’的恶意软件保护和可信赖的质量，则Security Essentials可能正是其一直等待的东西。”
+　　微软称，由于Security Essentials是免费提供的缘故，因此无需注册，也不会搜集用户的个人信息。这款软件支持8种语言，19个市场上的Windows PC用户可免费下载。
+　　或破坏竞争
+　　分析师称，这款免费的安全软件可能会令用户无需购买其他安全软件，如Arbor Networks、赛门铁克和McAfee等互联网安全公司开发的软件等。在微软推出测试版Security Essentials时，分析师就曾表示此举将导致McAfee和赛门铁克等竞争对手寝食难安，这些公司将担心用户从付费软件转往免费软件。
+　　微软最新的Windows 7操作系统即将在几周内上架，目前还不清楚Security Essentials是将作为Windows 7的默认杀毒软件与其绑定出售，还是继续提供独立下载。
+　　但分析师指出，绑定出售Windows 7和Security Essentials将令微软面临“走钢丝”的风险，此前该公司已因绑定Windows媒体播放器和老版Windows系统而被欧盟委员会罚款10亿美元。(唐风)
+　　相关下载：
+　　微软安全套件 英文版 1.0.1611
+

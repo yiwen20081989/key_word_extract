@@ -1,0 +1,45 @@
+名师解析2008年考研英语试题翻译真题
+　　2008年 考研英语翻译试题解析
+　　上海新东方 靳萌
+　　本次考试试题来源于Mayo W. Hazeltine所写的一篇学术评论，主题是关于达尔文在现代科学中的地位。
+　　In his autobiography，Darwin himself speaks of his intellectual powers with extraordinary modesty. He points out that he always experienced much difficulty in expressing himself clearly and concisely, but 46 he believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations, He disclaimed the possession of any great quickness of apprehension or wit, such as distinguished Huxley. 47 He asserts, also, that his power to follow a long and purely abstract train of thought was very limited, for which reason he felt certain that he never could have succeeded with mathematics. His memory, too, he described as extensive, but hazy. So poor in one sense was it that he never could remember for more than a few days a single date or a line of poetry. 48 On the other hand, he did not accept as well founded the charge made by some of his critics that, while he was a good observer, he had no power of reasoning.
+　　This, he thought, could not be true, because the "Origin of Species" is one long argument from the beginning to the end, and has convinced many able men. No one, he submits, could have written it without possessing some power of reasoning. He was willing to assert that "I have a fair share of invention, and of common sense or judgment, such as every fairly successful lawyer or doctor must have, but not, I believe, in any higher degree."49 He adds humbly that perhaps he was "superior to the common run of men in noticing things which easily escape attention, and in observing them carefully."
+　　Writing in the last year of his life, he expressed the opinion that in two or three respects his mind had changed during the preceding twenty or thirty years. Up to the age of thirty or beyond it poetry of many kinds gave him great pleasure. Formerly, too, pictures had given him considerable, and music very great, delight. In 1881, however, he said: "Now for many years I cannot endure to read a line of poetry; I have tried lately to read Shakspeare, and found it so intolerably dull that it nauseated me. I have also almost lost my taste for pictures or music. Music generally sets me thinking too energetically of what I have been at work on, instead of giving me pleasure. I retain some taste for fine scenery, but it does not cause me the exquisite delight which it formerly did." 50 Darwin was convinced that the loss of these tastes was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably to the moral character.
+　　试题解析
+　　46 he believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations,
+　　参考答案：
+　　他相信，或许这种困难也有其好处，正是这种困难促使他能够长时间专注地思考每一个句子；从而能够在推理和自己的观察中发现错误。
+　　解析
+　　本句属于典型的长句题，篇幅长，结构层叠，意在考察考生分析句子结构的能力。
+　　本句的句法结构为主语、谓语加上以that引导的宾语从句，句子主干为he believes that….that从句的结构是主语“this very difficulty ”加上含有情态动词的谓语“may have” 及其宾语the….advantage of forcing…, and thus enabling…。Of后面forcing和enabling组成并列结构，共同修饰advantage。并列结构的后半部分中，出现了thus enabling…，考前充分研究过往年考题的同学不难发现，这个结构和03年61题的thus subjecting…这个结构几乎完全相同，可以使用“从而“、”因而“等词来处理。。
+　　本题中的词汇考点中绝大部分都是传统考点。句子中的compensating 曾在97年75题出现过，advantage 在90年65题中考过，force在2000年73题中考过， observation在02年62题中考过。
+　　47 He asserts, also, that his power to follow a long and purely abstract train of thought was very limited, for which reason he felt certain that he never could have succeeded with mathematics.
+　　参考答案：达尔文还声称，对于冗长且完全抽象的思想，他的理解能力十分有限。因为这个原因，他确信自己在数学方面根本不会成功。 
+　　试题解析
+　　本句主干结构为主语he加上谓语asserts，后跟that引导的宾语从句。宾语从句的结构是his power to… was…，其中不定式to引导的部分 follow …of thought做power的定语；而在for which reason所引导的非限制性定语从句中，又包含一个由that引导的宾语从句。for which reason引导非限定性定语从句，结构复杂，信息量较大，应该采用后置法翻译，比较简便的方法是翻译为“由于这个原因”。
+　　本题涉及到的词汇中也有不少往年考点的重现。如abstract在03年65题考过，而reason，reasoning，reasoned，reasonable这类单词考过无数次。Asserts 一词，同46题中引出观点的believe一词，也曾反复考察过多次，功能相同常考词还有 argue, claim, contend, point out, state 等。
+　　值得注意到是，虽然follow一词以前也曾出现过(02年74题)，但是“理解”这个意思是第一次考察。
+　　48 On the other hand, he did not accept as well founded the charge made by some of his critics that, while he was a good observer, he had no power of reasoning.
+　　参考答案
+　　另一方面，有些评论认为尽管达尔文善于观察，却并不善于推理。达尔文并不接受此种言论，认为这是没有根据的。
+　　试题解析 
+　　本句篇幅最短，但是难度最大。相信许多同学在第一遍阅读过这个句子的时候，将as well 理解为一个整体词组，用于引导并列结构。但是我们在课堂上所反复接触过的并列结构具备一个非常明显的特点，就是并列成分的时态形式统一。而本句中，accept使用原型，founded 则是被动语态(将founded 理解为find的过去式的同学也大有人在，这是混淆了found作为动词“找到”的过去式和动词“建立”的原型之间意义区别的结果)。
+　　其实，正确拆分本题的句法结构后，我们可以发现，这个结构与06年46、47题中连续出现的宾语和宾语补足语之间倒装的结构如出一辙。06年度题目中我们曾仔细分析过，谓语动词后如果跟了篇幅较长的宾语，在英语中往往会将宾语后置，而将宾语补足语前提。本句就是典型的将“as well founded”前提到accept 之后，而正常的语序应是 accept sth. as . 而accept的宾语charge这个词之后的that引导的是一个同位语从句。
+　　理解了这个最难的部分，其他的结构就相对简单很多了，而且多数是往年考点的重现。比如 on the other hand，在07年47题刚刚考察过；而由while引导的让步状语从句，while的意思等同于although, 也在99年61题等题目中间出现过。词汇方面，critics在95年71题出现过。
+　　49 He adds humbly that perhaps he was "superior to the common run of men in noticing things which easily escape attention, and in observing them carefully."
+　　试题解析
+　　第四句话，相对简单一些，主干结构仍然是宾语从句，其中包含了一个由which引导的定语从句。同46题一样，本句中也有并列的分词短语结构，不过在此处应该处理成“在做…事情的过程中”。这并不是一个新的考点，曾在99年63题中出现过。
+　　参考答案
+　　他谦逊地补充道，或许他“比普通人更能够注意到那些容易忽视的细节，并对其进行仔细的观察”。
+　　50 Darwin was convinced that the loss of these tastes was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably to the moral character.
+　　试题解析
+　　本题的主干结构还是宾语从句 be convinced that, 其中谓语部分包含常考点被动语态be convinced that…，这个结构在98年75题出现过。宾语从句中的not only… but结构，和to… and to…结构都是常考的并列结构，我们曾在课堂上复习过多次。
+　　本题考查点是宾语从句。主干是Darvin was convinced that…。其中宾语从句的结构是the loss of these tastes was not only…, but…be injurious to …, and to …。
+　　单词injurious是超纲词，我们曾经分析过，超纲词的处理方法之一是拆分并寻找熟悉的部分。相信大部分同学可以通过观察迅速发现，这个词同injury和injure等大纲单词是同根词。其他词汇，如moral在97年和03年都考过，character在02年61题考过。
+　　参考答案
+　　达尔文坚信，失去这些(对音乐和绘画的)兴趣，不仅会失去幸福，而且还可能损害智力发展，甚至可能损害道德。
+　　2008年的考题非常符合我们基于2007年题目所作的猜测，即传统考点重现是最鲜明的特征。无论从句法还是从词的角度，我们都没有看到2006年怪招和险招频现的情况。而我们一直强调的真题的重要性，也无需再加以赘述了。
+　　大家可以清楚的看到，考研翻译其实并不难。只要我们在准备考试的过程充分研究过往年的真题并做到扎实掌握，就足以在考场上运筹帷幄，得到满意的结果。
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

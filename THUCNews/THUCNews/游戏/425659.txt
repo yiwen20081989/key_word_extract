@@ -1,0 +1,9 @@
+黑客放出驱动 没有Xbox也能用Kinect
+　　就在微软正式发售Xbox 360体感外设Kinect的同时，一家名为Adafruit Industries的美国公司也开始了一项活动，那就是号召个人或团队开发开源Kinect驱动，以便能将Kinect应用到Xbox 360之外的平台。为此，Adafruit提供了3000美元的悬赏。
+　　本周一，也就是Kinect上市的第三天，Adafruit就宣布有人成功实现了对Kinect的破解，并且向他们提供了开源驱动代码。今天Adafruit在官方博客中公开了完整资料，同时表示，除了向本次的获胜者提供3000美元奖金，他们还会向电子前沿基金会(EFF)捐赠2000美元。
+　　这位获胜者名为Hector，在发送给Adafruit的邮件中，他说道：“这里是我上传的Kinect驱动，支持深度和RGB图像，并且能将它们在OpenGL窗口中显示。虽然当前它还非常原始，不过已经证明我们的理念了。”
+　　Kinect开源驱动地址：http://git.marcansoft.com/?p=libfreenect.git
+　　Adafruit对Hector上传的驱动进行了验证，结果证明它确实可用。下面就是黑客社区的一位成员使用Hector开发的开源驱动使用Kinect的一张截图：
+　　Hector是在一部Linux笔记本上实现了对Kinect的破解，尽管他并没有Xbox，不过使用自己开发的驱动，Hector在笔记本上也能采用Kinect进行相关操作。Hector决定将这笔奖金投资给和他关系比较好的一些黑客团队，比如iPhone破解团队、Wii黑客团队Team Twiizers等。
+　　Kinect感应器采用了RGB摄像头、深度感应器和多阵列语音麦克风，能捕捉玩家的3D动作、面部识别和语音识别。Kinect最多能同时追踪六个玩家，但是只有两个玩家可以同时操作一个游戏。
+

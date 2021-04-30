@@ -1,0 +1,17 @@
+Facebook推出手机聊天应用 欲取代短信(图)
+　　新浪科技讯 北京时间8月10日凌晨消息，Facebook今天在iPhone和Android应用商店中推出独立聊天应用Facebook  Messenger，界面与网络版Facebook消息功能类似。
+　　点开Messenger，你会看到最近在Facebook上进行的所有对话和消息。点击消息即可直接回复，如果在应用没打开时 收到信息，将会受到推送通知。
+　　添加群聊也很方便，可以选择Facebook好友列表以及手机联系人加入群聊。与手机联系人进行的联系将通过短信进行 。用户可重命名联系人，并能在群聊对话中加入照片。
+　　如果用户的好友在消息中分享了自己的位置，用户可以在地图中显示群聊用户的位置。用户还可以静默消息，每次一 小时，或者直到第二天早上八点；还能完全静默好友。
+　　Facebook Messenger由Facebook于今年2月收购的热门群聊创业企业Beluga团队开发。目前，Beluga仍在运营，不清 楚Facebook将对其采取何种行动。
+　　欲取代手机短信
+　　Facebook  Messenger是Facebook当前消息系统的扩展，使用户可以在Facebook平台内部进行通信。作为一款独立于Facebook的应用，Facebook  Messenger帮助用户在手机之间发送文字消息，同时将这些消息存储在Facebook的消息中心中。如果用户在Facebook帐户中添加了手机信息，那么当应用被关闭时，收到的消息将以短信的方式被发送至手机。
+　　Facebook正在推动用户放弃电子邮件等传统通信方式，吸引用户使用Facebook的私有平台。去年11月，Facebook推出一款用于替代电子邮件的服务Facebook  Messages。Facebook CEO马克·扎克伯格(Mark Zuckerberg)当时表示，该服务是一种“现代的消息系统”。如果说Facebook  Messages是为了取代IM软件和电子邮件，那么新推出的Facebook Messenger就是为了取代手机短信。
+　　谷歌近期推出了社交网络Google+以及一款移动应用，帮助智能手机用户实现群组聊天。谷歌的移动消息应用名为“Huddle”，与Facebook  Messenger拥有同样的功能。
+　　不过，Facebook  Messenger相对谷歌应用功能更强。目前，通过Huddle进行的群组聊天记录只能通过该应用才能访问，而Facebook  Messenger的使用方式与传统手机短信几乎一致。此外，Facebook的消息系统整合了用户之间通信的各种形式，而谷歌仅仅整合了聊天和电子邮件。此外，Huddle也并非一款独立的应用。
+　　目前，用户已经可以通过Android电子市场或苹果App Store下载Facebook这款应用。
+　　挑战苹果和RIM服务
+　　业内人士认为，Facebook  Messenger也将对苹果和RIM的移动消息服务形成挑战。此外一些小型创业企业，包括GroupMe，也开始提供移动消息服务。
+　　Facebook在官方博客中表示，用户以往很难知道，传统的电子邮件和文字消息是否快速到达了接收者，以及接收者是否确实收到了这些消息。Facebook  Messenger通过通知和手机短信解决了这一问题。
+　　除Facebook好友之外，用户还可以通过该服务向手机联系人发送消息。Facebook产品经理皮特·邓(Peter  Deng)表示，Facebook的目标是使消息能够更方便地获取及使用。(新铁 维金)
+

@@ -1,0 +1,16 @@
+惠普上网本将支持Windows 7三种版本
+作者：萧萧
+　　微软之前曾表示Windows 7所有版本都将支持上网本，惠普近日再次表示了对Windows 7适用于上网本的信心，公司称Windows 7正式发布后，其Mini上网本将提供对至少三种Windows 7版本的支持。
+　　惠普所指的三种版本分别为Windows 7 Professional（专业版）、Windows 7 Home Premium（家庭高级版）和Windows 7 Starter（低价入门版），除了众人都认为适合于上网本的Starter版本，专业版和家庭高级版作为微软面向PC市场的主打版本，在上网本上的运行效果还是很值得期待的。
+　　惠普商用笔记本部门主管Kyle Thornton在上周的一次采访中曾表示，公司对Windows 7 Ultimate（旗舰版）在上网本上的运行也已经进行了很长时间的测试，旗舰版很适合游戏玩家和专业工作人员，希望在不久的将来惠普也能将Windows 7 Ultimate预装到上网本。
+　　Thornton补充说，在Windows 7发布后，除了对上述的三种Windows 7版本的支持，惠普还将继续在上网本上预装Windows XP Professional（专业版）和Vista Business（商业版）。
+　　惠普上月推出了Mini 2140系列上网本，并为企业用户提供了三种版本操作系统：XP专业版、Vista商业版和Novell的SUSE Enterprise Linux。
+
+作者：萧萧
+　　微软之前曾表示Windows 7所有版本都将支持上网本，惠普近日再次表示了对Windows 7适用于上网本的信心，公司称Windows 7正式发布后，其Mini上网本将提供对至少三种Windows 7版本的支持。
+　　惠普所指的三种版本分别为Windows 7 Professional（专业版）、Windows 7 Home Premium（家庭高级版）和Windows 7 Starter（低价入门版），除了众人都认为适合于上网本的Starter版本，专业版和家庭高级版作为微软面向PC市场的主打版本，在上网本上的运行效果还是很值得期待的。
+　　惠普商用笔记本部门主管Kyle Thornton在上周的一次采访中曾表示，公司对Windows 7 Ultimate（旗舰版）在上网本上的运行也已经进行了很长时间的测试，旗舰版很适合游戏玩家和专业工作人员，希望在不久的将来惠普也能将Windows 7 Ultimate预装到上网本。
+　　Thornton补充说，在Windows 7发布后，除了对上述的三种Windows 7版本的支持，惠普还将继续在上网本上预装Windows XP Professional（专业版）和Vista Business（商业版）。
+　　惠普上月推出了Mini 2140系列上网本，并为企业用户提供了三种版本操作系统：XP专业版、Vista商业版和Novell的SUSE Enterprise Linux。
+
+

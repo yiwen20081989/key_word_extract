@@ -1,0 +1,7 @@
+德国厂商推出USB3.0 U盘 读取速度达110MBs
+　　德国著名外设厂商Sharkoon今天又发布了一款USB 3.0接口U盘产品，名字有点儿长：“Flexi-Drive Accelerate Duo”。
+　　这块U盘采用铝质外壳，整体尺寸72&times;19&times;8毫米，重约16克，号称采用了新款主控制器和四通道界面，容量有32GB、64GB两种，标称读取速度最高110MB/s、写入速度最高70MB/s。
+　　Sharkoon放出的一张CrystalDiskMark 3.0.1测试截图显示，持续读写速度分别达到了130.5MB/s、83.76MB/s，甚至高于标称值。
+　　Sharkoon Flexi-Drive Accelerate Duo 32/64GB USB 3.0 U盘现均已在欧洲上市，售价69.90欧元(￥625)、124.90欧元(￥1115)。
+　　Sharkoon在此之前还曾经发布过一款Flexi-Drive Extreme Duo，罕见地使用了同步SLC NAND闪存芯片，标称读写速度均高达130MB/s。
+

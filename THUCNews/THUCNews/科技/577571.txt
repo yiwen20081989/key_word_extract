@@ -1,0 +1,8 @@
+Mozilla：85%火狐4用户安装插件
+　　新浪科技讯 北京时间6月22日晚间消息，Mozilla周二在官方博客中称，85%的Firefox 4用户安装了插件(add-on)，意味着每天有超过6000万用户在使用Firefox插件。
+　　Mozilla还称，该数字并不包括Personas插件，以及其他软件所捆绑的插件，意味着Firefox 4上的插件都是用户主动安装的，而不是被动安装。
+　　Mozilla同时承认，随着时间的推移，用户下载Firefox 4插件的比例将有所下降。但自Firefox 4上市以来，安装插件的用户比例始终保持在85%和89%之间。
+　　Mozilla在博客中还称，每位Firefox 4用户平均下载5个插件，插件总下载量已达到25亿次，平均每天有5.8亿个Firefox 4插件在使用中。
+　　Mozilla周二还发布了新版浏览器Firefox 5，支持Windows、Mac、Linux和Android平台。由于谷歌每6周对Chrome浏览器升级一次，Mozilla日前也将升级周期缩短至3个月。
+　　据Mozilla称，Firefox 5有1000多项改进和性能提升，其中一些新功能包括：支持CSS动画，禁止追踪(Do-Not-Track)技术和Canvas绘图技术等。(李明)
+

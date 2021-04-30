@@ -1,0 +1,10 @@
+Symbian高管自信比Android更有前途
+　　CNET科技资讯网 6月8日 北京消息(文/孙封蕾)：尽管仍然坐在全球第一大手机操作系统的交椅上，但是Symbian这把交椅已经岌岌可危，不过，Symbian协会执行总监Lee Williams依然信心满满，相信Symbian在技术上仍具有领先优势，从长远来看，Symbian的发展前途优于Android平台。
+　　“虽然有一些手机厂商比如摩托罗拉，暂时离开了Symbian家族，但我们随时欢迎这些厂商重回Symbian大家庭，而且相信这些手机厂商尝试之后就会意识到Symbian的好。”Lee Williams说。
+　　和Android相比，Symbian手机厂商应该能够感受到Symbian强劲的技术优势，应该意识到Android在某些方面对手机厂商是不利的。Android没有开放的治理架构，而且从整个生态环境来看，缺乏一个理事会，来讨论未来产品发展路线图。
+　　总之，在Lee Williams眼里，Android和Symbian相比，其发展前途远不及Symbian。
+　　而诺基亚作为Symbian的投资者，也不再像以前那样“专一”了，在手机操作系统的选择上开始了其他的探索，对此，Lee Williams认为这是很正常的现象，因为诺基亚作为手机巨头，有丰富的手机产品线组合，不可能用一个手机操作系统覆盖所有产品类型。
+　　Lee Williams强调，诺基亚的核心产品还是选择了Symbian，因为Symbian仍然是最开放、技术最先进的手机操作系统。
+　　今天，Symbian协会宣布与百度达成战略合作关系，双方将成立联合实验室，共同推动无线“框计算”技术平台在Symbian平台上的开发和集成。
+　　此外，文本成像解决方案供应商Monotype Imaging Holdings Inc。今天宣布了首款可用于Symbian平台并达到量产品质的开放源码字体Monotype Yuppy(或称MYuppy中文字体)的诞生。据预测，Monotype Yuppy将会使全世界的Symbian合作伙伴受益，尤其是以中国为目标市场的设备制造商和应用程序开发商。
+

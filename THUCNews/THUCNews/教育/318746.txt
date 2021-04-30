@@ -1,0 +1,33 @@
+牛人总结：SAT逻辑必杀独门秘笈
+　　作者：栾翔 (苏州新东方学校SAT教研组)
+　　SAT考试中的Multiple Choices主要考查考生两方面的能力：一是逻辑；二是对英语标准用法的掌握。以上两点有异于传统语法教学的侧重点。笔者一直强调对SAT语法的研习，不仅局限于解题技巧的娴熟运用，这只是一项最基本的考试技能而已，更可贵的应该是对英语标准用法感到从容、有据、坦然和合理。作为老师，我更看重的是后者。本文试从解题技巧和素养提升两方面浅谈一下SAT语法的备考和学习。
+　　首先谈谈解题技巧。
+　　在SAT语法部分，娴熟运用解题技巧是斩获高分的关键。解题技巧的来源主要有二：一为逻辑的推理；二为句式的解读。在IE部分，这两点体现得尤为明显，有例为证：
+　　Before he sprained his back, Morgan spends much of his leisure time engaged in outdoor
+　　A      B                  C
+　　sports, particularly hiking and canoeing. No error
+　　D                        E
+　　逻辑必杀：解此题目根本不需要火眼金睛，上帝赐予我们的一双凡胎肉眼即可成事。本题选A。原因者何？试看before从句，谓语动词既为一般过去时态，又有before提示，即为“过去之前”，故主句谓语动词(A项)应为过去完成时态。这类题目不需解析句式，更不必解读语义，逻辑推理即可解题。
+　　又例：
+　　Contrasting with most other fifteen-century rulers, Portuguese kings could count on the
+　　A           B                                          C
+　　support of the aristocracy in any overseas ventures. No error
+　　D                    E
+　　逻辑必杀：此题亦不难。C项首先排除，因为SAT语法不考情态动词；第二步分析非谓语动词。句子以ing分词开首只有两种可能：若为动名词，则分句完整；若为现在分词，则分句缺成分。由此看来，本题属后者。既为现在分词，则与主语Portuguese kings发生逻辑上的主动关系，根据第一个分句语义可知A选项错误，应该为过去分词形式，表示被动。两步即可解题。
+　　SAT语法部分共49道题目，限时35分钟，其中还要读一篇IP文章，对解题效率提出了高要求。考生若养成解读句式的解题习惯，解题时必然游刃有余。有例为证：
+　　The scientific writings of Edward O. Wilson, Stephen Jay Gould, and Richard Dawkins,
+　　which has continued the discussion of genetic issues raised by Charles Darwin, are familiar to
+　　A        B                                 C                  D
+　　many high school and college students. No error
+　　E
+　　句式必杀：题干为主从复合句，其中嵌套非限制性定语从句。首先找出主句的主干：The writings are familiar to students。又因为B为has continued，故D选项的时态和数均正确，排除。再找从句的主干：The writings has continued the discussion…主谓一致出现错误，故选B。C、D两项不再考察。
+　　又例：
+　　The question of whether certain chemical fertilizers are a curse or are they a blessing is still
+　　A                                     B             C      
+　　being debated. No error
+　　D             E
+　　句式必杀：题干的主干为The question is still being debated. 由此可排除C、D。剩余部分有一个明显的平行结构A or B，A为名词a curse，B为倒装句are they a blessing，不符合平行原则，故选B，应将are they去掉。
+　　对此题目的补正：
+　　笔者在某SAT论坛中发现一条所谓的“解题公理”：选项中含有being的即为错项。此为以讹传讹。确切的说法应该是：含有being的选项95%是错项。那5%在哪里？这就要从being的起源说起。
+　　being一词产生于18世纪，此词并非约定俗成，实为出自语言学家之手。当时有这样一种句式：The room is cleaning。意为“房间正在打扫”，表示进行中的被动。后来语言学家发现一个问题，room一词在句中的语义指向具有唯一性，也就是说room只能是受动者，不可能是施动者。若主语名词既可表受动，又可表施动，这个句式就产生了歧义。如：The cat is eating。是“猫被吃掉”还是“猫吃掉他物”？不得解。故创being一词，仅用于表示进行中的被动和名词性的被动。而本题中D选项恰恰表示进行中的被动，故正确。
+

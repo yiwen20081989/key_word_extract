@@ -1,0 +1,6 @@
+轻薄也强劲 AMD再推双核低压处理器
+    近日，把台湾消息人士透露，AMD全新Ultra-Thin双核心平台“Congo”将会于本季度未正式出货。值得注意的是，该处理器采用Athlon X2双CPU内核，运行功耗最高为15W TDP。此外，该处理器将搭配全新的RS780M芯片组，各方面表现皆十分平均。AMD此举意图明显，继前期的Yukon处理器之后，继续向英特尔CULV“Consumer Ultra Low Voltage，消费级超低电压”平台施加压力。
+    事物都有两面性，AMD Yukon平台发布前后的种种迹象，各方反映强烈， 惠普在力推采用Yukon平台的成品，而其它OEM厂商也在观其变，如果AMD Congo平台准时于本季度出货，则有望进一步推动Yukon的市场前景。
+    芯片组方面， AMD Congo平台将采用RS780M北桥配搭SB710南桥形式，相比Yurkon平台仅采用RS690E芯片组，前者规格将提升至Direct X10、Shader Model 4.0标准，并具备完整的1080p高清视频硬解码能力。另据台湾行业人士表示，AMD Congo平台产品预计于2009年第二季末出货，目前各家OEM厂商已对AMD Congo平台甚感兴趣，且不少厂商均会在台北Computex大会上展出采用AMD Congo平台的产品。更多详情敬请关注本站后续的台北Computex报道。
+
+

@@ -1,0 +1,13 @@
+AMD全新Vision平台对抗迅驰 LOGO首曝光
+　　为了更有效的对抗“Intel Centrino Technology”平台化政策，AMD计划于9月推出全新Tigris NB平台的同时，还将推出全新的“AMD VISION Technology”平台化策略，取代现有的凌乱的“Better by Design”计划，冗长的AMD平台标签贴纸将会变成历史。
+　　英特尔在过去六年成功打造了Centrino平台化策略，一张Centrino 标签仿佛是笔记本产品的信心保证，AMD为了对抗对手的强势行销政策，去年在推出Puma平台的同时，推出了“Better by Design”平台化策略。由于当年AMD并没有足够的品牌效应，因此决定联同所采用的Graphics 芯片及Wi-Fi 芯片，推出了“Better by Design”标签。这样“Better by Design ”标签就把所采用的处理器、绘图核心及Wi-Fi芯片都标示在标签上，希望能让用家十分清楚所使用的硬件配备。不过大部份消费者由于对硬件规格认识不深，“Better by Design”标签反而让消费者感到混乱。
+　　AMD本年初为Experience平台化策略作出检讨，并发现以下数点问题：
+　　1.大部份消费者希望平台化是简单地为消费者说明其定位、效能及应用，而不是介绍其使用整组件的型号。
+　　2.大部份消费者在购买PC前均十分了解其需要，却不会去了解不同产品型号所能提供的效能。
+　　3.大部份消费者希望标签能清楚列明其效能等级，协助其作出选择决定。
+　　因此AMD决定于发布下一代笔记本平台Tigris的同时，推出全新的“AMD VISION Technology”平台化策略，复杂的“Better by Design”标签将会被“AMD VISION Technology”标签所取代。AMD VISION Technology 将简化至只有三种等级的标签，包括“AMD VISION”、“AMD VISION PREMIUM”及“AMD VISION ULTIMATE”，关联采用的处理器及绘图核心效能做出评级。
+　　比如Athlon Neo X2 处理器配搭 Radeon HD 3200 及 ATI Mobility Radeon HD 4200 均会被评级为“AMD VISION”；如果采用较好的绘图核心如 ATI Mobility Radeon HD 4330 则会被升格为“AMD VISION PREMIUM”。不过Athlon Neo X2 处理器由于性能关系，就算配上最高等级的 Mobility Radeon HD 4870 绘图核心，也不会评级为“AMD VISION ULTIMATE”，但AMD Turion II Dual-Core 处理器配搭 ATI Mobility Radeon HD 4650 则会评给为“AMD VISION ULTIMATE”，此一评级将鼓励笔记本厂商平衡处理器及绘图芯片的配置。
+　　值得注意的是， AMD VISION Technolgy 平台化计划已把 NVIDIA 排除在外，如果产品配搭 NVIDIA 芯片组或 NVIDIA 绘图芯片，只能取得一个普通的AMD Logo ，并放至于AMD Athlon 单核心、 AMD Sempron及商业平台的分类，此一造法将严重打击 NVIDIA 在 AMD 平台上的销售。很多媒体就此向 AMD 官方查证，AMD 表示不对市场传闻作出任何回应。
+　　编辑点评：继英特尔更改自己的Logo之后，AMD 也紧跟步伐，不错，AMD 通常做什么都要晚英特尔一些。对于AMD的做法，小编认为其作用要看是针对什么样的群体了，现在也有很多对电器产品进行评级的做法。但是笔记本还是比较困难一些，因为你只能简单知道平台的信息，但是很多其他接口什么的都还是要另外了解。所以感觉对于那些对笔记本稍微了解或者愿意了解的群体，这个标识并不关键；而对于那些甚至连AMD为何物都不知道的人来说，它也没有什么太大用处了。
+ 
+

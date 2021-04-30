@@ -1,0 +1,6 @@
+Twitter强化与Facebook和LinkedIn整合
+　　新浪科技讯 北京时间6月24日上午消息，据国外媒体周三报道，微型博客Twitter日前宣布，已经对Facebook和LinkedIn插件进行了更新，增加了诸多功能，强化了Twitter与Facebook和LinkedIn两大社交网站之间的整合。
+　　升级后的Facebook应用不仅允许用户将自己发布在Twitter上的信息整合到Facebook上，而且还允许用户查看自己的哪些Facebook好友也在使用Twitter，并且选择关注哪些好友。
+　　新功能的潜在影响不容忽视，它把Facebook融入到Twitter社区，将进一步推动Twitter的发展。但在测试中，新版Facebook应用出现了一些故障。Twitter和Facebook也给予证实，并表示正在努力解决问题。
+　　与Facebook应用相同，新版LinkedIn应用允许Twitter查看自己LinkedIn好友，并自动关注好友。上个月，LinkedIn也强化了与Twitter的整合。(李明)
+

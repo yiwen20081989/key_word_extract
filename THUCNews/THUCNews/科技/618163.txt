@@ -1,0 +1,24 @@
+轻薄省电 华硕双显卡切换本U45JC评测
+　　话说宏?全新的 TimelineX系列笔记本，大幅改进原本CULV不佳的硬件性能外，续航、携带性却还保有一定的水平，让之前的CULV相形失色。而国产双A中的华硕 也不甘示弱，发布了换上Intel Core i标准电压处理器的U系列纤薄新机：U35JC、U45JC。我们这次拿到14?含DVD光驱的U45JC，内建Core i5处理器、NVIDIA Optimus双显卡自动切换技术，硬件规格很好，而且机身最薄处仅14 mm，和CULV笔记本一样薄。
+　　内建 Core i5 处理器
+　　先说明一下 U45JC的详细规格，它内建14.1?的1366 x 768分辨率屏幕、Windows 7 Home Premium操作系统，并内建标准电压的Intel Core i5 - 430M处理器、2 GB DDR3内存、500 GB 7200 rpm硬盘。显卡是NVIDIA GeForce 310M + Intel GMA HD。此外，U45JC还配有DVD光驱、Altec Lansing喇叭、HDMI 输出，规格配置和首款内建 NVIDIA Optimus 技术的 U30JC 差不多；但 U45JC 随机配置8 cell大容量电池，所以续航力理论上会比较好一点。
+　　U45JC 含电池实测重量约2.1 kg左右
+　　华硕U45JC 相关规格：
+　　机身尺寸：330 x 240 x 14 - 26.8 mm
+　　含 8 cell 电池重量约 2.0 kg
+　　Windows 7 Home Premium
+　　14.1 ? 1366 x 768 分辨率屏幕
+　　Intel Core i5-430M 处理器 (频率 2.26 GHz，可 Turbo Boost 到 2.53 GHz)
+　　Intel HM555 芯片组
+　　2 GB DDR3 1066 内存
+　　NVIDIA Optimus 技术
+　　NVIDIA GeForce 310M 独显 (1024 MB 显示内存)
+　　Intel GMA HD集成显示芯片
+　　500 GB、7200 rpm 硬盘空间
+　　DVD Super Multi 光驱
+　　Altec Lansing 喇叭
+　　支持 Wimax 网络模块
+　　IEEE 802.11 b / g  / n 无线网络、蓝牙 2.1 + EDR
+　　USB x 3、HDMI、耳机孔、 麦克风孔、RJ-45、VGA、4 合 1读卡器 (MS / MS Pro / MMC / SD)
+　　硬件装置一览表
+

@@ -1,0 +1,5 @@
+宏�将推11.6寸CULV平台上网本
+　　在Intel的移动产品线规划中，Atom平台主力是10寸上网本，而CULV平台则主攻12、13寸轻薄机型，这原本是两条井水不犯河水的产品线。但如果把CULV平台装进上网本外壳内，会是怎样一番景象呢？
+　　日前在网络上曝光的宏?Aspire Timeline 1810T就是这样一款机型，它使用了和宏?11.6寸Atom上网本Aspire One 751几乎完全一致的外壳模具，但内部是标准的CULV平台，包括超低电压版Core 2 Solo SU3500 1.4GHz处理器，GS45芯片组内置GMA 4500MHD集成显卡支持HDMI输出，最大4GB内存，内置802.11n WiFi，可选蓝牙和3G网络，电池续航能力达8小时。
+　　据称，Aspire Timeline 1810T初期将预装Vista Home Premium操作系统，但在10月后肯定会升级到Windows 7。这也就说明了它的定位：一款比Atom平台性能高出一截的上网本，足以满足Windows 7系统的需求。价格方面不出意外的话，它应该也会落在同外观的Atom平台Aspire One 751，以及13寸CULV平台Aspire Timeline 3810T之间，即高于380美元，低于600美元。
+

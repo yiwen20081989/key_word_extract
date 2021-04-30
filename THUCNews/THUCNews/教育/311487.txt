@@ -1,0 +1,30 @@
+同等学力英语阅读题解题技巧之解答细节题
+　　09年同等学力英语考试大纲公布后，恐怕考生最担忧的就是阅读题了，每篇文章由原来的5道题增加为6道题，对考生判断的准确性和速度方面有了更高的要求，因而掌握一定的解题技巧是十分必要的。下面由清华在线老师讲解一下细节阅读题的解题技巧 。
+　　错误选项都有共同特征，正确选项则更不例外了。一般来讲，正确选项都是原文处的精确改写，多数题目的正确选项和原文字对应，有的甚至是原文重现。读者抓住这个特征，就可以大大放心了，因为只要能准确定位，耐心地比较一下定位所述的内容与各个选项的对应关系，就不难挑出答案了。这种文字之间的对应需要多体会才易形成感觉，这里我们讲解一下精确改写的意义。精确改写其实包含阶层面的含义，一个层面是词汇的改写，指的是同义词、同义词组、同义表达法的替换一个层面是逻辑改写，是在不违背正确逻辑推理的范畴之下对原文进行的改写，也就是至少它要满足逻辑上的合理性。
+　　下面我们通过分类举例来具体地解释原文改写的含义。
+　　最常见的原文改写的方法是词性变换，同义词、同义词组的替换，这些变化往往体现了选项与原文之间的文字与文字之间精确的对应
+　　例1: 原文: Unfortunately, in most cases a distant observer cannot see the singularity.
+　　题目: Which of the following sentences would most probably follow the last sentence of the passage? __
+　　(A) Thus, a physicist interested in studying phenomena near singularities would necessarily hope to find a singularity with a measurable gravitational field.
+　　(B) Accordingly, physicists to date have been unable to observe directly any singularity.
+　　(C) It is specifically this startling phenomenon that has allowed us to codify the scant information currently available about singularities.
+　　(D) Moreover, the existence of this extraordinary phenomenon is implied in the extensive reports of several physicists.
+　　(E) Although unanticipated, phenomena such as these are consistent with the structure of a singularity.
+　　原文: in most cases.., cannot see the singularity
+　　选项: unable to observe directly any singularity
+　　解答细节题的具体方法是：
+　　1.从选项(题干、题支入手)，寻找原文的语言重现。
+　　2. 干扰项特点：
+　　(1)照抄部分原文信息；
+　　(2)含有原文中没有的内容；
+　　(3)与原文相矛盾的内容；
+　　(4)张冠李戴的内容(把A的特征加在B上)；
+　　(5)偷梁换柱的内容：与原文内容一半相同一半不同，即选项仍用文章中的句法结构和大部分词汇，但换关键词，造成意思上的改变；
+　　(6)与原句内容相似但过于绝对化。
+　　3. 正确选项的特点：
+　　(1)事实细节题中，一般照抄原文的不是正确答案，而同义替换的是正确选项。
+　　(2)排除式题型：问选项中哪一个正确(包括在内)或错误(不包括在内)的题。一般来说，含有一些概括性太强的词(如：only，everything，all，none，must，never，always，too，so，alone，everyone，entirely，absolute，mainly，any，have to, no，very，completely，hardly，the most, no longer等)的选项都是错误的。而含有不肯定词：some，sometimes，certain，someone，more…than，(not)as...as，less等的选项往往正确。
+　　(3)这类题的答案往往在两个意义相近或相反的选项中。 
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

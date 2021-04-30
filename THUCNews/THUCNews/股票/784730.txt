@@ -1,0 +1,7 @@
+雅虎计划剥离Hadoop软件部门
+　　新浪财经讯 北京时间周三凌晨消息 雅虎周二表示，将剥离一家专门开发基于开放源代码的Hadoop软件公司，雅虎以及其它云计算公司通过使用这种软件来处理巨量的数据。
+　　雅虎在一项声明中表示，将于Benchmark Capital合作建立Hortonworks，来进一步开发Apache Hadoop软件。
+　　雅虎表示，“这一决定将使Apache Hadoop能够满足日益增长的市场需求。”
+　　Hortonworks首席执行官、雅虎前雇员Eric Baldeschwieler表示，“我们预计未来五年内全球一半以上的数据将存储在Apache Hadoop。”          (明煜)
+欢迎发表评论  我要评论
+

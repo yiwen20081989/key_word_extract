@@ -1,0 +1,4 @@
+Gogobot推新特性与Facebook和Foursquare整合
+　　新浪科技讯 北京时间5月4日凌晨消息，由MySpace前高管特拉维斯·卡茨(Travis Katz)创立的社交旅游网站Gogobot今天推出了一种新特性，将该网站与Facebook和地理位置服务社交网站Foursquare整合在一起，可在获得用户同意的情况下将其所有位置签到(location check-in)信息自动添加到Gogobot。
+　　Gogobot成立于2010年末，目前该公司正在收集更多数据来给用户创造更好的网络体验。(唐风)
+

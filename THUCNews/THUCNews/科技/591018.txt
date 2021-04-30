@@ -1,0 +1,11 @@
+Adobe提醒用户Flash和Reader再曝安全漏洞
+　　【赛迪网讯】2月13日消息，据国外媒体报道，Adobe日前再次提醒用户，旗下Acrobat Reade和Flash Player曝出严重安全漏洞。
+　　日前，Adobe已经发布了Flash Player补丁程序，并建议用户立即升级到最新版10.0.45.2。
+　　至于Acrobat Reader和Acrobat补丁，要等到下周二才能发布。受影响的版本包括：
+　　Reader 9.3 for Windows、Mac和Unix
+　　Acrobat 9.3 for Windows和Mac
+　　Reader 8.2 for Windows合Mac
+　　Acrobat 8.2 for Windows和Mac
+　　近期，Adobe的Acrobat Reader和Flash Player等软件频繁曝出安全漏洞。去年，Adobe Reader共曝出45处安全漏洞，已经取代IE浏览器成为黑客的最主要攻击目标。此外，Adob Flash曝出11处漏洞，也是黑客的重点攻击对象。
+　　作者：友亚
+

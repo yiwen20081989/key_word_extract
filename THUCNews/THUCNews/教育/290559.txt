@@ -1,0 +1,53 @@
+“5W”原理在四六级考试中的巧妙应用
+　　作者： 于佳鑫 来源：宁波新东方学校
+　　考试中的听力理解部分历来是中国学生的薄弱环节。自四、六级改革后，听力部分所占比例由原来的20%升至35%，同时，最近又多所高校以机考形式试点，意味着听力能力的培养愈加重要起来。可以说听力的好坏直接影响四、六级考试成绩。因此，本文就“5W”沟通基本原理在四、六级考试中的应用进行讲解分析，希望能够对考生英语听力测试成绩的提高有所帮助。
+　　在讲解四、六级听力的过程中，我发现，其实真正在做听力题的时候，需要的英语知识只是一层外衣，有时内在逻辑能力更加重要。这一点和国外考试中的SAT和GRE中的句子填空题有点像，不同是，SAT和GRE的单词，不会就是不会，了解了逻辑单词全不会也没用。然而，四、六级听力中的单词对于学生来说相对简单，真正的难词比例非常小，故而，其实逻辑和思维能力更加重要。
+　　四、六级听力考试时，很多人没有办法听懂或听到所谓的关键词，或者无法把听到的内容连接成句子，怎么办？实际上，关键点在于，太过于关注“听”而忽略了听力考试的思维和传播本质。
+　　“听力”作为一种能力讲，本身是一个传播的过程，信息的接收是一个重要的过程。远在1948年，拉斯维尔于题为《传播在社会中的结构与功能》(The Structure and Function of Communication in Society)一文中首次提出了构成传播过程的五种基本要素，即著名的5W理论。这五个W分别是英语中五个疑问代词的第一个字母，即：
+　　Who (谁)
+　　Says What (说了什么)
+　　In Which Channel (通过什么渠道)
+　　To Whom (向谁说)
+　　With What Effect (有什么效果)(见图1)。
+　
+　　听力的过程也是传播的过程，这就意味着，在听的过程，我们也需要这样的“思维经历”。实际上，在听的过程完全可以遵循这个脉络，从who入手，说话人中，重要的说话信息一般在第二说话人中，他说了什么，是我们做题的重点，即所谓的关键词。通过的途径一般有两种，conversation与paragraph，to whom 就是我们自己，而效果的考核就是我们题目。分析至此，可以发现，即使我们空缺中间say what 的过程，也可以得到至少四个过程，而最后一个过程效果分析，是可以通过四、六级考题出现的。所以，我们的听力考试实际上是逆向思维的过程，即了解了效果，通过效果推测原文，再将say what 过程补充出来。 　　
+　　例题1：CET-6,08年6月第14题：
+　　A) The errors will be corrected soon。
+　　B) The woman was mistaken herself。
+　　C) The computing system is too complex
+　　D) He has called the woman several times。
+　　四个选项，分别告诉我们A：“这个错误很快会被纠正”；B：“这位女士自己错了”；C：“计算机体系太复杂”；D：“他给这位女士打了好几次电话”。显而易见，最后一个选项是在叙述过程，只有前三个选项是结果，而这三个选项都透露了一个信息，就是原文一定提到了一个错误，B、C 在讨论错误点，而A告诉了我们结果，我们的倾向选项应该是A。
+　　例题2：CET-6,05年1月第5题：
+　　A. Janet loves the beautiful landscape of Australia very much。
+　　B. Janet is very much interested in architecture。
+　　C. Janet admires the Sydney Opera House very much。
+　　D. Janet thinks it's a shame for anyone not to visit Australia。
+　　四个选项，A：Janet喜欢澳大利亚的美景；B：Janet对建筑感兴趣；C：Janet很向往悉尼歌剧院；D：Janet认为如果人们不去悉尼是一件遗憾的事、从选项中，我们很容易得知，这个对话中的主角是个叫Janet的人，想要传达的信息是对悉尼的感受，那么真正表示结果的是A、B、C三项，同时C刚好是A、B的交集，故而倾向选C。
+　　例题3：看一个四级的例子，02年12月第10题：
+　　A) She is tired of driving in heavy traffic。
+　　B) She doesn't mind it as the road conditions are good。
+　　C) She is unhappy to have to drive such a long way every day。
+　　D) She enjoys it because she's good at driving。
+　　马上能判断出来，对话针对的对象是she，也是我们听题的重点，有了说话人信息，看看what是关于什么的呢？A：交通太堵，她不想开车；B：由于路况不错，她觉得无所谓(马上判断这个无所谓的对象应该是开车)；C：她很不爽是因为每天开车走很长的一段路；D：她喜欢是因为她很擅长开车。在传播过程中，四个选项中，都在陈述一件事，就是她喜不喜欢开车这件事。A、B都与路况有关的，A、C在传达一种负情绪，而剩下两个选项是正情绪。这个时候，我们无法凭空猜一个答案，但是，却对这道题中涉及到的问题已然掌握得差不多了。这时再去听原文，正确率必然大大增加。
+　　例题4：再看一个06年6月长对话的例子：
+　　19. A) To make a business report to the woman。
+　　B) To be interviewed for a job in the woman's company。
+　　C) To resign from his position in the woman's company。
+　　D) To exchange stock market information with the woman. 　
+　　20. A) He is head of a small trading company。
+　　B) He works in an international insurance company。
+　　C) He leads s team of brokers in a big company。
+　　D) He is a public relations officer in a small company. 　　
+　　21. A) The woman thinks Mr. Saunders is asking for more than they can offer。
+　　B) Mr. Saunders will share one third of the woman's responsibilities。
+　　C) Mr. Saunders believes that he deserves more paid vacations。
+　　D) The woman seems to be satisfied with Mr. Saunders' past experience. 　　
+　　我们看这三个选项，由第21题，能够大致推断Mr. Saunders在应聘The woman的公司的职位。
+　　这样，19题即可得出B这个正确选项，也就是有了传播的相应五元素，我们可以自由的思考，甚至在没有听原文的情况下就可以选择出正确的答案。 　　
+　　例题5： CET-4,04年6月的复合式听写：
+　　Today, three buildings hold the library’s collection. (S9) It buys some of its books and gets others as gifts。
+　　S9空需要填写一个句子，那么由结果(effect)我们能轻松看出，前面讲的是三座大楼拥有这个图书馆的馆藏，S9，图书馆一些书是买的，一些书是别人赠送的。结果传达的是一个重要信息，S9需要的是和图书馆的书怎么样的内容，有了图书馆书的分布，有了图书馆书的来源，中间缺少的应该就是图书馆图书的去向问题，分析到这个地方，我们句子的主谓宾成分就全了，进而再分析，状语成分——去到什么地方，文章通篇讨论美国国会图书馆，那么图书借书的目的地就比较丰富，可以是美国国会(the US Congress)，可以是政府(government)，也可以是其他美国图书馆(other American libr，aries)和国外图书馆(foreign libraries)，这个句子就很好整理成：
+　　The library provides books and materials to the US Congress and also lends books to other American libraries, government agencies and foreign libraries。
+    更多信息请访问：新浪四六级频道 四六级论坛 四六级博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

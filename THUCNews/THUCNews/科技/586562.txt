@@ -1,0 +1,7 @@
+惠普推出兼容Mac的家庭服务器
+　　新浪科技讯 北京时间12月30日消息，据国外媒体报道，惠普周一推出了兼容Mac和PC的MediaSmart Server家庭服务器。
+　　MediaSmart Server基于微软的Windows Home Server家庭服务器平台，允许用户从家庭联网的任何电脑中获取数字音乐、视频、照片或备份数据等内容，同时也可在互联网上共享信息。用户可备份联网电脑的数字文件，也可将该服务器作为iTunes Library的中心，任何可运行iTunes的联网电脑都能从服务器获得音乐。
+　　MediaSmart Server含惠普Photo Publisher软件功能，允许用户将照片上传至Facebook、Picasa和Snapfish。该服务器兼容Time Machine，允许Mac用户将其作为备份盘。
+　　惠普MediaSmart Server ex485硬盘空间为750GB，定价599美元；MediaSmart Server ex487硬盘空间为1.5TB，价格为749美元，用户需提前下订单，到货日期为2009年1月5日。(唐风)
+
+

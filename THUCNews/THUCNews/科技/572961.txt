@@ -1,0 +1,6 @@
+WP7版Facebook应用出现死机问题 将出补丁解决
+　　新浪科技讯 北京时间3月18日午间消息，微软与Facebook周四表示，他们正在给Windows Phone 7版Facebook应用开发补丁，以解决部分用户遇到的死机问题。
+　　同时，两家公司还建议，用户可以先暂时通过WP7手机People Hub进行Facebook个人状态更新及查看其他信息。People Hub是WP7手机整合的一项功能，可使用户通过社交网站与朋友联系。
+　　Facebook发言人在一封电子邮件中表示：“微软和Facebook均已发现，某些WP7用户在使用Facebook应用时，手机会出现死机问题，但嵌入 Windows Phone 7 People hub 的 Facebook功能没有受到影响。微软和Facebook的技术人员正在开发补丁，将尽快恢复这项应用的全部功能。”
+　　微软发言人则表示，“微软和Facebook均意识到某些用户的WP7版Facebook应用出现了问题。”微软客户服务部门主管杰米・罗德里格斯(Jaime Rodriguez)周四表示，WP7版Facebook应用从周二开始出现死机问题：“WP7版Facebook应用团队正在开发一个补丁，用以修复从周二开始出现的死机问题。请用户随时留意应用升级信息。”(扬帆)
+

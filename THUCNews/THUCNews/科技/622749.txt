@@ -1,0 +1,6 @@
+Aopen新品HTPC 尺寸仅手掌大小
+    著名外设生产商Aopen近日发布了一款新品HTPC，型号为XC Mini MP67-D，基于Intel Huron River移动平台。
+　　此迷你准系统采用全铝外壳，尺寸堪称精巧，只有167*55*167mm大小，单掌即可托起。散热使用Aopen独有的"Aopen SilentTek technology"全热管静音散热系统，CPU可选Sandy Bridge平台的Core i3/i5/i7移动用CPU，主板使用支持Intel vPro商用支持技术的QM67 Express芯片组，配置2*SO-DIMM，最大支持8GB DDR3 1333内存。硬盘位支持安装1个2.5英寸SATA笔记本硬盘或SSD，扩展位支持安装2个半高刀卡。
+　　其他配置方面，前面板配置吸入式DVD刻录机和2个USB 3.0。背面接口一应俱全，包括DVI-I、DisplayPort、5个USB 2.0、音频输入输出以及千兆网络，同时还支持Intel WiDi无线显示技术。电源使用90W AC变压器，整体重量方面稍大，达到1.7kg。
+　　Aopen这款准系统在北美已经上市，亚太地区将于7月下旬正式推出。采用Core i5 2520M CPU的型号在美国网店的售价为520-550美元不等，淘宝上采用Core i7 2720M的型号售价在4000元左右。
+

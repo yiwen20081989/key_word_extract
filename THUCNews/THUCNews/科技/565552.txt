@@ -1,0 +1,10 @@
+Twitter限制使用“Tweet”一词引发争议
+　　新浪科技讯 北京时间10月31日上午消息，据国外媒体报道，Twitter周五对官方Logo进行了更新，同时还对开发人员如何使用“Twitter” 和 “Tweet”进行了新的限制。
+　　2009年5月，Twitter获得了“Twitter”商标。今年8月，Twitter又申请了“Tweet”商标。周五，Twitter对外界如何使用“Twitter”和“Tweet”进行了新的说明。
+　　Twitter在说明中称，在为应用、产品或域名命名时，如果在名称中使用“Tweet”，则必须要确保他们是独家针对Twitter平台。如果在其他任何平台上使用，请不要是使用“Tweet”字样。
+　　毫无疑问，这条规定将影响TweetDeck等开发商。天使投资者克里斯·迪克逊(Chris Dixon)认为，Twitter此举有悖于其创始人所提倡的开放精神。
+　　而Twitter早期投资者克里斯·萨卡(Chris Sacca)则反击道：“有多少应用的名称中带有‘facebook’字样呢？商标法的目的就要使避免用户或市场对某种产品出现混淆。”
+　　迪克逊称，Twitter的业务就是建立在第三方应用基础之上。并且，Twitter在早期也鼓励开发人员在应用名称中使用“Tweet” 或 “Twitter”字样。
+　　而萨卡则表示，调查结果显示， Twitter用户已经对运行在Twitter平台上的第三方应用产生了混淆。而新推出的命名政策恰恰是为了解决这一混淆。
+　　有开发人员称， “Tweet”一词并不是Twitter发明的，也不是第一个使用的。而萨卡则反击道：“‘Facebook’一词也不是由Facebook发明的。”(李明)
+

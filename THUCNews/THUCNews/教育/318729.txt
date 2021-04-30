@@ -1,0 +1,41 @@
+名师指点迷津：SAT阅读词汇考点全解析
+　　在备考SAT阅读考试的过程中，很多同学已经认识到词汇的积累是理解文章、选择答案的重要基石，更是取得阅读高分的必要条件。事实上，SAT词汇的积累应该是一个“质”与“量”结合的过程。很多同学在进行词汇积累的过程中，把大部分、甚至全部的精力都放在扩大词汇量上，每天玩命似地狂背BARRON上的SAT单词或GRE红宝书，到头来却发现自己阅读SAT文章的障碍并非来自于某些超难词汇考查，而是来自于某些相对简单，甚至未被收录的常用多义词考查。因此，同学们在努力扩大自己的词汇储备的同时，还应该更多地关注对某些特定词汇“质”的挖掘。
+　　我个人认为除了生词难词之外，同学们在SAT阅读中的词汇障碍主要来源于以下三个方面：
+　　第一，望文生义，生搬硬套
+　　很多同学在背单词的过程中会发现并掌握一些英语构词的基本规律，比如有些动词后面加-ing形式就构成了其相应的形容词形式，并且意思不会产生大的变化。例如：read(读)— readable (可读的)。
+　　然而，有些动词后面加上-ing形式变成形容词之后，意思会发生较大的变化。例如：动词agree的常用意是“同意、赞成”，而形容词agreeable的意思却是“令人愉悦的”。了解到这一点，同学们在理解SAT官方指南第865页文章的第一句就不会产生误解了：It was interesting to be in the quiet old town once more, and it was not disagreeable to be here and there suddenly recognized and stared after. (再次回到这个安静古老的小镇倒是蛮有趣的，而且所到之处冷不丁地被人认出来盯着看也不是那么得令人讨厌。)
+　　第二，浅尝辄止，不求甚解
+　　由于很多同学把精力和时间都放在快速增加词汇量上，以至于对很多单词的了解较浅，通常只熟悉某个单词的某个意思。从而造成有些同学用自己所知某个词的固定意思来推理具体语境下的整句话的意思，最终导致对文章的误解或曲解。例如，《美国大学入学考试指导》(下)里有一篇讲非洲大象和生态环境的文章，其中有一句话如下：
+　　In such situations, the rain forest becomes hospitable to large plant-eating mammals such as bongos, bush pigs, duikers, forest hogs, swamp antelopes, forest buffaloes, okapis, sometimes gorillas and always a host of smaller animals that thrive on secondary growth。
+　　这篇文章后面有一道题考查这句话里的host的词义。大家都知道host最基本的意思是“主人”，于是有同学将这句话理解成：在这种情况下，(热带)雨林就变得适宜于诸如大羚羊、野猪、非洲鹿、丛林猪、沼泽羚、森林野牛、欧卡皮鹿、大猩猩等大型草食哺乳动物，以及总是养着次生生长繁盛的较小型动物的主人栖息！！！
+　　很显然，host 在这里的意思不是“主人”。根据整句话的结构来看，句子的骨架应该是 “The rain forest becomes hospitable to large plant-eating mammals… and a host of smaller animals…。” 由此，同学们可以看出host 在这里应该是个量词，而a host of sth/sb的意思就是“一大群/众多(人或物)”。这样一来，整句话的意思应该被理解成：在这种情况下，(热带)雨林就变得适宜于大型草食哺乳动物以及众多次生生长繁盛的小型动物栖息。
+　　第三，模棱两可，张冠李戴
+　　我个人认为记单词的过程可以分成四个阶段：背→忘→混→会。第一个背词的阶段是最让人痛苦的，第二个忘词阶段是最令人沮丧的，而第三个混词阶段才是最打击自信、最可怕的。因为如果你压根儿就没见过某个词，你或许还会通过上下文进行仔细地推断；但如果你把某个词的意思和另一个词记混了，你可能就会根据自己记混的意思直接推断所在句或所在选项的意思，从而造成对文章或选项的误解。
+　　以SAT官方指南第P457页14题为例：
+　　In line 24, “occupation” most nearly means
+　　A. military conquest B. pleasant diversion C. vocation D. settlement E. political repression
+　　根据文章line 23-26的那句话 “Thus, at a time when occupation was becoming a core element in masculine identity, any position for middle-class women other than in relation to men was considered anomalous。” 我们可以很容易判断出occupation等同于position，即“职业，职位，工作”。
+　　然而在审查选项的时候，很多同学都会直接跳过正确答案C，而在其他选项里面艰难地做出抉择。其实Occupation的一个很重要很正式的词义就是“工作或者职业”，就像我们中国话里的“高就”一样。而选项中的VOCATION也是一个很正式的表示“职业/行业/工作”的词，因此答案非他莫属。但是有些同学之所以不选C项主要是搞混了VOCATION(工作)和VACATION(假期)的词义，在快速浏览选项的过程中误以为C项的意思是“假期”，最终导致失分。其实，这两个词的词意非常好区分，用谐音联想记忆法就行了：vAcation—啊(A)！终于放假啦！；vOcation—呕(O)！又要工作了！
+　　鉴于以上三方面的问题，我强烈建议大家在今后的词汇积累过程中一定要更加注重对词汇“质”的挖掘，尽量做到词汇的“宽度”和“深度”相结合。下面我就结合三年来的教学经验，针对以上三方面的词汇问题给大家做以小结。
+　　首先，请大家特别关注词性转化改变意思的现象。
+　　除了上面例子中的agree和agreeable之外，remark和remarkable的意思也不一致。事实上，remark除了“评述，评论”的意思之外，还有一个古老正式的意思是“注意到/察觉”，所以remarkable的意思才会是“值得注意的，不同寻常的”。此外，动词加-ing也能变成形容词，但意思会发生改变。例如，tell(告诉)— telling(有明显效果的，显著的)；invite(邀请)— inviting(诱人的/动人的)；become(成为)— becoming(合适的/适宜的)；consume(消耗)— consuming(使人着迷的)；engage(参加/占用)— engaging(迷人的)等。事实上，这些形容词的词义是由相应动词的某个特定意思延伸而来，只不过对于多数同学来说不熟悉罢了。
+　　其次，请大家尽量积累某些多义词在SAT阅读中的常考词义。
+　　以observe这个词为例，其基本意思有四种：1. 看到，观察；2. 遵守，奉行(法规等)；3. 庆祝(节日等)；4. 评论，评说。虽然这四个词义在SAT文章中都有体现，但目前考查最多最频繁的却是第4种意思，尤其是在题干和选项当中出现时。
+　　再以hail一词为例，hail作名词的意思是“冰雹”，其动词意思如下：1. 迅猛落下；2. 招呼(人或船)；3. 热情地承认或赞扬；4. 来自(某地)。而在SAT阅读中的常考词义是第3种，即对某人/某事进行正面的赞扬欢呼。
+　　其他词汇的常考意义还有：current(水/气流；趋向)；cross(违背，反对)；reaches(河段；上/下游)；ends(目的/目标)；entertain (持有/怀有想法、怀疑等)；faculty(才能/能力)等。
+　　最后，请大家一定着重区别某些“形近意异”的词汇。
+　　除了刚才提过的vocation和vacation之外，以下词汇也必须区分牢记：
+　　adopt(采用；收养)— adapt(适应；改编)
+　　disinterested(公正无私的，不偏不倚的)—uninterested(不感兴趣的，漠不关心的)
+　　indigent(贫穷的)—indignant(愤怒的)
+　　ingenious(心灵手巧的，聪明新颖的)—ingenuous(坦率的，不欺瞒的)
+　　literal(照字面本义的)—literary(文学的)
+　　marital(婚姻的)—martial(军事的)
+　　modify(修改；改善)—mortify(使感羞辱；克制)
+　　nonliterate(没有文字记载的)—illiterate(不会读写的)
+　　perpetrate(犯错/犯罪/犯过失)—perpetuate(使永久/使永恒)
+　　somber/sombre(阴沉的；忧郁的)—sober(清醒的；审慎的)
+　　如前所述，词汇是阅读的基础。拥有过人的词汇量固然重要，但对词汇的深度挖掘更有助于正确地理解文章和选择答案。所以，希望同学们能从以上的词汇分享当中体会SAT阅读词汇的考查倾向，在今后的词汇积累过程中更加注重“质”与“量”的结合。
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

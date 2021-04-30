@@ -1,0 +1,8 @@
+谷歌Chrome Web Store应用商店无人问津
+　　新浪科技讯 北京时间1月5日晚间消息，谷歌Chrome Web Store应用商店正式上线近1个月，但几乎没有消费者问津。
+　　12月7日，谷歌推出了Chrome Web Store应用商店，允许用户购买和安装Web应用，如TweetDeck和MOG等。但近一个月的时间过去了，几乎没有消费者购买应用。
+　　谷歌Chrome Web Store应用商店的界面与苹果iTunes十分相似，与iTunes一样，都包括“最受欢迎的付费应用”一项。但在Chrome Web Store的这一项内，排在首位的是Toddler Jukebox，售价1.99美元。
+　　但Chrome Web Store提供的数据显示，Toddler Jukebox本周仅被下载6次。该排名并不是根据购买次数而评出，因此，相比之下其他应用的表现略好些。
+　　例如，MathBoard售价2.99美元，一周被安装65次，即165美元。这还是相对受欢迎的应用，其他应用的营收更是不堪一提。
+　　销售情况如此不佳，与谷歌没有极力推广Chrome Web Store有关。相比之下，免费应用的表现要好些。例如Quick Note，本周下载量达到8000次，与MathBoard的65次相差悬殊。总之，谷歌Chrome Web Store还有很长一段路要走。(李明)
+

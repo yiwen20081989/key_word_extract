@@ -1,0 +1,4 @@
+平板手机通用 下代黑莓系统命名为BBX
+　　在QNX Auto Summit Japan 2011上，RIM展示的幻灯片曝光了下一代平台的名称——BlackBerry X(BBX)，BBX面向黑莓平板电脑和智能手机。在会上，RIM主要介绍了QNX Car 2车载娱乐系统，QNX Car 2支持采用BBX、iOS、Android系统的移动设备。
+　　BBX已经在RIM BlackBerry PlayBook平板上应用，有传言称，首款采用BBX系统的智能手机Colt将在2010年第一季度上市。
+

@@ -1,0 +1,3 @@
+Intel将在Computex发布平板机专用CPU
+　　在 Core i ULV 的发布会上，Intel 的 Mooly Eden 宣布将在 Computex 上发布专为 Tablet 打造的解决方案。除了这样稍微提及一下之外，Mooly 将所有的细节都保密，不过合理的推测它应该是 Atom 家族的一员。只是究竟这会是挂在 Moorestown 下面，还是只是 Pineview 的延伸就不得而知了。其实也不用花太多心思在猜测上，因为 Computex 还有一个礼拜就要开始了。到时就会知道了！
+

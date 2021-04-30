@@ -1,0 +1,6 @@
+黑客组织LulzSec攻击多家网站 开设攻击热线
+　　新浪科技讯 北京时间6月16日下午消息，黑客组织LulzSec周三再次发起了Titanic Takeover Tuesday行动，对多家网站进行了攻击。
+　　此次遭遇攻击的是游戏杂志The Escapist网站、IT安全公司Finfisher以及网游《EVE Online》、《英雄联盟》、《Minecraft》的登录服务器。
+　　LulzSec还在Twitter中留下了黑客攻击请求热线，并表示：“现在开始接收真正Lulz粉丝的电话，让我们一起嘲笑那些被羞辱的玩家。614-LULZSEC，我们会尽全力接收您的呼叫，一起来吧。”
+　　几个小时后，LulzSec声称他们收到了5000个未接电话、2500封语音邮件。(晓明)
+

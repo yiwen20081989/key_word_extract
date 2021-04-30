@@ -1,0 +1,6 @@
+微软Windows Update被指涉嫌侵权
+　　新浪科技讯 北京时间3月24日上午消息，据国外媒体报道，美国圣何塞通信技术公司Backweb周一向加州地方法院提起诉讼，指控微软Windows Update等应用侵犯其四项专利。
+　　BackWeb在诉讼书中称，微软的后台智能传输服务(BITS)和Windows Update等技术侵犯其在美国拥有的四项专利权。微软这些被指涉嫌侵权的技术主要用于更新Windows，IE和Office等应用。
+　　BackWeb是互联网“主动推送(PUSH)”技术的先锋，在该领域拥有多项专利。(李明) 
+
+

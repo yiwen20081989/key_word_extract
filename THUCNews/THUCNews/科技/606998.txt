@@ -1,0 +1,7 @@
+iPhone福音 Photoshop应用或将成内置
+   近几个月来，Adobe一直在思索如何将iPad和其他平板设备融入Photoshop用户的工作中，他们向广大用户就希望看到何种功能征询了意见。基于反馈信息，该公司朝着用户期望的发展方向迈出第一步。在上周的Adobe MAX大会上，公司首席技术官Kevin Lynch展示了三星Galaxy平板运行content-aware fill工具以及iPad运行混色绘图调色板应用的效果。
+    Adobe的John Nack同时提到，公司设计人员已开始着手移植其他工具，将使运行于桌面或笔记本的Photoshop扩展至iPhone和iPad平台。
+    上述工具目前仅仅是对桌面版的简单复制，而Adobe必然正在考虑如何最大限度利用触屏特性改善Photoshop的功能，毕竟在性能和精度不及桌面和笔记本的触屏设备上完全直接照搬Photoshop的操作体验效果并不一定理想。■
+ 
+ 
+

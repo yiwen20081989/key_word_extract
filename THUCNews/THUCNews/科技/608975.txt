@@ -1,0 +1,7 @@
+Droid Bionic弃Tegra转投德仪OMAP
+　　摩托罗拉在今年年初发布的双核设备队伍中，Atrix和Xoom均已经上市开售，唯独Droid Bionic一直没有新消息，之前摩托罗拉曾表示其上市将会推迟到夏季之后，但是原因不明。
+　　Droid Bionic发布时使用Tegra 2双核1GHz处理器，拥有512MB RAM内存，内置800万像素摄像头和双LED闪光灯，支持1080P视频播放，并配有前置VGA摄像头。
+　　为何推迟这款双核手机，现在似乎有了一些眉目。Nenamark基准成绩在线排行榜中出现了这款Droid Bionic的新特征，在GPU一栏中我们可以看到PowerVR SGX 540 GPU。要知道这个GPU是用在德州仪器最新的OMAP4430和OMAP4440双核处理器中，并不是Tegra 2中的图形核心。
+　　进一步分析，有传闻称Tegra 2片上系统与LTE网络的兼容性并不怎么样，或许摩托罗拉是为了支持LTE才做出抛弃Tegra 2，在Droid Bionic上换用德州仪器的处理器。
+　　除了GPU之外，我们还可以看到这款手机将运行Android 2.3.3版系统，相比发布时的版本有所升级，其屏幕分辨率则为540×960像素。
+

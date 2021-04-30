@@ -1,0 +1,12 @@
+苹果iPad电脑内建A4芯片 面临众多竞争对手
+　　CNET科技资讯网3月9日国际报道 苹果预定在4月3日推出内建A4芯片的iPad平板电脑，但众多竞争对手也未闲着，也纷纷摩拳擦掌准备推出产品迎战。
+　　如同1月时的报道，A4的中央处理器(CPU)设计主要采用英国ARM的技术。The Linley Group总裁兼芯片业分析师Linley Gwennap认为，A4采用的是一种常见的ARM CPU，由Intrinsity所设计，并由三星代工制造。
+　　但苹果可能选择修改3D绘图引擎，以强化A4的性能。去年，苹果聘用前AMD绘图产品事业群首席技术官Bob Drebin。目前Drebin担任苹果的资深董事。
+　　Gwennap说：“作法是选择一、两个领域投资，与其他厂商作区分，然后把技术授权给别人使用。以苹果的例子来说，他们总是根据使用者体验来自我区分，所以掌控绘图、视频或音频等技术，也许会比在CPU上取胜更有价值。”
+　　A4和iPad将面临哪些竞争呢？ 以下是苹果众多竞争对手及其技术与产品的一览表：
+　　Qualcomm Snapdragon: 速度1GHz / 设计： Qualcomm设计，采用ARM指令集/ 产品：Dell Mini 5 slate、Lenovo Skylight smartbook、Lenovo IdeaPad U1 laptop/tablet、Google Nexus One ；
+　　Texas Instruments OMAP3430: 速度550MHz / 设计： ARM Cortex A8 / 产品： Motorola Droid、Nokia N900、Palm Pre；
+　　Nvidia Tegra 2: 速度1GHz (最高) / 设计： 双核心ARM Cortex-A9 / 产品： Asus Eee Pad、Notion Ink、Viewsonic、T-Mobile UK. (市场传言： Microsoft Courier tablet、Motorola-Verizon device)；
+　　Marvell Armada 610: 速度1.2GHz (最高) / 设计： Marvell设计，采用ARM指令集/ 产品： 目前提供样本给客户；
+　　英特尔Atom: 速度1.83GHz (最高) / 设计： Pine Trail、Moorestown / 产品： Dell、HP、Lenovo、Toshiba Netbooks (Pine Trail)；LG智能手机及其他移动上网设备与平板设备(Moorestown)。
+

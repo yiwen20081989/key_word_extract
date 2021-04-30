@@ -1,0 +1,11 @@
+苹果推新iMac支持超高速接口：售价9298元起
+　　新浪科技讯 北京时间5月3日晚间消息，苹果今日推出了新款iMac计算机，配备了新一代四核处理器、功能更加强大的显卡、超高速接口Thunderbolt I/O技术，以及新的FaceTime高清摄像头，起始售价1199美元。
+　　与前一代产品相比，新款iMac计算速度提升70%，显卡性能提升2倍。苹果全球产品营销高级副总裁菲利普·席勒 (Philip Schiller)称：“我们的用户喜欢iMac的铝外壳、完美的显示效果和一体化设计，通过新一代四核处理器、功能更加强大的显卡、高速Thunderbolt I/O技术，以及新的FaceTime高清摄像头，我们把全球最佳的桌面计算机产品变得更加完美。”
+　　新款iMac采用英特尔四核Core i5处理器，用户也可以选择3.4GHz的Core i7处理器。凭借AMD Radeon HD图形处理器，新款iMac是迄今为止图形功能最强大的一体化桌面计算机。
+　　iMac是当前市场上采用Thunderbolt I/O技术的首款桌面计算机，21.5英寸iMac拥有一个Thunderbolt端口，27英寸款式拥有2个Thunderbolt端口，Thunderbolt的数据传输速度高达10Gbps。
+　　新款iMac内置FaceTime HD高清摄像头和苹果的FaceTime软件，支持所有FaceTime HD Mac计算机之间的高清视频通话，以及iPad 2、iPhone 4、当前一代iPod touch和其他基于英特尔处理器Mac计算机之间的标准分辨率的视频通话。
+　　配置与价格
+　　新款iMac现通过苹果在线商店Apple Store、专卖店和授权零售商销售，21.5英寸包括两种配置：2.5 GHz四核 Core i5处理器、AMD Radeon HD 6750M显卡和500GB硬盘配置在美国的建议零售价为1199美元(中国内地售价9298元)，2.7 GHz四核 Core i5处理器、AMD Radeon HD 6770M显卡和1TB硬盘配置在美国的建议零售价为1499美元(中国内地售价11498元)。
+　　27英寸Mac也包括两种配置：2.7 GHz四核Core i5处理器、AMD Radeon HD 6770M显卡和1TB硬盘配置在美国的建议零售价为1699美元(中国内地售价12998元)，3.1 GHz四核Core i5处理器、AMD Radeon HD 6970M显卡和1TB硬盘配置在美国的建议零售价为1999美元(中国内地售价15498元)。
+　　此外，用户还可定制3.4 GHz的Core i7处理器、2TB硬盘、256GB固态硬盘、额外的DDR3内存等配置，具体信息可参考www.apple.com/imac。(李明)
+

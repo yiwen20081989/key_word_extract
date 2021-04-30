@@ -1,0 +1,56 @@
+考研英语传统阅读与新题型的“必杀技”(一)
+　　(以下均节选自万学海文《2009考研英语阅读理解技巧标准全书》)
+　　阅读作为考研英语分数比值最大的部分，历来都是考生们备战考研英语的制胜真经。然而，这部分分数却让不少考生“望分兴叹” 。事实上，它并没有考生们认为的那么难，只要掌握了阅读理解的解题“必杀技”，就可以攻破出题人的“拳数套路” 。下面以选自于万学·海文教研中心研发的《2009考研英语阅读理解技巧标准全书》中的一篇与经济学相关的篇目为例，教你掌握阅读理解解题“必杀技”，让我们先从传统阅读开始。
+　　传统阅读 经济篇
+　　对于考研阅读试题，由于客观试题本身对选项的要求——解的唯一性和选项间的不可争议性。而社会科学本身不同于自然科学，有非常明确的界限。命题人为了避免两者之间的冲突，所选文章通常具有以下两大特点：
+　　1.文章中心单一、突出，即整个文章的说明或论述均紧紧围绕一个中心进行。
+　　2.作者对所描述或论述的事物持有的态度褒贬分明(当然，客观描述某些事件的态度除外，因为作者态度是客观的，就不会有个人的褒贬之态)。
+　　文章的这两大特点也构成了考生在正确答题时的两条宏观主线(通常考生把握这两点足以保证拿下阅读试题中70%以上的分数)。
+　　如：
+　　When it comes to the slowing economy, Ellen Spero is not biting her nails just yet. But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either. Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. Spero blames the softening economy. “I'm a good economic indicator,” she says. “I provide a service that people can do without when they're concerned about saving some dollars.” So Spero is downscaling, shopping at middle--brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. “I don't know if other clients are going to abandon me, too，” she says. 
+　　Even before Alan Greenspan's admission that America's red-hot economy is cooling, lots of working folks had already seen signs of the slowdown themselves. From car dealer-ships to Gap outlets, sales have been lagging for months as shoppers temper their spending. For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the cautious approach is coming at a crucial time. Already, experts say, holiday sales are off 7 percent from last year's pace. But don't sound any alarms just yet. Consumers seem only concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects, even as they do some modest belt-tightening. 
+　　Consumers say they are not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. Home prices are holding steady in most regions. In Manhattan, “there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,” says broker Barbara Corcoran. In San Francisco, prices are still rising even as frenzied(a.狂乱的) overbidding quiets. “Instead of 20 to 30 offers, now maybe you only get two or three,” says John Deadly, a Bay Area real-estate broker. And most folks still feel pretty comfortable about their ability to find and keep a job. 
+　　Many folks see silver linings to this slowdown. Potential homebuyers would cheer for lower interest rates. Employers would not mind a little fewer bubbles in the job market. Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom. Diners might see an upside, too. Getting a table at Manhattan's hot new Alain Ducasse restaurant need to be impossible. Not anymore. For that, Greenspan & Co. may still be worth toasting. (2004.P3)
+　　51. By “Ellen Spero isn't biting her nails just yet” (Line 1, Paragraph 1), the author means .
+　　A. Spero can hardly maintain her business 
+　　B. Spero is too much engaged in her work 
+　　C. Spero has grown out of her bad habit 
+　　D. Spero is not in a desperate situation 
+　　【解答过程】解题思路一：
+　　从文章中各种带有感情色彩的短语“don't sound any alarms”，“only concerned, not panicked”，“remain optimistic”，“not in despair”，“still feel pretty good”，“feel pretty comfortable”和“still be worth toasting”，我们可以看到，作者及美国人对整个经济的不景气持乐观态度。A项Spero几乎不能维持他的生意了。如果商业到了这般状况，人们还会对经济乐观得起来吗？A违背了文中的基本态度，排除。B项Spero太忙于自己的工作，文中第二句提到了Spero不能修剪、锉磨、上油指甲到他想要的数量，并且后文中又提到Spero在不断降低自己的经营规模，均说明生意在萎缩，生意不景气显然不可能有太多的活要做，排除B。选项C Spero已经改掉了他的坏脾气，文中根本就没有提及这个内容，排除C。选项D Spero并没有陷于绝望的境地，正好符合作者的乐观态度基调，且与后文吻合，所以答案选D。
+　　解题思路二：
+　　从中心与态度角度判断，A偏离文中态度基调，B、C谈到的均是具体表面的含义，偏离了文章中心，排除。同样，答案为D。
+　　52. How do the public feel about the current economic situation? 
+　　A. Optimistic.
+　　B. Confused.
+　　C. Carefree.
+　　D. Panicked.
+　　【解答过程】上面已有分析，答案为A 乐观的。B困惑的，C无忧虑的(乐观并不代表没有忧虑，文中谈到“only concerned, not panicked”正是说明这一点)，D恐慌的，均不符合文意，排除。
+　　53. When mentioning “the $4 million to $10 million range” (Paragraph 3) the author is talking about . 
+　　A. gold market 
+　　B. real estate
+　　C. stock exchange
+　　D. venture investment
+　　【解答过程】对于这种类似于指代关系的判断，通常采用就近原则，即指代的内容通常是之前紧邻的中心词。因为如果指代的内容间隔太远，容易产生歧义，不符合命题原则。这里，与这句紧邻的前后作者谈论的均是有关Home prices的话题，所以可以断定“the $4 million to $10 million range”谈论的是real estate(地产)，答案B。A黄金市场，文中虽然出现了gold这个词，但这里gold充当的是修饰词，修饰rush，表示“高涨的”；C股票交易，虽然文章谈到了华尔街，但并没有谈到股票交易，只是说华尔街的股息收益提供了“the $4 million to $10 million range”的资金来源，而股票的收益又为股票提供资金来源本身在理论上就说不通(如果股息为股票提供资金，股票又赚取股息，岂不是鸡生蛋蛋生鸡，一张纸左手换到右手就能不断赚取收益，那还有谁去从事实业呢?)；D风险投资，文中并没有提及到。
+　　54. Why can many people see “silver linings” to the economic showdown? 
+　　A. They would benefit in certain ways. 
+　　B. The stock market shows signs of recovery. 
+　　C. Such a slowdown usually precedes a boom. 
+　　D. The purchasing power would be enhanced. 
+　　【解答过程】解题思路一：
+　　虽然有些考生对于本句话的理解可能不是很清晰，但从该段结构看，段落首句给出该句后，后面均是具体事实的列举，由此可以断定，该句为该段的中心句，这也符合英文表达的习惯。该句直译：对于此次经济的减缓，许多人仍然可以看到银里子。在这里，我们暂且不管“silver linings”到底指“银里子”对不对，但我们可以肯定，既然是由“金银”修饰的名词，肯定不会是什么坏东西。那么，我们可以直接把它用“好处”这一具有广泛含义的词来含糊的替代它理解。这句话就转化成了这样一个很明确的语义：对于此次¾济的减缓，许多人仍然可以看到很多好处。语义明确了，从段落结构和内容方面我们已断定该句话就是段落的中心，后面举例正是对本中心的具体说明，从potential home buyers，employers，diners ，getting a table at Manhattan's hot new Alain Ducasse restaurant等几个方面来说明这一中心，人们可以在不同的方面获得一些实惠，同时也符合作者乐观的态度基调(benefit)，故答案为A。B股票市场显示了复苏的迹象(文中虽然提到股市，但并没提到股市的状况)，C繁荣之前通常有这种衰退，D购买力会得以提高，这三者在文中均没有提及。
+　　解题思路二：
+　　从另一方面来看，A他们会从某些方面获得实惠。通常，¾济衰退并非所有的人都得不到利益，不同的人可能会从不同的方面获得一些好处。A含义富有弹性，含有特征词certain，且与现实逻¼吻合，故确定答案为A。
+　　解题思路三：
+　　把中心与态度结合起来判断，文章中心描述的是¾济衰退对人们生活的影响，作者态度是乐观的，两者结合，既涉及到生活方面，又表现出乐观态度(从benefit这一词可以看出)，只有A，故确定答案为A。
+　　55. To which of the following is the author likely to agree? 
+　　A. A now boom, on the horizon. 
+　　B. Tighten the belt, the single remedy. 
+　　C. Caution all right, panic not. 
+　　D. The more ventures, the more chances.
+　　【解答过程】本文谈论的中心是经济增长速度放缓对美国人的影响及人们所持的态度，A即将出现的经济繁荣，谈到的是经济的复兴，偏离中心，排除。D风险越多，机会越大，谈到的是投资，偏离中心，排除。B勒紧腰带，别无选择，态度过于低沉，和作者乐观态度相悖，排除。C谨慎一点，无须恐慌，态度与作者吻合，且我们可以在文中可以找到依据“only concerned, not panicked”，答案C。
+　　【总结】本文是2004年考研英语阅读文章中最难的一篇，其难点在于文中出现了几个比较抽象的语句，使考生对语义的理解不清晰，导致答题时无所适从。其实，在做阅读理解这类题型时，我们并不需要把每个句子都弄清楚。当遇到一些模糊概念时，我们可以跳过法，首先从整体上把握文章中心和作者所持的态度，再适当兼顾细节，采用多种不同的技巧答题。如果有些题目还是不能作答的话，我们完全可以选择放弃，毕竟并不是每个人都能获得满分。
+　　提高阅读除了掌握一定的方法和技巧以外，也要通过研做真题来掌握命题规律和特点。然而，考生的时间和能力都是有限的，在有限且紧张的复习时间内，迅速掌握命题规律且提高个人的阅读能力，对于每一个考生来说，难度都不小。但是，你可以选择权威的参考资料或其他辅助个人有效学习的方式，最短时间获得最多的精华。以上文出处——《考研英语阅读理解技巧标准全书》为例，它诠释了真题的命题规律，解读考研阅读的难点和应对技巧，且对阅读各种内容及题型做出详尽的分析，指导性比较直接、全面。所以，建议考生，在选择参考资料时，要选择那些围绕大纲、靠近真题、解析全面、指导直接的资料。以便资料的有效运用。
+    更多信息请访问：新浪考研频道 考研论坛 考研博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

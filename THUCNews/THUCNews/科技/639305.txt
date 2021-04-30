@@ -1,0 +1,5 @@
+Push.IO收购移动应用框架TapLynx
+　　新浪科技讯 北京时间6月2日晚间消息，云计算移动平台Push.IO宣布，该公司已经从NewsGator手中收购了移动应用框架TapLynx。Puch.IO本月将重新发布TapLynx，并加入一系列新功能。双方没有披露这笔交易的财务条款。
+　　TapLynx是由NewsGator开发的一款产品，帮助不具备太多编程知识的用户开发iPhone、iPad和iPod Touch应用。除开发并发布应用外，TapLynx还能帮助用户通过这些应用盈利，具体方式则包括赞助合同、广告和收费下载等。
+　　Push.IO将把TapLynx加入到该公司的移动服务中。Push.IO目前提供的服务包括推送通知、应用内购物、数据聚合，以及内容发布等。Push.IO表示，本月将向TapLynx加入iAd支持和应用内购物功能。(邱越)
+

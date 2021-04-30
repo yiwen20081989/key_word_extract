@@ -1,0 +1,4 @@
+与Intel决裂 NVIDIA年内发布Ion 2平台
+　　据悉，NVIDIA确认将在今年年底之前公布Ion 2平台，第二代芯片带来了更快的速度和硬件支持度。Ion主要用于上网本和Nettop台式机，主要为Atom处理器提供支持，内置图形芯片可以带来1080p的回放能力，但Ion2却带来了VIA Nano以及标准奔腾4处理器兼容性的支持度，之前NVIDIA宣布停止面向Intel DMI处理器进行芯片组开发，因此Ion2支持Nehalem/Westmere的希望渺茫，这代表着Ion产品的非Intel厂商合作将更为广泛。
+　　编辑点评：NVIDIA与Intel翻了脸，意味前者在未来与非Intel厂商的合作更加广泛，Ion平台自问世以来就走得不太顺，在上网本平台甚为流行的Intel Atom对其冷眼相对，Ion在夹缝中求生存。现在性能更好的Ion 2平台来了，它未来与VAI Nano擦出的火花很令人期待。
+

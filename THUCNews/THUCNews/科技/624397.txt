@@ -1,0 +1,7 @@
+微软免费杀毒软件下载限制7.5万次
+　　比特网(Chinabyte)6月24日消息 微软下决心要做自己的杀毒软件，不过这个声称免费的杀毒软件有了下载量的限制。据媒体报道，将于美国东部时间周二发布的微软免费杀毒软件Windows Security Essentials下载量限制为最高7.5万次。
+　　微软发言人当地时间周一表示，Windows Security Essentials是一款免费杀毒软件，将取代此前的Windows Live OneCare，其下载地址为：http://www.microsoft.com/security_essentials，该产品将于美国东部时间周二中午提供下载。
+　　此前，微软将Windows Security Essentials定位为一款基本的反病毒和反间谍产品，并表示该产品消耗的内存和硬盘空间均低于赛门铁克和McAfee等商业化的安全软件套装，微软也称上网本此款软件针对的重点之一。
+　　除了微软和消费者，黑客们也希望早点得到这款产品，美国PC支持公司Total PC Support的老板大卫-布克宾得(David Bookbinder)说，由于微软向来都不擅长反病毒，因此他预计，Windows Security Essentials也不会太好。
+　　微软也曾经对一些软件预览版的下载进行过限制。今年1月，微软启动Windows 7测试版的下载工作。因为微软声称会对其下载量进行限制，引发大量用户短时间内一起涌入，并导致服务器被瘫痪。
+

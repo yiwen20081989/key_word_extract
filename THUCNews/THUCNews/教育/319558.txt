@@ -1,0 +1,37 @@
+名师浅谈托福写作用词地道之名词化
+　　新托福考试作为国外类考试，其写作部分的用词地道的重要性毋庸置疑。然而，由于历史、地理和社会的原因，英民族更注重抽象思维，他们擅长用抽象的概念来表达具体的事物。他们认为通过名词化可以产生大量抽象概念，满足英语表达抽象概念的需要。因此，擅用名词化不仅体现了写作水平，更是一种思维方式。曾经一个针对中国几所顶尖大学的优秀作文的调查显示，20 篇优秀作文中名词化的使用频率为7%-8%，而普通习作的使用频率仅为5%-6%。与此同时，选用了20 篇英语国家学生的英语作文，同样的方法统计出其名词化的使用频率为10%-15%。有人更是戏说道，老外眼中句子分为3个档次，最差的是主动句，较好的是被动句，倒装句等，最好的nominalization(名词化)的句子，这样的句子最学术最适合写论文。那么面对这样的差异，我们需要重新审视我们写作中的思维方式，做到如何恰到好处又不“画蛇添足”。
+　　简单说，名词化即是动词或形容词被用作名词的现象。比如动词转成名词：discovery->discovery， move->movement， refuse->refusal，又比如形容词转成名词：careless->carelessness， difficult->difficulty， intense->intensity。那么什么情况下，我们需要进行名词化呢？
+　　A 谓语动词的宾语部分
+　　原句：I do not know either what she meant or what he intends。
+　　名词化：I do not know either her meaning or his intentions。
+　　B 结合被动形式
+　　原句：If people decide without enough persuasive information，.。。
+　　名词化：If a decision is made without enough persuasive information，.。。
+　　C 取代诸如从句中“the fact that”的用法
+　　原句：The fact that I denied what he accused me of impressed the jury。
+　　名词化：My denial of his accusations impressed the jury。
+　　更好的名词化：a. When I denied his accusations， I impressed the jury。
+　　b. In denying his accusations， I impressed the jury。
+　　D 名词化部分用在there is/are的后面
+　　原句：We demand that the government stop taxing entertainment。
+　　名词化：There is a demand for an end to taxation on entertainment。
+　　原句：The floods considerably eroded the land。
+　　名词化：There was considerable erosion of the land from the floods。
+　　然而，有些时候，在我们的思维方式中认为理所应当使用“名词化”时，老外认为是没有必要的。比如：
+　　A 名词化部分跟在动词后面
+　　原句(名词化“冗余”)：The police conducted an investigation into the matter。
+　　改后：The police investigated the matter。
+　　B 名词化部分作为主语
+　　原句：Our discussion is concerned with a tax cut。
+　　改后：We discussed a tax cut。
+　　C 连续进行名词化
+　　原句：a. First， she reviewed the evolution of the dorsal fin。
+　　b. There was a first a review of the evolution of the dorsal fin。
+　　改后：First， she reviewed how the dorsal fin evolved。
+　　D 连接部分名词化
+　　原句：Their cessation of hostilities was because of their personnel losses。
+　　改后：They ceased hostilities because they lost personnel。
+　　原句：The instability of the motor housing did not preclude the completion of the field trials。
+　　改后：Even though the motor housing was unstable， the research staff completed the field trials。
+　　以上这些情况是我们中国学生很常见的名词化缺失或名词化滥用的例子。对于新托福写作来说，在保证基本的语言语法不出错的基础上，如果能更多地正确使用名词化，文章不但更地道，也更易取得高分。当然，熟练掌握名词化不是一蹴而就的事情，平时需要多积累，多运用。 
+

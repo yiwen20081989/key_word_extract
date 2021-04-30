@@ -1,0 +1,19 @@
+铝合金管材的一些专业术语翻译及解释
+　　结构壁管 structured wall pipe
+　　由多层材质组成的复合管壁结构和管壁为开口肋形、封闭肋形(中空)等异型管壁结构管材的统称。
+　　异型壁管 profiled wall pipe
+　　内壁平滑、外壁为螺旋状、环状或泫状肋管壁结构管材的统称。
+　　双壁波纹管 double wall corrugated pipe
+　　内壁光滑平整，外壁为梯形或弧形波纹状肋，内壁和外壁波纹间为中空的异型管壁管材。
+　　环形肋管 annular ribbed pipe
+　　管内壁光滑平整，外壁有环形加强肋的异型管壁管材。
+　　螺旋肋管 helical ribbed pipe
+　　管内壁光滑平整，外壁加强肋呈螺旋形，由螺旋卷绕工艺制成的异型管壁管材。
+　　平壁管 plain wall pipe
+　　管内壁外壁光滑的均质管壁管材。
+　　公称直径(DN)nominal diameter
+　　热塑性塑料管道系统管材的标定直径，表示管道内径、外径的大小或其近似值。
+　　环向弯曲刚度 ring-bending stiffness
+　　管道抵抗环向变形能力的量度。可彩测试方法或计算方法定值，单位为N/m2或KN/m2。
+　　弹性直径变形率 elastic diameter derormation rate
+

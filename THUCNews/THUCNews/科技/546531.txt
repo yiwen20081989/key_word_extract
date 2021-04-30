@@ -1,0 +1,7 @@
+报告称Twitter信息65%发自Twitter网站
+图为Twitter信息来源分布图
+　　新浪科技讯 北京时间8月21日早间消息，据国外媒体昨日报道，美国网络数据研究公司Rapleaf发布的研究报告显示，有65%的Twitter信息发自Twitter网站(Twitter.com)，来自最为热门的Twitter客户端TweetDeck的仅占4%。
+　　Rapleaf是对400万名Twitter用户每个人最近发布的20条Twitter信息进行统计后，得出上述结论的。
+　　Twitter联合创始人比兹·斯通(Biz Stone)做客2009年科技博客All Things Digital举行的“D7大会”上曾表示，与通过Twitter.com发送消息的用户相比，通过开放的API及其他客户端使用Twitter的用户至少为两倍。
+　　此前还曾有过多个针对Twitter的研究结论，例如，24%的Twitter信息是由程序自动生成的；只有5%的Twitter用户拥有100个以上的“关注者(Follower)”；半数Twitter用户过去一周内从未更新。(书聿)
+

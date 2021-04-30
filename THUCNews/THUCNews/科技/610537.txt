@@ -1,0 +1,5 @@
+全新双核CPU 诺基亚或将推出TD版WP手机
+　　诺基亚日前发布了两款采用Windows Phone操作系统的智能手机Lumia 800(参数 论坛 软件)和710，这两款智能手机均采用高通处理器。如今，来自国外媒体的最新消息显示，诺基亚未来的Windows Phone手机将采用ST-Ericsson芯片。
+　　据国外媒体报道，诺基亚未来的Windows Phone手机将采用ST-Ericsson公司的NovaThor U9500，U8500和U5500芯片，这三款芯片均包含双核ARM Cortex A9架构处理器，NEON CPU扩展，ARM Mali 400图形核心和LP-DDR2 RAM。在视频拍照方面，NovaThor U9500和U8500最高均可支持1080p高清视频的摄录和2000万像素的照片拍摄，而NovaThor U5500最高只支持720p视频的摄录和1200万像素的照片拍摄。
+　　值得注意的是，NovaThor平台支持TD-SCDMA网络，此前TD版的HTC灵感Z710t即采用了U9500处理器，而此前诺基亚 CEO埃洛普就曾表示，诺基亚将会推出覆盖中国三大运营商网络的Windows Phone手机，那么我们有理由相信，支持TD-SCDMA网络的双核诺基亚Windows Phone手机不久即将来到我们的面前。
+

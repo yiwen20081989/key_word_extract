@@ -1,0 +1,6 @@
+SNB平台定制游戏强本亮相
+　　专门销售台式机替代型高性能笔记本的定制厂商Eurocom今天宣布了搭载Huron River(移动版Sandy Bridge)平台的新型号游戏笔记本，命名为Eurocom Racer。不出意外的话，这款新机应当还是出自Clevo蓝天的手笔。
+　　Eurocom Razer搭载Intel HM65芯片组，处理器可选Core i7-2920XM/2820QM/2720QM以及Core i5-2520M/2540M。4内存插槽最大支持32GB DDR3 1333/1600MHz内存。MSM 3.0b显卡位最大支持100W功耗显卡，可选GeForce GTX 485M/480M/470M/460M、Quadro FX 3800M/2800M或Radeon HD 6970M。
+　　其他配置还包括：15.6寸1920x1080分辨率LED液晶，可选镜面/哑光屏幕。双硬盘位可选SSD、混合硬盘或机械硬盘，最大1.75TB容量。2x USB 3.0接口，2x USB 2.0接口，1x eSATA。双链接DVI + HDMI视频输出，9合1读卡器，千兆网卡，可选802.11n、蓝牙、3G网卡等。音频支持耳机输出，麦克风输入、S/PDIF输出和Line-in输入。
+　　Eurocom Racer预计将于2月1日开始出货，具体价格还未公布。
+

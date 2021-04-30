@@ -1,0 +1,7 @@
+NVIDIA离子平台电脑售价299美元
+　　美国当地时间2月11日，NVIDIA官方公布了ION（离子）平台售价以及相关产品的上市时间。
+　　NVIDIA宣布ION平台获得了微软Windows Vista Home Premium认证，并且相关驱动也通过了微软WHQL认证。基于ION离子平台的PC产品将在今年夏天面市。而基于该平台的笔记本或者是小型PC产品，售价将仅售299美元。
+　　通过微软Windows Vista认证的ION离子平台产品，将包含以下特点：
+* 支持1080p高清视频以及蓝光电影 * 支持微软DirectX 10规格，提供了优秀的游戏体验 * 支持Windows Vista系统，包括Aero特效以及Flip3D * 为视频以及图片处理提供了GPU加速支持
+
+

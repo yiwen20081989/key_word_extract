@@ -1,0 +1,8 @@
+微软推出新工具可将iPhone应用程序转至WP7
+　　新浪科技讯 北京时间4月30日早间消息，微软今天通过Windows Phone开发者官方博客宣布，公司已经发布了一套新的工具，该工具将能够帮助开发者将iPhone应用程序转换至Windows Phone 7平台上来。
+　　开发者可以登录网站以进一步了解该API绘制工具；同时微软还提供了一份超过90页的白皮书——《致iPhone应用程序开发者的Windows Phone 7平台指南(Windows Phone 7 Guide for iPhone Applications Developers)》。该网站还配有“开发者的故事”等视频，以及其他帮助开发者着手开发时所需要的各种资料汇编。
+　　微软特别指出，具体说来这款API绘制工具的功能有点类似于字典，它将允许开发者选择出自己的iOS API call，然后在Windows Phone 7平台上搜索相类似的分类、方法和事项通知等。开发者可以搜索指定的iOS API call，并通过C#示例代码和针对两个平台的API文件，在Windows Phone 7平台上寻找相同的类别。
+　　这些示例代码能够帮助开发者将iOS代码转换成为C#代码。
+　　在一开始，iOS API会有三个分类可以通过该工具进行绘制：网络(Network/Internet)、用户界面(User Interface)以及数据管理(Data Management)。由于平台不同，以及用户界面的不同，因此并非所有的API均可以被绘制。微软保证，即将有更多的API可以通过该工具进行绘制。
+　　微软也表示，针对Android应用程序的相关转换工具也在加紧开发当中。 (林静)
+

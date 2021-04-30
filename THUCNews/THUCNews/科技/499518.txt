@@ -1,0 +1,14 @@
+接口通吃 裸族CPS25EU3SE硬盘盒评测
+Qwesome19英寸液晶（分辨率 1280X1024）
+裸族CPS25EU3SE硬盘盒：速率测试（上）
+  本次评测使用的是一款建兴的SSD固态硬盘，容量为128GB，在Windows下格式化后显示的容量为119.24GB。这款SSD采用了被誉为是世界上最好的Marvell 88SS9174控制芯片。相信使用这款建兴的SSD可以充分测试出裸族CPS25EU3SE硬盘盒的接口速度优势。
+  ATTO DiskBench，写入112MB/s，读取175B/s。
+  HD Tach测试：突发180MB/s，平均读取172.8MB/s，平均写入119.5MB/s，平均访问时间0.3ms。
+  FD Bench软件：读取160MB/s，写入107MB/s，读取速度和ATTO相仿，比较接近实际性能。
+HD Tune读取测试：平均166.5MB/s，最大169.2MB/s，突发165.7MB/s。
+写入曲线，和读取类似，平均100.9MB/s。
+在CrystalDiskMark的50MB测试中，读取速度达到了148.6MB/s，写入速度达到了128.8MB/s。
+在CrystalDiskMark的100MB测试中，读取速度达到了163.4MB/s，写入速度达到了129.1MB/s。
+在CrystalDiskMark的500MB测试中，读取速度达到了177.2MB/s，写入速度达到了129MB/s。
+写在最后：外置存储多面手
+

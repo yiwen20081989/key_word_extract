@@ -1,0 +1,6 @@
+微软宣布9月15日发布IE9测试版
+微软宣布9月15日发布IE 9测试版
+　　新浪科技讯 北京时间8月13日凌晨消息，据国外媒体报道，微软周四在Windows团队官方博客发表文章宣布，IE9测试版将于9月15日正式发布。
+　　微软计划届时在美国旧金山举行IE9 Beta发布会，宣传口号为“The Beauty of the Web”(网络之美)。据悉微软举行发布会的目的是向外界表明其对IE 9的重视，以及对IE9与Chrome、Firefox和Safari的竞争报以厚望。
+　　据之前的传闻称，IE9 Beta仅支持Windows Vista和Windows 7操作系统，可能与Windows XP无缘。(张和)
+

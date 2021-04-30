@@ -1,0 +1,7 @@
+攻破Android很容易 进黑客大会不记名
+作者/李涛
+ 　　近日在名为“Def Con”的软件安全会议上，著名安全软件Spider Labs的官员Nicholas Percoco向大家介绍了攻破Android手机有多容易，黑客可以轻而易举的获得Android手机中的短信、电话记录等个人信息。
+　　
+　　据悉现场使用了HTC的Legend和Desire进行了演示，当然理论上所有Android手机都能被破解。
+　　参加Def Con大会只需要缴纳140美元的入场费，而不必留下你的任何个人信息，对本次安全大会感兴趣的朋友请继续关注PChome的后续报道。
+

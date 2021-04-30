@@ -1,0 +1,29 @@
+名师指导：考研英语阅读长难句解析方法
+　　依据《2010年全国硕士研究生入学统一考试英语考试大纲解析》可知，2010考研阅读理解的命题趋势及核心考点没有实质性变化，而我们知道，长难句是历年考研阅读理解中必然要出现的，因此成功地攻克长难句必将有助于提高阅读部分的分值。鉴于此，教研中心特对广大考生怎样攻克长难句进行专项指导。
+　　一、什么是长难句
+　　复合长句即包含各种语法关系和特殊句型的句子。英语多长句，这是因为英语可以有后置定语。扩展的后置定语可以是带从句或长修饰语的复杂句。这些句子结构复杂，逻辑性强。但是，无论多长的句子、多么复杂的结构，它们都是由一些基本的成分组成的。只要弄清英语原文的句法结构，找出整个句子的中心内容及其各层意思，然后分析各层意思之间的逻辑关系。下面我们从结构、逻辑以及考研英语中的长难句(最有典型性)来解析长难句的翻译以及理解。
+　　二、英语长句的特点
+　　英语长句一般指的是各种复杂句，复杂句里可能有多个从句，从句与从句之间的关系可能包孕、嵌套，也可能并列，平行。所以翻译长句，实际上我们的重点主要放在对各种从句的翻译上。从功能来说，英语有三大复合句，即：①名词性从句，包括主语从句、宾语从句、表语从句和同位语从句；②形容词性从句，即我们平常所说的定语从句；③状语从句。
+　　一般说来，英语长句有如下几个特点：
+　　1)结构复杂，逻辑层次多；
+　　2)常须根据上下文作词义的引申；
+　　3)常须根据上下文对指代词的指代关系做出判断；
+　　4)并列成分多；
+　　5)修饰语多，特别是后置定语很长；
+　　6)习惯搭配和成语经常出现。
+　　三、考研英语难句分析方法
+　　第一类：复杂修饰成分
+　　句子本不难，但是修饰成分多且长。1、从句(定语、状语、同位语从句等等)；2、介词短语修饰；3、分词修饰；4、不定式修饰。经常是在同一个句子里既有从句又有介词短语，且都不止一个。
+　　例：The methods that a community devises to perpetuate itself come into being to preserve aspects of　the cultural legacy that that community perceives as essential。
+　　翻译：一个社会设计出来保存自己的方法得以形成来保持那个社会认为最重要的一些方面。读法：初级：读出主谓宾来。分析：主语：The methods； 谓语：com into being；不定式to引导表示目的状语。高级：直接读，见后。考查能力：考查考生的大脑容量。
+　　第二类：大段的插入与或同位语，打断读者的思路，割裂前后之间的语义，造成理解的困难。我们称之为“打岔”。
+　　例：Moreover, I can feel strong emotions in response to objects of art that are interpretations，rather than representations，of reality。
+　　读法：初级：跳过插入语； 高级：直接读；查查能力：大脑容量+抗干扰能力
+　　第三类：倒装：由于应该放在句首的成分太长，因此倒装到句末。也是一种人为现象。
+　　例：That sex ratio will be favored which maximizes the number of descendants an individual will have and hence the number of gene copies transmitted。
+　　读法：需要经过训练后才能按正常语序读。
+　　正常语序：That sex ratio which maximizes the number of descendants that an individual will have and hence the sex ratio which maximize the number of gene copies transmitted will be favored。
+　　高级读法：直接读，见后：考查能力：大脑的排序能力
+　　第四类：省略：相对以上三种来讲比较简单，在短句中大家一般都可以看出。
+　　但是如果在长句中出现，特别是如果与以上三种之一甚至几种同时出现，也会给同学们带来很大的困难。如上例原句中的省略，在第二个the number of 前省略了"sex ration which maximizes". 
+

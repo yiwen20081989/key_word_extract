@@ -1,0 +1,36 @@
+次世代？论坛惊现NDS用N64模拟器正在开发？
+　　论坛原帖：点击进入
+　　大家都知道，新兴的高端烧录卡DSTWO因为本体搭载了一颗强劲的CPU，所以很多自制程序达人为它开发了不少程序，包括各种模拟器等。近日，国外著名论坛GBAtemp爆出了某小组的N64模拟器开发消息，小组网站：http://www.dual64.webs.com/ 。
+　　
+　　不久前发布的DSTW烧录卡
+　　小组网站新闻，论坛会员翻译：
+　　Dual64 - Possible by Team Komka!
+　　Dual64(N64模拟器名) - 已经成为可能
+　　Welcome To Dual64 - The Only Nintendo 64 Emulator on Nintendo DS!
+　　欢迎来到Dual64的世界，NDS上唯一的N64模拟器!
+　　Unfortunately， Team Komka is in the early stages of making an emulator for DS， and it may be a few months before we actually release a demo.
+　　不幸的是，Komka小组现在正在开发DS用(N64)模拟器的早期阶段，所以，或许可能要等几个月我们才能真正放出一个Demo
+　　If we do， however， release a demo， it will only be for the DSTwo， and maybe the DSiPlayer.
+　　不过，如果我们真的放出了一个Demo，它将只为DSTwo用，或许也可以在DSiPlayer上用。
+　　But don't worry! because the members of Team Komka are working hard on the first demo! The team is currently comprised of a just a few members， and were seeking more to help!
+　　总之别担心!Komka小组的成员都在为第一个Demo而努力着呢。小组只有几个成员，我们正在寻找更多的帮手。
+　　So welcome Team Komka!
+　　所以，欢迎Komka小组!
+　　BigPaws - Leader of Team Komka
+　　BigPaws - 组长
+　　Irock23 - Lead Programmer
+　　Irock23 - 带头程序员
+　　WolfMasterJW - Lead Artist
+　　WolfMasterJW - 带头美工
+　　So do you have what it takes to be on Team Komka? Head over to the "Join the Team!" page to find out!
+　　你有加入小组的条件么？赶快去”Join the Team“页面看看!
+　　SDK News
+　　SDK新闻
+　　We (Team Komka) have acquired the DSTwo SDK， so Dual64 is going in the right direction.
+　　我们(Komka小组)已经得到了DSTwo的SDK，因此，Dual64的开发即将正常进行。
+　　We've got bad news to though. The SDK only works with Linux as of right now， so we currently are halted by are problem once again.
+　　但我们遇到了坏消息：这个SDK目前为止只能在Linux下使用。所以我们现在又一次被这个问题卡住了。
+　　We also are moving along though， so don't think Dual64 is over yet!
+　　不过，我们也在努力行动中，所以别以为Dual64不行了
+　　让我们拭目以待吧。
+

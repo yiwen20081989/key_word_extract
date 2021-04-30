@@ -1,0 +1,23 @@
+攻克考研阅读：运用逗号化简长难句
+　　长难句，一直是考研阅读之中最有影响力以及决定力的一环。长难句的理解，在某种意义上可以说决定了考生的考试结果以及考研的成败！如何有效破解长难句，有效获得其中信息，便成为了考研阅读的重中之重。对此，各路英雄也是各显神通——新东方的众多前辈、同仁，有着相关的许多方法、诸多技巧以及总结，已经给予无数考生巨大的指引和帮助。但是，通过逗号来快速理解长难句的相关内容却寥寥无几。
+　　其实，句子中“，”的使用，不仅有助于长难句的破解，还可以提高写作的准确性，对“，”的正确运用既可以化简相对复杂的句子，也可以消除run-on句子(不间断句)的存在切实提高分数！所以，本人结合考研的教学经验，将“，”运用的相关问题进行了总结，汇成此文，以期对各位考研同学有所帮助。
+　　英语重逻辑，任何标点符号的添加，都需要有逻辑上的理由，尤其是使得句子变得更加丰富和复杂的“，”。其添加的原因主要有如下五种：
+　　一、连词——连接两个对等的句子，以表明上下句关系，可以加“，”；
+　　二、从句，在主句之前可加“，”以表示分割，其中非限定性定语从句，因为其限定关系并不十分紧密，故可置于所限定的相对应成分之后，在一定意义上等同于插入语；
+　　三、相当于省略的“and”，在多个非句子的短语中使用“，”以表示分割和对等关系。
+　　注意，前两种为用“，”连接句子的使用方法，其连接对象一定是主谓宾相对完整的句子。第三种，是非句子的结构，是最为简单，也是相对常见的。对于以上三种，在本文中不再赘述。
+　　四、状语前置，用“，”分割，表明限定整个句子。例如2007年text 3：
+　　During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure had been transformed by economic risk and new realties。
+　　During the past generation即为介词所引导的前置状语，其“，”的添加就是如上理由。
+　　在英语中，能作状语的成分主要有副词、介词短语、非谓语动词以及状语从句。这种逗号添加的理由，还是比较好理解的，只要明白，是对后面句子的修饰就好。在阅读中，除非有细节定位关系，可以适当忽视以上成分。
+　　要注意的是，在非谓语动词作前置状语的时候，我们应该注意其与谓语的相对关系。这种平时的积累，对于我们解决完形填空的相关题型，有着非常显著的帮助。
+　　插入解释说明成分，用“，”分割于解释说明成分之后，用“，”表示分割结束；如果被解释成分已经是句子的结束部分，则用“。”结束分割。例如：1994年text1
+　　Thus, in the American economic system it is the demand of individual consumers, coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes, that together determine what shall be produced and how resources are used to produce it。
+　　该句中的第一个逗号就是副词thus的状语前置分割，以表明整个句子对于上个句子的关系；而第二个“，”与第三个“，”是插入语“coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes”的分割标志，因该被解释部分不是句子的最后部分，所以第三个标点是“，”而不是“。”。该插入部分，补充说明了“the demand of individual consumers”这个名词短语，以确定说明该短语的实际内容。整体上，该句为强调句型，只需要删去强调部分“it is…that”，将原句按语序还原即可。该插入语，即为句子的难点所在。
+　　在英语中，插入语的成分相对复杂，主要有如下几类：
+　　1. 插入语常以副词(副词短语)、形容词(形容词短语)、介词短语、非谓语动词短语等形式出现。这种插入语是相对简单的，也易于理解。
+　　2. 插入句为简短的、具有完整意义的句子。这种成分的插入属于不规则的插入，不应将其视作是ran-on。插入句独立性强，一般用标点符号将其与其他句子成分隔开。常见的插入句如下：I am sure， that is (to say)，it seems，as I see it，what's more，what's worse，what is important / serious，I'm afraid，it is said，as we all know 等。应当特别注意疑问句中的插入句，它一般为倒装语序且无任何标点符号，而且整个疑问句应当保持陈述语序。
+　　例如：What should I do first？被插入的疑问句原来为倒装语序，插入后成为陈述语序，改变为：What do you think I should do first？
+　　而又如：Who is singing？被插入的疑问句原来就是陈述语序，不需要做调整，句子为：Who do you think is singing？
+　　以上内容，就是有关于句子中“，”使用的一些总结，希望能对各位考生在冲刺阶段的复习有所帮助。
+

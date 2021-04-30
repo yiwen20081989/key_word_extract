@@ -1,0 +1,7 @@
+微软拟今年新推Mac版Office 包含Web版本
+　　【赛迪网讯】2月13日消息，微软当地时间周四称，计划今年晚些时候发布Office for Mac 2011，支持Ribbon用户界面。Office for Mac 2011还将包括基于浏览器的Office Web Apps和首个Mac OS X版of Outlook。
+　　据国外媒体报道称，除Mac OS X外，Office for Mac 2011还增添了Ribbon用户界面，支持联合编辑以及Windows版Office中的其他功能。微软已经发布了最终预览版Office 2010，将于6月份发布正式版本。
+　　微软高管称，他们不担心增添Office Web Apps会影响Mac版Office的销售。微软Mac业务部门高级产品经理迈克·泰德斯科(Mike Tedesco)说，“Office Web Apps只能在线运行，而离线运行是一项重要功能。”泰德斯科的同事阿曼达·勒菲弗指出，部分用户会只使用Office Web Apps，但他们之前可能压根就不会购买Office。
+　　勒菲弗没有明确表示微软是否会将Office移植到苹果其他平台，例如iPhone(手机上网)，“iPhone显然是个非常受欢迎的平台，我们必须考虑这一问题”。勒菲弗称，微软正在对Office for Mac 2011进行内测，将很快启动封测。
+　　作者：刘彦青
+

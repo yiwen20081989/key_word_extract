@@ -1,0 +1,15 @@
+CNET评出10大最佳Android应用程序
+　　著名科技资讯网站CNET公布了2011 CNET 100最佳Android应用评选结果。此次评选活动首先由CNET编辑在Android Market 近40万应用中评选出100个作为候选，再交给读者，经过16 天的投票最终评出十个最佳Android应用。
+　　排名如下：
+　　1.Google Maps (旅游与本地出行)
+　　2.Dolphin Browser HD  (浏览器)
+　　3.Lookout Mobile Security(手机安全)
+　　4.SoundHound(音乐)
+　　5.Read it later(新闻和杂志)
+　　6.Google Voice(通信)
+　　7.Google+(社交)
+　　8.Fruit Ninja(游戏)
+　　9. Plants vs. Zombies(游戏)
+　　10.Doodle Jump(游戏)
+　　Google Maps强大的功能体验，出色的导航功能占据榜首自然是情理之中。位居第二 Dolphin Browser HD是Android上一直受好评的手机浏览器，以速度快，功能丰富等好评超越Android原生浏览器。上周报道获2000万注册用户的Google+ 名列第七。有三个游戏类应用占据前十，而iPhone游戏一直领头的AngryBirds 并未上榜，这是否就是一个AngryBirds热潮的消退的迹象呢？
+

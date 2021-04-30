@@ -1,0 +1,7 @@
+Computex09：宇达电通导航手机K75亮相
+    文/Lokia
+    6月2日，Computerx2009电脑展正式在台湾台北开幕，台湾本土厂商自然推出新产品吸引大众目光。而作为台湾手机厂商之一的宇达电通（Mio），经过了一度沉寂之后再次推出了数款windows mobile手机，其中作为Explora导航系列的K75更是顺利斩获了Computerx2009“最佳产品（通讯类）”（Best Choice award）大奖。
+    K75采用了目前流行的全触控设计，并有着11.9mm的超薄机身。然而在其内部却是有着强大的硬件性能：GSM四频/WCDMA/HSPA、300万像素cmos镜头（支持自动对焦功能）、Qualcomm gpsOne GPS 模块、蓝牙2.1模块、microSDHC扩充、Qualcomm MSM7201A处理器（528MHz）和256MB ROM/256MB RAM。只是可惜3.5英寸的屏幕虽然用于车载导航刚刚好，然而WQVGA分辨率也使得K75的显示画面会显得粗糙。
+    除了硬件上紧追主流之外，宇达电通还为K75配备了厂商旗下最新版的Mio spirit导航软件，而另一款功能相同的K70则是没有配备。
+
+

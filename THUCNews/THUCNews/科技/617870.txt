@@ -1,0 +1,6 @@
+OLPC组织推出99美元平板电脑 基于Moby
+　　中关村在线消息：据国外媒体报道，OLPC（One Laptop per Child）组织近日发布一项计划，旨在向儿童提供100美元的平板电脑。
+　　OLPC组织推广的这款平板电脑基于Marvell集团的Moby平板电脑原型。此前Marvell集团曾展出过一款名为Moby的平板电脑产品，并表示这款产品的成本可以控制在99美元左右。
+　　OLPC创始人尼古拉斯·尼葛洛庞帝(Nicholas Negroponte)表示，Marvell正在计划向学校以及保健机构推广这款平板电脑，“如果可能，我们希望该价格能够继续下降。”
+　　根据Marvell官方网站的介绍，这款百元的平板电脑基于低功耗Marvell ARMADA (TM) 610处理器，具备千兆赫处理速度、支持1080p全高清编码和解码、智能功率管理功能，支持802.11n Wi-Fi/Bluetooth/FM/GPS、支持Adobe Flash播放、可搭载Android(TM)、Windows Mobile和Ubuntu等操作系统。 
+

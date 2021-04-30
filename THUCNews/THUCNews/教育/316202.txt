@@ -1,0 +1,81 @@
+2012年考研英语翻译必备知识之句型结构
+　　作为一项复杂的脑力劳动，翻译有时比创作都难，常常让人觉得绞尽脑汁仍难以满意。任何做翻译的人，恐怕都会有过“两句三年得，一吟双泪流”的感慨。但是，对于考研的学生来说，要在高度紧张的十几分钟内阅读一篇400词的文章并翻译大概150词(5句话)，是没有足够的时间和精力来字斟句酌的。许多考生都觉得：在做翻译时，理解英语已不容易，要用中文表达更是困难。那么，如何才能在考研英语考试中正确地理解英文并将其“准确、通顺、完整”地表达成地道的中文呢？我们认为，对于参加考研的学生来说，除了增加自己的词汇量和文化知识储备之外，还要努力学习一些有关英语句型结构方面的基本知识，这是因为任何英译汉的翻译方法和技巧都是基于对英语句子结构的正确分析和理解基础之上的。任何脱离英语句子结构的翻译都不可能达到“准确、通顺、完整”的翻译标准。所以，对于每位参加考研的考生来说，利用平时的时间认真研究英文的句型结构及其与汉语的区别是做好考研翻译题的最佳捷径，是以不变应万变的完全之策。
+　　一、英语的基本句型(简单句)
+　　句子都是由一些词按照一定的顺序组成的，这种组合是有一定规律可循的。研究表明，英语语句的规律性是非常明显的，它一般是以动词为核心的。所以，按照英语中的动词的类型(五种，即：不及物动词、系动词、单宾动词、双宾动词和复合动词)可以把英语句型划分为五种基本的句型。
+　　1.主语+不及物动词 (SV句型)
+　　【例句】 The girl is crying。
+　　【译法】 可以直接顺译成汉语。
+　　2.主语+系动词+主补(SVC句型，“系动词+主补”也合称为复合谓语)
+　　【例句】 The food tastes good。
+　　【译法】 可以直接顺译成汉语。
+　　3【例句】 Mike had finished his homework。
+　　【译法】 基本上可以直接顺译成汉语。
+　　4.主语 + 双宾动词 + 间接宾语 + 直接宾语(SVOO句型)
+　　【例句】 He bought me a book。
+　　【译法】 大致可以顺译为汉语的双宾语结构。
+　　5.主语 + 复合动词 + 宾语 + 宾补(SVOC句型)
+　　【例句】 The professor advised me to read more books。
+　　【译法】 基本上都可以顺译为汉语的兼语句。
+　　以上是英语中的五个基本句型，其他的句型都可以看作是这些句型的变体。比如：He put the book on the desk。这句话虽然不能直接归于以上五种句型，但可以把它看作是句型3的拓展。
+　　二、英语中的复杂句
+　　(一)并列句
+　　并列句由两个或两个以上的简单句并列在一起构成，一般由并列连词、连接副词或逗号、分号、冒号等将各分句连接起来。例如：
+　　【例1】 The earth is one of the sun’s planets and the moon is our satellite. (连词and 连接)
+　　【译文】地球是太阳系的一个行星，月亮是我们的卫星。(顺译)
+　　【例2】 She was very tired, nevertheless she kept on working. (连接副词nevertheless引导)
+　　【译文】她很累了，但仍然坚持工作。(顺译)
+　　【例3】 Heavy clouds rose slowly from the horizon; thunder drummed in the distance. (用分号连接)
+　　【译文】浓云从地平线缓缓升起，远处雷声隆隆。
+　　上述并列句都是简单的并列句，都由一些简单句构成。如果在其中的任一分句中加入其他的从句成分，就可以变成一个比较复杂的复合句。例如：
+　　【例4】 While the men worked to strengthen the dam, the rain continued to fall; and the river, which was already well above its normal level, rose higher and higher。
+　　【分析】这是由两个分句(用冒号连接)组成的并列句，各个分句都有自己的从句，所以是一个复合句。第一个分句中有一个while引导的时间状语从句，第二个分句中有一个which引导的非限制性定语从句。其主干就是：The rain continued to fall and the river rose higher and higher,其他都可以看成是附加成分。
+　　【译文】 当人们正在加固河堤的时候，雨还在不停地下；河水已经远远超过了正常水位，涨得越来越高了。
+　　在实际生活和考试中，这样的语言现象是屡见不鲜的，比这复杂的句子也比比皆是。考研翻译的一个主要目的就是要“测试考生理解英语复杂句子结构的能力”。但是，如果考生能够掌握各种基本的句子结构(包括简单并列句和简单复合句)，理清它们之间的层次关系，不管多么复杂的句子结构，都可以迎刃而解。这也是本章写作的主要目的。
+　　(二)复合句
+　　复合句是由一个主句和一个或一个以上的从句构成。主句是全句的主体，从句必须由关联词引导(有时可以省略)，是附属成分，但有自己的主语和谓语部分。例如：When I got there they had left for Shanghai。这句话中主句是they had left for Shanghai，从句是when I got there。
+　　按照从句在句子中的功能，可以将从句分为三大类：名词性从句(包括主语从句、表语从句、宾语从句和同位语从句)、状语从句和定语从句。
+　　1. 状语从句
+　　状语从句的引导词是一种表示逻辑关系的词语，明确表明了主从句之间的关系，可以根据汉语的习惯直接译出，或不译。鉴于状语从句的逻辑关系的复杂性，又是考研的重点，所以后面有专门论述，此处仅举几个简单的例子。例如：
+　　【例5】 She spoke loudly in order that everyone could hear clearly. ( in order that 是表示目的的关联词)
+　　【译文】她讲得很大声，以便人人都能听清楚。
+　　【例6】 Immediately he arrives, I will ask him what happened. (immediately 是表示时间的关联词，相当于as soon as)
+　　【译文】他一来，我就会问他发生了什么事情。
+　　2. 定语从句
+　　定语从句是英语中最重要、最复杂的从句之一。根据与主句关系的紧密性，定语从句可以分为限制性定语从句和非限制性定语从句。定语从句虽然看起来都是做定语，但有时却与主句存在某种逻辑关系，特别是非限制性定语从句，需要仔细对待，理清两者之间的关系。
+　　【例7】 Water, which is a clear liquid, has many uses. (which引导的定语从句与主句是并列关系)
+　　【译文】水是一种清澈的液体，它有很多用途。
+　　【例8】 We can read of things that happened thousands of years ago in the Near East, where people first learned to write. (where 引导的定语从句与主句有明显的因果关系)
+　　【译文】因为近东的人们最早学会使用文字，所以我们可以知道几千年前发生在那里的事情。
+　　一般来说，定语从句都是紧跟在其先行词之后的，但有时候定语从句并不紧跟其所修饰的先行词，而是被一些其他的词语隔开，成为隔离的定语从句。这种现象在书面语中很常见，是造成阅读理解和翻译的难点所在，也是考研翻译的重点，要特别留意。例如：
+　　【例9】A new teacher will come tomorrow who will teach you English. (定语从句不是紧跟在其修饰的先行词teacher之后，而是被will come tomorrow 分割，置于句尾，表示强调)
+　　【译文】明天有一位新老师来教你们英语。
+　　对于这样的定语从句，可以依据以下方法来判断：根据先行代词或先行副词来确定先行词。因为先行词一般是名词、代词或相当于名词的词，所以只要在先行代词或先行副词之前找到名词、代词或相当于名词的词，将其代替先行代词或先行副词置于定语从句中便可以验证先行词的真伪。例如：
+　　【例10】We may define chemistry as the science in which we deal with the chemical change in matter as a result of which it is possible to form a new substance。
+　　【分析】该句中的两个which都是定语从句的先行代词，第一个代替science,第二个代替哪个单词呢？正常而言，应该是matter,但事实上代替chemical change。如果你将matter置于从句中，没有因果关系(as a result of)，所以只能是chemical change。
+　　【译文】我们可以把化学定义为关于物质化学变化的科学，化学变化可能会形成新的物质。
+　　【例11】Mike told her the story of the young pilot which I narrated at the beginning of this book。
+　　【分析】此句中的the young pilot 把which与其先行词story分割开，因为如果先行词是pilot，则不能用which代替，只能用who或that。
+　　【译文】迈克把我在书本开头讲过的那个关于一位青年飞行员的故事讲给她听。
+　　此外，定语从句中还有一种较难理解的情况，即：含有一个定语从句的定语从句。这种定语从句被称为复合定语从句，其所含的从句结构多由主语加表看法或意见的谓语动词组成，是整个定语从句的一个组成部分。复合定语从句的主语可以省略，也可以不省略。例如：
+　　【例12】He is just the type I always knew would attract her. (省略主语的复合定语从句)
+　　【译文】我一向知道他正是会吸引她的那种类型。
+　　或：他正是我一向知道的会吸引她的那种类型。
+　　【分析】该句有三个谓语部分，即一个系表结构、knew和would attract,但没有任何连接词，所以可以判断是省略了两个连接词。仔细研究，可知：I always knew would attract her是一个省略掉主语that的复合定语从句，其中I always knew 应该是that would attract her的一个定语从句，完整的句子应该是：He is just the type that that I always knew would attract her。第一个that既是复合定语从句的先行代词，也是复合定语从句的主语，还是其内部定语从句that I always knew的先行词。因为第二个that在定语从句I always knew中做宾语，所以会省略掉；而第一个that是复合定语从句的主语，也可以省略，但在正式文体中一般不省略。例如：
+　　【例13】It was a discovery that scientists said could alter their theories about life’s earliest beginnings. (未省略主语的复合定语从句)
+　　【分析】该句有三个谓语部分，即：一个系表结构、said和could alter,但只有一个连接词that,所以应该省略了一个连接词。经研究，可知that scientists said could alter their theories about life’s earliest beginnings是一个复合定语从句，that是先行代词，也是主语(未省略)，还是其内部的一个定语从句scientists said的先行词；同时，由于scientists said的先行代词that在定语从句中做宾语，所以可以省略。
+　　【译文】科学家们说，那是一项会改变其有关生命最早起源的理论的发现。
+　　或：那是一项科学家们说会改变其有关生命最早起源的理论的发现。
+　　3. 名词性从句
+　　由于主语从句、宾语从句、表语从句和同位语从句在句子中的功能相当于名词，所以一般将其统称为名词性从句。名词性从句所用的关联词基本相同，而且其前一般不用逗号隔开。由于名词性从句的翻译方法各不相同，而且也是考研的重点，所以后面有专门的讲解。此处只做出简单举例。
+　　【例14】 Where he has surpassed every other English writer is in his unique writing skills. (主语从句)
+　　【译文】他独特的写作技巧是他胜过其他英国作家的地方。
+　　或：他胜过其他英国作家的地方在于他独特的写作技巧。
+　　【例15】 They decided, in view of her special circumstances, that we would admit her for a probationary period. (宾语从句)
+　　【译文】鉴于她的特殊情况，他们决定给她一段试用期。
+　　【例16】 Things are not always as they seem to be. (表语从句)
+　　【译文】事情并不总像其看起来那样。
+　　【例17】 The suggestion that the new technology be adopted immediately came from the chairman. (同位语从句)
+　　【译文】立即采用新技术的建议是主席提出的。
+　　或：主席建议立即采用新技术。
+　　当然，英语语法浩如烟海，以上的总结仅是最核心的部分，言简意赅的帮助同学理清英语句法结构的脉络，尤其是在考研翻译中的应用。熟知英语语法是考生英语学习深入化的基础，但是在这里不建议考生单纯的学习语法，这样只是纸上谈兵，没有效果不说，枯燥的语法学习还会加重对英语的厌倦与恐惧。建议考生多读一些与考研相结合同时又融合语法讲解的书籍，比如翻译与句型结构相结合，长难句与语法突破相结合，这样的辅导书更有针对性，也更易于考生了解和掌握。
+

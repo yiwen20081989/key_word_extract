@@ -1,0 +1,14 @@
+分析称Palm放弃Windows Mobile是错误决策
+　　导读：国外媒体昨天载文称，Palm近日表示将不再开发Windows Mobile手机，而将更多资源用于WebOS手机。业内人士指出，Palm放弃Windows Mobile是个错误的决定，并列出了5大理由。
+　　以下为文章全文：
+　　1、硬件问题
+　　如果Palm的Windows Mobile手机销售不佳，而其他手机厂商没有遭遇这一问题，问题就不是出在Windows Mobile而出在其硬件本身了。Palm或许应当将更多研发预算用于开发硬件产品，以获得更高的市场份额。
+　　2、应用软件
+　　专注于其专有的Web OS，可能使Palm被第三方软件开发者所抛弃。第三方软件开发者不愿意将资源投入到只能获得有限回报的专有平台，而愿意投入到Windows Mobile等投资回报更高的开放平台。苹果的成功经验表明，手机的生命力取决于应用软件。
+　　3、Windows Mobile渐入佳境
+　　Windows Mobile或许不够完美，也不是iPhone(手机上网) OS，但在不断进步。Windows Mobile 6.5的界面可以让用户获得更好的上网冲浪体验，Windows Mobile 7的开发工作也在紧锣密鼓地进行。
+　　4、Sprint Nextel是罪魁祸首
+　　Palm销售疲软的罪魁祸首或许不是微软，而是Pre独家运营合作伙伴Sprint Nextel。Palm或许应当与更多运营商合作，或更换运营商。
+　　5、企业因素
+　　企业会尽量减少支持的操作系统。大多数企业对iPhone都敬而远之，因此，除非能被证明更安全，捆绑有满足企业需求的应用软件，Web OS不大可能在企业市场上占领一席之地。(志翔)
+

@@ -1,0 +1,5 @@
+新浪博客开始支持Messenger Connect
+　　【TechWeb】11月1日消息，新浪博客宣布已经支持Messenger Connect，并且可以用Windows Live ID登录或注册新浪博客。
+　　登录方法和原来基本一样，只需要在原输入用户名的界面点击带有 Messenger 图标的“登录”按钮。之后就会弹出如下 Windows Live ID 的登录界面：
+　　绑定新浪博客后，新发布的博文也将在Windows Live Messenger的好友动态中显示。虽说MSN中国官方还未宣布本地化的Windows Live Spaces 迁移服务，但新浪博客的各种跟进动作，确实是各大博客提供商中最积极的，最满足本地化合作伙伴的。
+

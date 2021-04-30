@@ -1,0 +1,22 @@
+首款Google手机Android Dream参数公布
+　　由于采用了全新的操作系统，长久以来，我们对采用Android系统的首款手机Dream的报道总是像对待一款概念机型一样，因为有太多不确定的参数和细节。随着由HTC推出的首款Android手机逐渐明晰，诸多疑点一一揭开。现在我们知道这款安装由Google引领的Android系统并由HTC推出的手机Dream将有一个型号为G1，这样，我们可以称其为HTC Dream (G1)。
+　　在FCC的送检报告中，透露了HTC Dream (G1)的详细配置。据称，HTC Dream (G1)将采用类似Touch Pro的侧向滑盖Qwerty 全键盘，同时支持全触控操作。从列出的配置可以看到，HTC Dream (G1)性能直逼iPhone和主流的Windows Mobile手机。同时，作为一款开山之作，HTC Dream (G1)在内存、摄像头等方面还有很大的升级空间。
+　　Android是Google引领的手机系统平台，作为Google推动Android的主要动力，其中会内置一些Google提供的互联网功能。从HTC Dream (G1)的配置中，我们可以看到其对GMAIL、GTALK另外还有带StreetViews街景视图Google地图的支持。
+　　此外，HTC Dream (G1)还有非常全面的视频和音频功能，并内置了YouTube视频播放软件，多媒体功能强劲。WiFi和蓝牙等无线接入方式也一应俱全。虽然目前列出的这些HTC Dream (G1)配置还没有得到HTC和Google官方确认，凭借FCC的大名，相信已经八九不离十，不知HTC Dream (G1)是否会在最终版带来更多惊喜，敬请期待。
+　　以下是HTC Dream(G1)详细参数：
+　　·网络支持：GSM(850/900/1800/1900 MHz), UMTS / HSDPA
+　　·处理器：高通7201 主频为528MHz
+　　·显示屏：3.17英寸显示屏，分辨率为480x320像素
+　　·内存：64MB RAM和128MB ROM，支持microSD卡扩展
+　　·拍摄：300万像素摄像头，不具备闪光功能
+　　·视频支持：H.264, 3GPP, MPEG4, 及 Codec 3GP 
+　　·内置YouTube Player
+　　·音频支持：MP3, AAC, AAC +, WMA, MPEG4, WAV, MIDI, REAL AUDIO, OGG等格式
+　　·支持蓝牙传输
+　　·电子邮件支持：POP, IMAP, SMTP, AOL 及 GMAIL
+　　·即时通讯：AIM, MSN, YAHOO 及 GTALK
+　　·支持WiFi 802.11 b/g 无线局域网接入
+　　·电池：1150mAh锂离子电池
+　　·尺寸：117x55x16毫米 
+
+

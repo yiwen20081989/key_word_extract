@@ -1,0 +1,5 @@
+百度站长平台正式开放注册
+　　站长之家(CHINAZ.com)9月16日报道：百度站长平台正式开放注册，站长可通过zhanzhang.baidu.com访问百度站长平台。百度站长平台提供了包括Sitemap，Ping，URL优化建议，网站安全检测与网站提交通道等常用的站长工具。其中Sitemap工具正在内测，暂时需要激活才能使用。
+　　百度站长平台地址：http://zhanzhang.baidu.com
+　　百度站长平台Sitemap激活码获取方式：发送邮件至zhanzhang@baidu.com获取激活码。邮件标题请填写申请站长平台激活码，正文需要包括您的网站信息和联系方式。
+

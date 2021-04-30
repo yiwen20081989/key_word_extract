@@ -1,0 +1,9 @@
+微软正式推出Windows Phone 7 Series
+Windows Phone 7 Series界面截图
+　　新浪科技讯 北京时间2月15日晚间消息，据国外媒体报道，微软今天在移动世界大会(MWC)上推出了全新的手机操作系统Windows Phone 7 Series。
+　　Windows Phone 7 Series是微软重新打造Windows Mobile品牌之后推出的一款产品，从外观到软件代码都有了很大的改动。与此前的Windows Mobile系统相比，Windows Phone 7 Series有着完全不同的屏幕主页和用户界面，集成了Xbox Live、Zune，以及多个新的社交网络工具。
+　　这款新操作系统取消了以往常见的“开始”菜单，代之以可垂直滚动的“瓷片”。用户可以自定义这些“瓷片”的功能，例如快速启动栏、链接、联系人或自带的Widget小工具。这款操作系统的外观也有了大量升级，与Zune HD的用户界面较类似，菜单则使用了较大的、图形化的字体。
+　　此外，该系统突出了社交网络功能，提供经过整合的联系人页面，能够显示来自多个社交网站的好友状态更新，并帮助用户快速获得丰富的云计算内容，例如图片库。整合的Xbox功能包括来自Xbox Live的游戏、虚拟人物和用户档案，而Zune功能则与Zune播放器类似。
+　　与以往的Windows Mobile系统不同，Windows Phone 7 Series将统一硬件和用户体验。微软将放弃允许运营商或合作伙伴订制用户界面的做法，例如此前的Sense和TouchWiz。这意味着，无论用户使用何种品牌的手机以及哪一运营商的服务，都将看到同样的Windows Phone。Windows Phone 7 Series在初看时将非常类似，均采用高分辨率触摸屏，而前面板上有三个按钮：后退、开始和必应(Bing)服务。
+　　Windows Phone 7 Series有多家运营商合作伙伴，包括AT&T、德国电信、Orange、SFR、Sprint、意大利电信、Telefonica、Telstra、T-Mobile美国、Verizon无线和沃达丰。该系统的硬件合作伙伴包括戴尔、Garmin-华硕、宏达电、惠普、LG、三星、索爱、东芝和高通。有消息称，在今年的MWC会议上不会出现采用该系统的第三方产品，而微软展示的产品来源尚不清楚。采用Windows Phone 7 Series的手机最早将于今年圣诞节面市。(维金)
+

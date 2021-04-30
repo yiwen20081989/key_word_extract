@@ -1,0 +1,7 @@
+微软展示Windows CE 7系统平板
+　　微软展Windows CE 7平板
+　　微软之前已经表示暂时没 有打算把Windows 7 Phone系统用在平板电脑上，不过微软Windows系统并不会放弃有大好前程的平板市场。在Computex展会上，微软发布了代号为Windows Embedded Compact 7的平板专用系统Windows 7，并展示了搭配Windows Embedded Compact 7系统的平板电脑产品。
+　　支持Flash 10.1和Multi-Touch多点触控式技术等功能。此外，Windows Embedded Compact 7可与Windows 7无缝集成，支持Flash、Silverlight，丰富的桌面浏览效果等特性。图片来自ENGADGET。
+　　目前用户可在微软的官方网站上下载该系统的预览版。微软表示将加快步伐，以推出该款新操作系统正式版。
+　　微软想要展示的是可以为平板电脑提供系统，所以微软自家不会推出平板终端设备，合作伙伴可以根据需要自己来打造各种平板产品。华硕推出的Eee Pad EP101TC平板就是基于微软Windows Embedded Compact 7系统。
+

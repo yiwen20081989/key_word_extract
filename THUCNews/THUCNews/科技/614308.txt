@@ -1,0 +1,14 @@
+Yukon平台微星Wind U210在欧洲发布
+　　微星在欧洲推出了使用AMD Yukon平台的U210，从外形看感觉刚刚推出的CULV平台的的U200有些像，只是内部的核心不同，U210的GPU是ATi Radeon X1250，3D性能应该比Intel GMA 4500HD好一些。
+　　U210的高端款（2GB内存、250GB与Windows Vista Home Premium），建议售价为449欧元，折合人民币约4397元。
+　　型号：Wind U200
+　　CPU：AMD Athlon Neo MV-40，频率1.6GHz
+　　尺寸：12.1寸，分辨率1366 × 768，LED背光
+　　GPU：ATi Mobility Radeon X1250
+　　内存：最大2GB，DDR2
+　　硬盘：160GB SATA，最大到250GB
+　　无线：WiFi、蓝牙
+　　连接槽：USB × 3、D-sub × 1、HDMI × 1、RJ45 × 1、读卡机 × 1
+　　重量：1.5公斤
+　　操作系统：Windows XP Home / Vista Home Premium
+

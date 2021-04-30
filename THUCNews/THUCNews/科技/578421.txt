@@ -1,0 +1,7 @@
+代码显示Facebook或推出音乐服务Vibes
+　　新浪科技讯 北京时间7月8日早间消息，据美国科技博客BusinessInsider报道，Facebook未来可能会推出名为Vibes的音乐服务。
+　　程序员杰夫·罗斯(Jeff Rose)昨天下载了用于Facebook视频呼叫的插件，他对于该服务的实现非常好奇，并认为它可能使用了Skype的客户端或者新代码，于是他就对代码进行查看。
+　　罗斯在代码中发现了名为Vibes的第二项Facebook应用，它与类似于提供用户音乐下载的对话框相关(该音乐服务名称也可能不叫Vibes，Skype软件插件在同一段代码中的名字为Peep，但Facebook却从未使用这个词)。
+　　《福布斯》上月报道称，Facebook可能正在计划一项基于Spotify服务的音乐服务，而Spotify也在昨天表示其美国服务将在本月上线，或许Facebook CEO马克·扎克伯格(Mark Zuckerberg)昨天本应该还宣布一项音乐服务。
+　　扎克伯格表示，昨天的视频呼叫服务只是今年新功能发布的开始。据悉7月将是Facebook异常繁忙的一个月份。(晓明)
+

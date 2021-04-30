@@ -1,0 +1,7 @@
+Android软件将兼容诺基亚N9
+　　对于第一款MeeGo设备N9(参数 论坛 软件)来说，只有Qt平台让开发者制作更多的软件并不一定能满足用户的需求，Android的软件将会兼容N9。
+　　多家媒体证实Alien Dalvik虚拟机将会支持MeeGo设备，这也意味着MeeGo设备将可以运行原生的未经修改的Android软件和游戏。开发人员只需要将Android平台的APK安装文件重新打包，就可以直接在MeeGo设备上运行，比如N9。
+　　目前Android平台的应用程序都是在Dalvik Turbo虚拟机中进行运行的，开放手机联盟(OHA)已经宣布将会基于现有的技术开发出支持更多平台的Alien Dalvik虚拟机，让Android应用可以轻松的在其他平台手机上进行运行，从而实现软件的跨平台转移。
+　　N9现有的硬件系统已经与Android手机相似，Alien Dalvik虚拟机将支持把N9的控制信号模拟成Android手机的信号，让Android软件可以在N9上跑出Android手机上的体验。
+　　这不是Android应用程序的第一次跨平台，RIM已经在准备让黑莓PlayBook(参数 论坛 软件)支持Android软件。预计支持MeeGo的Alien Dalvik虚拟机将会在今年年底之前发布，正是N9即将上市的时间。
+

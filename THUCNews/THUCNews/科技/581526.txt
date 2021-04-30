@@ -1,0 +1,7 @@
+传Zynga收购移动创业公司HipLogic部分资产
+　　新浪科技讯 北京时间9月14日下午消息，据移动行业资讯网站PhoneNews.com报道，社交游戏开发商Zynga已悄然收购了移动创业公司HipLogic部分资产和团队。
+　　HipLogic最初是一个为手机制造商提供服务的移动UI平台，可以让手机主屏幕更具互动性。后来，HipLogic推出了自己的旗舰产品*Spark，这是一款面向Symbian和Android系统的主屏幕更换应用。*Spark可作为Android主屏幕的替代品，竞争对手包括HTC Sense以及三星TouchWiz，提供预装内容和最新天气、新闻和体育内容。
+　　分析人士指出，收购HipLogic或意味着Zynga希望进一步脱离对Facebook的依赖。拥有一个Android开发团队将可以让Zynga制定脱离Facebook以后更为清晰的发展战略，让旗下应用和游戏更易从iOS过渡到Android平台。由于Android应用开发难度超过iOS应用，移动开发社区有许多人对Android提出了批评。
+　　Android系统源于Java技术，具有让社交游戏从移动平台转向桌面平台的潜力。据报道，谷歌在想方设法向Google+嵌入游戏和应用，以便向用户提供优于Facebook的游戏体验。据悉，*Spark已从Android Market、Amazon Appstore和 Ovi Store等应用商店撤下。点击HipLogic网站，仅仅显示该公司标识。
+　　PhoneNews.com网站证实，HipLogic作为一家公司没有被Zynga整体收购，该公司的负债可能超过其资产。但据报道，HipLogic的核心开发团队和管理人员目前已成为Zynga移动团队的重要成员。Zynga现在共有大约5款Android游戏以及5款以上的iOS游戏。截止目前，Zynga还没有官方证实对HipLogic进行了任何形式的收购。(圣栎)
+

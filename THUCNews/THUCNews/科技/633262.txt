@@ -1,0 +1,6 @@
+iPhone首现蠕虫病毒 骗取YouTube点击率
+　　比特网(ChinaByte)11月9日消息 澳大利亚一位用户的苹果iPhone(手机上网)手机上周末出现蠕虫病毒，该病毒以80年代的流行歌星Rick Astley代替手机原有墙纸，并在iPhone手机用户间传播，骗取用户好友点击YouTube的一个链接。
+　　苹果iPhone自上市以来，就引起网络黑客攻击的兴趣。而首例iPhone蠕虫病毒不是窃取口令的键盘记录器或者发送垃圾邮件的软件，而是把用户操作系统的墙纸转变为歌星Rick Astley，同时发送一条为“ikee is never gonna give you up”的信息。“ikee is never gonna give you up”为Astley在1987年推出的一首歌曲，通过iPhone传播，使用户欺骗其朋友点击一个YouTube链接以显示Astley的音乐视频。
+　　不过，首例iPhone蠕虫病毒并非犯罪性利用安全漏洞的代码，而是半开玩笑式。该病毒作者“ikex”还在源代码中写道“人们是愚蠢的。这个病毒是要证明这个观点。”他说，用户应该阅读自己的手机使用手册。
+　　此前，今年7月，苹果网络安全专家Charlie Miller在拉斯维加斯举行的黑帽会议上展示了iPhone中的一个短信安全漏洞。这个安全漏洞能够让黑客控制这种手机并且利用这种手机在iPhone之间更快地传播更多的攻击。
+

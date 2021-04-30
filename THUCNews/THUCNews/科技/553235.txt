@@ -1,0 +1,10 @@
+微软称保护盾更新出现故障致MSN无法启动
+　　新浪科技讯 2月5日晚间消息，针对近日部分用户反映微软Windows Live Messenger无法启动问题，微软MSN客服今日通发邮件称，经调查是由于用户安装保护盾在更新系统文件时出现故障，导致无法启动。
+　　近日，有部分网友反映称，Windows Live Messenger无法启动，在XP操作系统下启动遇到提示“应用程序异常unknown software exception(0xC00000d)”，而在Vista和windows 7系统则无任何提示。
+　　微软MSN客服今日向部分Windows Live Messenger通发邮件解释了无法启动的原因，经过调查，该问题是由于部分用户安装的保护盾2.0在更新系统文件时出现了故障，引起Messenger程序不能正常启动。
+　　微软MSN客服团队表示，目前该故障已得到修复，并附上了解决方法：
+　　方法一：下载并运行repair.exe工具(立即下载)
+　　方法二：用户可以手工删除下述路径中的bl.dat文件
+　　* Windows XP：C:\Documents and Settings\用户名\Local Settings\Application Data\wlmkv\bl.Dat
+　　* Windows 7 或 Windows Vista： C:\Users\用户名\AppData\Local\wlmkv\bl.Dat
+

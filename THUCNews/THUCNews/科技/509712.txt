@@ -1,0 +1,53 @@
+徕卡M9新固件正式提供下载
+　　徕卡公司于今天正式提供了旗下数码旁轴相机M9的最新固件下载，其编号为1.116。这是自去年9月公布发行的M9第一个升级固件，现在用户可以直接在徕卡官方网站上直接下载(点击这里进入下载页面)。固件升级更新信息如下：
+　　1. 相机性能部分
+　　a. 加速检视上一张照片时的缩放功能(Zoom In / Zoom Out)。
+　　b. 加速SD记忆卡格式化的速度。
+　　c. 提升检视索引照片的画质。
+　　d. 提升SD记忆卡相容性。*请见下表
+　　e. 校正以下广角镜头的边缘色偏问题：
+　　M 18mm / f3.8 ASPH. (11649)
+　　M 21mm / f2.8 ASPH. (11135)
+　　M 24mm / f3.8 ASPH. (11648)
+　　M 28mm / f2 ASPH. (11604)
+　　M 28mm / f2.8 ASPH. (11606)
+　　f. 校正不同ISO之间的边缘失光，ISO 160使用最强校正，依次到ISO 2500各级递减。
+　　2. 错误修复
+　　a. 相机接到Mac电脑使用USB大容量储存介面时，传输大档案产生的问题。
+　　b. 电池容量小于50%时，启动CCD清洁模式的问题。
+　　c. Zoom In模式检视照片时，使用‘删除全部照片’的问题。
+　　d. 记忆卡内有非M9的照片时，使用‘删除全部照片’的问题。
+　　e. 长时间曝光时，关闭相机电源的问题。
+　　f. 在‘Vintage B W’模式时，Zoom In照片的问题。
+　　g. 修复一下镜头EXIF信息内最大光圈值的错误显示。
+　　M 35mm / f1.4第一代 (11869, 11870, 11860)
+　　M 50mm / f0.95 ASPH. (11602)
+　　M 50mm / f1.2 (11820)
+　　M 135mm / f3.4 APO (11889)
+　　M 135mm / f4 (11851, 11861)
+　　h。修正英文、日文、繁体中文选单里的语法与错字。
+　　3. SDHC记忆卡相容性
+　　由于市场上充满各式各样的SD、SDHC记忆卡，徕卡不会一一对所有记忆卡的品质进行测试，因此，我们在此建议您使用通过徕卡测试的记忆卡(如下表所示)。使用其他品牌的记忆卡，也许可用、也许不可用。部分的白牌记忆卡，使用后恐会导致不可预期的结果发生，在此提醒，徕卡将不会对列表以外的记忆卡与内容档案提供保固。
+　　Extrememory 4GB SDHC
+　　Hama SDHC 4GB
+　　Kingston SDHC 4GB class2
+　　Lexar Professional SDHC 4GB 133x class6
+　　Lexar Professional SDHC 8GB 133x class6
+　　Panasonic SDHC 8GB class6
+　　PNY SDHC 8GB SanDisk Video HD 16GB class4
+　　SanDisk Extreme III SD 2GB
+　　SanDisk Extreme III SDHC 4GB
+　　SanDisk Extreme III SDHC 4GB 30MB/s
+　　SanDisk Extreme III SDHC 8GB 30MB/s
+　　SanDisk SDHC 4GB class2
+　　SanDisk SDHC 8GB class2
+　　SanDisk Ultra II 16GB class4
+　　SanDisk Ultra II SDHC 2GB 15MB/s
+　　SanDisk Ultra II SDHC 32GB class4
+　　Toshiba 16GB SDHC class4
+　　Toshiba 4GB SDHC class6
+　　Transcend SDHC 16GB class6
+　　Transcend SDHC 1GB
+　　Transcend SDHC 32GB class6
+　　Ultron High Speed SD 512MB
+

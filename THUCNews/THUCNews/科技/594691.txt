@@ -1,0 +1,7 @@
+Adobe高管：Flash Player 10.2性能提升十倍
+　　新浪科技讯 北京时间12月17日上午消息，Adobe的Photoshop产品经理约翰·纳克(John Nack)近日发表博客文章称，新版Flash Player 10.2(目前为测试版)的性能是当前版本的10倍，能够更为流畅地浏览YouTube视频。
+　　Flash Player 10.2引入了数项新功能，其中包括为开发者提供鼠标指针选项、多显示器的全屏回放技术支持，以及对微软最新浏览器IE 9的支持。不过，最引人关注的是视频回放优化技术Stage Video，这将改变由CPU到GPU的加载性能。
+　　Adobe还通过视频展示了新版Flash Player 10.2在PC和苹果新款11英寸MacBook Air上运行的状况。视频展示，播放1080p的视频时，MacBook Air的CPU使用率是125%，而当Stage Video启用时，CPU使用量降到了令人惊讶的10%。
+　　这些新特性固然令人印象深刻，但为了实现这些性能提升，网站必须升级他们的视频播放器，以支持Adobe的Stage Video技术。YouTube已经进行了升级，预计Vimeo等其他网站也会很快跟进。
+　　用户目前可以下载新Flash Player的测试版进行体验。(郑峻)
+

@@ -1,0 +1,86 @@
+2011职称英语重点语法讲解：名词性从句
+　　在职称英语考试常考6大语法知识点中，我们前面已与大家一起复习了非谓语动词、5大时态、定语从句和状语从句，今天与大家一起复习名词性从句。
+　　一、名词性从句的概念及种类
+　　在句子中起名词作用的句子叫名词性从句 (Noun Clauses)。 名词性从句的功能相当于名词词组， 它在复合句中能担任主语、宾语、表语、同位语、介词宾语等，因此根据它在句中不同的语法功能。名词性从句又可分别称为主语从句、宾语从句、表语从句和同位语从句。
+　　这几类从句用法复杂、学习难度较大，考生在考试中丢分现象严重。
+　　职称英语辅导团队今天向大家介绍名词性从句的用法、特点、考点等，以帮忙职称英语考生来重新熟悉并达到熟练运用，达到提高成绩的目的。
+　　二、考点聚焦
+　　1、名词性从句中连接词的运用
+　　名词性从句中的连接词有连词that / whether / as if，连接代词what / who/ which / whose / whatever / whoever / whomever / whichever，连接副词where / when / why / how / wherever / whenever。
+　　(1)that的用法。
+　　①主语从句、表语从句、同位语从句中用that但不能省略。如：
+　　That they are good at English is known to us all。
+　　The problem is that we don’t have enough money。
+　　She expressed the hope that they would come to China one day。
+　　②宾语从句中的连接词that有时可省有时又不可省，在以下几种情况中that不能省略：
+　　(A)当that从句和主句谓语动词之间有插入词语或者从句主语之间有插入语时，that不可省略；
+　　(B)当that 从句与另一名词性从句并列作宾语时，that不能省；(C)当that作介词宾语时，that不可省掉。如：
+　　Everyone knew what happened and that she was worried。
+　　The reason lies in that she works harder than the others do。
+　　③ that从句作主语和宾语时，可以用it 来替换成以下几种结构表达。
+　　(A)It is clear/certain/likely/true/surprising that… (B)It is a pity/shame/good idea/no wonder that .。.(C)It is said/reported/ believed/known/thought/suggested that … (D)It seems/happens that。如：
+　　It happened that I went out last night。
+　　It is said that China will win in the World Cup。
+　　④that和what的区别。
+　　that 引导名词性从句时，在主从句中不以当任何句子成分，也没有任何含义；而what引导名词性从句时，在主从句中都要充当一定的句子成分，what可以分解成定语从句中的先行词 + 关系代词即常说的先行词 + that。如：
+　　It’s shame that he has made such a mistake. Do what he says。
+　　⑤同位语从句与定语从句中that的区别。
+　　同位语从句中的连词that只起连接作用，在从句中不担当任何句子成分；而定语从句中的关系代词that在句中做宾语或主语，宾语与先行词有修饰关系。如果句子是同位语从句，就应用连词that而不能用which。同位语从句一般放在表具体含义的名词后解释名词的含义或内容，如以下名词：news、fact、suggestion、truth、plan、belief、doubt、possibility、idea等，而定语从句只是对先行词的限定和修饰。如：
+　　They expressed the hope that they would come to visit China again。(同位语从句)
+　　The hope she expressed is that they would come to visit China again。(定语从句)
+　　(2)whether和if的用法。
+　　①whether和if在宾语从句中可以互换，但是作介词宾语时连接词一般用whether。如：
+　　It all depends on whether they will come back。
+　　②后面直接跟or not 时用whether。如：
+　　I didn’t know whether or not he had arrived in Wuhan。
+　　③主语从句表语从句中只能用whether。如：
+　　Whether the meeting will be put off has not been decided yet。
+　　The question is whether they have so much money。
+　　④whether可以引导同位语从句，用以说明前面的名词的内容，if不能。如：
+　　We ought to discuss carefully the question whether we can do it or not。
+　　⑤whether常与or连用表示一种选择，if不能这样用；whether也可与动词不定式连用但if不能。如：The question of whether they are male or female is not important。
+　　I have not decided whether to go or not。
+　　⑥间接引语位于句首时或者是间接引语提前时用whether不用if。如：
+　　Thank you, but whether I’ll be free I’m not sure at the moment。
+　　⑦whether可引导一个让步状语从句表示“不管”、“无论”，而if不能。如：
+　　Whether he comes or not, we will begin our party on time。
+　　(3)疑问词 + ever和no matter + 疑问词的区别。
+　　①疑问词 + ever可引导名词性从句，在主从句中要充当一定的部分。如：
+　　Whoever breaks the rule must be punished。
+　　You can choose whatever you like in the shop。
+　　②疑问词 + ever还可引导让步状语从句。如：
+　　Whoever breaks the rule, he must be punished,
+　　Whatever you do, you must do it well。
+　　③no matter + 疑问词只能引导让步状语从句。如：
+　　No matter what you do, you must do it well。
+　　No matter who breaks the rule, he must be punished。
+　　(4)when和where引导的同位语从句与定语从句的区别。
+　　when 和where前面的名词若是表示时间、地点的名词，则when和where引导的是定语从句，否则则为同位语从句。如：
+　　They put forward the question where they could get the money。
+　　This is the place where the accident happened。
+　　2、名词性从句中主句和从句的时态一致
+　　(1)宾语从句中主句和从句的时态保持一致，但如果从句中表示提示的是客观现象，虽然主句是过去时态，从句仍用一般现在时。如：
+　　Hello,I didn’t know you were in London. How long have you been here?
+　　The teacher told us that light travels at a very high speed。
+　　(2)主语从句作主语相当于单数第三人称作主语，谓语动词用单数，如果由and 连接两个或两个以上的主语从句作主语时，谓语动词用复数；由两个或多个连接词引导一个主语从句，谓语动词用单数。如：
+　　When the meeting will begin has not been decided yet。
+　　When they will start and where they go have not been decided yet。
+　　When and where the meeting will begin has not been decided。
+　　3、名词性从句的词序
+　　名词性从句在句中要用陈述句语序。如：
+　　He asked me what was the matter with me。
+　　We’ve heard the news that we’ll move into the new house。
+　　Whatever you say will interest us all。
+　　三、精典名题导解
+　　选择填空
+　　1. A computer can only do ________ you have instructed it to do。
+　　A.how          B.after           C.what            D.when
+　　解析：答案为C。本题考查的是名词性从句作宾语的用法。此句的引导词既作连词又在宾语从句中充当一成分，故what最合适。
+　　2. —I drove to Zhuhai for the air show last week。.
+　　—Is that _________ you had a few days off ?
+　　A.why          B.when           C.what          D.where
+　　解析：答案为A。此题考查的是从句的用法。根据题意“我上周开车去珠海看航空展去了。”下面一句接着问：“那就是你为什么离开的原因吗？”故用why引导表语从句表示原因。
+　　3. I hate __________ when peope talk with their mouths full。
+　　A.it            B.that            C.these           D.them
+　　解析：答案为A。本题考查的是形式宾语的用法。题意为“我讨厌人们谈话时嘴里塞满东西”。该空白处没有任何含义，而且已经用了when连接该宾语从句，所以此处只填一个形式宾语it。（来源：新东方在线）
+

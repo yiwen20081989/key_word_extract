@@ -1,0 +1,6 @@
+Facebook推出官方Android软件开发包
+　　新浪科技讯 北京时间5月28日早间消息，据国外媒体报道，Facebook周四宣布推出官方的Android软件开发包(以下简称“SDK”)，帮助开发者更方便地整合Android应用和Facebook平台。
+　　Facebook的Android SDK集成了Facebook图形应用程序接口(API)，比此前推出的iPhone SDK功能更强大。根据Facebook开发者博客的说法，Android SDK使用OAuth 2.0身份验证，并可以使用户以Feed的形式向Facebook发布文章。
+　　Facebook工程师史蒂芬·索内夫(Steven Soneff)表示，此前已有多种方式将Facebook整合到Android应用中，但这些方式来自破解的iPhone SDK，并不被Facebook官方所支持。
+　　推出官方Android SDK表明，Facebook正在以更认真的态度对待Android。Facebook早在一年多以前就推出了iPhone SDK，而Facebook的官方Android应用令人感觉不如相应的iPhone应用。这一局面已经出现改善。(邱越)
+

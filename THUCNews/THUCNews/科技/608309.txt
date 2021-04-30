@@ -1,0 +1,7 @@
+Google表示延期推出Android3.0开发代码
+　　相对于iOS、Windows Phone 7、BlackBerry OS来说，Android系统有着更加优越的开放性，OEM厂商，运营商可以在获得Android系统底层代码的前提下，对系统中的插件，界面，功能进行 修改，不过这也就带来了一个老生常谈的问题，那就是系统出现断层现象严重，从而导致软件重复开发以及系统升级无法统一进行。在MWC大会之前，有消息称从 Android 3.0(Honeycomb)版本系统开始，Google将关闭一些代码，限制OEM厂商以及运营商的开发权限，现在看来，这一传闻或许已经成为现 实，Google高层近期表示，目前Google公司还没有做好开放Android 3.0底层代码的准备。
+　　Google在就是否开放Android 3.0底层代码的问题上这样回复到：
+　　“Android 3.0，Honeycomb was designed from the ground up for devices with larger screen sizes and improves on Android favorites such as widgets，multi-tasking，browsing，notifications and customization。While we're excited to offer these new features to Android tablets，we have more work to do before we can deliver them to other device types including phones。Until then，we've decided not to release Honeycomb to open source。We're committed to providing Android as an open platform across many device types and will publish the source as soon as it's ready。”
+　　按照以往的惯例，Google会在新版系统发布后向OEM厂商提供系统底层代码，以便这些厂商研发风格、功能、性能不同 的产品，Android创始人Andy Rubin表示：“Google公司对Android 3.0开发花费了很多心血，无论是界面还是操作方式，Google还需要为Android 3.0底层代码发放做一些准备和权衡工作，因此，我们推迟了代码发放的时间。Android 3.0是专为平板设备设计的操作系统，我们现在还不确定Android 3.0的一些特性以及功能是否会被应用在手机端。”不过Andy Rubin还表示：“Android依旧是一个开放性平台，Google不会改变自己的战略。”
+　　业界有一种声音，认为Google如果从开放走向封闭会面临很大的挑战，毕竟开放才是它的优势所在。目前Google公司还没有给出明确的发放Android 3.0系统开发底层开发代码的时间，我们会继续关注。
+

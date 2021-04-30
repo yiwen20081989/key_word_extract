@@ -1,0 +1,25 @@
+名师谈：SAT语法题型分析及答题要领
+　　大部分考生都知道SAT考试分为三个主要部分： 写作、阅读和数学，那么对于我这里要谈到的语法，很多考生对语法在SAT 考试中所起的重要作用可能还没有一个深刻的了解。实际上，写作部分除了要求大家完成的一篇Essay的写作，其他的占了写作部分70%的分数的单项选择题实际就是语法题。因此考好语法 对于获得一个理想的SAT成绩来说是至关重要的。 
+　　下面就给大家简单地介绍一下语法题的主要题型与答题要领：
+　　SAT的语法题型主要分为三种。分别如下：
+　　一.识别错误 (Identifying Sentence Error)
+　　例题：
+　　The bright fiberglass sculptures of Luis Jimenez has received critical acclaim 
+　　(A)                                      (B)         
+　　not only in his home state, New Mexico, but also in New York. No error 
+　　(C)                                      (D)            (E)
+　　在做这个题目的时候首先要找到句子的主干，也就是要找到主语、谓语和宾语。本题中的主语是The bright fiberglass sculptures，而谓语是B选项的has received,宾语是critical acclaim, 那么下一步就是找到考察的语法点，我们会发现考察的是主谓一致，这样很容易就知道B选项是错误的。要注意的一点是：所以答案都有E选项(No error), 因此大家在完整地阅读完句子后确实找不到错误时要敢于选E.
+　　二.改进句子 (Improving Sentences)
+　　例题：
+　　Although several groups were absolutely opposed to the outside support given the revolutionary government, other group were as equal in their adamant approval of that support. 
+　　(A) were as equal in their adamant approval of 
+　　(B) held equally adamant approval of 
+　　(C) were equally adamant in approving
+　　(D) had approved equally adamantly
+　　(E) held approval equally adamant of
+　　同样在做这个题型时也要先分析句子的结构， 那么上面这个句子我们根据表示转折关系的连词Although可以判断上面是表示转折关系的复合句结构。改进句子题中考核的正是句子结构比较复杂一些的并列句或者复合句的结构。在从句中句子的结构是：主语+be动词+副词+形容词，而划线部分主句中的结构是：主语+be动词+as+形容词 equal+介词词组的结构，那么显然根据主从句的结构我们可以判断这个句子的考点是平行结构，因此当阅读完5个选项后我们可以和容易发现C 选项的结构和从句的结构一致，因此答案是C. 
+　　三.改进段落 (Improving Paragraphs)
+　　改进段落的题型一般是一篇由15个到20个句子组成的文章，同时这篇文章通常是一篇draft，文章中会包含各种句法和语篇问题。一般这种题型有四大类问题：改正句子中的语法错误(Sentence Revision)；把两句句子结合成一个句子(Sentence Combination)；在段落中插入句子(Senetence Addition)；以及文章分析问题(Eassy Analysis)。在做改进段落题时由于文章篇幅比较长，建议大家可以在看完整的同时做笔记，把文章的主要内容的记录下来，然后根据题型要求来看是否需要回看上下文来完成题目。同时改进段落题中的语法考点实际是与改进句子中的语法考点密切相关的。因此要在注意语法知识点的掌握要融会贯通，并打好扎实的基础。 
+    更多信息请访问：新浪英语考试频道 英语考试论坛 英语考试博客圈
+　　特别说明：由于各方面情况的不断调整与变化，新浪网所提供的所有考试信息仅供参考，敬请考生以权威部门公布的正式信息为准。
+

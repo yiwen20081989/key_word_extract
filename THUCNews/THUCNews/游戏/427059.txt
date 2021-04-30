@@ -1,0 +1,43 @@
+PS Vita详细规格公布 主内存512M确定
+　　商品名称：PlayStation® Vita
+　　型号：PCH-1000系列
+　　CPU：ARM® Cortex™-A9 处理器(4核)
+　　GPU：SGX543MP4+
+　　尺寸：182.0×18.6×83.5mm(长×高×宽)(最大突出部除外)
+　　屏幕(触摸屏)：5英寸(16：9)、960×544、约1677万色、有机EL显示屏、对应多点触摸(电容式)
+　　主内存：512MB
+　　显存：128MB
+　　背面触摸板
+　　对应多点触摸(电容式)
+　　摄像头：前置摄像头+后置摄像头
+　　帧滞后：120fps@320x240(QVGA)， 60fps@640x480(VGA)
+　　解析度：最大640x480(VGA)
+　　声音：内置立体声喇叭，内置麦克风
+　　传感器：六轴动态感应系统(三轴加速计和三轴陀螺仪)，三轴电子罗盘
+　　定位：内置GPS(3G/WiFi版独有)，支持wifi定位服务
+　　界面：
+　　PS键
+　　Power键
+　　方向键(上/下/左/右)
+　　动作按键(○×△□)
+　　肩部按键(R/L键)
+　　左摇杆+右摇杆
+　　Start按键
+　　Select按键
+　　音量键(+/-)
+　　网络无线功能：移动网络通信功能(3G/WiFi版独有)，IEEE 802.11b/g/n (n = 1x1)协议(Wi-Fi)，Bluetooth® 2.1+EDR协议(A2DP/AVRCP/HSP对应)
+　　主要端子和I/O：
+　　PlayStation® Vita卡卡槽
+　　记忆卡卡槽
+　　SIM卡卡槽(3G/WiFi版独有)
+　　多用途插口(USB/充电等使用)
+　　耳机/麦克风插口
+　　Accessory端子
+　　电源
+　　锂电池(内置)
+　　AC电源适配器
+　　对应媒体：
+　　音乐 MP3 MPEG-1/2 Audio Layer 3、MP4 (MPEG-4 AAC)、WAVE (Linear PCM)
+　　视频 MPEG-4 Simple Profile (AAC)、H.264/MPEG-4 AVC Hi/Main/Baseline Profile (AAC)
+　　图片 JPEG (Exif 2.2.1)， TIFF, BMP, GIF, PNG
+

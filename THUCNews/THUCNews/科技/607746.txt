@@ -1,0 +1,5 @@
+2011网速或提升一倍 T-Mobile采用HSPA+ 
+　　据Bloomberg报道，今后很长一段时间内—“至少好几年”，T-Mobile都会坚持采用HSPA+网络。尽管主要竞争对手都建立了LTE和WiMAX 4G网络，T-Mobile仍不为所动。
+　　T-Mobile之前已经表态，到2011年，它将会把HSPA+网络的下载速度提高整整一倍，也就是说，目前为21Mbps的下载速度将会被 提升至42Mbps，这显然是个野心勃勃、振奋人心的大计划。据T-Mobile的高管透露，网速的提升(当然也不排除今后可能会有更大的提升幅度)必须 要在“至少好几年”内满足HSPA+的运营商的需求。
+　　LTE Advanced, LTE, WiMAX, 14.4Mbps HSPA+ , 21 Mbps HSPA+, 42Mbps HSPA+, GPRS……随便什么都好，反正畅享4G的时代即将来到！所以不管T-Mobile计划如何，对于Mobler们来说都是幸福的前兆。目前的T-Mobile所采用的网络并没有出现类似他网络的严重拥堵现象，高速运转的HSPA+完全能够满足运营商们的需求。基于T-Mobile的前瞻性，想必将 来的4G江湖，T-Mobile必会叱咤风云。
+
